@@ -1,0 +1,26 @@
+# Obsidian — ne pas versionner les états locaux et caches
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Mais on garde les plugins et leur config
+# (ne pas décommenter à moins de savoir ce qu'on fait)
+# .obsidian/plugins/
+# .obsidian/community-plugins.json
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Fichiers temporaires d'édition
+.~lock.*
+*.tmp
+
+# Secrets — ne JAMAIS commiter
+.env
+*.key
+secrets/
