@@ -11,8 +11,8 @@ last-updated: 2026-04-22
 
 ## C-Level
 
-- **CEO** : [[]]
-- **COO** : [[]]
+- **CEO** : [[Alec Henry]]
+- **COO** : [[Fabrice Jaeger]]
 - **CFO** : [[]]
 - **CTO** : [[]]
 - **CMO** : [[]]
