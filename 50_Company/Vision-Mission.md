@@ -38,5 +38,5 @@ _Aussi important que ce qu'on fait. Les lignes rouges._
 ## Décisions qui définissent ce doc
 _Les Decision Records structurants qui ont formé notre identité actuelle._
 
-- [[]]
-- [[]]
+- [[2026-04-30 - Operating Partner chez Entrepreneurs.com]]
+- [[MOC - Prise de poste Operating Partner]]

@@ -90,10 +90,11 @@ _Observer plutôt que demander pendant les 2-3 premières réunions. Notes à co
 
 ### Questions spécifiques selon la personne
 
-**Anice** (échange dimanche 27 avril) :
-- [ ] Ton scope actuel sur `work.entrepreneurs.com` ?
+**[[Anisse Rbibe]]** (Responsable de la performance, échange dimanche 27 avril) :
+- [ ] Ton scope actuel comme Responsable de la performance (périmètre, métriques, équipe) ?
+- [ ] Ton rôle sur `work.entrepreneurs.com` ? Comment le projet a démarré ?
 - [ ] Comment tu vois notre complémentarité (explicitement, pour éviter superposition) ?
-- [ ] La piste CTO : tu y es toujours, tu veux, tu veux pas ?
+- [ ] La piste CTO : tu y es toujours, tu veux, tu veux pas ? Qu'est-ce qui te manque ?
 
 **Axel** (CRO, transparence totale) :
 - [ ] Pôle sales : qu'est-ce qui marche / ne marche pas ?

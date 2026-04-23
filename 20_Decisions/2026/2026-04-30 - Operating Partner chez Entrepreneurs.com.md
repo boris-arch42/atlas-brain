@@ -2,7 +2,10 @@
 type: decision
 date: 2026-04-30
 status: accepted
-deciders: "[[Boris Arduy]], [[Alec Henry]], [[Fabrice Jaeger]]"
+deciders:
+  - "[[Boris Arduy]]"
+  - "[[Alec Henry]]"
+  - "[[Fabrice Jaeger]]"
 domain: strategy
 impact: critical
 supersedes: 

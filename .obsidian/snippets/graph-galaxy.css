@@ -1,0 +1,135 @@
+/* ================================================================
+   Graph Galaxy — Atlas-Brain
+   ================================================================
+   Effet "univers cosmique" pour la vue graphique d'Obsidian.
+   
+   Activation :
+   Settings → Appearance → CSS snippets → activer "graph-galaxy"
+   
+   Ce snippet cible UNIQUEMENT la vue graphique et n'affecte
+   pas le reste de l'interface.
+   ================================================================ */
+
+/* ----- Fond cosmique avec gradient radial profond ----- */
+.workspace-leaf-content[data-type="graph"] .view-content {
+  background: radial-gradient(
+    ellipse at center,
+    #0d0b2e 0%,
+    #050414 45%,
+    #000000 100%
+  );
+  position: relative;
+  overflow: hidden;
+}
+
+/* ----- Couche d'étoiles en fond (subtil) ----- */
+.workspace-leaf-content[data-type="graph"] .view-content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    radial-gradient(1px 1px at 20% 30%, rgba(255,255,255,0.4), transparent),
+    radial-gradient(1px 1px at 60% 70%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 50% 50%, rgba(255,255,255,0.2), transparent),
+    radial-gradient(2px 2px at 80% 10%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(1px 1px at 90% 60%, rgba(255,255,255,0.25), transparent),
+    radial-gradient(1px 1px at 33% 80%, rgba(255,255,255,0.3), transparent),
+    radial-gradient(2px 2px at 15% 75%, rgba(255,255,255,0.2), transparent),
+    radial-gradient(1px 1px at 70% 40%, rgba(255,255,255,0.25), transparent);
+  background-size: 200% 200%;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.6;
+}
+
+/* ----- Nebula glow subtil en surimpression ----- */
+.workspace-leaf-content[data-type="graph"] .view-content::after {
+  content: "";
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  width: 500px;
+  height: 400px;
+  background: radial-gradient(
+    ellipse,
+    rgba(127, 90, 240, 0.08) 0%,
+    rgba(74, 158, 255, 0.04) 40%,
+    transparent 70%
+  );
+  pointer-events: none;
+  z-index: 0;
+  filter: blur(40px);
+}
+
+/* ----- Canvas (le graph lui-même) transparent par dessus ----- */
+.workspace-leaf-content[data-type="graph"] canvas.view-content {
+  background: transparent !important;
+  /* Halo lumineux diffus autour des nodes et lignes — simule un glow global.
+     Le drop-shadow s'applique au contenu rendu du canvas, pas au container.
+     Plusieurs couches empilées = effet plus marqué. */
+  filter:
+    drop-shadow(0 0 2px rgba(160, 180, 255, 0.45))
+    drop-shadow(0 0 6px rgba(160, 180, 255, 0.25))
+    drop-shadow(0 0 12px rgba(127, 90, 240, 0.15));
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-view.color-fill {
+  color: transparent;
+}
+
+/* ----- Lignes entre nodes : très subtiles, comme des rayons ----- */
+.workspace-leaf-content[data-type="graph"] .graph-view.color-line {
+  color: rgba(255, 255, 255, 0.12);
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-view.color-line-highlight {
+  color: rgba(255, 235, 180, 0.7);
+}
+
+/* ----- Nodes : glow lumineux comme des étoiles ----- */
+.workspace-leaf-content[data-type="graph"] .graph-view.color-circle {
+  color: #a0b4ff;
+  opacity: 0.95;
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-view.color-fill-highlight {
+  color: #fff4c2;
+}
+
+/* ----- Texte des labels : lisibilité sur fond sombre ----- */
+.workspace-leaf-content[data-type="graph"] .graph-view.color-text {
+  color: #e6e9f2;
+  opacity: 0.85;
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+}
+
+/* ----- Node focus / tag / attachment ----- */
+.workspace-leaf-content[data-type="graph"] .graph-view.color-circle-resolved {
+  color: #a0b4ff;
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-view.color-circle-unresolved {
+  color: rgba(200, 100, 100, 0.5);
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-view.color-arrow {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+/* ----- Panneau latéral de configuration : subtil ----- */
+.workspace-leaf-content[data-type="graph"] .graph-controls {
+  background: rgba(20, 15, 45, 0.92);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(127, 90, 240, 0.25);
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+.workspace-leaf-content[data-type="graph"] .graph-controls .setting-item {
+  border-top-color: rgba(127, 90, 240, 0.15);
+}
+
+/* ----- Fin du snippet ----- */

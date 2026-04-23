@@ -19,7 +19,7 @@ tags: [ceo, fondateur, entrepreneurs-com, riven-agency, dual-role]
 
 ### Entrepreneurs.com
 - **Poste** : Fondateur et CEO
-- **Équipe** : COMEX (avec [[Fabrice Jaeger]] COO, [[Alexis]] Chief of Staff sortant 30 avril, [[Sophia]] co-COO externe entrante juillet)
+- **Équipe** : COMEX (avec [[Fabrice Jaeger]] COO, [[Alexis Gresoviac]] Chief of Staff sortant 30 avril, [[Sophia]] co-COO externe entrante juillet)
 - **Manager** : — (fondateur)
 
 ### Riven Agency
@@ -126,7 +126,7 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (source des attentes et red flags)
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 impulsivité)
 - [[Fabrice Jaeger]]
-- [[Alexis]]
+- [[Alexis Gresoviac]]
 - [[Sophia]]
 
 ## SOPs dont il est owner

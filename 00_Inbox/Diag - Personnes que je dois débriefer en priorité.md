@@ -19,7 +19,7 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 
 | Personne | Rôle | Contexte | Date cible |
 |---|---|---|---|
-| **Anice** | Plateforme `work.entrepreneurs.com` | Échange déjà prévu dimanche (mentionné par Alec) — complémentarité critique (red flag #3 superposition) | Dimanche 27 avril |
+| **[[Anisse Rbibe]]** | Responsable de la performance | Échange prévu dimanche 27 avril — complimentarité critique (red flag #3 superposition) + évaluation piste CTO | Dimanche 27 avril |
 
 ## Priorité 1 — Semaine 1 (non négociable)
 
@@ -37,7 +37,7 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 | Océane | _(à clarifier)_ | S'est auto-réduite — comprendre pourquoi, signal important sur la culture |
 | Sabrina | _(à clarifier)_ | Dans le noyau solide d'Alec, zéro info par ailleurs |
 | Quentin | Dev plateforme | Top mais cher ; veut développer un outil type Fathom/Clap — complémentarité à cadrer |
-| Anice | Plateforme `work.entrepreneurs.com` | Si pas déjà vu en prio 0 : pressenti CTO mais pas dev — clarifier son scope |
+| Anisse Rbibe | Responsable de la performance | Pressenti CTO (pas dev) — complimentarité critique via work.entrepreneurs.com |
 
 ## Priorité 3 — Semaines 2-3
 

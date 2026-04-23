@@ -72,5 +72,4 @@ _Pourquoi c'est difficile de nous copier. Moat, expertise, réseau, tech, brand.
 ---
 
 ## Décisions de positionnement structurantes
-- [[]]
-- [[]]
+- [[2026-04-30 - Operating Partner chez Entrepreneurs.com]]

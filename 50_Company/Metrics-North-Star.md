@@ -65,4 +65,4 @@ _Les vanity metrics qu'on a choisi d'ignorer. Important de les nommer pour évit
 - 
 
 ## Décisions liées
-- [[]]
+- [[2026-04-30 - Operating Partner chez Entrepreneurs.com]]

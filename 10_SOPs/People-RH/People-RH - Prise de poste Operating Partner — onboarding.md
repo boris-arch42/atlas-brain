@@ -5,7 +5,9 @@ owner: "[[Boris Arduy]]"
 status: draft
 last-reviewed: 2026-04-23
 frequency: ad-hoc
-related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]], [[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]]"
+related-decisions:
+  - "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
+  - "[[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]]"
 tags: [prise-de-poste, operating-partner, onboarding, leadership, c-level, chief-of-staff]
 source: perso
 sensitivity: internal

@@ -4,7 +4,9 @@ date: 2026-04-23
 source: perso
 sensitivity: internal
 tags: [prise-de-poste, operating-partner, wellbeing, boundaries, self-management]
-related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]], [[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]]"
+related-decisions:
+  - "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
+  - "[[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]]"
 ---
 
 # Règles d'engagement — Operating Partner Entrepreneurs.com

@@ -12,7 +12,7 @@ last-updated:
 ## Chronologie
 
 ### [Année] — Fondation
-- **Fondateurs** : [[]]
+- **Fondateurs** : [[Alec Henry]]
 - **Thèse initiale** : 
 - **Premier produit / offre** : 
 - **Marché cible initial** : 
@@ -60,5 +60,6 @@ _Utile pour rappeler la résilience de la boîte quand les nouvelles épreuves a
 ## Gens qui ont marqué
 _Anciens ou actuels, clés dans l'histoire._
 
-- [[]]
-- [[]]
+- [[Alec Henry]] — fondateur et CEO
+- [[Fabrice Jaeger]] — COO
+- [[Boris Arduy]] — Director of Operations 2022-2024 (scaling 10 → 80), Operating Partner depuis mai 2026
