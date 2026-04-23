@@ -65,6 +65,18 @@ _Statut au J+14 : à compléter_
 
 _Statut au J+14 : à compléter_
 
+## Hypothèses apparues à l'analyse des 4 plaquettes produits (23 avril)
+
+Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubateur Core]], [[Scaling]] et de la [[_Synthese-Gamme|synthèse de gamme]].
+
+- **HO19** — **Le positionnement produit flou est une cause structurelle de la crise trésorerie**. Les incohérences ICP/critères détectées sur Core et Incubateur (vendus à des "porteurs de projet en lancement" avec critères exigeant "projet validé avec résultats concrets") suggèrent que les clients Core/Incubateur sont partiellement mal ciblés. Ces mauvais clients génèrent insatisfaction, impayés, churn. Relation directe avec HO11 (ROAS cassé) et les 2-3M€ d'impayés. Test : demander à Axel (CRO) en S1 s'il constate une confusion ICP entre les produits lancement à la conversion. Test cross : demander à Jordan/Jade en S2 si les impayés sont concentrés sur Core+Incubateur.
+
+- **HO20** — **Scaling est le produit qui génère le plus d'impayés en valeur**. Avec des promesses premium ("associé en CDD", 4 prestations done-for-you, 2 immersions) et des équipes internes débordées/sous-dimensionnées, l'écart entre promesse vendue et livraison réelle est le plus large sur Scaling. Les impayés de **forte valeur unitaire** proviennent probablement en priorité de clients Scaling déçus. Test : demander à Jordan (RAF) ou Jade en S2-S3 la répartition des 2-3M€ d'impayés par produit. Si concentration sur Scaling → confirmée.
+
+- **HO21** — **La restructuration produit d'Alec vise à réduire la gamme**. Vu la fragilité de la distinction Core/Incubateur (quasi-jumeaux avec variation d'individuels uniquement), vu la charge opérationnelle de Scaling, et vu l'état général de la boîte, la restructuration mentionnée par Alec vise probablement à simplifier la gamme — fusion Core+Incubateur ou suppression de l'un. Test S1-S2 : observer dans la conversation cadrage avec Alec si le sujet émerge spontanément. **Ne PAS ouvrir frontalement** ("vous allez supprimer Core ou l'Incubateur ?") — laisser Alec amener le sujet.
+
+_Statut au J+14 : à compléter_
+
 ---
 
 ## Comment je saurai que l'hypothèse est confirmée / invalidée
@@ -79,6 +91,9 @@ _Statut au J+14 : à compléter_
 | HO15 (impulsivité Alec) | Observation directe sur décision structurée par moi | J+45 |
 | HO16 (scope Sophia) | Clarification écrite obtenue avec Alec | J+60 (fin juin) |
 | HO17 (Axel transparence) | Qualité du 1-to-1 semaine 1 | J+7 |
+| HO19 (positionnement produit = cause trésorerie) | Confusion ICP (Axel) + impayés Core/Incubateur (Jordan/Jade) | J+21 |
+| HO20 (Scaling = plus d'impayés) | Répartition 2-3M€ impayés par produit (Jordan/Jade) | J+21 |
+| HO21 (restructuration = réduction gamme) | Sujet émerge spontanément avec Alec en cadrage S1-S2 | J+14 |
 
 ## Revue prévue
 

@@ -124,7 +124,7 @@ _(À compléter si applicable — pas d'info dans les plaquettes à ce stade.)_
 - **Thomas Rodier** (ex, tech) — a emporté +150 automations à son départ
 
 ### Noyau solide actuel (selon Alec, 2026-04-23)
-[[Fabrice Jaeger]], [[Anisse Rbibe]], Sabrina, Aziz, [[Océane De Queiros]], Thomas (data), Ouassim, Claire, Abdel, Jordan (finance RAF).
+[[Fabrice Jaeger]], [[Anisse Rbibe]], Sabrina, Aziz, [[Océane De Queiros]], Thomas (data), Wassim, Claire, Abdel, Jordan (finance RAF).
 
 ---
 
