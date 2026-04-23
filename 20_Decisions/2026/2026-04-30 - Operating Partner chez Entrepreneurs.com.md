@@ -100,14 +100,14 @@ Justification : le ratio impact/opportunité est favorable malgré la charge, **
 - ~60-70% de mon temps alloué à Entrepreneurs.com pendant 6 mois minimum
 - Moindre disponibilité pour MTS — Aman et Venu doivent gagner en autonomie
 - **Double-lien avec Alec à gérer** : il est mon CEO chez Entrepreneurs.com et mon associé chez Riven. Risque de confusion de casquettes sur certaines décisions — à mitiger par une séparation explicite des canaux de communication, et si nécessaire des règles de récusation sur certains sujets.
-- Risque de confusion entre deux bases de connaissance : ce vault Atlas-Brain **reste strictement privé**, non partagé avec Entrepreneurs.com ; un workspace séparé sera créé pour les livrables Entrepreneurs.com.
+- **Atlas-Brain reste le dépôt unique de toute info pro** (cf. [[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]]). Les données Entrepreneurs.com y vivront au même titre que les données Mithril / Riven / MTS. Discipline de tagging `source::` et `sensitivity::` critique. Aucun partage direct du vault — uniquement des exports ciblés et audités.
 - Périmètre Operating Partner flou par construction : risque de conflit implicite avec Fabrice sur certains projets ; à arbitrer dès que ça émerge.
 - Fatigue cumulative si les deux mondes génèrent des crises simultanées.
 
-**SOPs à créer ou modifier** :
-- [[10_SOPs/People-RH/People-RH - Prise de poste Operating Partner — onboarding]] (à créer)
-- [[10_SOPs/Ops-Finance/Ops-Finance - Revue trimestrielle COMEX]] (probablement à rewriter une fois mon périmètre au clair)
-- [[10_SOPs/People-RH/People-RH - Empowerment middle management]] (à créer — directement lié à H6)
+**SOPs rattachés à ce rôle** :
+- [[10_SOPs/People-RH/People-RH - Prise de poste Operating Partner — onboarding]] ✅ créé le 2026-04-23 (à appliquer dès J-7)
+- [[10_SOPs/Ops-Finance/Ops-Finance - Revue trimestrielle COMEX]] (à rewriter une fois mon périmètre au clair — après semaine 2)
+- [[10_SOPs/People-RH/People-RH - Empowerment middle management]] (à créer — directement lié à H6, après diagnostic J+14)
 
 ## Revue
 
@@ -134,3 +134,4 @@ Justification : le ratio impact/opportunité est favorable malgré la charge, **
 - [[50_Company/Metrics-North-Star]]
 - [[Alec Henry]] (fondateur Entrepreneurs.com + co-fondateur Riven — page unique, rôles multiples)
 - [[Fabrice Jaeger]] (COO Entrepreneurs.com)
+- [[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]] (politique de stockage qui s'applique à ce rôle)
