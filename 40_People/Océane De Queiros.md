@@ -1,14 +1,14 @@
 ---
 type: person
-role: "Head of Communication Entrepreneurs.com"
-team: "Entrepreneurs.com — Communication"
-manager: 
-reports: 
+role: "Head of Communication Entrepreneurs.com + Brand Revenue Officer (en passation)"
+team: "Entrepreneurs.com — Communication + Revenus (transversal)"
+manager: "[[Alec Henry]]"
+reports: "Charlotte (social media), Céline (PMO→bras droit), autres à cartographier"
 started: 
 status: active
 source: entrepreneurs-com
-sensitivity: rh-nominatif
-tags: [head-of-communication, noyau-solide]
+sensitivity: confidential-max
+tags: [head-of-communication, brand-revenue-officer, noyau-solide, tension-alec, protection-equipe]
 ---
 
 # Océane De Queiros
@@ -112,12 +112,136 @@ Poser les 3, laisser respirer, ne pas commenter (ou très brièvement).
 - Noter en bas les **3 choses à retenir** (pas plus, pas moins)
 - Confirmer `sensitivity: rh-nominatif` si propos touchent à des personnes tierces
 
-### Verbatim et signaux (à remplir après)
-- 
-- 
+### Verbatim et signaux à chaud (post-call 2026-04-23 16:05-16:43)
+
+#### Structure du call
+
+- Durée : 38 min
+- Format : Google Meet, Océane à Marrakech
+- Tonalité : ouverte, transparente, Océane a beaucoup parlé (je devais surtout écouter, objectif atteint)
+- Océane a explicitement souligné : *"ça ne sort pas d'ici [...] c'est confidentiel"* — niveau de confidentialité à respecter absolument
+
+#### Changements majeurs révélés pendant le call
+
+1. **Axel Bombezin part début juin** (fin mai / début juin) — info nouvelle, pas dans le vault avant ce call. Cf. [[Axel Bombezin]].
+2. **Océane prend un nouveau rôle "Brand Revenue Officer"** en parallèle de Head of Communication. En gros : centraliser la data revenus pour Alec, détecter les leaks, être l'entremetteuse entre Aziz (commercial), Sabrina (produit), Cédric (marketing). Elle monte en compétences avec Axel et Alec pendant la passation.
+3. **Le titre "Directeur des revenus"** disparaît après le départ d'Axel — Alec estime qu'il représente déjà ce rôle.
+4. **Les "4 fantastiques"** (Alec + Fabrice + Axel + Anisse probablement, à confirmer) sont en train d'être "redessoudés" suite au départ d'Axel.
+
+#### Verbatim significatifs
+
+##### Sur la culture "tout remonte à Alec" (validation HO8 + nouvelle hypothèse)
+
+> *"Dès qu'il y a un problème, je sais pas pourquoi, les gens vont voir Alec. Et en fait, le problème, c'est que lui, il emmagasine tous les problèmes, problèmes, problèmes, et il pète un plomb sur tout le monde."*
+
+Ma 3ème hypothèse apportée par Océane (en plus de "pas confiance en middle" et "Alec seul décideur") :
+
+> *"Les gens ont peur. Ils ont peur, donc ils se protègent [...] si je suis en contact avec Alec, je me ferai pas virer. Et en fait, je vais me montrer en tant que héros. Il y a beaucoup de toxiques."*
+
+**Lecture** : culture de peur + culture du "héros visible aux yeux d'Alec" = HO8 plus grave que prévu.
+
+##### Sur la relation Alec-pôle com (TENSION MAJEURE)
+
+> *"Du côté d'Alec, il déteste ça parce qu'il estime que mon équipe est incompétente. Complètement, il estime personne dans le pôle communication. Mais pour le coup, je les protège et ce qui fait que voilà, ils ont confiance en moi."*
+
+> *"[Charlotte] a vachement monté en compétences et du coup me décharge de beaucoup de choses. [...] il veut la virer depuis un an, donc c'est un peu chiant, et qu'il a aucune estime envers le pôle, tu vois, donc ça c'est un peu lourd."*
+
+**Lecture** : Océane est en **confrontation latente** avec Alec. Elle joue le rôle de bouclier pour son équipe. C'est épuisant et politiquement risqué pour elle.
+
+##### Sur le blocage psychologique d'Alec (EXTRÊMEMENT SENSIBLE)
+
+> *"Il y a un gros, gros, gros travail psychologique à faire avec Alec qui bloque ses résultats. [...] j'en ai même parlé avec sa psy où il a l'impression qu'on viole son intimité."*
+
+> *"[Pour une simple story où il souriait] Il a posé la question au moins à 5-6 personnes différentes pour dire s'il devait supprimer la story alors qu'il faisait juste un sourire."*
+
+> Boris : *"Les seules fois où je vois Alec tel qu'il est réellement sur les réseaux sociaux, c'est [...] le compte de Nicole."* Océane : *"Ah bah oui, oui, ouais. C'est un gros point."*
+
+**⚠️ Infos à protéger maximum** : la thérapie d'Alec, son blocage personnel sur l'image, les conversations entre Océane et sa psy, le rôle de Nicole (compagne) et de sa "petite frangine" dans la boucle. À ne JAMAIS évoquer en conversation interne. Clé de compréhension silencieuse uniquement.
+
+##### Sur Fabrice (validation HO6 — dépassé mais récupérable)
+
+Océane spontanément :
+
+> *"Fabrice, il a vraiment besoin d'aide et qu'il est vraiment sous l'eau. [...] Il a besoin de quelqu'un de confiance qui va l'aider parce qu'on n'estime pas du tout, on n'utilise pas du tout son potentiel là où il le faut."*
+
+Potentiel Fabrice selon Océane :
+- *"La maturité des décisions"* (stratégique)
+- *"La partie financière, il est très bon là-dedans"*
+
+Difficulté Fabrice selon Océane :
+- *"Il a peut-être [...] trop de choses à faire, trop d'exécution"*
+- *"Le management, pareil, je pense, je suis pas sûre que ce soit son truc."*
+
+**Lecture** : ma charte de délégation doit **décharger Fabrice de l'exécution/management direct**, pas ajouter du stratégique. Fabrice garde le strat/finance, je prends l'opérationnel et l'animation middle management.
+
+##### Sur la dissonance externe/interne (validation signal transverse)
+
+Boris : *"Il y a un énorme delta entre la vision externe et la vision interne."*
+Océane : *"Énorme, énorme. Et le problème c'est que les gens qui partent dans de mauvaises conditions sont très dangereux. Je ne fais que de le dire à Alec maintenant."*
+
+**Lecture** : Alec est **informé** du risque reputation via départs mal gérés. Il n'agit pas visiblement dessus. Océane répète depuis un moment.
+
+##### Sa formule sur la protection mutuelle
+
+> *"Il faut protéger Alec des gens et des gens d'Alec."*
+
+**Lecture** : Océane se positionne implicitement comme acteur politique qui joue déjà un rôle de médiation/protection. Pas neutre.
+
+##### Ses 2 "baguettes magiques"
+
+1. **Débloquer Alec sur les réseaux sociaux** — le rendre "lui-même" publiquement. *"Quand tu vois des gens qui le détestent et qui ne l'aiment pas alors qu'ils ne connaissent pas la vraie personne. C'est frustrant et pour moi c'est un potentiel énorme."*
+2. **Mieux déléguer / avoir une équipe plus performante** — *"plus intelligente [...] plus débrouillarde, plus comme nous, on est débrouillards."*
+
+##### Ses attentes par rapport à mon arrivée (directement formulées)
+
+1. **Plus de collectif** : *"Plus de collectif parce qu'on l'a perdu et moi ça m'attriste beaucoup. [...] L'équipe, on la voit plus que notre propre famille."*
+2. **Aider Fabrice** : *"Il a besoin de quelqu'un de confiance qui va l'aider."*
+
+**Lecture** : attentes **alignées** avec mon rôle et non menaçantes. Bon signal relationnel.
+
+#### Équipe pôle com — état des lieux donné par Océane
+
+Jauge globale : **70/100** (engagement équipe pôle com).
+
+| Personne | Statut | Notes |
+|---|---|---|
+| **Charlotte** | Monte en compétences — reprend responsabilité social media. Alec veut la virer depuis 1 an. Océane la protège. | Potentiel mais *"un problème avec elle"* (non précisé) |
+| **Céline** | Ex-PMO → nouveau bras droit d'Océane sur la structuration. Va développer l'app Base44 du pôle com. | Débrouillarde sur la tech, apprend Base44 |
+| **Omar** | ⚠️ **Risque RH majeur** | A travaillé avec un concurrent sans prévenir (trahison). Fissure avec Alec via le "réseau Scale". Est venu négocier une clause de non-concurrence payante après offre Marvin Zay. Océane l'a pris pour une trahison. Désengagement visible. |
+| **Clémentine** | **Remerciée cette semaine** | Bon élément selon Océane si encadrée mais des phases pas bonnes. Licenciement économique pour rentabilisation. |
+| **Marwan** | **Déjà parti** | *"Nous l'a fait un peu à l'envers sur différents points."* |
+
+#### Projets du pôle com en cours / bloqués
+
+- **Site web personnel d'Alec** (fait maison sur Lovable après ~10K€ d'agences "ignobles") — **quasi fini mais Océane n'ose pas publier** par peur du jugement d'Alec. Micro-exemple de blocage par perfectionnisme + insécurité relationnelle.
+- **Partenariats Le Déclic** — Alec a mis un ultimatum : *"si on n'a pas minimum 2 partenaires qui payent, il [ne] se déplace pas"* pour le prochain tournage. Stratégie en cours : vendre des épisodes à des clients existants (ex. Jimmy Payard IA). Partiellement valide HO24 (modèle éco du podcast sous pression).
+- **Application Base44 pour le pôle com** — dev interne par Céline, remplace fragmentation Monday+Notion+WhatsApp+Slack. Focus chaîne vidéo.
+
+#### Dates immersions Marrakech confirmées
+
+- 16-19 mai : **Lancement Kelly** (Massol ?)
+- 19-20 mai : **Board**
+- 21-23 mai : **Immersion Scaling**
+- 24 mai : **Journée d'équipe**
+
+→ **Boris présent 20-24 mai** sur immersion Scaling + journée d'équipe. 1-to-1 n°2 avec Océane prévu sur place.
+
+### 🎯 Les 3 à retenir de ce call
+
+1. **Axel Bombezin part début juin** — 5e mouvement top en 20 mois. Pas de remplaçant au titre de "directeur des revenus". Implication directe : mon 1-to-1 avec Axel en S1 = conversation avec quelqu'un qui part. HO17 (Axel transparence) doit être reformulée.
+2. **Océane est en confrontation latente avec Alec** — il méprise son pôle, elle fait bouclier. Loin d'un simple "noyau solide". C'est un relation politique complexe qui mobilise beaucoup de son énergie. Son nouveau rôle BRO peut être lu soit comme un élargissement de confiance, soit comme une manière pour Alec d'avoir un œil plus proche — à observer.
+3. **Culture de peur confirmée** — "les gens ont peur, ils se protègent en étant visibles auprès d'Alec, ils font les héros". Aggravation de HO8. Mon arrivée dans ce contexte doit **réduire la peur**, pas l'augmenter. Posture empowerment encore plus critique que prévu.
 
 ### Décisions / suites
-- 
+
+- [x] Remplir cette section — fait 2026-04-23 soirée
+- [ ] Mettre à jour [[Axel Bombezin]] : départ début juin, posture 1-to-1 S1 à revoir
+- [ ] Créer HO26 sur le départ d'Axel dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]
+- [ ] Passer les HO6, HO8 en **confirmées** (validation explicite Océane)
+- [ ] Mettre à jour [[Kit d'arrivée consolidé 2026-05-01]] avec les 3 signaux majeurs
+- [ ] Créer stubs pages personnes : Céline, Charlotte, Omar (priorité basse, à alimenter au fil de l'eau)
+- [ ] **1-to-1 n°2 avec Océane mi-mai à Marrakech** — poser les questions précises qui seront nées de mon onboarding
+- [ ] Observer si Océane vient me voir spontanément dans les 2 premières semaines (signal d'ouverture)
 
 ## Expertise / Zone de génie
 _(à compléter après observation)_

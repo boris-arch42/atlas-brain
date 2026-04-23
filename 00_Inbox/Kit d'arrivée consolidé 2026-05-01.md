@@ -11,7 +11,82 @@ tags: [kit-arrivee, consolidation, priorisation, operating-partner, 2026]
 
 > **Usage** : document à relire le **30 avril 2026 au soir**, juste avant la prise de poste du 1er mai.
 > **Objectif** : en 10-15 min de lecture, remettre en tête les signaux majeurs, les priorités S1-S2, et les postures à tenir par personne.
-> **Consolidation des analyses du 23 avril** : plaquettes produits, guide de marque, Vision 2026, 3 dossiers de presse, cadrage Alec.
+> **Consolidation des analyses du 23 avril** : plaquettes produits, guide de marque, Vision 2026, 3 dossiers de presse, cadrage Alec, **1-to-1 Océane du 23 avril soir**.
+
+---
+
+## 🔴 Mise à jour post-1-to-1 Océane (23 avril 16:05-16:43)
+
+Cette section documente les **changements majeurs apportés par le 1-to-1 avec [[Océane De Queiros]]** — à lire en premier car plusieurs éléments des sections suivantes sont modifiés en conséquence.
+
+### 🚨 Signal nouveau critique — Axel Bombezin part début juin 2026
+
+Info révélée par Océane : **Axel (CRO, directeur des revenus) part fin mai / début juin**. Son poste disparaît. Ses responsabilités sont éclatées entre :
+- **Aziz** (commercial)
+- **Sabrina** (produit)
+- **Cédric** (marketing)
+- **Océane** (nouveau rôle "Brand Revenue Officer" — centralise la data revenus pour Alec)
+
+**Implications directes** :
+- **5e mouvement top en 20 mois** (Thang parti, Fabrice rétrogradé, Alexis sortant 30/4, Sophia entrante juillet, Axel sortant juin). Ajouter au [[#🔴 Signal 10 — Mouvements top 4 en 18 mois = gouvernance fragile|Signal 10]].
+- **Mon 1-to-1 avec Axel en S1** = conversation avec quelqu'un qui part. Reformulation complète dans [[Axel Bombezin]].
+- **Un 2e 1-to-1 avec Axel avant son départ** (mi-mai ou courant mai) est probablement nécessaire pour capter le savoir critique.
+- **Nouvelle priorité S1-S2** : cartographier les zones de son périmètre qui risquent de casser après son départ + m'aligner sur la passation Aziz/Sabrina/Cédric/Océane.
+- Cf. **HO26** dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]].
+
+### 🔴 Signal 4 aggravé — Culture de peur + "héros visible"
+
+Océane ajoute à mon signal 4 (durcissement culturel) une 3e cause au "tout remonte à Alec" :
+
+> *"Les gens ont peur. Ils ont peur, donc ils se protègent [...] si je suis en contact avec Alec, je me ferai pas virer. [...] je vais me montrer en tant que héros. Il y a beaucoup de toxiques."*
+
+**Implication** : le durcissement culturel 2026 n'est pas juste une tension de registre, il produit une **culture de peur avec comportements toxiques** (faire le héros pour rester visible d'Alec = survie). Ma posture empowerment est encore plus critique. Aggrave HO8.
+
+### 🔴 Signal 3 étendu — Océane est en confrontation latente avec Alec
+
+Mon estimation initiale ("tension potentielle") était **largement sous-estimée**. Ce que le 1-to-1 révèle :
+
+- Alec **méprise ouvertement** le pôle com (*"il n'estime personne dans le pôle communication"*)
+- Il veut virer Charlotte depuis 1 an
+- Océane joue un rôle **assumé de bouclier** pour son équipe
+- Sa formule : *"il faut protéger Alec des gens et des gens d'Alec"*
+
+**Implications politiques** :
+- Océane n'est **pas neutre** — c'est un acteur politique avec ses propres stratégies de protection
+- Son nouveau rôle **Brand Revenue Officer** lui donne accès à de la data financière que moi je ne verrai peut-être pas au début — cartographie d'accès data à garder en tête
+- Elle peut devenir une **alliée solide** si je respecte sa zone et la soutiens indirectement
+- Elle peut devenir une **opposante** si je bouscule sa position
+
+Cf. **HO27** dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]].
+
+### ✅ HO6 (Fabrice récupérable) confirmée — avec précision sur la charte de délégation
+
+Océane précise le diagnostic Fabrice :
+- **Zones fortes** : maturité stratégique + partie financière
+- **Zones faibles** : exécution + management direct
+
+**Implication directe pour mon livrable n°1 de S1 (charte de délégation Fabrice)** :
+
+| Je prends | Fabrice garde |
+|---|---|
+| L'exécution opérationnelle | La stratégie et arbitrages de haut niveau |
+| L'animation middle management | La supervision finance |
+| Les projets transverses | Les décisions structurantes |
+
+Pas de couche stratégique ajoutée sur Fabrice, pas de zone financière retirée non plus.
+
+### ✅ HO28 nouvelle — La dissonance externe/interne est connue d'Alec mais non-actionnée
+
+Océane : *"Je ne fais que de le dire à Alec maintenant"* (à propos du risque de départs mal gérés qui nuisent à la reputation). Donc argumenter rationnellement avec Alec ne suffira pas — il entend déjà ce message sans agir dessus. Levier pour faire bouger = **événement concret** ou **cadre structurel automatique** (process d'offboarding RH par exemple). Pas l'argumentation.
+
+### ⚠️ Infos sensibles à protéger absolument
+
+Océane a partagé des éléments **très intimes** sur Alec :
+- Sa **thérapie** et ses conversations avec sa psy
+- Son **blocage psychologique** sur l'image publique (violation d'intimité perçue pour une simple story)
+- Le rôle de **Nicole** (compagne) et de sa **"petite frangine"** dans son cercle de confiance proche
+
+→ À ne JAMAIS évoquer en conversation interne. Clés de compréhension silencieuses uniquement. Page [[Océane De Queiros]] passée en `sensitivity: confidential-max`.
 
 ---
 
@@ -384,25 +459,31 @@ Cf. [[History]], [[Sophia]].
 
 ---
 
-## [[Axel Bombezin]] — CRO
+## [[Axel Bombezin]] — CRO ⚠️ sortant début juin 2026
 
-**À capter** :
-- Ouverture réelle ou défensive en 1-to-1 ? (test HO17)
-- Constate-t-il une confusion ICP entre Core et Incubateur ? (test HO19)
-- A-t-il des données d'attribution pipeline par canal (dont podcast) ? (test HO24)
-- Verbalise-t-il l'abus marketing "C-Level fondateurs" dont il est lui-même bénéficiaire malgré lui ? (test HO23)
+**MAJ 23/4 soir** : Axel part ~5 semaines après ma prise de poste. Reformulation complète du 1-to-1 dans sa page.
+
+**À capter** (reformulé) :
+- Les raisons du départ (si partagées spontanément — ne pas les demander)
+- Le savoir sales/revenus critique à transmettre
+- Les zones qui vont "casser" après lui
+- Sa lecture de la passation vers Aziz/Sabrina/Cédric/Océane
 
 **À ne PAS faire** :
-- ❌ Poser la question "C-Level fondateurs" frontalement (risque de blessure ego)
-- ❌ Challenger son pôle dans les 30 premiers jours
-- ❌ Évoquer la compta / recouvrement / impayés en premier sujet
+- ❌ Poser les vraies raisons de son départ frontalement
+- ❌ Être perçu comme "celui qui le remplace"
+- ❌ Aborder la plaquette Board C-Level fondateur
+- ❌ Challenger son pôle dans les semaines qui lui restent
 
 **Premier livrable commun** :
-- Cartographie de l'attribution pipeline par canal (Facebook Ads, podcast, réseau Alec, word-of-mouth) — **à cadrer en S1-S2**
+- **Plan de passation structuré** sur les 5 semaines qui précèdent son départ. Proposer un 2e 1-to-1 avant son départ.
 
 **Signaux rouges** :
-- Pôle hermétique maintenu malgré l'invitation d'Alec à la transparence → flag à remonter à Alec en S2
-- Résistance à toute demande de data → confirme HO17 (pôle opaque)
+- Refus/évitement d'un 2e call
+- Silence sur les "zones qui risquent de casser" après lui → je dois les découvrir tout seul
+
+**Opportunité** :
+- Il part, donc il a moins à perdre — peut parler plus librement qu'un acteur encore en jeu politique. Son 1-to-1 peut être la source d'information la plus riche de ma S1.
 
 ---
 
@@ -428,26 +509,35 @@ Cf. [[History]], [[Sophia]].
 
 ---
 
-## [[Océane De Queiros]] — Head of Communication
+## [[Océane De Queiros]] — Head of Communication + Brand Revenue Officer (en passation)
+
+**MAJ 23/4 soir** : 1-to-1 tenu — elle devient BRO en parallèle de Head of Com. Relation Alec tendue (bouclier pour son équipe).
 
 **À capter** :
-- Sa position sur le durcissement culturel (commandements 2026 vs ses 6 valeurs 2025)
-- Signaux de désengagement (refus du bonus est déjà un signal — est-ce confirmé par d'autres indices ?)
-- Cite-t-elle "bienveillance/exemplarité" vs "EBITDA/systèmes" ? Ça dit où elle se place
-- Tension potentielle sur l'abus marketing C-Level (c'est son périmètre de responsabilité, même si elle n'a peut-être pas décidé)
+- Son positionnement réel sur le durcissement 2026 (elle cite "toxicité" — signal fort)
+- Qui elle cite spontanément (signal réseau interne)
+- Comment elle parle de son nouveau rôle BRO (opportunité ou pression ajoutée ?)
+- Ses signaux de désengagement (bonus refusé + fatigue du rôle de bouclier)
+- Si elle vient me voir spontanément dans les 2 premières semaines (test HO27)
 
 **À ne PAS faire** :
-- ❌ Intervenir sur son périmètre (red flag #1 Alec)
-- ❌ Remonter l'abus Board directement avec elle en S1
+- ❌ Intervenir sur son périmètre com (red flag #1 Alec)
+- ❌ Remonter l'abus marketing Board directement avec elle en S1
 - ❌ Citer les commandements durcis comme référence positive avec elle
+- ❌ Évoquer Alec, Nicole, sa psy, sa "petite frangine", ou quoi que ce soit de sa vie privée
+- ❌ La mettre dans une position où elle doit arbitrer entre son allégeance à Alec et sa protection de son équipe
 
 **Premier livrable commun** :
 - Rien en S1 — posture d'écoute uniquement
-- Si elle vient me voir spontanément = signal positif fort
+- Si elle vient me voir spontanément = signal positif fort → je prends le sujet qu'elle propose, je ne force rien
+- **1-to-1 n°2 déjà cadré mi-mai à Marrakech** pendant l'immersion Scaling
 
 **Signaux rouges** :
-- Désengagement confirmé par plusieurs indices (refus bonus + absence d'énergie + évitement)
+- Désengagement confirmé par plusieurs indices (refus bonus + absence d'énergie + évitement + fatigue bouclier)
 - Mention explicite qu'elle "ne se retrouve plus" dans la direction actuelle
+- Son nouveau rôle BRO utilisé par Alec pour la surveiller plus étroitement (à détecter)
+
+**Alliée potentielle forte** : si je respecte sa zone et soutiens indirectement son pôle sans m'y impliquer, elle peut devenir un canal d'info exceptionnellement riche. Elle connaît Alec de manière intime et joue déjà un rôle de protection.
 
 ---
 

@@ -1,24 +1,47 @@
 ---
 type: person
-role: "CRO Entrepreneurs.com"
+role: "CRO Entrepreneurs.com— **départ début juin 2026**"
 team: "Entrepreneurs.com — Sales"
 manager: "[[Alec Henry]]"
 reports: 
 started: 
-status: active
+status: sortant-juin-2026
 source: entrepreneurs-com
-sensitivity: rh-nominatif
-tags: [cro, ex-head-of-sales, sales, noyau-solide, stakeholder-prioritaire]
+sensitivity: confidential-max
+tags: [cro, ex-head-of-sales, sales, stakeholder-prioritaire, sortant, top-management]
 ---
 
 # Axel Bombezin
 
-## Rôle actuel
-- **Poste** : Chief Revenue Officer (CRO)
+## ⚠️ INFO CRITIQUE — Axel part début juin 2026
+
+**Révélé par [[Océane De Queiros]] en 1-to-1 du 2026-04-23** :
+
+> *"Comme Axel, tu es au courant, va partir. [...] il part début juin, donc fin mai, début juin."*
+
+### Implications pour ma prise de poste
+
+- **Je prends mes fonctions le 1er mai — Axel part ~5 semaines après**. Tout le 1-to-1 S1 avec lui est un entretien **avec quelqu'un qui part**.
+- **5e mouvement de top management en 20 mois** (Thang parti, Fabrice rétrogradé, Alexis sortant 30 avril, Sophia entrante juillet, Axel sortant juin). Gouvernance encore plus instable que ce que j'avais estimé.
+- **Pas de remplaçant au titre de "Directeur des revenus"** — Alec estime qu'il représente déjà ce rôle. Les responsabilités éclatées entre : [[Aziz]] (commercial), **Sabrina** (produit), **Cédric** (marketing), [[Océane De Queiros]] (nouveau rôle Brand Revenue Officer pour centraliser la data).
+- **Question politique ouverte** : conditions du départ (démission, rupture négociée, conflit latent avec Alec/Fabrice) ? Ne pas poser frontalement.
+
+### Reformulation HO17 (Axel transparence)
+
+Mon hypothèse initiale était *"Axel va s'ouvrir en 1-to-1 une fois qu'il comprend que je ne viens pas auditer son pôle"*. Avec l'info de son départ :
+
+- **Scénario A** (plus probable) : Axel s'ouvre **plus facilement** car il part — il a moins à perdre, peut partager en toute transparence
+- **Scénario B** : Axel reste hermetique pour préserver ses relations et son image de sortie
+
+→ Je teste S1 et j'adapte.
+
+## Rôle actuel (jusqu'à début juin 2026)
+- **Poste** : Chief Revenue Officer (CRO) — poste qui disparaît à son départ
 - **Poste précédent** : Head of Sales Entrepreneurs.com
 - **Équipe** : pôle sales (périmètre à cartographier en S1)
 - **Manager** : [[Alec Henry]]
 - **Reports directs** : _(à compléter)_
+- **Statut** : **sortant début juin 2026**
 
 ## Contexte de ma prise de poste
 
@@ -40,54 +63,55 @@ Red flag #1 d'Alec : *"ne pas intervenir sur les pôles opérationnels (marketin
 
 ---
 
-## 1-to-1 prévu (S1 — priorité 1, non-négociable)
+## 1-to-1 prévu (S1 — priorité 1, non-négociable — reformulé post-24/4)
 
-### Enjeux spécifiques
+### Enjeux spécifiques (revus avec l'info du départ)
 
-Différent des 1-to-1 Océane (red flag #1 com) et Anisse (red flag #3 superposition). Avec Axel :
-- Enjeu principal : **créer les conditions de la transparence totale** qu'Alec a promise
-- Enjeu secondaire : **comprendre le pôle sales** sans en donner l'impression d'un audit
-- Enjeu tertiaire : **identifier les points de friction** qu'Axel pourrait vouloir remonter à Alec via moi (canal non-hiérarchique)
+- Enjeu principal : **capter le maximum de savoir avant son départ** — Axel dispose d'un savoir sales/revenus critique qu'il faut transmettre dans la boîte
+- Enjeu secondaire : **comprendre les vraies raisons du départ** sans les demander frontalement — signal d'ambiance, relation Alec, relations COMEX
+- Enjeu tertiaire : **désamorcer toute crispation potentielle** sur ma prise de poste — je ne dois pas être perçu comme "celui qui remplace Axel"
+- Enjeu nouveau : **m'aligner sur la passation** vers Aziz/Sabrina/Cédric/Océane — je dois comprendre qui hérite de quoi
 
 ### Durée prévue
 
-45-60 min — plus long qu'Océane (30 min) ou Anisse (45 min). Axel porte beaucoup d'information stratégique et va probablement tester ma posture avant de s'ouvrir.
+60-90 min — rallongement par rapport à l'original. Un 2e 1-to-1 est probablement nécessaire avant son départ (mi-mai ou courant mai) pour approfondir.
 
 ### Posture
 
-- **Ne pas arriver avec des questions de process** (ça déclenche la posture défensive d'un pôle hermétique)
-- **Valoriser sa promotion interne** explicitement (ex-Head of Sales → CRO = reconnaissance forte d'Alec)
-- **Ne PAS aborder la plaquette Board** spontanément (signal commercial, pas pour un 1-to-1 de prise de connaissance)
-- **Poser des questions ouvertes** sur son périmètre, ses enjeux, ses frustrations — laisser Axel raconter
+- **Reconnaître explicitement son départ** sans creuser les raisons : *"Je sais que tu pars début juin — je veux qu'on profite de ce temps pour que je capte ce que je dois capter, et que toi tu sortes par la grande porte."*
+- **Valoriser son parcours** (Head of Sales → CRO) sans sur-jouer
+- **Ne PAS aborder** : la plaquette Board (C-Level fondateur), les vraies raisons du départ, une éventuelle rancune envers Alec
+- **Ouvrir** la possibilité d'un 2e call avant son départ pour des sujets plus opérationnels
 
-### Questions à préparer (draft — à affiner avant S1)
+### Questions à préparer (reformulées)
 
-- *"Raconte-moi comment tu es arrivé chez Entrepreneurs.com et comment tu as évolué vers le rôle de CRO."*
-- *"Qu'est-ce qui marche vraiment bien dans le pôle sales aujourd'hui ?"*
-- *"Qu'est-ce qui te frustre le plus ?"*
-- *"Baguette magique sur ton périmètre, qu'est-ce que tu changes ?"*
-- *"Qu'est-ce que tu attends de moi dans ce nouveau rôle d'Operating Partner ?"*
-- *"Y a-t-il des sujets où tu aurais aimé un relais vers Alec/Fabrice qui n'a pas fonctionné ?"*
-- *"Si tu as une chose à me dire que je n'ai pas encore entendue de quelqu'un d'autre, ce serait quoi ?"*
+- *"Comment tu veux qu'on structure nos 2-3 prochains échanges pour que je capte ce que tu juges important à transmettre ?"*
+- *"Qu'est-ce qui marche vraiment bien dans le pôle sales aujourd'hui, et qu'il ne faudrait surtout pas toucher ?"*
+- *"Qu'est-ce qui te frustre le plus — qu'est-ce qui selon toi casserait la machine si personne ne le réglait ?"*
+- *"Dans la passation Aziz/Sabrina/Cédric/Océane, quelle est la zone qui t'inquiète le plus ?"*
+- *"Y a-t-il un sujet client ou un prévu de lancement dans les 2-3 prochains mois qui va casser si ce n'est pas suivi de près ?"*
+- *"Si tu avais 1 message à me faire passer sur Alec / Fabrice / le fonctionnement COMEX — qu'est-ce que tu me dirais ?"*
+- *"Baguette magique sur ton périmètre, qu'est-ce que tu aurais voulu changer si tu restais ?"*
+- *"Comment je peux t'aider toi, à partir bien ? (tu as des envies de ton côté — formalisation, mise en forme d'un bilan, transition)"*
 
 ### Signaux à observer
 
 | Signal | Lecture |
 |---|---|
-| Il reste très générique sur les chiffres/process sales | Pôle encore hermétique, HO17 pas encore validée |
-| Il partage des chiffres précis et des tensions | HO17 validée, transparence installée |
-| Il critique Fabrice | À observer, ne pas relayer |
-| Il mentionne des tensions avec d'autres pôles | Note mentale, à croiser avec Océane (marketing), Anisse (performance) |
-| Il propose de collaborer sur des sujets transverses | Signal positif fort |
-| Il évoque le sujet "Board" ou sa place dedans | À laisser venir, ne pas creuser |
-| Il mentionne son auto-réduction salariale | À écouter sans commenter |
-| Il parle de son ambition personnelle (évolution, envies) | À écouter, signal pour le moyen terme |
+| Il partage la raison du départ spontanément | Signal fort de confiance + confirme HO17 scénario A |
+| Il reste générique et corporate | Scénario B — verrouillage départ maitrisé |
+| Il critique Alec ou Fabrice | À observer mais ne pas relayer |
+| Il partage des chiffres précis sales/revenus | Signal d'ouverture, opportunité de capter de la donnée |
+| Il propose lui-même un 2e call avant son départ | Signal très positif |
+| Il refuse/évite un 2e call | Signal qu'il veut minimiser le contact |
+| Il nomme spontanément des sujets "qui vont casser" après lui | Zone de vigilance S2-S3 |
 
 ### Post-call (à faire dans les 2h)
 
 - Remplir verbatim + 3 à retenir ci-dessous
-- Mettre à jour HO17 (Axel transparence) dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]
-- Mettre à jour Anisse Rbibe / Océane De Queiros si tensions identifiées avec le pôle sales
+- Mettre à jour HO17 dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]
+- Mettre à jour HO26 (départ d'Axel) avec les raisons apprises (même partielles)
+- Identifier le ou les **sujets qui risquent de casser** après son départ → les préparer en S2-S3 avec Aziz/Sabrina/Cédric/Océane
 
 ---
 

@@ -29,14 +29,14 @@ _Statut au J+14 : à compléter_
 
 - **HO4** — "Noyau solide" selon Alec (Fabrice, Océane, Anisse, Sabrina, Aziz, Quentin, Cédric) = 6-7 personnes. Sur ces 6-7, j'estime que 2-3 sont réellement encore mobilisables à plein régime, le reste est à confirmer.
 - **HO5** — Le départ d'Aziz est le risque RH le plus critique à court terme.
-- **HO6** — Fabrice est effectivement dépassé mais encore récupérable **si** on lui retire des projets plutôt que d'en ajouter.
+- **HO6** — Fabrice est effectivement dépassé mais encore récupérable **si** on lui retire des projets plutôt que d'en ajouter. **[CONFIRMÉE 2026-04-23 par Océane]** : verbatim Océane *"Fabrice, il a vraiment besoin d'aide et qu'il est vraiment sous l'eau. [...] on n'utilise pas du tout son potentiel là où il le faut."* Ajout de précisions : zones fortes = maturité stratégique + finance ; zones faibles = exécution + management direct. **Implication directe** : charte de délégation → je prends l'exécution et l'animation middle management, Fabrice garde stratégie + finance.
 - **HO7** — Guillaume (finance, recrutement catastrophique selon Alec) — à évaluer personnellement avant de conclure. Jugement d'Alec à filtrer.
 
 _Statut au J+14 : à compléter_
 
 ## Hypothèses sur le management
 
-- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. HO8 peut passer de "hypothèse" à "diagnostic partagé".
+- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. **[AGGRAVÉE par Océane le 2026-04-23 soir]** : Océane ajoute une 3e cause (au-delà de "pas confiance en middle" et "Alec seul décideur") : **culture de peur + culture du héros**. Verbatim : *"Les gens ont peur. Ils ont peur, donc ils se protègent [...] si je suis en contact avec Alec, je me ferai pas virer. Et en fait, je vais me montrer en tant que héros. Il y a beaucoup de toxiques."* HO8 peut passer de "hypothèse" à **diagnostic partagé multi-sources**. Implication : mon arrivée doit **réduire la peur**, pas l'augmenter. Posture empowerment encore plus critique que prévu.
 - **HO9** — Il existe 1-2 leads potentiels niveau -1 dans l'équipe actuelle, juste pas identifiés / pas empowered.
 - **HO10** — La culture de "tâches déléguées sans responsabilités associées" est le levier de transformation n°1.
 
@@ -83,6 +83,14 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
 
 - **HO25** — ~~**Le portefeuille d'entités parallèles d'Alec crée des flux inter-entités avec Entrepreneurs.com**~~ — **INVALIDÉE 2026-04-23**. Boris a confirmé que Scalab et Numadeo **ne sont pas prestataires** d'Entrepreneurs.com, et que les autres entités (Prudenzia, cabinet comptable, Scale X, Film, B.A.L., Sommet Virtuel) **ne concernent pas Entrepreneurs.com**. Pas de conflit d'intérêt structurel sur ce vecteur. Pas de cartographie active à déclencher. Passe en mode **observation passive** : si une info contradictoire émerge en S1-S2 (ex : facture Scalab/Numadeo dans la compta), rouvrir l'hypothèse. Sinon, clos.
 
+## Hypothèses apparues au 1-to-1 Océane du 23 avril (soirée)
+
+- **HO26** — **Le départ d'[[Axel Bombezin]] début juin 2026 crée un choc opérationnel non anticipé dans les 60 premiers jours**. Révélé par Océane le 2026-04-23 : Axel (CRO, directeur des revenus) part fin mai / début juin. Son poste disparaît — pas de remplaçant au titre de "directeur des revenus". Responsabilités éclatées entre 4 personnes : [[Aziz]] (commercial), Sabrina (produit), Cédric (marketing), [[Océane De Queiros]] (nouveau rôle "Brand Revenue Officer" pour centraliser la data). **Implications** : (1) mon 1-to-1 avec Axel en S1 est avec un sortant, (2) gouvernance encore plus instable (5e mouvement top en 20 mois), (3) zones de transmission critiques à cartographier avant son départ, (4) mon périmètre opérationnel peut s'élargir ou se redessiner après juin selon ce qui se passe avec les 4 repreneurs. Test : capter via 1-to-1 S1 d'Axel les zones qui risquent de casser + observer la passation réelle en juin. À J+45, évaluer si la structure post-Axel tient ou si des choses tombent entre deux chaises.
+
+- **HO27** — **Océane est en confrontation latente avec Alec, pas en simple tension**. Révélé par le 1-to-1 du 23 avril : Alec méprise ouvertement son pôle (*"il n'estime personne dans le pôle communication"*), veut virer Charlotte depuis 1 an, et Océane joue un rôle assumé de **bouclier** pour son équipe. Sa formule : *"il faut protéger Alec des gens et des gens d'Alec"*. Le nouveau rôle Brand Revenue Officer peut être lu de 2 manières : (a) élargissement de confiance d'Alec vers elle, (b) moyen pour Alec d'avoir un œil plus proche sur la data revenus qu'elle sera chargée de remonter. **Implications** : (1) Océane n'est pas neutre, c'est un acteur politique avec ses propres stratégies de protection, (2) son réle BRO nouveau lui donne accès à de la data financière que moi je ne verrai peut-être pas au début — à garder en tête, (3) elle peut devenir une alliée solide si je respecte sa zone et la soutiens indirectement, mais aussi une opposante si je bouscule sa position. Test : observer si elle vient me voir spontanément dans les 2 premières semaines (signal d'ouverture).
+
+- **HO28** — **La dissonance externe/interne est connue d'Alec mais il n'agit pas dessus**. Océane verbatim : *"Je ne fais que de le dire à Alec maintenant"* (à propos du risque reputation via départs mal gérés). Implication : l'argument *"le décalage externe/interne crée un risque"* ne suffit pas à faire bouger Alec — il l'entend déjà depuis un moment. Le levier pour faire bouger ne sera pas un argument rationnel supplémentaire, ce sera soit un **événement concret** (départ visible + impact reputation immédiat), soit un **cadre structurel** qui rend l'action automatique (process offboarding RH par exemple). Test S1-S2 : observer comment Alec réagit quand on lui pointe un risque reputation — s'il acte ou s'il passe.
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -106,6 +114,9 @@ _Statut au J+14 : à compléter_
 | HO23 (matériaux commerciaux imprécis) | Observation autres matériaux (presse, guide marque, site) | J+21 |
 | HO24 (Le Déclic = centre coût sans ROI démontré) | Coût complet (Jordan) + attribution pipeline qualitative (Axel) | J+30 |
 | HO25 (portfolio Alec = flux inter-entités) | ~~Cartographie prestataires~~ → **Invalidée 2026-04-23** | — |
+| HO26 (départ Axel → choc opérationnel) | Capter via 1-to-1 Axel S1 + observer passation juin | J+45 |
+| HO27 (Océane confrontation latente Alec) | Observer ouverture spontanée S1-S2 | J+14 |
+| HO28 (dissonance connue d'Alec mais non-actionnée) | Observer réaction Alec à un signal risque reputation | J+30 |
 
 ## Revue prévue
 
