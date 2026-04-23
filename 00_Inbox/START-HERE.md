@@ -1,6 +1,9 @@
 ---
 type: starter
 created: 2026-04-22
+source: entrepreneurs-com
+sensitivity: internal
+tags: [prise-de-poste, operating-partner, workflow]
 ---
 
 # 👋 START HERE — Capture pré-prise de poste

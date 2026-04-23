@@ -1,3 +1,17 @@
+---
+type: diagnostic
+date: 2026-04-22
+source: entrepreneurs-com
+sensitivity: rh-nominatif
+tags: [diagnostic, pre-prise-de-poste, operating-partner]
+related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
+---
+
+# Diagnostic — Ce qui me frappe comme étrange ou inefficace
+
+> ⚠️ **Contenu nominatif et financier sensible.** Jamais partagé tel quel. Sert de base de travail personnelle pour la prise de poste du 1er mai 2026.
+
+---
 
 ### 1. Finances — hémorragie cash
 
