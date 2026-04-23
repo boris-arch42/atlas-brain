@@ -29,6 +29,7 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 - **Pressenti CTO depuis 6 mois** sans que ça se concrétise — parce que non-développeur. Signal : Alec voit en lui un profil de lead technique orienté archi/pilotage, pas de builder code.
 - **Pilote `work.entrepreneurs.com`** — plateforme déjà en tests, à voir lui pour ce qu'il y fait concrètement.
 - **Anime des Q&A clients** en tant que "Mastercoach" (titre commercial) — son périmètre inclut donc du livrable client, pas seulement de la perf interne. À intégrer dans la trame 1-to-1.
+- **Poussé en avant dans les matériaux premium** : la plaquette [[Board]] le présente comme "C-Level fondateur" alors qu'il ne l'est pas (clarifié par Boris le 23 avril, cf. HO23 du Diag). Signal : Anisse est une figure interne **mise en avant pour vendre** les produits haut de gamme. Il est probablement apprécié en interne et perçu comme un atout marketing. Éclaire la piste CTO évoquée par Alec : Anisse a déjà une posture "pseudo-C-Level" dans les matériaux clients. À garder en tête sans en faire un sujet de conversation dimanche.
 - **Allié potentiel selon Alec** — verbatim : *"Anice [Anisse] il n'a pas du tout d'inquiétude, il suffit d'une discussion avec toi pour voir comment vous allez être complémentaire"*. Pas un risque politique.
 
 ### Zones de chevauchement à cadrer (red flag #3 d'Alec = superposition)

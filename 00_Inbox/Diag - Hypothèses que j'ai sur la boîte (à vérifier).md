@@ -75,6 +75,10 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
 
 - **HO21** — **La restructuration produit d'Alec vise à réduire la gamme**. Vu la fragilité de la distinction Core/Incubateur (quasi-jumeaux avec variation d'individuels uniquement), vu la charge opérationnelle de Scaling, et vu l'état général de la boîte, la restructuration mentionnée par Alec vise probablement à simplifier la gamme — fusion Core+Incubateur ou suppression de l'un. Test S1-S2 : observer dans la conversation cadrage avec Alec si le sujet émerge spontanément. **Ne PAS ouvrir frontalement** ("vous allez supprimer Core ou l'Incubateur ?") — laisser Alec amener le sujet.
 
+- **HO22** — **Le produit [[Board]] est une cause structurelle de saturation de la bande passante du top management**. Board engage contractuellement Alec, Fabrice, [[Anisse Rbibe|Anisse]] et [[Axel Bombezin|Axel]] sur : 4 masterclass C-Level par an (8-16h/an par personne), présence aux 3 immersions Dubaï (6 jours/an probablement), audits stratégiques trimestriels. Si le produit compte ne serait-ce que 20-30 clients actifs, c'est **~40-60 jours/an pris sur l'agenda stratégique des 4 dirigeants**. Explique en partie le "Alec et Fabrice débordés" du Diag. Test : demander à Alec en S1 la volumétrie client Board + la part de CA + l'engagement temps réel.
+
+- **HO23** — **La boîte a un rapport fragile à la précision dans ses matériaux commerciaux premium**. La plaquette [[Board]] présente [[Anisse Rbibe]] et [[Axel Bombezin]] comme "C-Level fondateurs" alors qu'ils ne sont ni fondateurs ni associés au capital (confirmé par Boris). Abus marketing avec des implications potentielles : d'autres claims marketing sont probablement exagérés (chiffres de résultats clients, promesses de délais, engagements produit). À surveiller sur les autres matériaux commerciaux (site, dossier de presse, pitch sales, contrats). Risque opérationnel si un client premium découvre la supercherie (plainte, remboursement, litige). Test : observation des autres matériaux commerciaux quand ils seront partagés.
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -94,6 +98,8 @@ _Statut au J+14 : à compléter_
 | HO19 (positionnement produit = cause trésorerie) | Confusion ICP (Axel) + impayés Core/Incubateur (Jordan/Jade) | J+21 |
 | HO20 (Scaling = plus d'impayés) | Répartition 2-3M€ impayés par produit (Jordan/Jade) | J+21 |
 | HO21 (restructuration = réduction gamme) | Sujet émerge spontanément avec Alec en cadrage S1-S2 | J+14 |
+| HO22 (Board = saturation bande passante top) | Volumétrie Board + engagement temps (Alec, Fabrice) | J+14 |
+| HO23 (matériaux commerciaux imprécis) | Observation autres matériaux (presse, guide marque, site) | J+21 |
 
 ## Revue prévue
 

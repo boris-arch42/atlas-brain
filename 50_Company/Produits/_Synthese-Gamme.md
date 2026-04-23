@@ -9,11 +9,11 @@ tags: [moc, produits, gamme, positionnement]
 
 # 🧭 Synthèse de la gamme produits — Entrepreneurs.com
 
-> Hub de navigation et lecture stratégique de la gamme. Alimenté par les 4 plaquettes commerciales officielles partagées par Boris le 2026-04-23.
+> Hub de navigation et lecture stratégique de la gamme. Alimenté par les 5 plaquettes commerciales officielles partagées par Boris le 2026-04-23.
 
 ---
 
-## Les 4 produits
+## Les 5 produits
 
 | Produit | Durée | Phase cible | Format dominant | Prix relatif estimé |
 |---|---|---|---|---|
@@ -21,70 +21,87 @@ tags: [moc, produits, gamme, positionnement]
 | [[Incubateur]] | 8 mois | Lancement | Coaching standard + collectif | Milieu de gamme |
 | [[Accélérateur]] | 6 mois | Scaling | Coaching premium + **1 immersion 3j** | Milieu-haut de gamme |
 | [[Scaling]] | 9 mois | Scaling confirmé | Coaching intense + **4 prestations done-for-you** + **2 immersions** | Haut de gamme |
+| [[Board]] | 12 mois | Dirigeants élite | **Comité stratégique** + audits trimestriels + masterclass C-Level + **3 immersions Dubaï** | **Ultra premium** |
 
 ---
 
 ## 📊 Comparatif détaillé
 
-| Dimension | Core | Incubateur | Accélérateur | Scaling |
-|---|---|---|---|---|
-| **Durée** | 4 mois | 8 mois | 6 mois | **9 mois** |
-| **Sessions individuelles (total)** | 4 | 16 | 12 (14 si associé) | **18** |
-| **Sessions individuelles / mois** | 1 | 2 | 2 | 2 |
-| **Sessions groupe / mois** | 4 × 2h | 4 × 2h | 2 × 1h30 | 4 × 2h |
-| **E-Mastermind / mois** | ✅ | ✅ | ✅ | ✅ |
-| **Masterclass externes / mois** | ✅ | ✅ | ✅ | ✅ |
-| **Masterclass Anisse** | 1 × 1h30 | 1 × 1h30 | Q&A 90 min | 1 × 1h30 |
-| **Immersions physiques** | 0 | 0 | 1 | **2** |
-| **Prestations done-for-you** | 0 | 0 | 0 | **4 parmi 5** |
-| **ICP cohérent avec critères** | ❌ | ❌ | ✅ | ✅ |
+| Dimension | Core | Incubateur | Accélérateur | Scaling | **Board** |
+|---|---|---|---|---|---|
+| **Durée** | 4 mois | 8 mois | 6 mois | 9 mois | **12 mois** |
+| **Sessions individuelles (total)** | 4 | 16 | 12 (14 si associé) | **18** | **24** |
+| **Sessions individuelles / mois** | 1 | 2 | 2 | 2 | 2 |
+| **Audits stratégiques trimestriels** | ❌ | ❌ | ❌ | ❌ | ✅ **4/an, 12 domaines** |
+| **Sessions groupe / mois** | 4 × 2h | 4 × 2h | 2 × 1h30 | 4 × 2h | ❌ (masterclass seulement) |
+| **E-Mastermind / mois** | ✅ | ✅ | ✅ | ✅ | ❌ |
+| **Masterclass externes / mois** | ✅ | ✅ | ✅ | ✅ | ❌ |
+| **Masterclass Anisse** | 1 × 1h30 | 1 × 1h30 | Q&A 90 min | 1 × 1h30 | Dans masterclass C-Level |
+| **Masterclass "C-Level fondateurs"** | ❌ | ❌ | ❌ | ❌ | ✅ **4/an (Alec, Fabrice, Anisse, Axel)** ⚠️ |
+| **Immersions physiques** | 0 | 0 | 1 (Paris/Genève/Dubaï) | 2 | **3 (Dubaï exclusif)** |
+| **Prestations done-for-you** | 0 | 0 | 0 | **4/5** | **4/5** |
+| **Analyse IA intégrale** | ❌ | ❌ | ❌ | ❌ | ✅ |
+| **Réseau/communauté premium** | Communauté | Communauté | Communauté | Communauté | **Réseau Scale** |
+| **ICP cohérent avec critères** | ❌ | ❌ | ✅ | ✅ | ✅ |
+
+⚠️ Les "C-Level fondateurs" cités par la plaquette Board (Anisse, Axel) ne sont **ni fondateurs ni associés** — abus marketing clarifié par Boris (cf. [[Board]] pour détail).
 
 ---
 
 ## 🎯 Lectures stratégiques de la gamme
 
-### Lecture 1 — Deux gammes, pas une
+### Lecture 1 — Trois sous-gammes distinctes, pas une
 
-Ce qu'on appelle "gamme" est en réalité **deux sous-gammes distinctes** :
+Ce qu'on appelle "gamme" est en réalité **trois sous-gammes** :
 
 - **Gamme "Lancement"** : Core + Incubateur — partagent quasi tout sauf la durée et le volume individuel. Le différenciant est principalement tarifaire.
 - **Gamme "Scaling"** : Accélérateur + Scaling — vraiment différents (Accélérateur = court & expérientiel, Scaling = long & done-for-you).
+- **Gamme "Gouvernance"** : Board — produit à part entière, positionnement "comité stratégique" orienté dirigeants d'élite, distinct des approches "accompagnement" des 4 autres.
 
-La gamme scaling est **propre structurellement**. La gamme lancement est **fragile** (Core et Incubateur sont des quasi-jumeaux avec des doses différentes, pas des produits réellement distincts).
+La gamme scaling est **propre structurellement**. La gamme lancement est **fragile** (Core et Incubateur quasi-jumeaux). Board est **un OVNI** dans le mix, vraiment distinct.
 
-### Lecture 2 — Le collectif est mutualisé entre 3 produits sur 4
+### Lecture 2 — Le collectif est mutualisé entre 3 produits sur 5
 
 Core, Incubateur et Scaling ont **exactement le même volume collectif mensuel** (4 × 2h thématiques + 1 mastermind + 1 masterclass externe + 1 masterclass Anisse + 3 sessions d'expertise business).
 
-→ **Hypothèse** : les clients des 3 produits se retrouvent dans les mêmes sessions Zoom chaque mois. Si c'est le cas :
-- ✅ Côté positif : le coût marginal du collectif est quasi-nul (un animateur sert 3 produits)
-- ⚠️ Côté risque : un client Scaling à prix fort peut se sentir floué de partager ses sessions collectives avec un client Core à prix bas
+→ **Hypothèse** : les clients des 3 produits se retrouvent dans les mêmes sessions Zoom chaque mois.
+- ✅ Avantage : coût marginal du collectif quasi-nul (un animateur sert 3 produits)
+- ⚠️ Risque : un client Scaling à prix fort peut se sentir floué de partager ses sessions avec un client Core à prix bas
 
-L'Accélérateur est **le seul exclu** de cette mutualisation (2 × 1h30 au lieu de 4 × 2h) — il a ses propres sessions dédiées.
+L'**Accélérateur** est exclu (2 × 1h30 au lieu de 4 × 2h) et **Board** est complètement hors mutualisation (pas de sessions thématiques, masterclass C-Level internes exclusives).
 
-**Question ouverte** : pourquoi l'Accélérateur est-il traité à part ? Est-ce structurel ou un résidu historique ?
+### Lecture 3 — Scaling et Board portent le maximum de risque opérationnel
 
-### Lecture 3 — Scaling est le produit à plus forte exposition opérationnelle
+Scaling ("associé en CDD" + 4 done-for-you + 2 immersions) et Board (comité stratégique + 24 séances + 4 audits + 4 masterclass C-Level + 3 immersions Dubaï + 4 done-for-you) portent les engagements les plus lourds vis-à-vis des clients.
 
-Scaling porte les engagements les plus lourds vis-à-vis du client :
-- Promesse "associé en CDD dans votre business"
-- 4 prestations done-for-you (IA, Automation, Recrutement, CRM, Finance)
-- 2 immersions physiques
-- 18 sessions individuelles
+→ **Si les équipes internes sont débordées/sous-dimensionnées**, **ces 2 produits génèrent probablement le plus d'insatisfaction et d'impayés**. Les promesses fortes = les déceptions fortes.
 
-→ **Si Scaling représente une part significative du CA** et que les équipes internes sont débordées/sous-dimensionnées (comme le Diag l'indique), c'est **le produit qui génère probablement le plus d'insatisfaction et d'impayés**. Les promesses fortes = les déceptions fortes quand elles ne sont pas tenues.
+### Lecture 4 — Board sature la bande passante du top management
 
-### Lecture 4 — La gamme coûte cher à opérer
+Board engage structurellement **Alec, Fabrice, Anisse et Axel** :
+- 4 masterclass C-Level par an × probablement 2-4h par session = **8-16h/an par personne à minima**
+- Présence aux immersions Dubaï (3 × 2 jours = 6 jours/an probablement pour au moins 1-2 d'entre eux)
+- Possiblement présence aux audits stratégiques trimestriels (12 domaines évalués = audit lourd)
+- Plus la préparation, les comptes-rendus, les coordinations
 
-Maintenir 4 produits avec chacun :
+→ Si Alec dit qu'il est débordé et que Fabrice est dépassé, **Board est une cause structurelle probable**. Leur agenda stratégique est **déjà pré-engagé contractuellement** auprès des clients Board.
+
+### Lecture 5 — La gamme coûte cher à opérer
+
+Maintenir 5 produits avec chacun :
 - Sa plaquette, son positionnement, son discours sales
 - Son onboarding, son check-up, son offboarding
-- Sa communauté potentiellement distincte
-- Ses prestations spécifiques (pour Scaling)
+- Sa communauté potentiellement distincte (Réseau Scale pour Board)
+- Ses prestations spécifiques (pour Scaling et Board)
+- Son engagement C-Level (pour Board spécifiquement)
 
 ...**pour une boîte en crise de trésorerie + middle management absent**, c'est coûteux en énergie opérationnelle.
 
-La "restructuration produit en cours" mentionnée par Alec (H2 du DR [[2026-04-30 - Operating Partner chez Entrepreneurs.com]]) pourrait viser **à réduire la gamme** — potentiellement en fusionnant Core et Incubateur, ou en supprimant l'un des deux.
+La "restructuration produit en cours" mentionnée par Alec (H2 du DR) pourrait viser à **réduire la gamme** — fusion Core+Incubateur, ou suppression de l'un. Peu probable sur Scaling/Board car ce sont les produits premium qui génèrent de la marge.
+
+### Lecture 6 — Board peut sur-générer des impayés haute valeur
+
+Si les impayés sont concentrés sur les produits premium, Board devrait être encore pire que Scaling : **plus cher + plus long (12 mois) + promesses encore plus lourdes ("comité stratégique")**. Même peu de clients Board insatisfaits = part disproportionnée des impayés en valeur.
 
 ---
 
@@ -181,8 +198,9 @@ Rappel : les pôles communication et marketing sont **red flag #1 d'Alec** (je n
 - [[Incubateur]]
 - [[Incubateur Core]]
 - [[Scaling]]
+- [[Board]]
 - [[50_Company/Positioning]] (à enrichir avec les infos des plaquettes)
-- [[50_Company/Vision-Mission]] (mission commune aux 4 plaquettes)
+- [[50_Company/Vision-Mission]] (mission commune aux 5 plaquettes)
 - [[50_Company/History]] (chiffres clés et histoire)
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] (H2 restructuration produit)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO19/20/21 à ajouter)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO19/20/21/22/23)
