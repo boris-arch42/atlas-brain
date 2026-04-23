@@ -22,12 +22,14 @@ tags: [company, history, entrepreneurs-com]
 - **Premier produit / offre** : accompagnement online des consultants
 - **Marché cible initial** : consultants / coachs / prestataires francophones
 
-### 2019 — Premiers séminaires physiques
-- De centaines → milliers de participants
+### 2019 — Premiers séminaires physiques + repositionnement
+- De centaines → milliers de participants (séminaires)
 - Construction d'une communauté engagée
+- **Fin 2019** : bascule stratégique vers l'ensemble du tissu entrepreneurial (au-delà des consultants/coachs) → **naissance d'Entrepreneurs.com**
+- Source : [[Dossier-de-presse-Entrepreneurs]]
 
-### 2020 — Repositionnement global
-- Achat du domaine **Entrepreneurs.com**
+### 2020 — Consolidation Entrepreneurs.com
+- Entrepreneurs.com opérationnel comme marque principale
 - Ambition : accompagner tout entrepreneur, tout secteur, toute taille
 
 ### 2022 — Système d'accompagnement sur-mesure
@@ -71,10 +73,10 @@ tags: [company, history, entrepreneurs-com]
 
 ## Pivots structurants
 
-### Pivot 1 — Repositionnement LeConsultant.fr → Entrepreneurs.com (2020)
-- **Date** : 2020
+### Pivot 1 — Repositionnement LeConsultant.fr → Entrepreneurs.com (fin 2019)
+- **Date** : **fin 2019** (précision du dossier de presse, pas 2020 comme initialement consigné)
 - **Contexte** : la marque et le positionnement "consultants" devenaient trop étroits pour l'ambition
-- **Décision** : rachat du domaine Entrepreneurs.com et bascule totale
+- **Décision** : ouverture au tissu entrepreneurial entier + création de la structure Entrepreneurs.com
 - **Résultat** : ouverture multi-sectorielle qui a permis le scaling
 
 ### Pivot 2 — Passage au mentorat stratégique sur-mesure (2022)

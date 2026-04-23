@@ -102,6 +102,36 @@ Déjà documenté. Règles en place :
 
 ---
 
+## Bio publique (source [[Dossier-de-presse-Le-Declic]])
+
+### Profil
+
+- **Nationalité** : **suisse** (explique les bureaux Genève, le lien Suisse dans le positionnement)
+- **1ère entreprise lancée à 19 ans**
+- **4 structures pré-Entrepreneurs.com** :
+  - Une agence marketing
+  - L'écosystème leconsultant.fr (ancien nom d'Entrepreneurs.com)
+  - Une société d'investissement locatif clé-en-main
+  - Un cabinet comptable
+- **Investissements** : a investi au capital de plusieurs entreprises en parallèle
+
+### Lecture
+
+Profil **serial entrepreneur + investisseur**, pas "fondateur mono-projet". Explique :
+- Son implication dans **Atlas Ventures** (la holding de Boris)
+- Son rôle dans **[[Riven Agency]]** (co-associé avec Boris)
+- Sa capacité à identifier des profils/opportunités et à entrer au capital (pertinent pour la compréhension du réseau Entrepreneurs.com et du deal-flow potentiel)
+
+### Figure publique via Le Déclic
+
+- **Créateur et animateur** du podcast **Le Déclic** (*"le média entrepreunarial de référence"*)
+- **+300 épisodes** publiés, **+6M vues vidéo**, **+1M écoutes audio**
+- Réseau d'invités : Jacques Séguéla, Frederic Mazzella (Blablacar), Jonathan Anguelov (Aircall), Kelly Massol (Les Secrets de Loly), Anthony Bourbon (Blast Club), Eric Larcheveque (Ledger), Laurent Tapie, Luc Julia, Thomas Rebaud (Meero), Fabien Pinckaers (Odoo), et 17+ autres nommés
+- **Implication pour ma posture** : Alec est une figure media dans l'écosystème entrepreneurial francophone. Notoriété personnelle construite. Contraste avec ma posture "invisible operator" — à utiliser en complémentarité, pas en opposition. Ne pas accepter d'être placé en visibilité (podcast, interviews) sans cadrage explicite.
+- **Le podcast comme infrastructure relationnelle** : les figures externes mentionnées dans les plaquettes [[Board]] / [[Scaling]] (Kelly Massol, Anthony Bourbon, Jonathan Anguelov, Laurent Tapie) sont toutes passées sur Le Déclic. La promesse "accès au réseau d'Alec" repose sur cet actif podcast.
+
+---
+
 ## Expertise / Zone de génie
 _Ce pour quoi il est la meilleure ressource._
 
@@ -111,11 +141,12 @@ _Ce pour quoi il est la meilleure ressource._
 - _(à compléter à l'observation)_
 
 ## Historique dans la boîte
-- **2018** : Lancement de LeConsultant.fr
-- **2020** : Achat du domaine Entrepreneurs.com, repositionnement
+- **2018 (à 19 ans ou peu après)** : Lancement de LeConsultant.fr, après avoir lancé / dirigé plusieurs structures précédentes (agence marketing, investissement locatif, cabinet comptable)
+- **Fin 2019** : Bascule LeConsultant.fr → Entrepreneurs.com
 - **2024** : Délégation du rôle CEO à Fabrice Jaeger — Alec reste fondateur
 - **Entre 2024 et 2026** : **Reprise du rôle CEO par Alec**, Fabrice rétrogradé COO
 - **Co-fondation Riven Agency** : _(date à compléter)_
+- **Création et animation du podcast Le Déclic** : 300+ épisodes, date de lancement à confirmer (probablement ~2020-2021)
 - **Jalons** : _(à compléter)_
 
 ## Contexte perso utile (pro)
@@ -130,6 +161,8 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] (DR mère — H8 sur impulsivité)
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (source des attentes et red flags)
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 impulsivité)
+- [[Dossier-de-presse-Le-Declic]] (bio publique + podcast comme actif de marque)
+- [[Dossier-de-presse-Entrepreneurs]] (édito d'Alec)
 - [[Fabrice Jaeger]]
 - [[Alexis Gresoviac]]
 - [[Sophia]]

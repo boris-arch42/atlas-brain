@@ -79,6 +79,8 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
 
 - **HO23** — **La boîte a un rapport fragile à la précision dans ses matériaux commerciaux premium**. La plaquette [[Board]] présente [[Anisse Rbibe]] et [[Axel Bombezin]] comme "C-Level fondateurs" alors qu'ils ne sont ni fondateurs ni associés au capital (confirmé par Boris). Abus marketing avec des implications potentielles : d'autres claims marketing sont probablement exagérés (chiffres de résultats clients, promesses de délais, engagements produit). À surveiller sur les autres matériaux commerciaux (site, dossier de presse, pitch sales, contrats). Risque opérationnel si un client premium découvre la supercherie (plainte, remboursement, litige). Test : observation des autres matériaux commerciaux quand ils seront partagés.
 
+- **HO24** — **Le Déclic est un centre de coût significatif sans attribution pipeline démontrée**. Podcast avec équipe interne dédiée + studio exclusif Champs Élysées + 1 épisode/semaine (confirmé Boris 2026-04-23). Aucune mutualisation de l'actif avec les immersions. Coût annuel complet estimé en ordre de grandeur : **250K€-650K€/an** (loyer premium + 3-6 ETP + production). La contribution au pipeline commercial est **inconnue** au 23/04 — pas de tracking d'attribution connu. Dans le contexte (trésorerie en fonte, commandement 7 *"décision doit servir l'EBITDA"*), c'est une zone de cohérence à verifier. **Attention** : sujet émotionnellement attaché à Alec (son média personnel, son infrastructure relationnelle, son canal de notoriété). Ne PAS challenger dans les 30-60 premiers jours. Test : (1) obtenir le coût complet en S2-S3 via Jordan/Axel, (2) obtenir une attribution pipeline même qualitative en S1-S2 via Axel. Décision éventuelle post-J+90, présentée à Alec comme "optimisation d'attribution pour rentabiliser l'actif" plutôt que "remise en question".
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -100,6 +102,7 @@ _Statut au J+14 : à compléter_
 | HO21 (restructuration = réduction gamme) | Sujet émerge spontanément avec Alec en cadrage S1-S2 | J+14 |
 | HO22 (Board = saturation bande passante top) | Volumétrie Board + engagement temps (Alec, Fabrice) | J+14 |
 | HO23 (matériaux commerciaux imprécis) | Observation autres matériaux (presse, guide marque, site) | J+21 |
+| HO24 (Le Déclic = centre coût sans ROI démontré) | Coût complet (Jordan) + attribution pipeline qualitative (Axel) | J+30 |
 
 ## Revue prévue
 

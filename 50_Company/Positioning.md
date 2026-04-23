@@ -17,10 +17,15 @@ tags: [company-core, positioning, icp, market]
 ### Qui on sert (chiffrage officiel)
 
 - **Cible principale** : **TPE et PME établies avec CA entre 300 000 € et 5 000 000 €**
+- **Typologie sectorielle dominante** (source [[Dossier-de-presse-Entrepreneurs]]) : **secteurs traditionnels — artisanat, services, professions libérales**
 - **Volume** : des milliers d'entrepreneurs / an
-- **Géographie** : **+30 pays francophones**
-- **Tous secteurs** : service, industrie, digital, artisanat, formation, immobilier
+- **Géographie** : **+30 pays francophones** (ambition déclarée : extension internationale hors francophone à venir)
+- **Tous secteurs** (+100 au total) : service, industrie, digital, artisanat, formation, immobilier
 - **Cible secondaire** (faible volume) : *"quelques centaines de porteurs de projets chaque année"*
+
+### Portrait type du client (verbatim dossier de presse)
+
+> *"Entrepreneurs passionnés, mais souvent épuisés, submergés par l'opérationnel, isolés et sans stratégie claire. Bien qu'ils aient une expertise solide dans leur domaine, ils manquent souvent de structure et d'accompagnement pour gérer des enjeux clés comme la stratégie, la gestion, l'automatisation et l'acquisition de clients."*
 
 ### Critères de sélection (plaquettes produits)
 
@@ -37,9 +42,15 @@ Profils qui ont :
 - Entrepreneurs qui veulent bricoler des solutions éphémères
 - Profils non-coachables (rigidité, fermeture au feedback)
 
-### Trigger d'achat
+### Triggers d'achat (verbatim dossier de presse)
 
-_(À compléter — pas d'info explicite dans les matériaux pour l'instant. Hypothèse : plafond de croissance, isolement dirigeant, crise opérationnelle, besoin de structurer pour le prochain palier.)_
+Les clients arrivent principalement avec 3 priorités :
+
+1. **Structurer et automatiser** leur entreprise
+2. **Retrouver un équilibre** vie pro / vie perso
+3. **Redevenir maîtres** de leur entreprise (sortir de l'opérationnel écrasant)
+
+→ Ces 3 triggers sont les **leviers commerciaux officiels**. Utiles pour évaluer la cohérence du discours sales vs la promesse marque. À confronter avec ce qu'Axel (Directeur commercial) observe réellement chez les prospects.
 
 ---
 
@@ -99,6 +110,18 @@ Combinaison de facteurs qui semblent difficiles à copier individuellement :
 - **Bureaux physiques Paris, Genève, Dubaï** (modèle phygital crédible)
 
 ⚠️ Note : la **défensibilité réelle** de ces avantages est questionnable dans le contexte actuel (crise trésorerie, départs top management, sous-effectif). À creuser.
+
+---
+
+## Ambitions affichées
+
+Selon [[Dossier-de-presse-Entrepreneurs]] :
+- **Court terme** : *"Devenir le hub de référence pour les entrepreneurs francophones"*
+- **Moyen terme** : *"S'imposer comme une autorité européenne dans l'accompagnement à la croissance"*
+- **Long terme** : expansion hors francophone, *"bientôt à l'international"*
+- **Ton stratégique** : *"être le passage obligatoire pour les dirigeants qui veulent casser un plafond de verre"*
+
+⚠️ Note : ces ambitions datent du dossier de presse (probablement 2024-2025) et peuvent ne plus être la priorité d'Alec en 2026 (contexte crise cash + recentrage EBITDA). À vérifier avec Alec en S1 : l'ambition internationale est-elle toujours active ou mise en pause ?
 
 ---
 
