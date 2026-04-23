@@ -21,8 +21,10 @@ Ce n'est pas un énième document de "valeurs corporate" creuses. C'est un **man
 - Des **principes directeurs** sur la performance, la structure et l'évolution
 - Un **message implicite de durcissement** des standards après une période de relâchement
 
-Auteur probable : [[Alec Henry]] (ou top management proche). À confirmer avec Boris.
-Diffusion probable : interne (top management, middle management, peut-être toute la boîte).
+**Auteur** : [[Alec Henry]] en majorité (confirmé par Boris le 2026-04-23).
+**Diffusion** : **toute l'entreprise, communiqué de nombreuses fois** (pas uniquement le top ou le middle — toute la boîte, en répétition).
+**Circulation depuis** : début 2026 (~4 mois au moment de ma prise de poste).
+**Actions concrètes associées** : inconnu au 23 avril (ni Boris ni moi ne savons si ce document est suivi d'évaluations de performance, de plans de départs, de plans de formation — ou s'il reste un document de communication sans ancrage opérationnel).
 
 ---
 
@@ -96,14 +98,14 @@ Diffusion probable : interne (top management, middle management, peut-être tout
 
 ## 🎯 Ce que ce document dit sur l'état d'esprit du top management
 
-### 1. Durcissement assumé
+### 1. Durcissement assumé, porté par Alec personnellement
 
 Les commandements 2, 3 et 5 formulent une pression ouverte sur les collaborateurs :
 - "Ce qui est toléré devient la règle" → fin de la tolérance managériale
 - "Stagner, c'est sortir" / "refuse d'évoluer freine l'équipe" → menace à peine voilée de séparation
 - "celui qui n'augmente pas sa valeur avec l'IA devient obsolète" → avertissement sur la valeur ajoutée individuelle
 
-**Signal** : la direction se durcit après avoir constaté qu'il y a eu trop de laxisme (sur-embauche, rémunérations doublées, mauvais recrutements selon le Diag). C'est un recadrage, pas une communication d'inspiration.
+**Signal** : la direction se durcit après avoir constaté qu'il y a eu trop de laxisme (sur-embauche, rémunérations doublées, mauvais recrutements selon le Diag). C'est un recadrage, pas une communication d'inspiration. **Le fait qu'Alec soit l'auteur majoritaire** et qu'il le martèle depuis 4 mois à toute l'entreprise renforce la lecture : c'est **sa** vision personnelle, pas un consensus corporate. Quand je cite un commandement, je cite Alec, pas un document anonyme.
 
 ### 2. Pivot financier clair : CA → EBITDA
 
@@ -139,10 +141,12 @@ Le commandement 3 ("Celui qui refuse d'évoluer freine l'équipe") + commandemen
 
 ### Risques à anticiper
 
-- **Risque 1 — Arrivée lue comme "exécution" du commandement 3** : le middle management peut me voir comme "celui qui va les pousser dehors". À neutraliser :
+- **Risque 1 (aggravé) — Arrivée lue comme "mise en œuvre" d'une menace répétée depuis 4 mois** : si les équipes entendent *"stagner c'est sortir"* depuis début 2026 sans voir d'action concrète, mon arrivée peut être perçue comme **le passage de la parole à l'acte**. Même si ce n'est absolument pas mon mandat (je suis là pour structurer, pas pour faire le ménage), la coïncidence temporelle est défavorable. À neutraliser avec la plus grande précaution :
   - Premier message d'arrivée doit **insister sur le support et l'empowerment**, pas sur la sélection
   - Éviter toute phrase qui évoque "standards plus élevés" ou "plus d'exigence" dans les 4 premières semaines
   - Montrer par l'action que je les aide, pas que je les juge
+  - Ne **pas** citer le commandement 3 publiquement dans mes premières semaines (c'est précisément celui que les collaborateurs auront entendu comme menace)
+  - Citer en priorité les commandements 4 (équipe > ego), 6 (structure), 9 (systèmes), 10 (humilité+exigence) — ceux qui positionnent la structuration comme un cadeau, pas une menace
 
 - **Risque 2 — Alignement IA subi** : si je pousse les frameworks Atlas-Brain / IA trop vite, ça peut être lu comme *"Boris arrive avec l'IA qui va remplacer les équipes"* (commandement 5). À dé-risquer :
   - Introduire l'IA comme **outil d'augmentation personnelle** d'abord (aider chaque personne à faire son boulot mieux)
@@ -177,13 +181,13 @@ La forte cohérence entre la Vision 2026 et ma mission mérite d'être notée da
 
 ---
 
-## ❓ Questions ouvertes à creuser
+## ❓ Questions encore ouvertes à creuser en S1
 
-- **Qui a rédigé ce document ?** Alec seul ? Avec Fabrice ? Avec une agence externe ?
-- **À qui est-il diffusé ?** Top management uniquement ? Toute la boîte ? Publié sur le site ?
-- **Depuis quand circule-t-il ?** Communiqué en début d'année ? Récemment ?
-- **Est-il accompagné d'actions concrètes** (évaluations, plans de départs, plans de formation) ou c'est un document de communication sans suite opérationnelle ?
-- **Les équipes y adhèrent-elles ou y résistent-elles ?** Observer les réactions en 1-to-1 S1.
+- **Gap diagnostic-action** : le document circule depuis **~4 mois** dans toute la boîte, martelé par Alec, sans qu'on sache s'il a été suivi d'actions concrètes. Deux scénarios possibles :
+  - **Scénario A (gap diag-action)** : Alec martèle mais le système ne bouge pas. Risque de cynisme accumulé chez les collaborateurs ("on nous le répète mais rien ne change"). Mon arrivée peut alors être lue comme *"enfin quelqu'un qui fait"* ou au contraire *"c'est lui qui va exécuter enfin"*.
+  - **Scénario B (actions invisibles depuis l'extérieur)** : il y a des actions concrètes (recadrages individuels, évaluations, plans de départs silencieux) que Boris ne voit pas encore. À observer en S1-S2 dans les conversations en 1-to-1.
+- **Les équipes y adhèrent-elles ou y résistent-elles ?** Observer les réactions en 1-to-1 S1 — qui cite les commandements spontanément, qui les évite, qui les moque en off.
+- **Le document est-il utilisé en pilotage** (COMEX, revues d'équipe, évaluations) ou uniquement comme communication de culture ?
 
 ---
 
