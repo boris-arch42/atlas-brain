@@ -23,7 +23,9 @@ tags: [head-of-communication, noyau-solide]
 
 - **Noyau solide identifié par Alec** (Q3 du cadrage 2026-04-23) — dans les 10 personnes dont il est critique qu'elles comprennent ma capacité à aider.
 - **A refusé son bonus** (cf. [[Diag - Ce qui me frappe comme étrange ou inefficace]], section "Sur-effectif et gens trop payés") — signal à interpréter avec prudence.
+- **Owner du Guide de marque V3 (juin 2025)** — cf. [[Brand-Guidelines]]. Elle est l'**auteure et gardienne officielle** de la charte graphique, du manifesto *"Votre impossible, notre minimum"* et des 6 valeurs officielles. Signal d'expertise et de rigueur. Le guide est son livrable majeur et son territoire.
 - **La Communication est un red flag #1 d'Alec** : ce n'est PAS mon périmètre opérationnel. Mon rôle vis-à-vis d'Océane n'est pas de reprendre ou auditer son pôle, mais de voir comment je peux l'aider à accélérer / débloquer.
+- **Tension potentielle à anticiper** : le guide de marque 2025 pose 6 valeurs humanistes (*"bienveillance, loyauté, approche holistique"* pour Exemplarité ; *"valorisant chaque membre"* pour Esprit d'équipe). Les [[Vision-2026|10 commandements 2026]] portent un registre durci (*"stagner c'est sortir"*, *"devient obsolète"*). Si Océane s'identifie fortement aux 6 valeurs, elle peut vivre le durcissement culturel comme une trahison de sa propre œuvre. À observer en 1-to-1.
 
 ## 1-to-1 du 2026-04-23 (après-midi, 30 min)
 - Contexte : pré-prise de poste, à mon initiative.
@@ -128,3 +130,6 @@ _(à compléter après observation)_
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (mentionnée dans les 10 stakeholders)
 - [[Diag - Ce qui me frappe comme étrange ou inefficace]] (bonus refusé)
 - [[Diag - Personnes que je dois débriefer en priorité]] (priorité 2 → advancée au 23 avril)
+- [[Brand-Guidelines]] (V3 juin 2025 — owner)
+- [[Vision-Mission]] (élaborée à partir de son manifesto)
+- [[Vision-2026]] (durcissement à noter vs les 6 valeurs 2025)

@@ -194,9 +194,11 @@ La forte cohérence entre la Vision 2026 et ma mission mérite d'être notée da
 ## Notes liées
 
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] (DR — alignement avec les 10 commandements)
-- [[50_Company/Vision-Mission]] (à enrichir avec les valeurs extraites)
+- [[50_Company/Brand-Guidelines]] (V3 juin 2025 — **les 6 valeurs humanistes** qui précédaient les 10 commandements, pour comprendre le durcissement culturel sur 6-12 mois)
+- [[50_Company/Vision-Mission]] (élaborée à partir du manifesto + 6 valeurs + 10 commandements)
 - [[50_Company/History]] (contexte 2026 — crise + durcissement)
 - [[Règles d'engagement — Operating Partner Entrepreneurs.com]] (alignement posture humble/redoutable)
 - [[Diag - Ce qui me frappe comme étrange ou inefficace]] (sur-embauche / laxisme → explique le durcissement)
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO21 réduction gamme cohérente avec commandement 7)
-- [[Alec Henry]] (auteur probable)
+- [[Alec Henry]] (auteur majoritaire)
+- [[Océane De Queiros]] (owner du Guide de marque 2025 — tension potentielle avec durcissement 2026)

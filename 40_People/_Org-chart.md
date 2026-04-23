@@ -14,6 +14,7 @@ last-updated: 2026-04-22
 - **CEO** : [[Alec Henry]]
 - **COO** : [[Fabrice Jaeger]]
 - **Operationg Partner** : [[Boris Arduy]]
+- **CCO** : [[Océane De Queiros]]
 - **CFO** : [[]]
 - **CTO** : [[]]
 - **CMO** : [[]]
