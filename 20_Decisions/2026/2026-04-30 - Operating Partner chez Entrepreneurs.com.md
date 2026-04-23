@@ -49,7 +49,7 @@ Sur la base du [[Diag - Ce qui me frappe comme étrange ou inefficace]] et du [[
 ### Contraintes politiques et humaines à nommer
 
 - **Impulsivité d'Alec** : il le reconnaît lui-même — *"parfois j'agis impulsivement et on revoit tout tout tout tout tout de A à Z"*. Pattern structurel qui peut défaire mon travail sans garde-fou. Contrainte à contenir, pas à combattre frontalement.
-- **Départ d'[[Alexis]] (Chief of Staff) au 30 avril 2026** — confidentiel. Alexis est de facto mon prédécesseur fonctionnel. **Décision explicite** : je refuse d'être positionné comme son héritier direct (cf. Q-A de l'archive cadrage) ; pas de handover direct, pas de 1-to-1 avec lui. Il faut cadrer formellement avec Fabrice semaine 1 que ses dossiers ne me tombent pas dessus par défaut.
+- **Départ d'[[Alexis Gresoviac]] (Chief of Staff) au 30 avril 2026** — confidentiel. Alexis est de facto mon prédécesseur fonctionnel. **Décision explicite** : je refuse d'être positionné comme son héritier direct (cf. Q-A de l'archive cadrage) ; pas de handover direct, pas de 1-to-1 avec lui. Il faut cadrer formellement avec Fabrice semaine 1 que ses dossiers ne me tombent pas dessus par défaut.
 - **Double-lien Alec** (CEO Entrepreneurs.com + co-fondateur Riven) déjà documenté.
 
 ### Signaux qui ont déclenché la prise de poste
@@ -181,7 +181,7 @@ Le retour offre par ailleurs un terrain réel pour industrialiser les frameworks
 - 2026-04-~ — Validation par Fabrice (COO) de l'arrivée
 - 2026-04-23 — Réponses de cadrage d'Alec reçues (cf. archive dédiée) ; DR enrichi du diagnostic consolidé
 - 2026-04-30 — Décision actée et documentée ([[Boris Arduy]], [[Alec Henry]], [[Fabrice Jaeger]])
-- 2026-04-30 — Départ d'[[Alexis]] (Chief of Staff, prédécesseur fonctionnel) — confidentiel
+- 2026-04-30 — Départ d'[[Alexis Gresoviac]] (Chief of Staff, prédécesseur fonctionnel) — confidentiel
 - 2026-05-01 — Prise de poste effective en tant qu'Operating Partner
 - 2026-07 — Arrivée prévue de [[Sophia]] (co-COO externe)
 
@@ -193,7 +193,7 @@ Le retour offre par ailleurs un terrain réel pour industrialiser les frameworks
 - [[Règles d'engagement — Operating Partner Entrepreneurs.com]] (règles perso)
 - [[Alec Henry]] (CEO + co-fondateur Riven)
 - [[Fabrice Jaeger]] (COO)
-- [[Alexis]] (Chief of Staff sortant — prédécesseur fonctionnel, non-hérité volontairement)
+- [[Alexis Gresoviac]] (Chief of Staff sortant — prédécesseur fonctionnel, non-hérité volontairement)
 - [[Sophia]] (co-COO externe, arrivée juillet 2026)
 - [[50_Company/Vision-Mission]]
 - [[50_Company/Metrics-North-Star]]

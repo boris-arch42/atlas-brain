@@ -54,7 +54,7 @@ tags: [moc, prise-de-poste, operating-partner]
 - [[Boris Arduy]] — moi
 
 ### Transitions
-- [[Alexis]] — Chief of Staff **sortant le 30 avril 2026** (départ confidentiel, non-hérité volontairement)
+- [[Alexis Gresoviac]] — Chief of Staff **sortant le 30 avril 2026** (départ confidentiel, non-hérité volontairement)
 - [[Sophia]] — co-COO externe **entrante juillet 2026**
 
 ## Couche entreprise (`50_Company/`)

@@ -90,7 +90,7 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 - Rémunération (Alec a évoqué "faire l'économie de ça" comme scénario) ?
 - Est-elle au courant de ma prise de poste ? Réciproquement, a-t-elle été mentionnée à Fabrice ?
 
-### Sur [[Alexis]] (Chief of Staff sortant)
+### Sur [[Alexis Gresoviac]] (Chief of Staff sortant)
 - Ce qu'il pilotait concrètement — **à poser à Fabrice semaine 1, pas à Alexis directement** (décision non-héritage).
 - Raisons de son départ : qui a initié, quelles conditions ?
 - État de la communication interne prévue sur son départ.

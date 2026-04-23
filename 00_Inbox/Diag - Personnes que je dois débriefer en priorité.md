@@ -64,7 +64,7 @@ _Personnes sur qui je veux une observation en groupe avant un 1-to-1 direct._
 
 ## Personnes à NE PAS débriefer en 1-to-1
 
-### [[Alexis]] — Chief of Staff sortant (30 avril 2026)
+### [[Alexis Gresoviac]] — Chief of Staff sortant (30 avril 2026)
 **Décision explicite** (cf. Q-A archive cadrage) :
 - Tensions historiques avec moi.
 - Refus volontaire de me positionner comme son héritier direct — pas de handover.
