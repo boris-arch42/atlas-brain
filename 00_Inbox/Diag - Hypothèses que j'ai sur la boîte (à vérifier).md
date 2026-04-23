@@ -81,6 +81,8 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
 
 - **HO24** — **Le Déclic est un centre de coût significatif sans attribution pipeline démontrée**. Podcast avec équipe interne dédiée + studio exclusif Champs Élysées + 1 épisode/semaine (confirmé Boris 2026-04-23). Aucune mutualisation de l'actif avec les immersions. Coût annuel complet estimé en ordre de grandeur : **250K€-650K€/an** (loyer premium + 3-6 ETP + production). La contribution au pipeline commercial est **inconnue** au 23/04 — pas de tracking d'attribution connu. Dans le contexte (trésorerie en fonte, commandement 7 *"décision doit servir l'EBITDA"*), c'est une zone de cohérence à verifier. **Attention** : sujet émotionnellement attaché à Alec (son média personnel, son infrastructure relationnelle, son canal de notoriété). Ne PAS challenger dans les 30-60 premiers jours. Test : (1) obtenir le coût complet en S2-S3 via Jordan/Axel, (2) obtenir une attribution pipeline même qualitative en S1-S2 via Axel. Décision éventuelle post-J+90, présentée à Alec comme "optimisation d'attribution pour rentabiliser l'actif" plutôt que "remise en question".
 
+- **HO25** — ~~**Le portefeuille d'entités parallèles d'Alec crée des flux inter-entités avec Entrepreneurs.com**~~ — **INVALIDÉE 2026-04-23**. Boris a confirmé que Scalab et Numadeo **ne sont pas prestataires** d'Entrepreneurs.com, et que les autres entités (Prudenzia, cabinet comptable, Scale X, Film, B.A.L., Sommet Virtuel) **ne concernent pas Entrepreneurs.com**. Pas de conflit d'intérêt structurel sur ce vecteur. Pas de cartographie active à déclencher. Passe en mode **observation passive** : si une info contradictoire émerge en S1-S2 (ex : facture Scalab/Numadeo dans la compta), rouvrir l'hypothèse. Sinon, clos.
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -103,6 +105,7 @@ _Statut au J+14 : à compléter_
 | HO22 (Board = saturation bande passante top) | Volumétrie Board + engagement temps (Alec, Fabrice) | J+14 |
 | HO23 (matériaux commerciaux imprécis) | Observation autres matériaux (presse, guide marque, site) | J+21 |
 | HO24 (Le Déclic = centre coût sans ROI démontré) | Coût complet (Jordan) + attribution pipeline qualitative (Axel) | J+30 |
+| HO25 (portfolio Alec = flux inter-entités) | ~~Cartographie prestataires~~ → **Invalidée 2026-04-23** | — |
 
 ## Revue prévue
 

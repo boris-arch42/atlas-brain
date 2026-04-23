@@ -102,33 +102,65 @@ Déjà documenté. Règles en place :
 
 ---
 
-## Bio publique (source [[Dossier-de-presse-Le-Declic]])
+## Bio publique (source [[Dossier-de-presse-Le-Declic]] + [[Dossier-de-presse-Alec-Henry]])
 
 ### Profil
 
-- **Nationalité** : **suisse** (explique les bureaux Genève, le lien Suisse dans le positionnement)
-- **1ère entreprise lancée à 19 ans**
-- **4 structures pré-Entrepreneurs.com** :
-  - Une agence marketing
-  - L'écosystème leconsultant.fr (ancien nom d'Entrepreneurs.com)
-  - Une société d'investissement locatif clé-en-main
-  - Un cabinet comptable
-- **Investissements** : a investi au capital de plusieurs entreprises en parallèle
+- **Nationalité** : **suisse** — né à **Payerne, Suisse, 1995** (~31 ans en 2026)
+- **Contexte d'enfance** : *"enfance marquée par le départ du père et une immersion dans les jeux vidéo"* (verbatim dossier de presse). ⚠️ Info sensible — à garder comme clé de compréhension personnelle, jamais à mobiliser en conversation.
+- **Formation** : apprentissage **technologue en emballage** (4 ans en usine dès 16 ans). Pas de cursus grande école. **Autodidacte de terrain**.
+- **Première expérience business** : **MLM à 19 ans** (2014), premiers revenus supérieurs à l'usine.
+- **1ère entreprise structurée à 22 ans** : agence marketing (2017), croissance 10K → 100K€/mois.
 
-### Lecture
+### Lecture de posture pour moi
 
-Profil **serial entrepreneur + investisseur**, pas "fondateur mono-projet". Explique :
-- Son implication dans **Atlas Ventures** (la holding de Boris)
-- Son rôle dans **[[Riven Agency]]** (co-associé avec Boris)
-- Sa capacité à identifier des profils/opportunités et à entrer au capital (pertinent pour la compréhension du réseau Entrepreneurs.com et du deal-flow potentiel)
+Profil **autodidacte de terrain**, construit par résultats et instinct plutôt que par diplomation. Implications :
 
-### Figure publique via Le Déclic
+- **Présenter mes frameworks comme accélérateurs concrets**, pas comme méthodologies conceptuelles
+- Éviter jargon consulting/strategy — préférer vocabulaire concret et résultats mesurables
+- **Valoriser son instinct et son expérience terrain** — mon rôle n'est pas de remplacer son intuition mais de la rendre reproductible et scalable par d'autres
+- Respecter la **quête de reconnaissance saine** qui accompagne son parcours (livres, podcast, conférences, 600K followers) — c'est la contrepartie logique d'une construction partant de loin
 
-- **Créateur et animateur** du podcast **Le Déclic** (*"le média entrepreunarial de référence"*)
-- **+300 épisodes** publiés, **+6M vues vidéo**, **+1M écoutes audio**
-- Réseau d'invités : Jacques Séguéla, Frederic Mazzella (Blablacar), Jonathan Anguelov (Aircall), Kelly Massol (Les Secrets de Loly), Anthony Bourbon (Blast Club), Eric Larcheveque (Ledger), Laurent Tapie, Luc Julia, Thomas Rebaud (Meero), Fabien Pinckaers (Odoo), et 17+ autres nommés
-- **Implication pour ma posture** : Alec est une figure media dans l'écosystème entrepreneurial francophone. Notoriété personnelle construite. Contraste avec ma posture "invisible operator" — à utiliser en complémentarité, pas en opposition. Ne pas accepter d'être placé en visibilité (podcast, interviews) sans cadrage explicite.
-- **Le podcast comme infrastructure relationnelle** : les figures externes mentionnées dans les plaquettes [[Board]] / [[Scaling]] (Kelly Massol, Anthony Bourbon, Jonathan Anguelov, Laurent Tapie) sont toutes passées sur Le Déclic. La promesse "accès au réseau d'Alec" repose sur cet actif podcast.
+### Portefeuille d'entités (périmètre clarifié 2026-04-23)
+
+Alec est impliqué dans **9+ entités documentées** (cf. [[Dossier-de-presse-Alec-Henry]] pour la liste complète) :
+
+- [[Entrepreneurs.com]] — boîte principale, fondateur + **seul actionnaire**
+- **Le Déclic** — podcast interne, créateur + animateur (depuis sept 2022)
+- **Scalab** — agence marketing, co-créateur — ✅ **pas prestataire** d'Entrepreneurs.com
+- **Numadeo** — agence de production, co-créateur — ✅ **pas prestataire** d'Entrepreneurs.com
+- **Prudenzia Immobilier** — associé au capital — hors périmètre
+- **Cabinet comptable à Paris** — co-fondateur 2019 — hors périmètre
+- **Scale X** — mastermind 2021 — hors périmètre
+- **Film Entrepreneurs** — créateur 2021 — hors périmètre
+- **[[Riven Agency]]** — co-fondateur avec Boris
+
+✅ **Clarification majeure 2026-04-23** : les entités parallèles d'Alec **ne sont pas prestataires** d'Entrepreneurs.com et **ne concernent pas** mon périmètre d'Operating Partner. Pas de flux inter-entités à tracker. HO25 largement invalidée.
+
+### Gouvernance capitalistique Entrepreneurs.com (résolu 2026-04-23)
+
+- **Février 2025** : *"Ouverture du capital Entrepreneurs.com pour un associé stratégie"* (verbatim dossier de presse personnel)
+- **Opération finalement non menée à terme** (confirmé par Boris 2026-04-23)
+- **Alec est resté seul actionnaire** d'Entrepreneurs.com
+
+→ **Gouvernance capitalistique simple** : pas de tiers actionnaire, pas de zone grise. Alec décide seul. Corollaire : aucun garde-fou capitalistique naturel pour contenir l'impulsivité (HO15) — mon rôle structurel est d'autant plus important.
+
+→ **Clé de lecture silencieuse** : la tentative puis l'abandon indiquent peut-être une difficulté réelle à partager le pouvoir au plus haut niveau (cohérent avec la reprise CEO à Fabrice). **À garder comme clé de profil, pas à ouvrir comme sujet de discussion.**
+
+### Figure publique — empreinte media
+
+- **+600 000 followers** sur les réseaux sociaux (massif — figure publique d'envergure)
+- **2 livres bestsellers** : *"Business : pour devenir un entrepreneur à succès"* (fin 2018) et *"Les Nouveaux Entrepreneurs"* (2023)
+- **+150 conférences données**
+- **Créateur et animateur du podcast Le Déclic** : **300+ épisodes** (épisode 328 mentionné dans le dossier), **3e média entrepreneur le plus écouté en francophonie**
+- Réseau invités : Jacques Séguéla, Frederic Mazzella (Blablacar), Jonathan Anguelov (Aircall), Kelly Massol (Les Secrets de Loly), Anthony Bourbon (Blast Club), Eric Larcheveque (Ledger), Laurent Tapie, Luc Julia, Thomas Rebaud (Meero), Fabien Pinckaers (Odoo), David Gurlé (licorne Symphony, ex conseiller Bill Gates), et 17+ autres nommés
+
+### Implications de cette empreinte publique pour ma posture
+
+- **Risque réputationnel amplifié** : une crise interne visible devient immédiatement publique (effet 600K followers)
+- **Toutes mes communications internes écrites** doivent être rédigées comme si elles pouvaient être screenshotées et partagées publiquement — parce qu'elles peuvent l'être
+- **Ma posture "invisible operator"** est **alignée par complémentarité** avec celle d'Alec (figure publique). Ne pas accepter d'être placé en visibilité (invitation podcast, interviews, contenu LinkedIn) sans cadrage explicite
+- **Respecter la dimension média personnel d'Alec** — c'est une partie importante de son identité, pas juste un outil commercial. D'où la prudence émise sur [[Dossier-de-presse-Le-Declic|HO24]] (ne pas challenger le podcast dans les 60 premiers jours)
 
 ---
 
@@ -141,13 +173,40 @@ _Ce pour quoi il est la meilleure ressource._
 - _(à compléter à l'observation)_
 
 ## Historique dans la boîte
-- **2018 (à 19 ans ou peu après)** : Lancement de LeConsultant.fr, après avoir lancé / dirigé plusieurs structures précédentes (agence marketing, investissement locatif, cabinet comptable)
-- **Fin 2019** : Bascule LeConsultant.fr → Entrepreneurs.com
-- **2024** : Délégation du rôle CEO à Fabrice Jaeger — Alec reste fondateur
-- **Entre 2024 et 2026** : **Reprise du rôle CEO par Alec**, Fabrice rétrogradé COO
-- **Co-fondation Riven Agency** : _(date à compléter)_
-- **Création et animation du podcast Le Déclic** : 300+ épisodes, date de lancement à confirmer (probablement ~2020-2021)
-- **Jalons** : _(à compléter)_
+
+### Jeunesse et débuts
+- **1995** : Naissance à Payerne (Suisse)
+- **2011** (16 ans) : Apprentissage technologue en emballage (4 ans, usine)
+- **2014** (19 ans) : MLM, premiers revenus supérieurs à l'usine
+- **2015** : Service militaire
+- **2016** : Cumul de 3 jobs pour financer ses projets
+
+### Décollage (2017-2019)
+- **2017** (22 ans) : Lancement agence marketing, croissance 10K → 100K€/mois
+- **2018** : Début communication personnelle réseaux + création de **leconsultant.fr** + 1er livre bestseller *"Business"*
+- **Début 2019** : Co-fonde **cabinet comptable à Paris**
+- **Août 2019** : Activité de consulting
+- **Novembre 2019** : Organisation du **B.A.L.** (grand événement business francophone)
+- **2019** : Entrée au capital de **Prudenzia Immobilier** (40 agents commerciaux)
+
+### Transition Entrepreneurs.com (2020-2022)
+- **Mars 2020** : Fin officielle de leconsultant.fr + acquisition **Entrepreneurs.com**
+- **Avril 2020** : 1er Sommet Virtuel des Entrepreneurs (+2000 participants)
+- **Janvier 2021** : Lancement *"Film Entrepreneurs"*
+- **Mars 2021** : Lancement du **mastermind Scale X** (500K-5M€/an)
+- **2021** : Co-création de **Numadeo** (agence de production leader francophone)
+- **2022** : Co-création de **Scalab** (agence marketing)
+- **Septembre 2022** : **Création du Podcast Le Déclic**
+- **Fin 2022** : ⚠️ **Changement stratégique de positionnement pour Entrepreneurs.com** (à creuser en S1 avec Alec)
+
+### Consolidation et gouvernance (2023-2026)
+- **2023** : 2e livre bestseller *"Les Nouveaux Entrepreneurs"*
+- **2024** : +10 000 clients accompagnés + délégation CEO à Fabrice Jaeger
+- **Février 2025** : **Tentative** d'ouverture du capital Entrepreneurs.com pour un associé stratégie, **opération non menée à terme**. Alec est resté seul actionnaire.
+- **Courant 2025** : [[Thang Nguyen]] rejoint opérationnellement (Directeur des opérations), puis part — jamais actionnaire
+- **2025-2026** : **Reprise du rôle CEO par Alec**, Fabrice rétrogradé COO
+- **Co-fondation Riven Agency** avec Boris : _(date à compléter)_
+- **Avril 2026** : podcast à l'épisode 328, ~300 épisodes publiés
 
 ## Contexte perso utile (pro)
 _Préférences de travail, contraintes, modes de communication qui marchent._
@@ -160,10 +219,11 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 ## Notes liées
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] (DR mère — H8 sur impulsivité)
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (source des attentes et red flags)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 impulsivité)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 impulsivité, HO25 portfolio)
+- [[Dossier-de-presse-Alec-Henry]] (bio personnelle détaillée + portefeuille + gouvernance capital)
 - [[Dossier-de-presse-Le-Declic]] (bio publique + podcast comme actif de marque)
 - [[Dossier-de-presse-Entrepreneurs]] (édito d'Alec)
-- [[Fabrice Jaeger]]
+- [[Fabrice Jaeger]] (position capital à clarifier)
 - [[Alexis Gresoviac]]
 - [[Sophia]]
 

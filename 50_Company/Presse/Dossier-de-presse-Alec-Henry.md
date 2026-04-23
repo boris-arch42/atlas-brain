@@ -74,46 +74,37 @@ tags: [presse, dossier-de-presse, alec-henry, figure-publique, portfolio, gouver
 | **Septembre 2022** | **Création du Podcast Le Déclic**. |
 | **Fin 2022** | **Changement stratégique de positionnement pour Entrepreneurs.com**. |
 
-### Consolidation et ouverture capital (2023-2025)
+### Consolidation et tentative d'ouverture capital (2023-2025)
 
 | Année | Événement |
 |---|---|
 | **2023** | Publication du deuxième livre **bestseller "Les Nouveaux Entrepreneurs"**. |
 | **2024** | **+10 000 clients accompagnés** avec Entrepreneurs.com, croissance continue du podcast, écosystème complet déployé. |
-| **Février 2025** | ⚠️ **Ouverture du capital Entrepreneurs.com pour un associé stratégie**. |
+| **Février 2025** | **Tentative d'ouverture du capital Entrepreneurs.com pour un associé stratégie** — **opération finalement non menée à terme** (confirmé par Boris 2026-04-23). Alec est resté **seul actionnaire** d'Entrepreneurs.com. |
 
 ---
 
-## 🏢 Portefeuille d'entités d'Alec (cartographie à établir)
+## 🏢 Portefeuille d'entités d'Alec
 
 D'après ce dossier, Alec est impliqué / a été impliqué dans **au moins 9 entités** :
 
-| Entité | Type | Rôle d'Alec | Statut actuel |
-|---|---|---|---|
-| **Entrepreneurs.com** | Accompagnement entrepreneurial | Fondateur + DG | Actif (boîte principale) |
-| **Le Déclic** | Podcast / média | Créateur + animateur | Actif (1 épisode/semaine) |
-| **Scalab** | Agence marketing | Co-créateur | *"Encore active aujourd'hui"* |
-| **Numadeo** | Agence de production | Co-créateur | *"Leader du marché francophone"* |
-| **Prudenzia Immobilier** | Immobilier (40 agents) | Associé au capital | À vérifier |
-| **Cabinet comptable à Paris** | Services comptables | Co-fondateur 2019 | À vérifier |
-| **Scale X** | Mastermind 500K-5M€ | Créateur 2021 | Peut-être intégré à Entrepreneurs.com ? |
-| **Film Entrepreneurs** | Contenu | Créateur 2021 | Statut actuel inconnu |
-| **[[Riven Agency]]** | Agence partenariats créateurs | Co-fondateur (avec Boris) | Active, non mentionnée dans ce dossier |
+| Entité | Type | Rôle d'Alec | Statut actuel | Lien avec Entrepreneurs.com |
+|---|---|---|---|---|
+| **Entrepreneurs.com** | Accompagnement entrepreneurial | Fondateur + **seul actionnaire** | Actif (boîte principale) | — |
+| **Le Déclic** | Podcast / média | Créateur + animateur | Actif (1 épisode/semaine) | Intégré (entité interne) |
+| **Scalab** | Agence marketing | Co-créateur | *"Encore active aujourd'hui"* | ✅ **PAS prestataire** (confirmé 2026-04-23) |
+| **Numadeo** | Agence de production | Co-créateur | *"Leader du marché francophone"* | ✅ **PAS prestataire** (confirmé 2026-04-23) |
+| **Prudenzia Immobilier** | Immobilier (40 agents) | Associé au capital | Hors périmètre Entrepreneurs.com | Aucun lien |
+| **Cabinet comptable à Paris** | Services comptables | Co-fondateur 2019 | Hors périmètre | Aucun lien déclaré |
+| **Scale X** | Mastermind 500K-5M€ | Créateur 2021 | Hors périmètre | Aucun lien |
+| **Film Entrepreneurs** | Contenu | Créateur 2021 | Hors périmètre | Aucun lien |
+| **[[Riven Agency]]** | Agence partenariats créateurs | Co-fondateur (avec Boris) | Active | Aucun lien |
 
-### 🎯 Point de vigilance majeur — conflits d'intérêt potentiels
+### ✅ Point de vigilance clôturé (2026-04-23)
 
-**Hypothèse à tester en S1-S2** : parmi les prestataires externes d'Entrepreneurs.com, combien sont des entités d'Alec ?
+**Résolu via questions à Boris** : les entités parallèles d'Alec **ne sont pas prestataires** d'Entrepreneurs.com. Pas de flux inter-entités à tracker. Pas de conflit d'intérêt structurel sur ce vecteur.
 
-- **Scalab** (agence marketing) → Entrepreneurs.com a-t-il sous-traité du marketing à Scalab ?
-- **Numadeo** (agence de production) → produit-elle **Le Déclic** (podcast) ou d'autres contenus Entrepreneurs.com ?
-- **Cabinet comptable de Paris** → fait-il la compta d'Entrepreneurs.com ?
-
-Si oui → **conflit d'intérêt structurel** à documenter formellement. Ce n'est pas nécessairement problématique (beaucoup de serial entrepreneurs ont ce pattern), mais ça doit être :
-1. Connu de toi en tant qu'Operating Partner
-2. Tracké dans la compta (coûts inter-entités)
-3. Potentiellement challengé si les tarifs ne sont pas "at arm's length" (commandement 7 : chaque décision doit servir l'EBITDA)
-
-**Comment en parler à Alec** : PAS frontalement ("tu te payes sur la boîte ?"). Plutôt via Jordan (finance) en S1-S2 : *"J'ai besoin de cartographier les prestataires principaux — qui fait quoi, quels montants."* L'info ressortira naturellement.
+→ HO25 (cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]) **largement invalidée**. Reste juste à observer passivement si une info contradictoire émerge en S1-S2 (ex : une facture Scalab ou Numadeo dans la compta), mais pas de cartographie active à déclencher.
 
 ---
 
@@ -177,32 +168,25 @@ Liste des médias externes qui ont fait parler Alec (ou ses invités) :
 
 ## 🎯 Signaux pour ma prise de poste
 
-### Signal A — Gouvernance capital Entrepreneurs.com à comprendre (PRIORITÉ HAUTE)
+### Signal A — Gouvernance capital Entrepreneurs.com (résolu 2026-04-23)
 
-**Février 2025 : ouverture du capital pour un associé stratégie**. Probablement [[Thang Nguyen]] (qui a rejoint en 2025 et est parti depuis).
+**Confirmé** : la tentative d'ouverture du capital de février 2025 n'a **pas abouti**. [[Alec Henry]] est resté **seul actionnaire** d'Entrepreneurs.com tout du long.
 
-**Ce que je dois savoir avant le 1er mai** :
-1. L'associé était-il bien Thang Nguyen ? Ou quelqu'un d'autre (co-associé silencieux) ?
-2. Quand Thang est parti, que s'est-il passé au niveau capitalistique ?
-   - Rachat par Alec → normalisation complète
-   - Dilution d'Alec → nouvel actionnaire minoritaire
-   - Parts dormantes (Thang toujours actionnaire même absent opérationnellement) → gouvernance complexe
-3. Y a-t-il **d'autres associés au capital** que je ne connais pas ?
+→ **Implications pour ma prise de poste** :
+- **Gouvernance capitalistique simple** : pas de tiers actionnaire à gérer, pas de zone grise, pas de négociation implicite dans chaque décision stratégique
+- **Pouvoir décisionnel concentré** : Alec décide seul des décisions structurantes. Cohérent avec le pattern "reprise de CEO à Fabrice" — Alec a du mal à partager le pouvoir au niveau le plus haut
+- **Risque corollaire** : aucun garde-fou capitalistique naturel pour contenir l'impulsivité (HO15). Mon rôle de garde-fou structurel est donc **d'autant plus critique** car il n'y a personne d'autre pour tenir ce rôle
+- **Lecture silencieuse à garder** : le fait que l'opération ait été *tentée* puis *abandonnée* en 2025 indique peut-être une capacité limitée d'Alec à partager le pouvoir, ou des conditions de valorisation qui n'ont pas abouti. **Ne PAS ouvrir ce sujet directement** — c'est une zone personnelle/ego. Le garder uniquement comme clé de compréhension de son profil.
 
-**Pourquoi c'est critique** : savoir qui détient le capital d'Entrepreneurs.com conditionne :
-- La lecture des décisions stratégiques d'Alec (est-il seul décideur ou doit-il négocier ?)
-- Ma propre sécurité juridique si on me propose une forme d'intéressement plus tard
-- La compréhension des tensions éventuelles top management (si Fabrice, par exemple, avait des droits capitalistiques)
+### Signal B — Portefeuille parallèle d'Alec (largement clarifié 2026-04-23)
 
-**Action** : question à Boris ci-dessous + à cadrer potentiellement avec Alec en 1-to-1 S1 si besoin.
+Au moins **9 entités parallèles** documentées, mais Boris a confirmé :
+- **Scalab et Numadeo ne sont PAS prestataires** d'Entrepreneurs.com
+- **Les autres entités** (Prudenzia, cabinet comptable, Scale X, Film, B.A.L., Sommet Virtuel) **ne concernent pas Entrepreneurs.com**
 
-### Signal B — Portefeuille parallèle d'Alec = angle mort cartographique
+→ **Pas de cartographie active à déclencher** auprès de Jordan sur ce sujet. Juste observation passive en S1-S2 si une info contradictoire émerge (ex : facture inattendue dans la compta).
 
-Au moins **8 entités parallèles** documentées dans ce dossier, dont au moins **2 agences actives en 2026** (Scalab marketing + Numadeo production). Ces entités peuvent avoir des flux avec Entrepreneurs.com (prestataires, clients, co-investissements).
-
-**Action pratique S1-S2** : demander à Jordan (finance / RAF) une cartographie des **top 20 prestataires externes** d'Entrepreneurs.com avec montants annuels. Observer combien appartiennent à l'écosystème Alec. Pas de jugement, juste une donnée de pilotage.
-
-→ Cf. **nouvelle hypothèse HO25** dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]].
+HO25 dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] est **largement invalidée** et passe en mode observation passive.
 
 ### Signal C — Alec = figure publique majeure (600K followers)
 
@@ -253,8 +237,15 @@ Mention explicite dans la chronologie de *"Changement stratégique de positionne
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO25 à créer sur portfolio Alec)
 - [[Règles d'engagement — Operating Partner Entrepreneurs.com]] (renforcement posture invisible)
 
-## Questions ouvertes à Boris (priorité haute)
+## Questions — statut au 2026-04-23
 
-1. **L'associé stratégie entré février 2025 = Thang Nguyen ?** Si oui, quelle est la situation capitalistique actuelle (rachat, parts dormantes, autre actionnaire) ?
-2. **Scalab et Numadeo sont-elles prestataires d'Entrepreneurs.com** ? (marketing, production podcast)
-3. **Prudenzia Immobilier, cabinet comptable, Film Entrepreneurs, B.A.L., Sommet Virtuel, Scale X** : quel est le statut actuel ? Certaines intégrées à Entrepreneurs.com ? Certaines mortes ?
+### ✅ Résolues
+
+1. ~~Associé stratégie février 2025 = Thang Nguyen ? Situation capitalistique post-Thang ?~~ → **Opération d'ouverture de capital pas menée à terme**. Alec est resté seul actionnaire. Pas de tiers actionnaire aujourd'hui.
+2. ~~Scalab et Numadeo prestataires d'Entrepreneurs.com ?~~ → **Non**. Pas de flux inter-entités.
+3. ~~Statut des autres entités (Prudenzia, cabinet comptable, Scale X, Film, B.A.L., Sommet Virtuel) ?~~ → **Ne concernent pas Entrepreneurs.com**. Hors périmètre de mon rôle d'Operating Partner.
+
+### 🟡 Zones grises subsistantes
+
+- **Fin 2022 : "Changement stratégique de positionnement pour Entrepreneurs.com"** — nature exacte du pivot à creuser en 1-to-1 S1 avec Alec (quel positionnement avant, qu'a-t-il changé concrètement ?)
+- **Cadence historique Le Déclic** : épisode 328 en ~42 mois d'activité suggère ~2 épisodes/semaine historiquement, alors qu'on est à 1/semaine en 2026. Trajectoire à clarifier si relevant pour le dimensionnement équipe podcast.

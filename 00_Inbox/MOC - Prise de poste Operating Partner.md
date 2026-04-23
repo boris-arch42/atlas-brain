@@ -13,6 +13,12 @@ tags: [moc, prise-de-poste, operating-partner]
 
 ---
 
+## 🎯 Kit d'arrivée consolidé (à relire le 30 avril au soir)
+
+- **[[Kit d'arrivée consolidé 2026-05-01]]** — synthèse finale en 3 parties : top 10 signaux politiques, plan de priorisation S1-S2, grille d'observation par personne. **Point d'entrée unique** pour la prise de poste.
+
+---
+
 ## Décisions de référence
 
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] — décision mère
@@ -59,10 +65,22 @@ tags: [moc, prise-de-poste, operating-partner]
 
 ## Couche entreprise (`50_Company/`)
 
+### Core
 - [[Vision-Mission]]
 - [[History]]
 - [[Metrics-North-Star]]
 - [[Positioning]]
+- [[Brand-Guidelines]] (V3 juin 2025, owner Océane)
+- [[Vision-2026]] (10 commandements, début 2026, auteur Alec)
+
+### Produits (`50_Company/Produits/`)
+- [[_Synthese-Gamme]] (hub 5 produits)
+- [[Accélérateur]] / [[Incubateur]] / [[Incubateur Core]] / [[Scaling]] / [[Board]]
+
+### Presse (`50_Company/Presse/`)
+- [[Dossier-de-presse-Entrepreneurs]]
+- [[Dossier-de-presse-Le-Declic]]
+- [[Dossier-de-presse-Alec-Henry]]
 
 ---
 
