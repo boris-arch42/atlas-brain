@@ -14,7 +14,8 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 # Anisse Rbibe
 
 ## Rôle actuel
-- **Poste** : Responsable de la performance
+- **Poste (interne)** : Responsable de la performance
+- **Titre client-facing** : "Mastercoach" — utilisé dans les plaquettes commerciales (cf. [[Accélérateur]]). À ce titre, anime les **sessions Q&A mensuelles de 90 min** avec les clients de l'Accélérateur.
 - **Manager** : _(à confirmer — Fabrice ? Alec direct ?)_
 - **Projet transverse connu** : plateforme `work.entrepreneurs.com`
 - **Piste de promotion** : pressenti CTO (malgré le fait qu'il n'est pas développeur)
@@ -27,6 +28,7 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 - **S'est auto-réduit en salaire** (cf. [[Diag - Ce qui me frappe comme étrange ou inefficace]], section "Sur-effectif et gens trop payés") — signal fort de solidarité ou d'engagement avec la trajectoire de la boîte.
 - **Pressenti CTO depuis 6 mois** sans que ça se concrétise — parce que non-développeur. Signal : Alec voit en lui un profil de lead technique orienté archi/pilotage, pas de builder code.
 - **Pilote `work.entrepreneurs.com`** — plateforme déjà en tests, à voir lui pour ce qu'il y fait concrètement.
+- **Anime des Q&A clients** en tant que "Mastercoach" (titre commercial) — son périmètre inclut donc du livrable client, pas seulement de la perf interne. À intégrer dans la trame 1-to-1.
 - **Allié potentiel selon Alec** — verbatim : *"Anice [Anisse] il n'a pas du tout d'inquiétude, il suffit d'une discussion avec toi pour voir comment vous allez être complémentaire"*. Pas un risque politique.
 
 ### Zones de chevauchement à cadrer (red flag #3 d'Alec = superposition)

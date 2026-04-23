@@ -18,7 +18,7 @@ tags: [ceo, fondateur, entrepreneurs-com, riven-agency, dual-role]
 ## Rôle actuel
 
 ### Entrepreneurs.com
-- **Poste** : Fondateur et CEO
+- **Poste** : Fondateur et CEO (rôle **repris** après une période où Fabrice Jaeger portait le titre — cf. [[Fabrice Jaeger]])
 - **Équipe** : COMEX (avec [[Fabrice Jaeger]] COO, [[Alexis Gresoviac]] Chief of Staff sortant 30 avril, [[Sophia]] co-COO externe entrante juillet)
 - **Manager** : — (fondateur)
 
@@ -60,6 +60,8 @@ Mantra Alec : *"Structurer, simplifier, limiter les coûts au maximum. Less is m
 Auto-diagnostiqué par Alec lui-même le 23 avril 2026 :
 
 > *"Parfois j'agis impulsivement et on revoit tout tout tout tout tout de A à Z parce qu'il n'y a pas de pilotage réel."*
+
+**Éclairé par l'historique CEO** : le fait qu'Alec ait repris le rôle CEO à Fabrice renforce ce diagnostic. Alec est un fondateur qui a eu du mal à déléguer le plus haut niveau d'autorité — et qui l'a repris quand l'expérience n'a pas fonctionné. Le pattern "je revois tout de A à Z" vient probablement du même fond : difficulté structurelle à faire confiance à la délégation. À intégrer dans ma mitigation H8.
 
 **Ce que ça produit** :
 - Les décisions structurantes sont revisitées périodiquement sans discussion préalable
@@ -109,7 +111,10 @@ _Ce pour quoi il est la meilleure ressource._
 - _(à compléter à l'observation)_
 
 ## Historique dans la boîte
-- **Fondation Entrepreneurs.com** : _(date à compléter)_
+- **2018** : Lancement de LeConsultant.fr
+- **2020** : Achat du domaine Entrepreneurs.com, repositionnement
+- **2024** : Délégation du rôle CEO à Fabrice Jaeger — Alec reste fondateur
+- **Entre 2024 et 2026** : **Reprise du rôle CEO par Alec**, Fabrice rétrogradé COO
 - **Co-fondation Riven Agency** : _(date à compléter)_
 - **Jalons** : _(à compléter)_
 
