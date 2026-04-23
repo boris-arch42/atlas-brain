@@ -9,52 +9,78 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 
 # Diagnostic — Personnes que je dois débriefer en priorité
 
-> Cartographie des 1-to-1 à programmer en priorité pendant les semaines 1-2. Pré-classement à faire avant le 1er mai pour ne pas perdre de temps à arriver.
+> Cartographie des 1-to-1 à programmer en priorité. Mise à jour le 2026-04-23 après le cadrage avec Alec (cf. [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]], Q3).
+>
+> **Les 10 personnes listées par Alec** dont il est critique qu'elles comprennent ma capacité à les aider : Fabrice, Anice, Sabrina, Aziz, Océane, Thomas/Nicolas (ou successeur), Ouassim, Claire, Abdel, Jordan.
 
 ---
 
-## Priorité 1 — À débriefer en semaine 1 (non négociable)
+## Priorité 0 — Avant J1 (si possible)
 
-_Ceux dont l'info est critique pour cadrer le poste ou éviter un départ._
+| Personne | Rôle | Contexte | Date cible |
+|---|---|---|---|
+| **Anice** | Plateforme `work.entrepreneurs.com` | Échange déjà prévu dimanche (mentionné par Alec) — complémentarité critique (red flag #3 superposition) | Dimanche 27 avril |
+
+## Priorité 1 — Semaine 1 (non négociable)
 
 | Personne | Rôle | Pourquoi prioritaire | Durée prévue |
 |---|---|---|---|
-| [[Alec Henry]] | CEO | Cadrage du rôle (H1) | 1h30 |
-| [[Fabrice Jaeger]] | COO | Charte de délégation (H1 critique) | 2h |
-| Aziz | Sales | Risque de départ critique — seul pôle stable | 1h |
-|  |  |  |  |
+| [[Alec Henry]] | CEO | Cadrage du rôle (H1), formalisation écrite des attentes | 1h30 |
+| [[Fabrice Jaeger]] | COO | **Charte de délégation** (H1 critique) + clause de **non-héritage Alexis** (explicite) | 2h |
+| Axel | Chief Revenue Officer | Alec invite à planifier — **transparence totale OK**, Axel reste en poste | 1h |
+| Aziz | Sales | Risque de départ critique — noyau solide | 1h |
 
-## Priorité 2 — Semaine 2 (noyau solide identifié par Alec)
+## Priorité 2 — Semaine 2 (noyau solide Alec)
 
-_Le tronc sur lequel rebâtir selon la hiérarchie implicite d'Alec._
-
-| Personne | Rôle | Angle prioritaire |
+| Personne | Pôle / rôle | Angle prioritaire |
 |---|---|---|
-| Océane |  | (s'est auto-réduite — pourquoi ?) |
-| Anisse |  | (pressenti CTO mais pas dev — clarifier) |
-| Sabrina |  |  |
-| Quentin |  | (top mais trop cher — renégo ?) |
-| Cédric |  | (partant court/moyen terme — confirmer) |
+| Océane | _(à clarifier)_ | S'est auto-réduite — comprendre pourquoi, signal important sur la culture |
+| Sabrina | _(à clarifier)_ | Dans le noyau solide d'Alec, zéro info par ailleurs |
+| Quentin | Dev plateforme | Top mais cher ; veut développer un outil type Fathom/Clap — complémentarité à cadrer |
+| Anice | Plateforme `work.entrepreneurs.com` | Si pas déjà vu en prio 0 : pressenti CTO mais pas dev — clarifier son scope |
 
-## Priorité 3 — Semaines 2-3 (à éclairer)
+## Priorité 3 — Semaines 2-3
 
-_Personnes sur qui j'ai peu ou pas d'info, mais qui sont dans le périmètre._
+| Personne | Pôle / rôle | Angle prioritaire |
+|---|---|---|
+| Thomas | Data (BigQuery) | Stack data à sécuriser — distinct des data ops |
+| Nicolas (ou son successeur) | Data ops | Alec veut remplacer — à évaluer avant de conclure |
+| Ouassim | _(à clarifier)_ | Dans la liste des 10, zéro info — questionner Fabrice |
+| Claire | OF coach | Dans la liste des 10, zéro info |
+| Abdel | Pédagogie | Dans la liste des 10, zéro info |
+| Jordan | Finance (RAF full-time fin mai) | Structurer le recouvrement — priorité financière aiguë |
+| Guillaume | Finance | Recrutement catastrophique selon Alec — évaluer personnellement avant de conclure |
+| Jade | Recouvrement | Pôle en reconstruction |
+| Cédric | _(à clarifier)_ | Partant court/moyen terme — confirmer |
+| Léonard | Dev plateforme | Second dev, à évaluer |
 
-- Guillaume (finance, arrivée récente — évaluer)
-- Jade, Jordan (recouvrement)
-- Léonard (dev plateforme)
-- _(à compléter)_
+## Priorité 4 — À voir en collectif avant 1-to-1
 
-## Priorité 4 — À voir en collectif avant d'aller en 1-to-1
+_Personnes sur qui je veux une observation en groupe avant un 1-to-1 direct._
 
-_Soit parce que le 1-to-1 seul ne donnera rien, soit parce que je veux observer en groupe avant._
-
-- _(à compléter)_
+- _(à compléter après semaine 1 d'observation COMEX)_
 
 ---
 
-## Personnes à NE PAS débriefer en 1-to-1 tout de suite
+## Personnes à NE PAS débriefer en 1-to-1
 
-_Éviter un 1-to-1 direct peut aussi être une décision. Qui et pourquoi ?_
+### [[Alexis]] — Chief of Staff sortant (30 avril 2026)
+**Décision explicite** (cf. Q-A archive cadrage) :
+- Tensions historiques avec moi.
+- Refus volontaire de me positionner comme son héritier direct — pas de handover.
+- Départ confidentiel : je ne dois pas révéler que je suis au courant.
 
-- _(à compléter — ex : quelqu'un en conflit ouvert avec Fabrice, où un 1-to-1 précoce serait interprété comme un signe d'alliance)_
+### IT manager (à virer)
+Alec a prévu de le remercier prochainement, après que je fasse un **état des lieux de son périmètre** (pas un 1-to-1 d'onboarding). À cadrer avec Fabrice sur la forme de cet état des lieux.
+
+---
+
+## Signaux à observer au-delà des 1-to-1
+
+- **Qui court-circuite qui** : le Diag pré-prise signale que les équipes court-circuitent les managers pour aller directement à Alec. Observer dès COMEX semaine 1.
+- **Clans et alliances** : ~5-10 personnes tiennent réellement le navire selon le Diag. Les identifier à l'observation, pas par demande directe.
+
+## Notes liées
+- [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (Q3 source des 10 noms)
+- [[Diag - Ce qui me frappe comme étrange ou inefficace]] (contexte équipe)
+- [[People-RH - Prise de poste Operating Partner — onboarding]] (SOP étape 8 : 1-to-1 stakeholders)

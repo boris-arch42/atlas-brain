@@ -11,7 +11,9 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 
 > Les hypothèses que je fais aujourd'hui, **avant d'arriver**, et que la réalité du terrain va confirmer ou invalider. Relue à J+14, J+30, J+90.
 >
-> Distinct du DR Operating Partner : ce fichier couvre des hypothèses **opérationnelles** (comment tourne la boîte), pas les hypothèses **de décision** (H1-H6 du DR qui concernent la viabilité de la prise de poste elle-même).
+> Distinct du DR Operating Partner : ce fichier couvre des hypothèses **opérationnelles** (comment tourne la boîte), pas les hypothèses **de décision** (H1-H8 du DR qui concernent la viabilité de la prise de poste elle-même).
+>
+> **Mise à jour 2026-04-23** après le cadrage avec Alec (cf. [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]]). Statut pré-J1 indiqué entre crochets.
 
 ---
 
@@ -34,7 +36,7 @@ _Statut au J+14 : à compléter_
 
 ## Hypothèses sur le management
 
-- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR).
+- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. HO8 peut passer de "hypothèse" à "diagnostic partagé".
 - **HO9** — Il existe 1-2 leads potentiels niveau -1 dans l'équipe actuelle, juste pas identifiés / pas empowered.
 - **HO10** — La culture de "tâches déléguées sans responsabilités associées" est le levier de transformation n°1.
 
@@ -54,6 +56,15 @@ _Statut au J+14 : à compléter_
 
 _Statut au J+14 : à compléter_
 
+## Hypothèses apparues au cadrage du 23 avril
+
+- **HO15** — **Impulsivité d'Alec** : Alec détruit périodiquement du pilotage en revenant sur des décisions. Auto-diagnostiqué par lui (*"on revoit tout de A à Z"*). Hypothèse : le pattern se manifestera au moins 1 fois pendant les 6 premières semaines sur une décision que j'aurai structurée. Test à J+45.
+- **HO16** — **Sophia (co-COO externe juillet)** : son contrat n'est pas encore signé définitivement. Si j'avance vite entre mai et juin, la question "a-t-on vraiment besoin de Sophia ?" va se poser côté Alec. Hypothèse : une clarification explicite du scope Sophia vs. Boris est possible avant fin juin.
+- **HO17** — **Axél (CRO) pilote un pôle hermétique** selon le Diag, mais Alec l'invite à la transparence totale avec moi. Hypothèse : Axel va s'ouvrir en 1-to-1 une fois qu'il comprend que je ne viens pas auditer son pôle. Test en semaine 1.
+- **HO18** — **Restructuration produit en cours** côté Alec avec parties prenantes externes. Hypothèse : ce travail produit des décisions qui impacteront mon périmètre ops d'ici fin juin. À cadrer en semaine 1-2 avec Alec pour ne pas découvrir les changements par surprise.
+
+_Statut au J+14 : à compléter_
+
 ---
 
 ## Comment je saurai que l'hypothèse est confirmée / invalidée
@@ -65,6 +76,9 @@ _Statut au J+14 : à compléter_
 | HO9 (leads latents) | Identification de 1-2 candidats précis d'ici | J+30 |
 | HO13 (réparation Alec-Fabrice) | Mesure qualitative à | J+90 |
 | HO14 (tests politiques) | Nombre de sollicitations "prendre parti" | J+14 |
+| HO15 (impulsivité Alec) | Observation directe sur décision structurée par moi | J+45 |
+| HO16 (scope Sophia) | Clarification écrite obtenue avec Alec | J+60 (fin juin) |
+| HO17 (Axel transparence) | Qualité du 1-to-1 semaine 1 | J+7 |
 
 ## Revue prévue
 

@@ -18,6 +18,10 @@ tags: [moc, prise-de-poste, operating-partner]
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] — décision mère
 - [[2026-04-23 - Atlas-Brain comme dépôt unique de toute info professionnelle]] — politique de stockage
 
+## Archives de cadrage
+
+- [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] — réponses d'Alec aux 4 questions + décisions post-cadrage
+
 ## SOP de cadence
 
 - [[People-RH - Prise de poste Operating Partner — onboarding]] — plan J-7 → J+14
@@ -44,9 +48,14 @@ tags: [moc, prise-de-poste, operating-partner]
 
 ## Personnes clés
 
+### Actuelles
 - [[Alec Henry]] — CEO Entrepreneurs.com (+ co-fondateur Riven)
 - [[Fabrice Jaeger]] — COO Entrepreneurs.com
 - [[Boris Arduy]] — moi
+
+### Transitions
+- [[Alexis]] — Chief of Staff **sortant le 30 avril 2026** (départ confidentiel, non-hérité volontairement)
+- [[Sophia]] — co-COO externe **entrante juillet 2026**
 
 ## Couche entreprise (`50_Company/`)
 

@@ -10,7 +10,11 @@ related-sops: "[[People-RH - Prise de poste Operating Partner — onboarding]]"
 
 # Cadrage pré-prise de poste — Réponses Alec (CEO)
 
-> ⚠️ **Contenu sensible.** Contient notamment le **départ confidentiel d'Axel** (Sales), évoqué par Alec avec la mention explicite "sans qu'Alex le voit passer". À ne **jamais** partager en l'état.
+> ⚠️ **Contenu sensible.** Contient notamment le **départ confidentiel d'Alexis (Chief of Staff)**, officialisé pour le 30 avril 2026. Alec a évoqué ce départ avec la mention explicite "sans qu'Alex[is] le voit passer" (la retranscription vocale a raccourci Alexis en Alex). À ne **jamais** partager en l'état.
+>
+> **Ne pas confondre** : 
+> - **Alexis** = Chief of Staff, **sortant le 30 avril 2026**. Départ confidentiel. 
+> - **Axel** = Chief Revenue Officer, **en poste, reste**. Point à faire en toute transparence (Alec l'invite explicitement).
 
 ## Contexte
 
@@ -105,15 +109,41 @@ Alec commence par "il n'y en a pas" — puis déroule **8+ sujets sensibles**. C
 5. **Plateforme Anice** — `work.entrepreneurs.com`, déjà en tests, à voir avec lui.
 6. **Outil interne Quentin** — veut développer un équivalent Fathom/Clap/Assembly pour éviter 150 licences actuelles. Opportunité d'accélération si Boris aligne ses équipes.
 7. **Cap long terme : backend anglophone** — talents moins chers, meilleur contrôle, futur marché anglo.
-8. **Contrat prestataire Boris** — à signer à partir du 1er mai via Fabrice, "après le départ d'Alex [= Axel]".
-9. **⚠️ Départ confidentiel d'Axel** — "sans qu'Alex le voit passer". Alec va le dire "aujourd'hui dans le call avec Fabrice".
+8. **Contrat prestataire Boris** — à signer à partir du 1er mai via Fabrice, "après le départ d'Alex[is]" (= Chief of Staff, 30 avril 2026).
+9. **⚠️ Départ confidentiel d'Alexis (Chief of Staff)** — "sans qu'Alex[is] le voit passer". Départ officialisé au 30 avril 2026. Alec va le dire "aujourd'hui dans le call avec Fabrice" (probablement référence à la communication interne à Fabrice / préparation de la sortie).
 10. **Virer l'IT manager** — à faire, mais Alec suggère à Boris de faire d'abord un état des lieux de tout ce qui était en place avec lui avant son remerciement.
 
 ### Autres mentions opérationnelles
 
-- Inviter Boris à planifier un échange avec **Axel** (avant son départ)
+- Inviter Boris à planifier un échange avec **Axel** (Chief Revenue Officer — en poste, point en toute transparence)
 - Boris a un échange avec **Anice** dimanche (mentionné en passant)
 - Boris aura des échanges réguliers avec **Fabrice**
+
+### Question ouverte non posée à Alec
+
+**Alexis, Chief of Staff sortant, est le prédécesseur fonctionnel de Boris.** Un rôle de Chief of Staff est quasi synonyme d'Operating Partner / bras droit du CEO. Le fait qu'Alec n'ait pas abordé la question du handover / du chevauchement de rôle / des dossiers d'Alexis à récupérer est en soi un signal :
+- Soit Alec considère qu'il n'y a rien à récupérer (Alexis n'a pas produit de legacy structurante)
+- Soit Alec évite volontairement le sujet pour éviter que Boris se positionne en "successeur désigné" d'Alexis avec les dossiers rattachés
+- Soit c'est simplement non-traité et un 1-to-1 avec Fabrice semaine 1 doit le clarifier
+
+**À trancher avant J1** : Boris prend-il un point avec Alexis avant son départ du 30 avril ?
+
+---
+
+## Décisions post-cadrage (2026-04-23)
+
+### Q-A — 1-to-1 avec Alexis : **NON**
+Décision explicite de Boris, pour deux raisons :
+- **Tensions historiques** entre Boris et Alexis (antérieures à la prise de poste).
+- **Refus volontaire d'être positionné comme héritier direct** d'Alexis, pour ne pas hériter de son background opérationnel et politique.
+
+**Implication critique pour la charte de délégation (étape 5 SOP)** : il faut **explicitement** cadrer avec Fabrice que les dossiers d'Alexis ne sont PAS automatiquement transférés à Boris. Sans ce cadrage écrit, le passif d'Alexis va tomber sur Boris par défaut au 1er mai.
+
+### Q-B — Handover des dossiers d'Alexis : **en attente**
+À clarifier lors des échanges avec Fabrice en semaine 1 (et via les questions déjà posées en parallèle).
+
+### Q-C — Communication du rôle : **rôle nouveau** (pas remplacement Alexis)
+Le message interne doit positionner Boris en rôle nouveau d'Operating Partner, **pas** en successeur d'Alexis. À cadrer avec Alec avant diffusion (étape 10 SOP).
 
 ---
 
