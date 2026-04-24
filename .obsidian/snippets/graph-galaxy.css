@@ -99,11 +99,30 @@
   color: #fff4c2;
 }
 
-/* ----- Texte des labels : lisibilité sur fond sombre ----- */
-.workspace-leaf-content[data-type="graph"] .graph-view.color-text {
-  color: #e6e9f2;
-  opacity: 0.85;
-  text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+/* ----- Texte des labels : blanc pur, lisibilité maximale ----- */
+/* Triple approche pour couvrir toutes les versions d'Obsidian :
+   1. Variable CSS globale (approche moderne)
+   2. Sélecteur .graph-view.color-text (approche classique)
+   3. Sélecteur avec body pour spécificité maximale */
+
+body {
+  --graph-text: #ffffff;
+}
+
+.workspace-leaf-content[data-type="graph"] {
+  --graph-text: #ffffff !important;
+}
+
+body .workspace-leaf-content[data-type="graph"] .graph-view.color-text,
+.theme-dark .workspace-leaf-content[data-type="graph"] .graph-view.color-text,
+.theme-light .workspace-leaf-content[data-type="graph"] .graph-view.color-text {
+  color: #ffffff !important;
+  opacity: 1 !important;
+  text-shadow:
+    0 0 3px rgba(0, 0, 0, 0.9),
+    0 0 6px rgba(0, 0, 0, 0.7),
+    0 1px 2px rgba(0, 0, 0, 0.95);
+  font-weight: 500;
 }
 
 /* ----- Node focus / tag / attachment ----- */

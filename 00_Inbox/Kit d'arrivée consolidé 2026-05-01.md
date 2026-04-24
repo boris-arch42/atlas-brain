@@ -1,6 +1,7 @@
 ---
 type: kit-arrivee
 date-creation: 2026-04-23
+last-updated: 2026-04-24
 prise-de-poste: 2026-05-01
 source: entrepreneurs-com
 sensitivity: confidential
@@ -11,7 +12,63 @@ tags: [kit-arrivee, consolidation, priorisation, operating-partner, 2026]
 
 > **Usage** : document à relire le **30 avril 2026 au soir**, juste avant la prise de poste du 1er mai.
 > **Objectif** : en 10-15 min de lecture, remettre en tête les signaux majeurs, les priorités S1-S2, et les postures à tenir par personne.
-> **Consolidation des analyses du 23 avril** : plaquettes produits, guide de marque, Vision 2026, 3 dossiers de presse, cadrage Alec, **1-to-1 Océane du 23 avril soir**.
+> **Consolidation** : plaquettes produits, guide de marque, Vision 2026, 3 dossiers de presse, cadrage Alec, 1-to-1 Océane, **échange règle du revirement avec Alec (23/4 soir)**, **1-to-1 Fabrice pré-prise de poste (24/4 après-midi)**.
+
+---
+
+## 🔵 MAJ 2026-04-24 — Séquence du 1er mai précisée
+
+Deux calls structurants sont calés pour le **1er mai** (J1 de prise de poste) :
+
+### Call 1 — Alec seul — Cartographie nœuds opérationnels
+
+Prolongement direct de la conversation du 23 avril soir. Alec a révélé que sa vraie frustration = les décisions actées qui n'avancent pas. On co-construit ensemble la **cartographie concrète** des 5-7 nœuds structurels.
+
+Inputs en amont : ce que Fabrice a identifié cet après-midi (call 24/4) + ce que Boris a observé cette semaine.
+
+→ Prep complète : [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]]
+
+### Call 2 — Trio Alec + Fabrice + Boris — Validation OKR Q1
+
+Immédiatement après le call 1. Les 3 nœuds priorité issus du call Alec nourrissent les Key Results de l'Objectif 2.
+
+→ Draft OKR complet : [[Draft OKR Q1 Boris]]
+
+### Pourquoi cette séquence est critique
+
+- **Le 1er mai fixe la direction du trimestre**. Les OKR validés en séance sont le contrat moral sur lequel je vais être évalué à J+30, J+60, J+90.
+- **Les inputs des 3 calls précédents (Fabrice 24/4, Axel 25/4, Anisse 27/4)** alimentent tous la cartographie du 1er mai. **Rien n'est en silo** — je dois tenir la cohérence.
+- **Le 1er mai est aussi le jour où Alexis part**. Symboliquement fort : la page se tourne.
+
+---
+
+## 📅 Chaîne d'intégration des calls — 24 avril au 1er mai
+
+| Date | Call | Input que je capte | Output vers quoi |
+|---|---|---|---|
+| **Ve 24 avril PM** | 1-to-1 Fabrice (pré-prise de poste) | Ce qu'il veut céder + décisions non-exécutées selon lui | Charte V1 + Prep Alec 1er mai + OKR O1/O2 |
+| **Sa 25 avril** | Call Axel (sortant) | Savoir critique sales, zones qui vont casser, raisons départ | OKR O3 (passation) + 2e call Axel à caler |
+| **Di 27 avril** | 1-to-1 Anisse | Sa lecture performance/mastercoach + ambition CTO | Page Anisse + OKR potentiel O4 |
+| **Je 30 avril** | Kit d'arrivée + relecture fichiers | Relecture du vault avant prise de poste | Prise de poste sereine le 1er |
+| **Ve 1er mai AM** | Call Alec — nœuds opérationnels | 3-5 nœuds priorité co-construits avec Alec | Input direct dans OKR O2 |
+| **Ve 1er mai** | Call trio Alec + Fabrice + Boris — OKR | Validation / ajustement / engagement Q1 | OKR actés + sponsors définis |
+
+---
+
+## 🔴 Mise à jour post-échange règle du revirement avec Alec (23/4 soir)
+
+Après transmission directe par Boris (hors timing tactique recommandé S3-S4), Alec a répondu même soirée :
+
+> *"L'observation est correct. Faut que je développe se réflexe. Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."*
+
+**Révélation majeure** : la vraie frustration d'Alec n'est pas ses propres revirements, c'est le **déficit d'exécution aval**. Implications :
+
+- Mon **mandat d'exécution est validé par le CEO lui-même**.
+- **HO29 créée** : cycle vicieux HO8 (peur) + HO15 (revirements) + déficit d'exécution. Probablement le mécanisme central qui bloque la boîte.
+- La **règle du revirement** est acceptée implicitement. KR2.3 des OKR.
+- Mon call du 1er mai avec Alec va **cartographier** ce déficit d'exécution.
+
+Cf. [[Prep - Règle du revirement écrit avec Alec]] + [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO29.
 
 ---
 

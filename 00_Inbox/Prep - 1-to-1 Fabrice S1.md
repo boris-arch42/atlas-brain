@@ -24,6 +24,18 @@ tags: [call-prep, fabrice-jaeger, 1-to-1, pre-prise-de-poste, sans-document]
 
 **Ce qui ne change pas** : posture sans document, écoute large, non-héritage Alexis, respect de la cicatrice CEO→COO.
 
+### 🔗 Enchaînement critique avec les calls du 1er mai
+
+Le call Fabrice de cet après-midi **nourrit directement** les 2 calls du 1er mai :
+
+1. **Call Alec "cartographie nœuds opérationnels" (1er mai)** : les décisions non-exécutées identifiées par Fabrice (question 5) sont la matière première que je vais croiser avec celles d'Alec. Cf. [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]].
+2. **Call OKR trio (1er mai)** : ce que Fabrice accepte de me céder + ses nœuds d'exécution identifiés nourrissent directement les KR des Objectifs 1 et 2. Cf. [[Draft OKR Q1 Boris]].
+
+**Implication concrète pour cet après-midi** :
+- Sur la question 5 (décisions non-exécutées), creuser plus que d'habitude. Demander pour chaque décision citée : *"qui devrait la porter ? qu'est-ce qui coince selon toi ?"*
+- Noter aussi **ce que Fabrice a remarqué chez Alec** en matière de revirements concrets — pas pour relayer, mais pour structurer mon call Alec du 1er.
+- Si Fabrice mentionne spontanément des personnes qui "attendent la validation d'Alec", c'est de l'or brut pour HO29.
+
 ---
 
 > **Principe directeur** : j'arrive **sans document**. La charte de délégation se construit en 2 temps — ce call (conversation), puis formalisation écrite 2-3 jours après.
