@@ -17,22 +17,88 @@ tags: [call-prep, alec-henry, regle-du-revirement, garde-fou, impulsivite, opera
 **Raisonnement de Boris** :
 > *"On a une relation particulière puisqu'on travaille ensemble depuis de nombreuses années. Il répondra dans l'intérêt de l'entreprise et en toute honnêteté."*
 
-**Ce que ce choix révèle** (à noter pour le vault) :
-- Boris privilégie la **transparence directe** sur la **stratégie tactique** dans sa relation à Alec
-- Le capital de confiance préexistant (cofondation Riven, historique Entrepreneurs.com 2019-2020) est jugé suffisant pour court-circuiter l'inversion de cadrage
-- Cohérent avec l'ethos "invisible operator" + style décisionnel direct de Boris
+---
 
-**Conséquences pour ce document** :
-- La section "Timing" et la structure de présentation orale (10-15 min dans un 1-to-1) deviennent **caduques**
-- La section **Objections prévisibles** reste pertinente (utile si Alec revient avec des questions)
-- La section **Scénarios de repli (A/B/C/D)** reste pertinente pour interpréter sa réponse
-- La **grille de lecture de la réponse d'Alec** devient le nouveau cœur du document (voir ci-dessous)
+## ✅ MAJ 2026-04-23 tard soirée — RÉPONSE D'ALEC REÇUE
 
-**Statut actuel** : **réponse d'Alec en attente**. HO15 (impulsivité) devient observable en temps réel dans les prochaines heures/jours selon la nature de sa réponse.
+**Réponse verbatim d'Alec** :
+> *"L'observation est correct. Faut que je développe se réflexe. Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."*
+
+### Lecture dimension 1 — Délai
+
+Réponse rapide (même soirée). Signal de prise au sérieux + capacité de réaction réfléchie.
+
+### Lecture dimension 2 — Tonalité
+
+- *"L'observation est correct."* → **validation directe et sans réserve** du constat. Pas de "oui mais", pas de "parfois". Brut.
+- *"Faut que je développe se réflexe."* → **prise de responsabilité personnelle** (le "je", pas "on"). Engagement intime. Lucidité sur son propre pattern.
+- *"Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."* → **PIVOT MAJEUR**. Alec révèle sa frustration réelle : pas son impulsivité, mais le **déficit d'exécution aval**.
+
+### Lecture dimension 3 — Contenu structurel
+
+Signes positifs multiples :
+- Reprend explicitement "l'observation" = il a lu attentivement
+- Aucun désamorce défensif, aucun braquage, aucune triangulation
+- Partage une frustration profonde = signal d'intimité relationnelle
+- **Valide sans conditions ni demande de précision sur le périmètre d'exclusion** → il a accepté le principe, pas besoin de négocier les détails
+
+### Lecture dimension 4 — Ce que ça révèle sur HO15
+
+- HO15 passe de **"risque structurel ouvert"** à **"reconnue par l'intéressé"**
+- Alec a pris le temps de structurer sa réponse sans émotion défensive → capacité de recul avérée
+- **Mais** : reconnaître ≠ changer. Le *"faut que je développe se réflexe"* indique qu'il n'a pas encore le réflexe. Le test réel sera dans 2-6 semaines sur un cas concret.
+
+### Statut de la règle
+
+**Scénario entre A et A+** : Alec valide, prend responsabilité, et ajoute une couche de sens. C'est **mieux qu'une validation pure**, parce qu'il :
+- Accepte la règle implicitement (*"faut que je développe ce réflexe"*)
+- Révèle une problématique symétrique (expédition aval)
+- Signale qu'il est prêt à co-piloter, pas juste à subir
+
+### 🚨 Découverte majeure — cycle vicieux HO8 + HO15 + déficit d'exécution
+
+La réponse d'Alec révèle que sa frustration réelle n'est pas son propre pattern de revirement — c'est que **les décisions ne s'exécutent pas**. Croisement avec HO8 (culture de peur) = hypothèse d'un **cycle auto-renforçant** :
+
+```
+1. Alec décide
+2. Culture de peur (HO8) → personne n'exécute sans re-validation
+3. Rien n'avance aux yeux d'Alec
+4. Alec s'impatiente, intervient, corrige, change d'angle (HO15)
+5. Équipes voient "Alec change d'avis"
+6. Peur accrue, encore moins d'initiative spontanée
+7. Retour à 2 — cycle bloqué
+```
+
+**Probablement LE mécanisme central qui tient Entrepreneurs.com en place aujourd'hui.** Voir nouvelle **HO29** dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]].
+
+### Implications pour la prise de poste
+
+- **Mon mandat d'exécution est validé par le CEO lui-même** — Alec vient d'indiquer que son vrai besoin, c'est quelqu'un qui fait **avancer** les décisions. Je suis pile dans la cible.
+- **La règle du revirement prend tout son sens** comme contrepartie de l'exécution améliorée : *"tu pivotes moins parce qu'on exécute mieux, et on exécute mieux parce que tu pivotes moins"*.
+- **La charte de délégation avec Fabrice** doit être pensée comme un **levier d'exécution**, pas juste un cadre de répartition. Section 3b (ce que je prends) doit intégrer explicitement "accélération d'exécution des décisions COMEX".
+- **Ma priorité S1-S2 se précise** : cartographier les **nœuds d'exécution** (où les décisions s'arrêtent, pourquoi, qui).
+
+### Réponse de Boris à envoyer
+
+3 variantes composées pour répondre à Alec — à choisir selon le registre souhaité :
+
+- **Courte et engagée** : *"Merci pour ta franchise. Et tu pointes le vrai sujet : si les décisions n'avancent pas, c'est que quelque chose coince entre la décision et l'exécution. C'est exactement là où je compte être utile dès le 1er. On en reparle avec Fabrice en S1."*
+- **Moyenne, signal mandat** : variante valorisant l'articulation entre les deux problèmes
+- **Directe + bloque un moment** : propose 1h en S1 pour cartographier les blocages d'exécution
+
+### Statut actuel
+
+✅ **Règle du revirement : acceptée implicitement par Alec le 23 avril au soir**.
+
+Prochaines étapes :
+- [ ] Envoyer la réponse à Alec (en attente décision Boris sur variante)
+- [ ] Après 1er call Axel demain, re-réfléchir à l'articulation règle du revirement vs. déficit d'exécution
+- [ ] Intégrer dans [[Prep - 1-to-1 Fabrice S1]] la dimension "cartographier les nœuds d'exécution"
+- [ ] En 1-to-1 S1 avec Alec : consolider l'accord verbal, poser le cadre minimal (*"quand tu veux pivoter sur un sujet en cours, un message Slack de 3 lignes suffit, on s'occupe de la propagation"*)
 
 ---
 
-## 🔍 Grille de lecture de la réponse d'Alec (nouveau cœur du document)
+## 🔍 Grille de lecture de la réponse d'Alec (référence — utilisée ci-dessus)
 
 ### Dimension 1 — Délai de réponse
 

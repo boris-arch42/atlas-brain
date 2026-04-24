@@ -216,7 +216,7 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
-### 2026-04-23 soirée — Transmission directe de la proposition de règle du revirement
+### 2026-04-23 soirée — Transmission directe de la proposition de règle du revirement + réponse d'Alec
 
 **Action Boris** : envoi direct du message à Alec au sujet du protocole d'alignement écrit sur les décisions en cours d'exécution (court-circuitant le timing tactique S3-S4 initialement prévu).
 
@@ -224,11 +224,28 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 **Posture choisie** : transparence directe plutôt qu'inversion de cadrage. Boris s'appuie sur le capital de confiance préexistant.
 
-**Statut** : réponse d'Alec en attente. Test en temps réel de HO15 (impulsivité) via délai + tonalité + contenu de la réponse.
+**Réponse d'Alec (même soirée)** :
+> *"L'observation est correct. Faut que je développe se réflexe. Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."*
 
-**Mettre à jour cette section une fois la réponse reçue** : noter délai, tonalité, décision, et ce que ça révèle du niveau réel de maturité co-gestionnaire d'Alec.
+**Ce que la réponse révèle d'Alec** (important pour la compréhension long terme) :
 
-Cf. [[Prep - Règle du revirement écrit avec Alec]] pour la grille de lecture complète.
+1. **Capacité de recul authentique**. Alec reconnaît directement le pattern sans défensivité, sans triangulation (*"c'est Fabrice qui t'a demandé ça ?"*), sans minimisation.
+2. **Prise de responsabilité personnelle**. *"Faut que je développe se réflexe"* — il écrit *"je"*, pas *"on"*. Il assume seul, pas en collectif.
+3. **Transparence sur sa vraie frustration**. Le vrai nerf n'est pas ses revirements mais le **déficit d'exécution aval**. C'est une révélation majeure : sa *"impulsivité"* est probablement un symptôme de sa frustration face à la lenteur d'exécution, pas une cause primaire.
+4. **Capacité de co-pilotage**. Il ne se contente pas de valider ou refuser — il ajoute une dimension au problème. Signal fort de maturité co-gestionnaire.
+
+**Ce que ça confirme pour la relation avec Boris** : le capital de confiance pré-existant est réel, profond, utilisable pour des conversations difficiles en mode direct. **Le choix de Boris de transmettre directement était le bon**.
+
+**Ce qui reste à faire** :
+- Boris répond à Alec (3 variantes proposées dans [[Prep - Règle du revirement écrit avec Alec]])
+- Consolider l'accord verbal en 1-to-1 S1
+- Cartographier en S1-S2 les nœuds d'exécution aval (cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO29)
+
+**Implications pour le mandat Operating Partner** :
+
+Alec vient de **valider implicitement le mandat d'exécution** qu'il a donné à Boris. Sa vraie frustration — les décisions qui n'avancent pas — est **précisément ce que Boris vient résoudre**. C'est la 2ème confirmation forte du bon cadrage de la prise de poste (la 1ère était le cadrage du 23 avril avec les 4 réponses vocales).
+
+Cf. [[Prep - Règle du revirement écrit avec Alec]] pour l'analyse complète + [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO15 (mise à jour) et HO29 (nouvelle).
 
 ---
 

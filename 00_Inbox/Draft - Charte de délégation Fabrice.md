@@ -1,8 +1,9 @@
 ---
 type: reference-personnelle
 created: 2026-04-23
+updated: 2026-04-24
 status: reference-interne-boris-NON-partageable
-for-meeting: "— PAS pour présentation directe —"
+for-meeting: "1-to-1 Fabrice — vendredi 24 avril après-midi"
 source: entrepreneurs-com
 sensitivity: confidential
 tags: [reference-personnelle, charte-de-delegation, fabrice-jaeger, operating-partner, s1, pense-bete]
@@ -10,7 +11,19 @@ tags: [reference-personnelle, charte-de-delegation, fabrice-jaeger, operating-pa
 
 # 📝 Référence personnelle — Cadre cible charte de délégation Fabrice × Boris
 
-> ⚠️ **STATUT MODIFIÉ LE 2026-04-23 SOIR** : ce document n'est **PAS** à présenter à Fabrice en 1-to-1 S1. C'est une **référence personnelle interne** pour Boris — un pense-bête qui cadre où on veut aller.
+## 🔄 MAJ 2026-04-24 matin — Intégration révélation Alec
+
+Après l'échange avec Alec du 23 au soir, **ce cadre cible intègre désormais la révélation majeure** : la vraie frustration d'Alec n'est pas ses propres revirements, c'est que **les décisions n'avancent pas dans l'exécution**.
+
+**Modifications principales** :
+- **Section 3b** : l'accélération d'exécution des décisions COMEX devient une responsabilité explicite de Boris (pas juste "suivi post-COMEX")
+- **Section 4** : ajout d'une cadence de **revue d'exécution** hebdomadaire (30 min)
+- **Section 6** : la règle du revirement côté Alec est **pré-validée** par Alec le 23/4 soir — à intégrer comme fait établi, pas comme négociation future
+- **Section 8** : nouvelle question à poser à Fabrice sur les décisions qui n'avancent pas
+
+---
+
+> ⚠️ **STATUT MODIFIÉ LE 2026-04-23 SOIR** : ce document n'est **PAS** à présenter à Fabrice en 1-to-1. C'est une **référence personnelle interne** pour Boris — un pense-bête qui cadre où on veut aller.
 >
 > **Pourquoi ce changement** : arriver en 1-to-1 avec un document ficelé, même présenté comme "draft à co-construire", impose un cadre mental déséquilibré. Fabrice le lirait comme *"voilà ce que Boris a préparé"*, pas comme *"voilà ce qu'on construit ensemble"*. Ce serait de l'imposition déguisée en co-construction.
 >
@@ -101,12 +114,20 @@ _(Partie à discuter sérieusement — tout est modifiable)_
 
 ### 3b. Ce que Boris propose de prendre en charge (**proposé — à challenger**)
 
+**Mandat central (validé implicitement par Alec le 23 avril au soir)** :
+
+- 🎯 **Accélération d'exécution des décisions COMEX** — faire en sorte que les décisions actées avancent concrètement : identifier les nœuds de blocage aval (qui attend quoi ? qui a peur d'exécuter sans revalidation ? où l'ownership est-il manquant ?), débloquer, tracer, relancer. C'est le cœur opérationnel du rôle.
+
+**Responsabilités associées** :
+
 - **Exécution opérationnelle des projets transverses** (ce qui actuellement prend de ton temps sans justifier ta senority)
-- **Animation et empowerment du middle management** (identifier qui peut monter, qui a besoin de cadre, comment les outiller)
+- **Animation et empowerment du middle management** — identifier qui peut monter, qui a besoin de cadre, comment les outiller pour qu'ils puissent exécuter sans revalidation systématique
 - **Structuration et formalisation** : process, SOPs, frameworks de décision, documentation
-- **Suivi post-COMEX** : tracking écrit des décisions prises, relances, vérif d'exécution
+- **Tracking d'exécution post-COMEX** : journal écrit des décisions prises + leur statut d'avancement, relances, vérif d'exécution, escalade si blocage
 - **Cadrage stack tech / data / IA** (axe 4 d'Alec) : internalisation tech 3-6 mois, architecture, pas de dette
 - **Ops internes / automation RH / culture** (axe 5 d'Alec)
+
+**Lien avec HO29 (cycle vicieux exécution)** : cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]. Le mandat d'exécution de Boris est conçu pour casser ce cycle à plusieurs endroits : réduire la peur (posture empowerment), créer du canal écrit (règle du revirement), reprendre l'exécution (libérer Fabrice), animer le middle management (ownership à -1).
 
 ### 3c. Zones interdites à Boris (rappel explicite des red flags posés par Alec le 23 avril)
 
@@ -138,7 +159,8 @@ Certains sujets sont trop transverses pour être attribués à l'un ou à l'autr
 ### Cadence de synchronisation
 
 - **1 stand-up hebdo** (lundi matin, 20-30 min) : point priorités de la semaine, alertes, sujets bloquants
-- **1 1-to-1 hebdo** (jour à définir — jeudi ?, 45-60 min) : sujets de fond, signaux faibles, ajustements
+- **1 revue d'exécution COMEX hebdo** (jeudi, 30 min) — **nouvelle cadence liée au mandat Boris** : passage en revue systématique des décisions actées en COMEX (lundi ou autre), statut d'avancement, nœuds de blocage identifiés, actions correctives. Objectif : faire en sorte que décidé = en mouvement.
+- **1 1-to-1 hebdo** Fabrice/Boris (jour à définir avec Fabrice, 45-60 min) : sujets de fond, signaux faibles, ajustements
 - **1 revue mensuelle** (premier vendredi du mois, 90 min) : bilan, ajustements charte, délégations nouvelles
 
 ### Règles de communication
@@ -185,7 +207,7 @@ Cette règle protège :
 - Notre crédibilité commune vis-à-vis des équipes (on ne change pas d'avis sans explication)
 - Notre protection mutuelle vis-à-vis des revirements impulsifs d'Alec (garde-fou discuté séparément avec lui)
 
-Je négocie en parallèle une **règle équivalente avec Alec** lors de notre 1-to-1 S1 de cadrage. L'idée est que les 3 triangles (Alec ↔ Fabrice, Alec ↔ Boris, Fabrice ↔ Boris) soient tous couverts par cette même règle.
+**✅ Statut côté Alec (MAJ 2026-04-23 soir)** : la règle équivalente a été proposée à Alec et **acceptée implicitement**. Sa réponse : *"L'observation est correct. Faut que je développe se réflexe."* Il a en outre précisé que sa vraie frustration est que les décisions n'avancent pas — ce qui renforce le sens de cette règle comme outil de propagation propre des décisions (cf. lien avec section 3b).
 
 ---
 
@@ -205,10 +227,11 @@ Ces questions ne sont pas remplies par moi. Je les pose à Fabrice pour co-const
 
 1. **"Qu'est-ce que tu accepterais de me retirer de ton assiette en priorité n°1 — ce qui te bouffe du temps sans justifier ton niveau ?"**
 2. **"À l'inverse, y a-t-il un sujet où tu ne veux surtout pas que je vienne, au moins pour l'instant ?"**
-3. **"Comment tu veux qu'on fonctionne sur les sujets où Alec te sollicite directement — tu veux que je sois informé systématiquement ou seulement sur demande ?"**
-4. **"Sur la passation post-départ d'Axel, comment tu vois ma contribution ? Je suis cadrage / structuration, mais la hiérarchie post-Axel c'est toi qui la portes ?"**
-5. **"Le rapport à Alec : comment tu veux qu'on se coordonne pour ne pas se doublonner en 1-to-1 avec lui ?"**
-6. **"Des lignes rouges que tu veux ajouter par rapport à ce que j'ai écrit ici ?"**
+3. **"Selon toi, aujourd'hui, quelles sont les décisions qui ont été actées mais qui n'avancent pas dans l'exécution ? Qu'est-ce qui coince selon toi ?"** — **nouvelle question critique liée à HO29**. Lève le voile sur sa lecture des nœuds d'exécution. Sa réponse est précieuse : elle dit où cibler mon mandat en priorité.
+4. **"Comment tu veux qu'on fonctionne sur les sujets où Alec te sollicite directement — tu veux que je sois informé systématiquement ou seulement sur demande ?"**
+5. **"Sur la passation post-départ d'Axel, comment tu vois ma contribution ? Je suis cadrage / structuration, mais la hiérarchie post-Axel c'est toi qui la portes ?"**
+6. **"Le rapport à Alec : comment tu veux qu'on se coordonne pour ne pas se doublonner en 1-to-1 avec lui ?"**
+7. **"Des lignes rouges que tu veux ajouter par rapport à ce que j'ai en tête ?"**
 
 ---
 

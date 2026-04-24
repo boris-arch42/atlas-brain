@@ -1,15 +1,30 @@
 ---
 type: call-prep
-date-cible: 2026-05-01 ou 2026-05-02
+date-cible: 2026-04-24 après-midi (pré-prise de poste)
 for: "[[Fabrice Jaeger]]"
 duration: 60 min
 format: "SANS document présenté — conversation pure"
 source: entrepreneurs-com
 sensitivity: confidential
-tags: [call-prep, fabrice-jaeger, 1-to-1, semaine-1, prise-de-poste, sans-document]
+tags: [call-prep, fabrice-jaeger, 1-to-1, pre-prise-de-poste, sans-document]
 ---
 
-# 🎙️ Prep 1-to-1 Fabrice S1 — format conversation, sans document
+# 🎙️ Prep 1-to-1 Fabrice — vendredi 24 avril après-midi
+
+## 🔄 MAJ 2026-04-24 matin — Intégration révélation Alec
+
+**Contexte modifié** : le call se tient aujourd'hui (vendredi 24 avril) en mode pré-prise de poste, pas en S1. Boris prend ses fonctions officielles le 1er mai.
+
+**Éléments nouveaux à intégrer dans la conduite du call** :
+
+1. **La règle du revirement a été pré-validée par Alec** (23 avril soir) — le Principe 3 devient donc *"un garde-fou qu'Alec et moi avons validé ensemble"*, pas *"que je propose"*. Change la formulation.
+2. **Alec a révélé que sa vraie frustration est que les décisions n'avancent pas dans l'exécution** (pas seulement ses propres revirements). Nouveau cadre mental pour Boris + nouvelle question critique à poser à Fabrice.
+3. **Mon mandat d'exécution est validé par le CEO lui-même** — je n'ai plus à "faire émerger" le besoin de me déléguer de l'exécution, c'est devenu un fait partagé au sommet. Ça change mon assurance (pas mon humilité).
+4. **HO29 créée** (cycle vicieux HO8 + HO15 + déficit d'exécution) — Fabrice est un témoin clé pour identifier les nœuds concrets de blocage.
+
+**Ce qui ne change pas** : posture sans document, écoute large, non-héritage Alexis, respect de la cicatrice CEO→COO.
+
+---
 
 > **Principe directeur** : j'arrive **sans document**. La charte de délégation se construit en 2 temps — ce call (conversation), puis formalisation écrite 2-3 jours après.
 >
@@ -44,9 +59,11 @@ tags: [call-prep, fabrice-jaeger, 1-to-1, semaine-1, prise-de-poste, sans-docume
 - Je lui dois du respect pour son parcours (NY, SaaS, 14 ans d'expérience) — pas sur-jouer, simplement reconnaître.
 - Je ne suis **pas pressé**. Ce call n'a pas besoin de produire un livrable.
 
-### Ce qu'Alec m'a demandé (à garder en tête, pas à citer)
+### Ce qu'Alec m'a demandé (à garder en tête, pas à citer en direct)
 
 Axe 1 d'Alec : *"Libérer Fabrice pour qu'il puisse faire son rôle"*. Donc mon mandat officiel = le décharger. Mais je ne le lui dis pas comme ça — je le fais émerger de sa bouche.
+
+**⚡ Ajout critique (MAJ 24/4)** : Alec a révélé hier soir que sa vraie frustration n'est pas ses propres revirements, c'est que **"souvent les choses sont décidées mais n'avancent pas"**. Mon mandat d'**accélération d'exécution** est donc encore plus explicite qu'avant. Je ne cite pas Alec en direct avec Fabrice, mais je peux poser la question de front sur les décisions qui n'avancent pas — c'est maintenant un sujet légitime.
 
 ---
 
@@ -56,14 +73,16 @@ Axe 1 d'Alec : *"Libérer Fabrice pour qu'il puisse faire son rôle"*. Donc mon 
 
 **Ce que je dis** (ton direct, pas corporate) :
 
-> *"Fabrice, je voulais qu'on prenne ce temps ensemble en premier. On a travaillé ensemble il y a un moment, beaucoup de choses ont changé depuis. Je reviens dans un rôle qui n'existait pas avant — je n'ai pas d'agenda précis pour ce call, j'ai juste envie qu'on se parle. Qu'on refasse connaissance version 2026."*
+> *"Fabrice, je voulais qu'on prenne ce temps ensemble en premier, avant même que je démarre officiellement. On a travaillé ensemble il y a un moment, beaucoup de choses ont changé depuis. Je reviens dans un rôle qui n'existait pas avant — je n'ai pas d'agenda précis pour ce call, j'ai juste envie qu'on se parle. Qu'on refasse connaissance version 2026."*
 
 **Signal fort envoyé** : je n'ai pas préparé d'outils à sortir. C'est volontaire. Ça dit : *"je te respecte, je viens d'abord écouter"*.
+
+**Spécificité vendredi 24/4** : je suis en pré-prise de poste. Ça légitime le format conversation — je ne viens pas "en fonction", je viens "avant". Fabrice devrait sentir cette distance + respect.
 
 **Si Fabrice répond par une politesse généraliste** → je poursuis avec la phase 2.
 **Si Fabrice pose lui-même un sujet de fond dès l'ouverture** → je le suis, je n'essaie pas de ramener mon plan.
 
-### 5-30 min — Écoute large (25 min d'écoute, 4-5 questions max)
+### 5-30 min — Écoute large (25 min d'écoute, 5 questions max)
 
 **Objectif** : faire parler Fabrice de son quotidien actuel, sans juger, sans proposer.
 
@@ -77,12 +96,21 @@ Axe 1 d'Alec : *"Libérer Fabrice pour qu'il puisse faire son rôle"*. Donc mon 
 
 4. _(question pivot, importante)_ *"Si tu devais me décrire les 3 sujets où tu aimerais ne PLUS être dans la boucle demain matin, ce serait quoi ?"*
 
+5. _(**nouvelle question critique, MAJ 24/4 — HO29**)_ *"Quand je regarde la boîte de l'extérieur, j'ai l'impression qu'il y a des décisions qui ont été actées mais qui n'avancent pas dans l'exécution. Toi qui es dedans, qu'est-ce que tu en penses ? Qu'est-ce qui coince réellement ?"*
+
+**Pourquoi cette 5ème question est cruciale** :
+- Elle **lève le voile** sur la lecture que Fabrice a du déficit d'exécution — sujet qu'Alec a nommé comme sa vraie frustration
+- Elle me donne **la cartographie concrète des nœuds d'exécution** où je dois cibler mon mandat en priorité (S1-S2)
+- Elle **témoigne que je regarde la boîte comme un système**, pas comme une répartition de territoires
+- Elle me permet de **valider en live HO29** (cycle vicieux HO8 + HO15 + peur d'exécuter sans revalidation)
+- Elle est **neutre politiquement** — je ne pointe pas un pôle ni une personne, je pose une observation systémique
+
 **Ce que je fais pendant ces 25 min** :
 - Silence entre les questions (2-3 secondes minimum après sa fin de phrase)
 - Pas de "et en plus de ça…" (j'écoute, je ne relance pas trop)
 - Je prends des notes **légères** (mot-clé, pas verbatim — pour ne pas le mettre en posture d'entretien)
 - Je ne commente pas. Pas de *"oui je vois"*, pas de *"c'est intéressant"*. Juste un hochement occasionnel.
-
+- **Sur la 5ème question** : prendre des notes plus précises (noms de décisions, de personnes si il en donne) — exception à la règle des notes légères, mais dire ouvertement *"Je note juste ces sujets, j'y reviendrai"* pour pas que ça fasse audit.
 ### 30-45 min — Faire émerger ce qu'il veut céder
 
 **Principe** : je ne **propose** pas de reprendre des choses. Je lui fais proposer **lui-même**.
@@ -132,11 +160,22 @@ Axe 1 d'Alec : *"Libérer Fabrice pour qu'il puisse faire son rôle"*. Donc mon 
 
 Ce principe est **non-négociable pour moi**. Si Fabrice résiste, je tiens doucement : *"C'est important pour moi — c'est comme ça que je peux construire un truc cohérent. Si on commence par hériter par défaut, on ne structure rien."*
 
-#### Principe 3 — Règle du revirement (garde-fou commun)
+#### Principe 3 — Règle du revirement (**déjà validée avec Alec** — MAJ 24/4)
 
-> *"Et le dernier, c'est un garde-fou que je te propose : pour toutes les décisions qu'on prend ensemble, ou qu'on a pris avec Alec — si ça doit être remis en cause plus tard, on le fait par écrit avant, pas par WhatsApp à 22h. Ça nous protège tous les deux, ça protège la stabilité du pilotage, et honnêtement ça nous protège aussi vis-à-vis d'Alec parfois."*
+> *"Et le dernier, c'est un cadre qu'on va mettre en place avec Alec — on en a déjà parlé hier soir lui et moi. Pour toutes les décisions qu'on a actées ensemble ou en COMEX, si ça doit être remis en cause plus tard, on le fait par écrit avant, pas par WhatsApp à 22h. Un message de 3 lignes suffit. Alec a validé le principe. Je voulais te le partager parce que ça nous protège tous les deux, et parce que a priori tu vas le vivre avec nous dès les premières semaines."*
 
-**Observer sa réaction** — c'est le test le plus révélateur du call. S'il sourit ou acquiesce clairement, il a compris qu'on parle de l'impulsivité d'Alec sans la nommer. S'il se ferme ou change de sujet, il refuse le garde-fou.
+**Pourquoi cette formulation est différente de ce que j'avais préparé au départ** :
+- Alec a pré-validé la règle → ce n'est plus *"un garde-fou que je te propose"*, c'est *"un cadre validé au sommet qu'on met en place"*
+- C'est **factuel**, pas une proposition à négocier
+- Mais je le partage à Fabrice **en camarade**, pas comme ordre descendant — d'où le *"je voulais te le partager"* et le *"ça nous protège tous les deux"*
+- Je **ne cite pas Alec pour faire accepter un principe** (piège récurrent) — je constate que le principe est acquis au sommet, et je le partage comme information
+
+**Observer sa réaction** :
+- **Soulagement visible** → signal fort qu'il a vécu des revirements d'Alec récemment — alliance tacite active
+- **Sourire discret + acquiescement** → il comprend le sous-texte, partie gagnée
+- **Surprise (*"Alec a dit ça ?"*)** → valider *"oui, il a directement reconnu qu'il avait besoin de développer ce réflexe"*. Ne pas en dire plus sur la conversation Alec.
+- **Scepticisme (*"il va jamais tenir"*)** → *"On verra, mais au moins maintenant c'est posé."* Ne pas défendre Alec.
+- **Fermeture** → rare mais possible si Fabrice protectif d'Alec. Ne pas insister, passer à la suite.
 
 **Si Fabrice valide les 3** → excellent. Je propose la formalisation.
 **Si Fabrice en valide 1-2** → je garde ceux-là en acquis, je re-propose les autres plus tard.
@@ -199,13 +238,16 @@ Ce principe est **non-négociable pour moi**. Si Fabrice résiste, je tiens douc
 
 1. **Remplir section Verbatim + 3 à retenir** dans [[Fabrice Jaeger]]
 2. **Noter très précisément** ce que Fabrice a proposé de céder (verbatim si possible)
-3. **Mettre à jour [[Draft - Charte de délégation Fabrice]]** avec les éléments concrets ressortis du call :
+3. **Noter très précisément les décisions / sujets que Fabrice a identifiés comme non-exécutés** (question 5 — HO29). C'est la matière première de mes priorités S1-S2.
+4. **Mettre à jour [[Draft - Charte de délégation Fabrice]]** avec les éléments concrets ressortis du call :
    - Section 3a (ce qu'il garde) → ajuster selon ses mots
-   - Section 3b (ce que je prends) → ajuster selon ce qu'il a accepté
+   - Section 3b (ce que je prends) → ajuster selon ce qu'il a accepté + ajouter les nœuds d'exécution qu'il a identifiés
    - Section 3d (co-responsabilité) → ajuster
-4. **Préparer la V1 écrite** à envoyer à Fabrice d'ici 2-3 jours
-5. **Mettre à jour [[Alec Henry]]** si Fabrice a évoqué des tensions avec lui (sans relayer)
+5. **Mettre à jour HO29** avec la cartographie préliminaire des nœuds d'exécution
 6. **Mettre à jour HO6** avec le statut confirmé au call
+7. **Préparer la V1 écrite** à envoyer à Fabrice d'ici lundi-mardi (2-3 jours)
+8. **Mettre à jour [[Alec Henry]]** si Fabrice a évoqué des tensions avec lui (sans relayer)
+9. **Si Fabrice a mentionné explicitement la rétrogradation CEO → COO** : ajouter à la page [[Fabrice Jaeger]] dans une section confidentielle séparée
 
 ---
 
