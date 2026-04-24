@@ -10,7 +10,119 @@ tags: [call-prep, alec-henry, regle-du-revirement, garde-fou, impulsivite, opera
 
 # 🎙️ Prep — Règle du revirement écrit avec Alec
 
-> **Objectif** : établir un protocole d'alignement écrit sur les décisions **déjà en cours d'exécution** qui sont remises en cause, pour protéger la qualité d'exécution et réduire le ballotage des équipes.
+## ⚡ MAJ 2026-04-23 soirée — Transmission directe décidée par Boris
+
+**Décision prise par Boris le 23 avril au soir** : ne pas suivre le timing tactique recommandé (S3-S4). Transmission directe du message à Alec ce soir.
+
+**Raisonnement de Boris** :
+> *"On a une relation particulière puisqu'on travaille ensemble depuis de nombreuses années. Il répondra dans l'intérêt de l'entreprise et en toute honnêteté."*
+
+**Ce que ce choix révèle** (à noter pour le vault) :
+- Boris privilégie la **transparence directe** sur la **stratégie tactique** dans sa relation à Alec
+- Le capital de confiance préexistant (cofondation Riven, historique Entrepreneurs.com 2019-2020) est jugé suffisant pour court-circuiter l'inversion de cadrage
+- Cohérent avec l'ethos "invisible operator" + style décisionnel direct de Boris
+
+**Conséquences pour ce document** :
+- La section "Timing" et la structure de présentation orale (10-15 min dans un 1-to-1) deviennent **caduques**
+- La section **Objections prévisibles** reste pertinente (utile si Alec revient avec des questions)
+- La section **Scénarios de repli (A/B/C/D)** reste pertinente pour interpréter sa réponse
+- La **grille de lecture de la réponse d'Alec** devient le nouveau cœur du document (voir ci-dessous)
+
+**Statut actuel** : **réponse d'Alec en attente**. HO15 (impulsivité) devient observable en temps réel dans les prochaines heures/jours selon la nature de sa réponse.
+
+---
+
+## 🔍 Grille de lecture de la réponse d'Alec (nouveau cœur du document)
+
+### Dimension 1 — Délai de réponse
+
+| Délai | Lecture |
+|---|---|
+| Réponse sous 2h | Forte réactivité, sujet pris au sérieux. Mais attention : si réponse impulsive/émotionnelle, signal de HO15 |
+| Réponse sous 24h | Normal, Alec a pris le temps de réfléchir sans traîner |
+| Réponse 24-72h | Il a réfléchi, potentiellement parlé à Fabrice, signe de prise au sérieux |
+| Silence > 72h | Signal d'inconfort ou d'évitement. Ne pas relancer avant J+5. HO15 défavorable |
+| Silence > 7j | Refus implicite. Plan D activé (garde-fou informel) |
+
+### Dimension 2 — Tonalité de la réponse
+
+| Tonalité | Lecture | Action de Boris |
+|---|---|---|
+| Enthousiaste, valide pleinement | Plan A — la règle existe | Envoyer confirmation écrite à Alec + Fabrice dans les 24h |
+| Validation molle ("ok, pourquoi pas") | Plan B — acter comme acquis | Envoyer le même message de confirmation, si pas de contestation = acquis |
+| Questions de clarification | **Excellent signe** — il réfléchit sérieusement | Répondre en insistant sur le périmètre d'exclusion (*"ne s'applique PAS à…"*) |
+| Propose de modifier/co-construire | **Très bon signe** | Accueillir toute proposition qui préserve le principe (traçabilité écrite + délai 24h) |
+| Refus poli, argumenté | Plan C — accepter | Noter, rouvrir à J+60 avec cas concrets |
+| Refus sec, "pas besoin de ça" | Plan D — retirer | Passer en garde-fou informel silencieux |
+| Braquage, interprétation agressive ("tu veux me cadrer") | Plan D+ urgent | Désamorcer immédiatement : *"Pas du tout l'intention, on oublie"* |
+| Renvoi vers Fabrice ("vois ça avec Fab") | Signal ambigu | Peut être délégation positive OU esquive. À tester en validant avec Fabrice |
+| Changement de sujet sans réponse | Évitement | Ne pas relancer immédiatement. Attendre qu'il revienne dessus. |
+
+### Dimension 3 — Contenu structurel
+
+Signes positifs dans sa réponse :
+- Reprend un élément précis du message de Boris (montre qu'il a lu)
+- Valide explicitement le **périmètre d'exclusion** (*"oui, c'est clair que sur mon périmètre je reste libre"*)
+- Mentionne Fabrice positivement (*"bonne idée qu'on fasse ça tous les trois"*)
+- Propose un test time-boxé
+- Accepte la porte de sortie (*"on voit dans 3 semaines"*)
+
+Signes d'alerte :
+- Insiste sur sa liberté de décision (signe qu'il a perçu la contrainte, même niée)
+- Minimise le problème (*"ça n'arrive pas si souvent"*) — déni du constat
+- Renvoie la responsabilité vers les équipes (*"qu'elles s'adaptent"*)
+- Demande si "c'est Fabrice qui a demandé ça" — signal de triangulation, à désamorcer immédiatement
+
+### Dimension 4 — Ce que la réponse révèle sur HO15 (impulsivité)
+
+La réponse d'Alec à ce message est elle-même un test de HO15 :
+
+| Type de réponse | Lecture HO15 |
+|---|---|
+| Prend le temps, structure sa réponse | HO15 partiellement invalidée — il peut freiner quand c'est important |
+| Répond à chaud, émotionnel | HO15 confirmée, la règle est d'autant plus nécessaire |
+| Propose une version améliorée | Signal fort de maturité co-gestionnaire |
+| Refuse en reconnaissant le problème (*"je vois ce que tu veux dire mais…"*) | Lucidité préservée, HO15 gérée avec conscience |
+| Refuse sans reconnaître le problème | Déni, HO28 (dissonance connue non-actionnée) confirmée |
+
+---
+
+## 📋 Actions de Boris selon la réponse
+
+### Si validation (Plans A ou B)
+- [ ] Message de confirmation à Alec + Fabrice dans les 24h
+- [ ] Mettre à jour [[Alec Henry]] avec la confirmation
+- [ ] Mettre à jour HO15 → contenue structurellement
+- [ ] Informer Fabrice en 1-to-1 S1 que la règle existe déjà avec Alec
+- [ ] Reprendre la section 6 de la [[Draft - Charte de délégation Fabrice]] pour aligner le vocabulaire avec ce qui a été convenu avec Alec
+
+### Si questions de clarification
+- [ ] Répondre en insistant sur le périmètre d'exclusion
+- [ ] Proposer un appel court si c'est plus facile à l'oral
+- [ ] Ne pas sur-expliquer — un message ≤ 5 lignes
+
+### Si refus (Plans C ou D)
+- [ ] Accepter sans insister
+- [ ] Créer le document [[Journal des revirements observés]] dans le vault
+- [ ] Passer en mode tracking silencieux
+- [ ] Prévoir re-proposition à J+60 avec 2-3 cas concrets
+
+### Si silence > 72h
+- [ ] Ne pas relancer sur ce sujet précis
+- [ ] Mentionner une fois, en passant, dans un 1-to-1 S1 ou S2 : *"Au fait, j'ai vu que j'étais peut-être allé un peu vite sur mon message de l'autre soir, pas de souci si c'est pas le bon moment"*
+- [ ] Laisser Alec relancer s'il veut
+
+---
+
+## 📝 Ancien contenu (conservé pour archive) — N'EST PLUS ACTIF
+
+> La section ci-dessous était la prep du moment oral de présentation. Elle a été rendue caduque par la décision de Boris le 23 avril au soir de transmettre directement à Alec.
+
+---
+
+## 🎯 Objectif initial
+
+**Objectif** : établir un protocole d'alignement écrit sur les décisions **déjà en cours d'exécution** qui sont remises en cause, pour protéger la qualité d'exécution et réduire le ballotage des équipes.
 >
 > **Finalité réelle (non dite à Alec)** : garde-fou structurel contre son impulsivité auto-diagnostiquée (HO15).
 >

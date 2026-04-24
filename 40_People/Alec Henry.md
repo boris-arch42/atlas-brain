@@ -214,6 +214,22 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 - **Communication vocale privilégiée** : plusieurs messages vocaux pour le cadrage initial plutôt qu'un écrit unique. À intégrer dans ma routine : je peux lui envoyer des récaps écrits **en réponse à ses vocaux**, pas en remplacement.
 - _(à compléter à l'observation)_
 
+## Interactions clés avec Boris — chronologie
+
+### 2026-04-23 soirée — Transmission directe de la proposition de règle du revirement
+
+**Action Boris** : envoi direct du message à Alec au sujet du protocole d'alignement écrit sur les décisions en cours d'exécution (court-circuitant le timing tactique S3-S4 initialement prévu).
+
+**Raisonnement Boris** : *"On a une relation particulière puisqu'on travaille ensemble depuis de nombreuses années. Il répondra dans l'intérêt de l'entreprise et en toute honnêteté."*
+
+**Posture choisie** : transparence directe plutôt qu'inversion de cadrage. Boris s'appuie sur le capital de confiance préexistant.
+
+**Statut** : réponse d'Alec en attente. Test en temps réel de HO15 (impulsivité) via délai + tonalité + contenu de la réponse.
+
+**Mettre à jour cette section une fois la réponse reçue** : noter délai, tonalité, décision, et ce que ça révèle du niveau réel de maturité co-gestionnaire d'Alec.
+
+Cf. [[Prep - Règle du revirement écrit avec Alec]] pour la grille de lecture complète.
+
 ---
 
 ## Notes liées
