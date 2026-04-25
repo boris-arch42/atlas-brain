@@ -39,6 +39,21 @@ Après l'échange avec Alec du 23 au soir, **ce cadre cible intègre désormais 
 
 ---
 
+## 🔄 MAJ 2026-04-24 soir — Post 1-to-1 Fabrice 2h08
+
+Le call s'est tenu cet après-midi (vendredi 24 avril, 14h00-16h08). **Résultat éclatant** : les 3 principes validés sans hésitation, Fabrice formule lui-même la description de mon mandat (*"toi, anticiper le problème par une meilleure structuration et une meilleure visibilité"*), demande active de relais.
+
+**Ce qui change dans ce draft** :
+- Section 3a (ce que Fabrice garde) → enrichie avec ses propres formulations
+- Section 3b (ce que Boris prend) → enrichie avec **cartographie concrète des nœuds** identifiés par Fabrice + 7 sujets P1/P2/P3
+- Section 4 (cadence) → confirmée avec rituel hebdo (jeudi, 30 min)
+- Section 6 (règle revirement) → marquée comme **acquise des 3 côtés** (Alec 23/4 + Fabrice 24/4)
+- Section 8 (questions ouvertes) → maintenant **questions répondues** avec matériau verbatim
+
+**Statut** : ce document est passé de référence interne à **base de la V1 écrite à envoyer à Fabrice lundi 27 ou mardi 28 avril**.
+
+---
+
 ## 🎯 Mes non-négociables pendant la co-construction
 
 Ce que je tiens, quoi qu'il arrive dans la conversation :
@@ -103,31 +118,46 @@ Ce document est un **point de départ**, pas une finalité. Je l'ai rédigé pou
 
 _(Partie à discuter sérieusement — tout est modifiable)_
 
-### 3a. Ce que Fabrice conserve (**proposé**)
+### 3a. Ce que Fabrice conserve (**confirmé au call 24/4**)
 
-- **Stratégie globale et arbitrages de haut niveau**
-- **Supervision finance, relation compta, relation banque (BPI, BNP, encours)** — tu es notre expert reconnu sur ces sujets
-- **Relations externes stratégiques** : investisseurs éventuels, partenaires stratégiques, board (si un jour il en existe un formalisé)
-- **Décisions structurantes** : embauches / départs C-level, changements d'organisation majeurs, décisions produit de fond
-- **Relation directe et principale avec Alec** (canal principal de décision)
-- **Supervision générale du produit** — cohérent avec ton historique Directeur du produit + ta vision SaaS/hypercroissance
+_Issue de la formulation directe de Fabrice : *"Mon expertise et ma force, c'est de comprendre rapidement des choses qui peuvent être complexes, de les simplifier, trouver une forme de solution."*_
 
-### 3b. Ce que Boris propose de prendre en charge (**proposé — à challenger**)
+- **Stratégie globale et arbitrages de haut niveau** — les sujets internationaux + franchise physique IA qu'il porte intellectuellement
+- **Conceptualisation de solutions face aux problèmes** : *"Il y a un problème, je vais conceptualiser la solution. Je la visualise, je la connais."*
+- **Interprétation analytique des chiffres et dashboards** — il a montré ça en direct sur le call (Joan Vernat ratio ferme/perdu = il identifie en 30 sec qu'il est cramé)
+- **Supervision finance + relation banque** (BPI, BNP, encours) — Jordan arrive le 18 mai, jusque-là Fabrice fait les commissions closers manuellement
+- **Décisions structurantes** : embauches/départs C-level, changements d'organisation majeurs, décisions produit de fond
+- **Relation directe avec Alec** — mais avec garde-fou de la règle du revirement (cf. section 6)
+- **Vision : stabilité et less is more** : *"Maintenant on doit arrêter de se dire 'ah ouais, si je prends un Zapier...' bon bà là ça fait le job mais dans 2 mois on sait pas."* — c'est son nouveau mantra, qu'il répète plusieurs fois
+- **Vision : core team internationale** — son sujet de réflexion fondamental (cf. son verbatim sur l'équipe centrale + acteurs locaux)
 
-**Mandat central (validé implicitement par Alec le 23 avril au soir)** :
+### 3b. Ce que Boris propose de prendre en charge (**cartographié au call 24/4**)
 
-- 🎯 **Accélération d'exécution des décisions COMEX** — faire en sorte que les décisions actées avancent concrètement : identifier les nœuds de blocage aval (qui attend quoi ? qui a peur d'exécuter sans revalidation ? où l'ownership est-il manquant ?), débloquer, tracer, relancer. C'est le cœur opérationnel du rôle.
+**Mandat central (validé implicitement par Alec le 23 avril au soir + reprécisé par Fabrice le 24/4)** :
 
-**Responsabilités associées** :
+🎯 **Accélération d'exécution des décisions COMEX** — "mettre sous les yeux de Fabrice tout ce qui se passe dans la boîte" (verbatim Fabrice). C'est le cœur opérationnel du rôle.
 
-- **Exécution opérationnelle des projets transverses** (ce qui actuellement prend de ton temps sans justifier ta senority)
-- **Animation et empowerment du middle management** — identifier qui peut monter, qui a besoin de cadre, comment les outiller pour qu'ils puissent exécuter sans revalidation systématique
-- **Structuration et formalisation** : process, SOPs, frameworks de décision, documentation
+**Cartographie concrète des nœuds prioritaires** identifiés par Fabrice :
+
+| Priorité | Nœud | Symptôme concret | Action S1-S4 |
+|---|---|---|---|
+| **P1** | Onboarding RH process | Aziz recrute Mehdi, pas de contrat. Les data ops disent "on n'est pas RH". Tout le monde se défausse vers Alec. | Cartographier le process cible + désigner un owner unique + formaliser dans Odoo |
+| **P1** | Stabilisation top 10 process | Fabrice a la cartographie + matrice KPI mais aucune adoption. *"J'ai fait ça sur Miro je crois."* | Lui demander l'export en S1, choisir l'outil unique (Notion vs Monday), pousser l'adoption |
+| **P1** | Outils éclatés (less is more) | Monday + Notion + Drive + WhatsApp + Slack en parallèle | Choisir + tuer + popularisation forcée |
+| **P1** | Process closing/commissions | Fabrice fait ça manuellement (vide CFO). Jordan arrive 18/05. | Reprendre temporairement en S2 + organiser passation à Jordan en S3 |
+| **P2** | Standardisation onboarding employés | Template Isabelle jamais popularisé — *"j'ai pas été sur le côté 'fin de la récré'"* | Refaire la fiche-type, l'imposer sur les 3 prochaines arrivées |
+| **P2** | Migration Odoo (ERP) | En cours, en parallèle de Houdou (paiements) | Suivi du sujet, pas pilotage — reste à Fabrice |
+| **P3** | Vision internationale | Fabrice y réfléchit mais n'a pas le temps de poser ça sur papier | Lui dégager du temps en cassant les goulots P1, pas piloter directement |
+
+**Responsabilités structurelles associées** :
+
+- **Équivalent de "head of internal data + ops"** : faire en sorte que toute l'info pertinente arrive aux yeux de Fabrice **automatiquement, visuellement, en flux continu** (sa formulation : *"le matin quand j'arrive, je clique sur mon dashboard, j'ai mes process, je vois les nouveaux arrivants"*)
+- **Animation et empowerment du middle management** : identifier qui peut monter (Charlotte, Sabrina, etc.), qui a besoin de cadre, comment les outiller pour qu'ils puissent exécuter sans revalidation systématique
 - **Tracking d'exécution post-COMEX** : journal écrit des décisions prises + leur statut d'avancement, relances, vérif d'exécution, escalade si blocage
-- **Cadrage stack tech / data / IA** (axe 4 d'Alec) : internalisation tech 3-6 mois, architecture, pas de dette
-- **Ops internes / automation RH / culture** (axe 5 d'Alec)
+- **Cordon sanitaire vs Alec** — nouveau verbatim de référence : *"l'info qui lui est remontée doit être structurée, documentée, expliquée sur de l'accomplissement"* (Fabrice). Mon rôle et celui de Fabrice = re-canaliser les remontées, structurer, présenter sur le mode "voilà ce qu'on a accompli".
+- **Cadrage stack tech / data / IA** (axe 4 d'Alec) : internalisation tech 3-6 mois — mais en Q2, pas Q1
 
-**Lien avec HO29 (cycle vicieux exécution)** : cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]. Le mandat d'exécution de Boris est conçu pour casser ce cycle à plusieurs endroits : réduire la peur (posture empowerment), créer du canal écrit (règle du revirement), reprendre l'exécution (libérer Fabrice), animer le middle management (ownership à -1).
+**Lien explicite avec HO29 et HO30** : mon mandat est de **casser le cycle vicieux** à plusieurs endroits. Réduire la peur (posture empowerment), créer du canal écrit (règle du revirement), prendre l'exécution (libérer Fabrice), animer le middle management (ownership à -1), restaurer les rituels du S1 2025 détruits par Tang.
 
 ### 3c. Zones interdites à Boris (rappel explicite des red flags posés par Alec le 23 avril)
 
@@ -192,9 +222,9 @@ Le départ d'[[Alexis Gresoviac]] (Chief of Staff) le 30 avril 2026 **ne crée a
 
 ---
 
-## 6. Règle du revirement (garde-fou commun)
+## 6. Règle du revirement (**ACQUISE à trois côtés — 23/4 Alec + 24/4 Fabrice**)
 
-**Règle qui s'applique à Fabrice, à moi, et aux décisions d'Alec qui nous concernent :**
+**Règle qui s'applique à Fabrice, à Boris, et aux décisions d'Alec qui nous concernent :**
 
 Tout revirement sur une décision déjà actée (notamment en COMEX ou par l'un de nous deux) nécessite :
 1. Un **échange écrit préalable** (mail, Slack, ou document partagé) avant exécution
@@ -207,7 +237,11 @@ Cette règle protège :
 - Notre crédibilité commune vis-à-vis des équipes (on ne change pas d'avis sans explication)
 - Notre protection mutuelle vis-à-vis des revirements impulsifs d'Alec (garde-fou discuté séparément avec lui)
 
-**✅ Statut côté Alec (MAJ 2026-04-23 soir)** : la règle équivalente a été proposée à Alec et **acceptée implicitement**. Sa réponse : *"L'observation est correct. Faut que je développe se réflexe."* Il a en outre précisé que sa vraie frustration est que les décisions n'avancent pas — ce qui renforce le sens de cette règle comme outil de propagation propre des décisions (cf. lien avec section 3b).
+**✅ Statut multi-côtés** :
+- **Côté Alec (23/4 soir)** : *"L'observation est correct. Faut que je développe se réflexe."* Précise lui-même que sa vraie frustration = les décisions n'avancent pas → la règle prend tout son sens comme outil de propagation propre.
+- **Côté Fabrice (24/4)** : *"Faut que ça soit des règles de revirement sur des choses à 500 000. Ah non mais ça on est complètement d'accord."* Précise un seuil pertinent : la règle s'applique aux **vraies décisions structurantes**, pas aux couleurs de canevas.
+
+**Précision supplémentaire à ajouter à la V1** : seuil d'application = décisions à enjeu **≥ 50K€ de spend** ou **engagement structurel d'équipe** (changement d'org, changement d'outil, changement de process top 10). Au-dessous, on gère sans formalisation.
 
 ---
 

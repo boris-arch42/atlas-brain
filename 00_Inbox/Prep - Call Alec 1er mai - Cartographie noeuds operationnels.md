@@ -19,6 +19,34 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🔄 MAJ 2026-04-24 soir — Ce que j'apporte au call (du 1-to-1 Fabrice)
+
+Le 1-to-1 Fabrice de cet après-midi (2h08) a livré **une cartographie complète des nœuds d'exécution**. Je n'arrive plus en mode découverte. J'arrive avec un **diagnostic pré-structuré** que je dois croiser avec celui d'Alec.
+
+**Évolution de mon enjeu pour le call** :
+
+| Avant le call Fabrice | Après le call Fabrice |
+|---|---|
+| Enjeu = faire émerger les nœuds avec Alec | Enjeu = **valider et croiser** la cartographie pré-existante |
+| Posture co-découverte | Posture co-validation + priorisation conjointe |
+| Risque d'aller trop dans la donnée Fabrice | Risque opposé : si je cite trop Fabrice, je triangule |
+
+**Nœuds confirmés par Fabrice (matière première du call)** :
+
+1. **Onboarding RH process absent** — cas Aziz/Mehdi (recruté sans contrat, personne ne sait qui fait le contrat)
+2. **Outils éclatés sans adoption** — Monday + Notion + Drive + WhatsApp + Slack en parallèle, aucun vainqueur
+3. **Process closing/commissions** — Fabrice fait ça manuellement (vide CFO post-départ)
+4. **Standardisation onboarding employés** — template Isabelle jamais popularisé
+5. **Migration Odoo (ERP)** — en cours, en parallèle de Houdou (paiements)
+6. **Vision internationale** — sujet flou non porté opérationnellement
+7. **Stabilisation top 10 process** — cartographiés + KPI matrice mais pas déployés
+
+**Complément majeur**: Fabrice a révélé que **les pertes 2025 viennent surtout des dépenses superflues du S2** (van 120K€, bureaux Dubai 250-400K€, paiements Tang/Scale, etc.) ET de la **performance marketing dégradée** (event Tapie + Suisse Ribénamias = 370K€ de spend pour 257K€ signés). À articuler avec la frustration d'Alec sur l'exécution.
+
+**Mécanisme "nourrir la bête" cartographié** : c'est ce que je dois faire émerger d'Alec lui-même en phase 3, sans le citer comme tel.
+
+---
+
 ## 🎯 Enjeu du call (en 1 phrase)
 
 > Transformer la frustration d'Alec en diagnostic partagé et actionnable, sans jouer les experts qui débarquent.
@@ -86,11 +114,13 @@ Je creuse chaque décision avec ces 3 angles **sans commenter**. Je cherche la d
 
 **Je partage 2-3 observations croisées**, formulées en mode "ce qui m'est remonté" pas "ce que je pense" :
 
-- **Observation 1 (culture / middle management)** : *"J'ai perçu qu'il y a des endroits où l'équipe attend une revalidation avant d'exécuter, même sur des sujets déjà tranchés. C'est-à-dire qu'il y a un pas qui manque entre 'décidé par Alec' et 'prise d'initiative par le porteur'."*
+**Observation 1 (nœud onboarding RH)** — *"Sur le bas du process, j'ai vu un cas qui m'a frappé : un closer qui est recruté mais où le contrat n'arrive pas, parce que personne ne sait qui doit le faire. C'est ni RH, ni data ops, ni admin. Il y a un trou de propriétaire là."* (Pas "Fabrice m'a dit" — "j'ai vu un cas".)
 
-- **Observation 2 (ownership)** : *"Sur certains sujets, c'est pas clair qui porte réellement — il y a un décideur (toi), il y a une équipe, et entre les deux parfois personne qui détient le 'pilotage'."* (→ rôle de middle management / Fabrice)
+**Observation 2 (outils éclatés)** — *"Sur les outils, j'ai l'impression qu'on a Monday + Notion + Drive + WhatsApp + Slack en parallèle, et personne ne sait où chercher quoi. Ça doit créer des heures perdues chaque semaine."*
 
-- **Observation 3 (fragmentation des pôles)** : *"Entre les pôles, il y a parfois des sujets qui tombent entre deux chaises — genre tout ce qui est transverse entre commercial et produit."*
+**Observation 3 (mécanisme nourrir la bête)** — à amener prudemment, pas frontalement : *"Il y a un truc qui me fait réfléchir aussi — j'ai l'impression que parfois quand toi tu prends le pouls auprès d'une personne en direct, comme tu sais le faire, la personne te raconte sa version qui est par définition partielle. Et après on doit décortiquer pour comprendre. Ce que je voulais te demander, c'est : est-ce que tu vois ça aussi ? Et qu'est-ce qu'on pourrait imaginer pour qu'on ait des infos plus structurées à te remonter ?"*
+
+**Cette dernière question** est le cœur du call. Elle invite Alec à **co-construire le cordon sanitaire**, sans le formuler comme une contrainte sur lui. Si Alec mord, je tiens HO15 et HO29 d'un coup.
 
 **Je laisse Alec réagir après chaque observation**, 2-3 min d'écoute.
 

@@ -42,6 +42,47 @@ Immédiatement après le call 1. Les 3 nœuds priorité issus du call Alec nourr
 
 ---
 
+## 🟢 MAJ 2026-04-24 soir — 1-to-1 Fabrice tenu (2h08, résultat éclatant)
+
+**Le call s'est tenu cet après-midi**. Mes hypothèses initiales sur la posture de Fabrice (cicatrice ex-CEO à ménager) sont **largement invalidées**. Fabrice est dans une posture de **COO épuisé en demande active de relais**, pas d'ex-CEO blessé.
+
+### ✅ 3 principes validés sans hésitation
+
+- **Non-COO Boris** : *"Ça ne traverse même pas l'esprit, je vois tellement la complémentarité."*
+- **Non-héritage Alexis** : *"C'est un non-sujet [...] son poste était suffisamment pas clair."*
+- **Règle du revirement** : *"Faut que ça soit des règles de revirement sur des choses à 500 000. Ah non mais ça on est complètement d'accord."*
+
+### 🎯 Cartographie pré-existante des nœuds d'exécution
+
+Fabrice a livré spontanément 7 nœuds concrets (cf. [[Fabrice Jaeger]] section MAJ). À croiser avec Alec le 1er mai — **pas à découvrir**.
+
+### 💡 Révélation clé : sabotage Tang validé (→ HO30)
+
+Le basculement de la boîte vers le mode toxique actuel est **daté précisément** : avril-mai 2025, sur conseil de Tang à Alec affaibli psychologiquement (deuil maman). Le mode opératoire qui marchait (S1 2025) **existe déjà dans la mémoire de la boîte** — ma mission n'est pas une refonte ex nihilo, c'est une **restauration**.
+
+### 🔍 Mécanisme "nourrir la bête" cartographié (→ enrichit HO15 et HO29)
+
+Cycle complet documenté (cf. [[Alec Henry]] section Patterns) : Alec en 1-to-1 out-of-the-blue → mimétisme vocabulaire → "nourrit la bête" → scuds à Fabrice → colmatage → ressort 2 semaines après. **Le levier d'action principal devient : couper les 1-to-1 directs Alec/-1/-2** et mettre Boris+Fabrice en filtre.
+
+### 📊 Verbatim de référence pour mon mandat (à retenir tel quel)
+
+> *"L'info qui lui est remontée doit être structurée, documentée, expliquée sur de l'accomplissement."* (Fabrice, 24/4)
+
+C'est le **"cordon sanitaire"** que je dois construire. Pas un blocage d'Alec, une re-canalisation des remontées.
+
+### 🔴 Constat additionnel — origine des pertes 2025
+
+Fabrice a livré les chiffres. Les pertes 2025 viennent **principalement** :
+- **Dépenses superflues massives S2 2025** : van entrepreneurs.com 120K€, bureaux Dubai 250-400K€, paiements Tang/Scale, etc. *"Tout ce qu'on a gagné en début d'année on l'a dépensé comme des couillons."*
+- **Performance marketing dégradée** : event Tapie + Suisse Ribénamias = **370K€ de spend pour 257K€ signés** (ratio désastreux)
+- **Défaut RH delivery** : Isabelle 3 semaines, Mélissa qui *"a mis des cadavres dans tous les placards"*
+
+→ HO19 et HO20 sont reformulées. Le vrai sujet n'est pas le positionnement produit ni le recouvrement — c'est **l'allocation des cash gains du S1 2025** + **la qualité de vente** (20% de "déchets toxiques" selon Fabrice).
+
+→ Nouveau **KR2.5 proposé** dans les OKR : audit des dépenses discrétionnaires ≥ 50K€.
+
+---
+
 ## 📅 Chaîne d'intégration des calls — 24 avril au 1er mai
 
 | Date | Call | Input que je capte | Output vers quoi |

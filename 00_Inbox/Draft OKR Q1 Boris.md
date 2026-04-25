@@ -20,6 +20,24 @@ tags: [okr, trimestriels, Q1, operating-partner, mai-juillet-2026, draft]
 
 ---
 
+## 🔄 MAJ 2026-04-24 soir — Ajustements post 1-to-1 Fabrice
+
+Le 1-to-1 Fabrice de cet après-midi enrichit massivement plusieurs Key Results :
+
+- **O1 / KR1.2** — Fabrice a déjà nommé 7 sujets concrets à retirer de son assiette. Le KR "5 sujets identifiés" peut être re-formulé plus ambitieusement : **5 sujets retirés + déployés à J+45**, pas juste "identifiés".
+- **O2 / KR2.1** — La cartographie des nœuds **est déjà à 70%** (Fabrice + ce que j'ai observé cette semaine). Le travail du call Alec 1er mai est un **croisement et une priorisation conjointe**, pas une découverte. Date de livraison du document peut être raccourcie à **J+10 (10 mai)** au lieu de J+21.
+- **O2 / KR2.4** — Le rituel hebdo de revue d'exécution (jeudi 30 min Fabrice + Boris) est **pré-validé par Fabrice** au call. À confirmer en séance 1er mai.
+- **Nouvel élément** : **HO30 (sabotage Tang induit)** valide qu'on cherche à **restaurer un mode opératoire qui a déjà fonctionné** (S1 2025). Pas une refonte ex nihilo. Ajustement : O1 et O2 sont alors **plus faisables qu'estimé** — moins d'innovation, plus de restauration.
+- **Risque nouveau** : Fabrice a partagé que **les pertes 2025 viennent en grande partie des dépenses superflues** (van 120K€, bureaux Dubai 250-400K€, etc.). C'est plus structurel que les impayés. → **proposer en séance OKR un audit des dépenses discrétionnaires ≥ 50K€** comme KR2 supplémentaire à discuter.
+
+**Ce que je propose maintenant pour le call OKR** :
+- **3 objectifs** confirmés, 4e candidat à trancher en séance
+- **Ajout d'un KR** sur l'audit des dépenses discrétionnaires (à caser dans O2)
+- **Raccourcir KR2.1** à J+10 (cartographie déjà partielle)
+- **Pousser KR1.2** à "5 sujets retirés ET déployés", pas juste identifiés
+
+---
+
 ## 🧭 Contexte et principes de ce draft
 
 ### Période
@@ -59,7 +77,7 @@ _(Lien avec axe 1 d'Alec : "Libérer Fabrice pour qu'il puisse faire son rôle")
 
 - **KR1.1** : **Charte de délégation Fabrice ↔ Boris** co-construite et signée (V2) avant **J+21** (22 mai). Tracée dans le vault + copie partagée avec Fabrice. _Binaire : signée ou pas._
 
-- **KR1.2** : **Minimum 5 sujets opérationnels** identifiés par Fabrice comme "à retirer de son assiette" ont été **effectivement retirés** et soit portés par Boris soit repositionnés dans l'organisation avant **J+45** (15 juin). _Mesurable : liste nominative + statut pour chacun._
+- **KR1.2** : **Minimum 5 sujets opérationnels** identifiés par Fabrice comme "à retirer de son assiette" ont été **effectivement retirés ET déployés avec adoption mesurée** avant **J+45** (15 juin). _Mesurable : liste nominative + statut "déployé + adopté par les équipes" pour chacun._ **MAJ 24/4** : Fabrice a déjà nommé 7 sujets concrets en call : onboarding RH process, outils éclatés, process closing/commissions, standardisation onboarding employés, migration Odoo, vision internationale, stabilisation top 10 process. Les 5 à déployer en P1 sont les 4 premiers (les 3 derniers sont P2/P3).
 
 - **KR1.3** : À **J+60** (30 juin), une conversation structurée avec Fabrice confirme qualitativement (note 7+/10 de sa part) que sa bande passante est plus saine. _Mesure : verbatim écrit de Fabrice dans le cadre de la revue J+60._
 
@@ -78,13 +96,15 @@ _(Lien direct avec la révélation d'Alec du 23 avril : "souvent les choses sont
 
 ### Key Results
 
-- **KR2.1** : **Cartographie écrite des 5-7 nœuds d'exécution principaux** validée par Alec + Fabrice avant **J+21** (22 mai). Document partagé en trio, avec diagnostic qualitatif par nœud (pourquoi ça coince ? qui est impliqué ? qu'est-ce qui le débloquerait ?). _Binaire : document existe et a été validé en trio._
+- **KR2.1** : **Cartographie écrite des 5-7 nœuds d'exécution principaux** validée par Alec + Fabrice avant **J+10** (10 mai). Document partagé en trio, avec diagnostic qualitatif par nœud (pourquoi ça coince ? qui est impliqué ? qu'est-ce qui le débloquerait ?). _Binaire : document existe et a été validé en trio._ **MAJ 24/4** : 70% du travail déjà fait via 1-to-1 Fabrice. Le call Alec 1er mai = croisement + priorisation conjointe. Date raccourcie de J+21 à J+10.
 
 - **KR2.2** : **Au moins 3 nœuds prioritaires** ont été débloqués avant **J+60** (30 juin). Mesure : la décision initiale a été effectivement exécutée, ou reformulée de manière pragmatique et exécutée. _Mesurable : pour chaque nœud, la "décision qui ne bougeait pas" a bougé._
 
 - **KR2.3** : La **règle du revirement écrit** avec Alec est **active et mesurable** : sur 3 mois, au moins 80% des revirements d'Alec sur des sujets en cours d'exécution par Boris ou Fabrice ont été tracés par écrit avant implémentation. _Mesurable : journal des revirements observés + % calculé à J+90._
 
-- **KR2.4** : Installation d'un **rituel hebdomadaire de revue d'exécution** (jeudi 30 min, Fabrice + Boris) tenu sans interruption de **J+7 à J+90**. _Mesurable : 12 rituels tenus sur 13 semaines._
+- **KR2.4** : Installation d'un **rituel hebdomadaire de revue d'exécution** (jeudi 30 min, Fabrice + Boris) tenu sans interruption de **J+7 à J+90**. _Mesurable : 12 rituels tenus sur 13 semaines._ **MAJ 24/4** : pré-validé par Fabrice au call.
+
+- **KR2.5 (nouveau, proposé à Alec en séance OKR)** : **Audit des dépenses discrétionnaires ≥ 50K€** engagées entre avril 2025 et avril 2026, avec leur ROI mesurable, partagé à Alec + Fabrice avant **J+30** (30 mai). _Mesurable : document existe + chaque ligne a un ROI estimé._ Proposé suite au verbatim Fabrice : *"Tout ce qu'on a gagné en début d'année on l'a dépensé comme des couillons"* (van 120K€, bureaux Dubai 250-400K€, paiement Tang/Scale, etc.). À trancher en séance.
 
 ### Signaux d'avertissement
 - Alec refuse / sabote la règle du revirement → KR2.3 tombe → on garde le tracking informel

@@ -55,6 +55,34 @@ Mantra Alec : *"Structurer, simplifier, limiter les coûts au maximum. Less is m
 
 ## ⚠️ Patterns et risques à contenir
 
+### 🔄 MAJ 2026-04-24 — Pattern "nourrir la bête" diagnostiqué par Fabrice
+
+Verbatim de Fabrice au 1-to-1 du 24 avril :
+
+> *"Généralement c'est même pire que ça. C'est soit des gens qui l'ont beaucoup sollicité parce qu'il a aussi ouvert des portes [...] Lui ça nourrit la bête. Et comme ça nourrit la bête, derrière il pète un câble [...] le sujet ressort une semaine après, puis deux semaines après."*
+
+> *"De lui-même il incite à cette toxicité sans s'en rendre compte."*
+
+**Mécanisme observé** :
+1. Alec prend des gens en 1-to-1 **out of the blue** (WhatsApp, contact direct sans agenda)
+2. Les gens, flattés d'être contactés par le boss, **vident leur sac**
+3. Ils **miment son vocabulaire** par effet de mimétisme → Alec se reconnaît, c'est rassurant
+4. Cela **"nourrit la bête"** (sa frustration / sa peur)
+5. Alec re-mouline ces inputs et **envoie des scuds** à Fabrice (*"untel ne fout rien, machin"*)
+6. Fabrice **prend le retour de flamme**, décortique, régle dans l'immédiat
+7. Mais **le sujet ressort 1-2 semaines après** parce qu'il a juste été colmaté, pas résolu en profondeur
+
+**Cas concret documenté** — *l'épisode Quentin* :
+- Alec déjeune avec Quentin (plateforme) qui se plaint des autres prestataires (Nicolas clickfunnel, Thomas Beaumelin BigQuery)
+- Alec rapporte à Boris à Saint-Étienne : *"Quentin il m'a dit que les deux il m'enculent"*
+- Alec rapporte à Fabrice : *"Boris il dit que Quentin il m'encule"* (Boris n'a JAMAIS dit ça)
+- Fabrice : *"Tout le monde **** tout le monde, voilà"* — chaque relation devient triangulée par Alec, qui déforme involontairement
+
+**Implication pour ma posture** :
+- **Je ne déjeune jamais seul avec Alec sur des sujets internes** sans un partage écrit ultérieur à Fabrice
+- **Si je détecte qu'Alec rapporte des propos qui ne sont pas miens**, je le dis sur le moment, calmement : *"Je n'ai pas dit ça comme ça. J'ai dit X."* Par souci de précision, pas pour le contredire.
+- **Si Alec rapporte des propos d'autres**, je ne répète jamais. Même en présence du concerné. Règle de discrétion absolue.
+
 ### 1. Impulsivité décisionnelle — **risque structurel n°1**
 
 Auto-diagnostiqué par Alec lui-même le 23 avril 2026 :
@@ -246,6 +274,30 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 Alec vient de **valider implicitement le mandat d'exécution** qu'il a donné à Boris. Sa vraie frustration — les décisions qui n'avancent pas — est **précisément ce que Boris vient résoudre**. C'est la 2ème confirmation forte du bon cadrage de la prise de poste (la 1ère était le cadrage du 23 avril avec les 4 réponses vocales).
 
 Cf. [[Prep - Règle du revirement écrit avec Alec]] pour l'analyse complète + [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO15 (mise à jour) et HO29 (nouvelle).
+
+### 2026-04-24 après-midi — 1-to-1 Boris×Fabrice de 2h08 (validation éclatante)
+
+**Événement** : 1-to-1 pré-prise de poste entre Boris et Fabrice. Le call a couvert tous les sujets clés en transparence totale. **Aucun blocage**, validation des 3 principes (non-COO, non-héritage Alexis, règle revirement) avec enthousiasme. Cf. [[Fabrice Jaeger]] section MAJ 2026-04-24 pour les verbatims complets.
+
+**Ce que ce call révèle sur Alec** (par triangulation Fabrice) :
+
+1. **Pattern "nourrir la bête" cartographié précisément** — cf. section ci-dessus dans Patterns et risques.
+
+2. **Sabotage Tang validé** — Fabrice : *"En tout cas, c'était du sabotage, mais c'était bien exécuté."* Le retour d'Alec dans l'opérationnel sur conseil de Tang (avril-mai 2025) est diagnostiqué par les deux comme un déclencheur clair de la dégradation 2025. Ce n'est pas une dérive organique, c'est un pivot externe induit. **Implication** : la boîte a fonctionné en mode transverse sain de janvier à mars 2025 — retrouver cet état n'est pas une invention, c'est un retour. Cf. **HO30**.
+
+3. **Alec a tendance à valider sans solution concrète** — *"Alec ne fournira jamais de solution. [...] T'as juste à faire ça et voilà."* Boris valide, Fabrice valide. Implication : ne pas attendre d'Alec qu'il fournisse les comment, seulement les quoi et les pourquoi. Le comment, c'est mon mandat avec Fabrice.
+
+4. **Alec compare sans contexte** — Julien Scale (boutique de coaching personnel à ~300 balles le ticket) cité comme référence pour fixer les objectifs de recouvrement d'Entrepreneurs.com (tickets 8K-30K€, contexte radicalement différent). Pattern à désamorcer en S1.
+
+5. **Alec applique du low-cost mental sur des sujets seniors** — *"On aurait dû prendre un Philippin à 15 dollars/jour"* sur le data engineer Thomas Beaumelin (paye 5K€/mois pour structurer la data). Pattern : sous-estimation de la valeur ajoutée du senior, surestimation de l'économie offshore. À surveiller sur les recrutements futurs.
+
+6. **Validation forte de la posture "sous cloche"** — Boris : *"il faut le mettre sous cloche"*. Fabrice : *"c'est exactement ça que je cherchais"*. Le terme **"cordon sanitaire"** est adopté par Fabrice : *"l'info qui lui est remontée doit être structurée, documentée, expliquée sur de l'accomplissement."* C'est mon nouveau verbatim de référence pour le mandat.
+
+**Ce qui est validé par cette triangulation** :
+- HO8 (tout remonte à Alec) : confirmé et expliqué mécaniquement
+- HO15 (impulsivité) : confirmé et compris dans son origine (frustration d'exécution + nourriture de la bête)
+- HO29 (cycle vicieux) : confirmé, mécanisme documenté précisément
+- HO30 (sabotage Tang induit) : nouveau, validé par Fabrice avec date précise (avril-mai 2025)
 
 ---
 
