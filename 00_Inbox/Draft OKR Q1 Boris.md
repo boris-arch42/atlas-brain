@@ -160,7 +160,6 @@ _(Lien avec situation RH critique : 5e mouvement top en 20 mois — cf. [[Diag -
 - KR4.1 : rituel COMEX structuré + décisions documentées par défaut
 - KR4.2 : middle management (Aziz, Sabrina, Cédric, Océane, Anisse) en posture d'ownership — mesure qualitative
 - KR4.3 : posture empowerment déployée vs culture de peur diagnostiquée par Océane
-- **KR4.4 (ajout 24/4)** : Boris assume formellement le rôle **"general manager de fait"** (cf. HO31) — rituels hebdo installés avec chaque head + matrice KPI partagée + cadence de revue mensuelle
 
 **Pourquoi je ne l'ai pas ajouté d'office** : risque de sur-solliciter Boris sur un premier trimestre. **⚡ MAJ 24/4** : avec HO31 (trou management top), cet O4 prend une importance forte. Si je ne l'occupe pas, personne d'autre ne le fera. **À trancher ensemble en séance** : O4 explicite, ou intégration de KR4.4 dans O1/O2 ?
 
