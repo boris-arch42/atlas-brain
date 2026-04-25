@@ -58,7 +58,7 @@ _Statut au J+14 : à compléter_
 
 ## Hypothèses apparues au cadrage du 23 avril
 
-- **HO15** — **Impulsivité d'Alec** : Alec détruit périodiquement du pilotage en revenant sur des décisions. Auto-diagnostiqué par lui (*"on revoit tout de A à Z"*). **⚡ Évolution 2026-04-23 soir + 2026-04-24** : (1) Alec a reçu et **validé la règle du revirement** : *"L'observation est correct. Faut que je développe se réflexe."* (2) Sa vraie frustration n'est pas ses propres revirements, c'est que **les décisions ne s'exécutent pas** → voir HO29. (3) **Fabrice a ajouté le mécanisme manquant le 24/4** : Alec ne *cause* pas l'impulsivité ex nihilo — elle est **déclenchée** par les 1-to-1 out-of-the-blue qui "nourrissent la bête". Cycle : Alec parle à X → X mime son vocabulaire et lui dit ce qu'il veut entendre → Alec re-mouline → envoie des scuds à Fabrice → Fabrice colmate → le sujet ressort 2 semaines après. HO15 passe de **hypothèse** à **mécanisme documenté à trois sources concordantes** (Alec auto-diag + Océane + Fabrice). **Levier d'action principal** : **réduire les 1-to-1 directs Alec / niveau -1 et -2**, refaire passer par le filtre Boris+Fabrice. C'est le verbatim final de Fabrice : *"il faut qu'on arrive à couper des équipes [le 1-to-1 direct Alec] et je peux pas le faire tout seul."* C'est devenu un **mandat explicitement co-porté** par Fabrice + Boris. Cf. [[Prep - Règle du revirement écrit avec Alec]].
+- **HO15** — **Impulsivité d'Alec** : Alec détruit périodiquement du pilotage en revenant sur des décisions. Auto-diagnostiqué par lui (*"on revoit tout de A à Z"*). **⚡ Évolution 2026-04-23 soir + 2026-04-24** : (1) Alec a reçu et **validé la règle du revirement** : *"L'observation est correct. Faut que je développe se réflexe."* (2) Sa vraie frustration n'est pas ses propres revirements, c'est que **les décisions ne s'exécutent pas** → voir HO29. (3) **Fabrice a ajouté le mécanisme manquant le 24/4** : Alec ne *cause* pas l'impulsivité ex nihilo — elle est **déclenchée** par les 1-to-1 out-of-the-blue qui "nourrissent la bête". Cycle : Alec parle à X → X mime son vocabulaire et lui dit ce qu'il veut entendre → Alec re-mouline → envoie des scuds à Fabrice → Fabrice colmate → le sujet ressort 2 semaines après. **(4) Triangulation Axel le 24/4 ajoute une dimension affective** : *"Alec, c'est un émotionnel, c'est un affectif. Il virera pas Fabrice jusqu'à tant que ça soit presque trop tard."* Cas Alexis = pattern compressé d'HO15 : Axel alerte dès le recrutement → Alec refuse d'agir → problème se matérialise → Alec reconnaît l'erreur (*"tu as raison frérot, vire-le tout de suite ?"*) → refuse encore d'agir (*"non attends, je lui laisse encore"*) → finalement règle tard. HO15 passe de **hypothèse** à **mécanisme documenté à quatre sources concordantes** (Alec auto-diag + Océane + Fabrice + Axel). **Levier d'action principal** : **réduire les 1-to-1 directs Alec / niveau -1 et -2**, refaire passer par le filtre Boris+Fabrice. C'est le verbatim final de Fabrice : *"il faut qu'on arrive à couper des équipes et je peux pas le faire tout seul."* C'est devenu un **mandat explicitement co-porté** par Fabrice + Boris. Cf. [[Prep - Règle du revirement écrit avec Alec]].
 - **HO16** — **Sophia (co-COO externe juillet)** : son contrat n'est pas encore signé définitivement. Si j'avance vite entre mai et juin, la question "a-t-on vraiment besoin de Sophia ?" va se poser côté Alec. Hypothèse : une clarification explicite du scope Sophia vs. Boris est possible avant fin juin.
 - **HO17** — **Axél (CRO) pilote un pôle hermétique** selon le Diag, mais Alec l'invite à la transparence totale avec moi. Hypothèse : Axel va s'ouvrir en 1-to-1 une fois qu'il comprend que je ne viens pas auditer son pôle. Test en semaine 1.
 - **HO18** — **Restructuration produit en cours** côté Alec avec parties prenantes externes. Hypothèse : ce travail produit des décisions qui impacteront mon périmètre ops d'ici fin juin. À cadrer en semaine 1-2 avec Alec pour ne pas découvrir les changements par surprise.
@@ -128,6 +128,60 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+90 (preuves comportementales).
 
+## Hypothèses apparues au 1-to-1 Axel du 24 avril (soir)
+
+- **HO31** — **Trou de compétence management au top — personne n'est manager dans la chaine de commandement actuelle**. Révélé par Axel le 24/4 :
+  > *"Alec n'est pas manager. Anis n'est pas manager et il n'aime pas ça, il l'avait dit en novembre 2024 / janvier 2025, il était à deux doigts de faire un burnout. Fabrice n'est pas manager. Donc qui est manager alors ? Personne."*
+  
+  **Validation croisée** :
+  - Fabrice s'est lui-même décrit comme faible sur orchestration / adoption / management direct (24/4)
+  - Alec a auto-diagnostiqué son émotionnalité affective (cas Alexis)
+  - Anis est mentionné nommément par Axel comme non-manager (qu'il avait failli faire un burnout en jan 2025 en gardant ces responsabilités)
+  - Axel l'avait diagnostiqué dès juillet 2025 : *"Quand je lui dis je pars, je dis 'la personne que tu dois recruter c'est un general manager'"*
+  
+  **Implication majeure** : le management direct des heads (Aziz, Sabrina, Cédric, Anis, Océane) **n'est réellement assumé par personne aujourd'hui**. Les heads se débrouillent en fonction de la personnalité d'Alec, mais aucun cadre structuré d'animation. Cas concret : Aziz fait des call hebdos avec Alec mais sans agenda formalisé. Cédric force depuis octobre sans avoir d'espace officiel pour exprimer sa fatigue. Etc.
+  
+  **Conséquences systémiques** :
+  1. Les heads se sentent managés par humeur (selon disponibilité d'Alec, mécanisme HO29 "nourrir la bête")
+  2. Aucun cadre OKR/KPI tenable (cf. HO31bis sur les OKR ci-dessous)
+  3. Aucune monteée en compétence des -1 vers -2 (pas de cadre de growth)
+  4. Le "middle management" mérite son nom : il est au milieu d'un trou de management
+  
+  **Action structurelle pour Boris** : **assumer le rôle general manager de fait**. Même sans titre. La cartographie 7 nœuds de Fabrice + le diagnostic Axel + le mandat Alec convergent : Boris doit être **le manager qui n'existait pas**. Charte 3b doit être revisitée dans cette optique.
+  
+  **Test** : si en 60 jours Boris a un rituel hebdo stable avec chaque head + une matrice KPI partagée + une cadence de revue mensuelle, HO31 est en voie de résolution. Sinon, c'est que la culture résiste.
+  
+  **Horizon** : J+60 (rituels en place) / J+90 (efficacité mesurable).
+
+- **HO31bis** — **Le mot "OKR" est toxique chez Entrepreneurs.com**. Sous-hypothèse technique mais critique pour mes livrables. Verbatim Axel 24/4 :
+  > *"Tang me dit 'j'ai pas d'OKR, je déteste les OKR.' Et Alec me dit 'j'ai pas d'OKR.'"*
+  > *"L'entreprise n'a jamais aussi mal fonctionné depuis qu'on essaie de mettre les OKR."*
+  > *"Charles [CEO L'Empire] a dit : 'Google a créé les OKR pour affaiblir ses concurrents.'"* (transmis à Alec qui l'a validé)
+  
+  **Implication** : présenter un document "OKR Q1" en séance trio le 1er mai me fait perdre la moitié de la crédibilité avant même d'avoir parlé du contenu. Renommer en **"Plan trimestriel Q1"** ou **"Engagements Q1"** en séance, garder la structure OKR uniquement en interne dans le vault.
+  
+  **Action** : (1) renommer le draft à envoyer en séance, (2) préparer une réponse si Alec ou Fabrice questionne le format ("j'ai utilisé une structure objectifs/résultats clés parce que c'est mesurable, mais on l'appelle comme on veut").
+
+- **HO32** — **Risque imminent de départ de Cédric (CMO) en Q2-Q3 2026**. Triangulation triple-source :
+  - **Source 1** [[Océane De Queiros]] (23/4) : Cédric s'est confié à Océane sur ses doutes
+  - **Source 2** [[Axel Bombezin]] (24/4) verbatim : *"Cédric il force déjà depuis octobre [2025] et il l'a dit ouvertement. En décembre on a refait le point, rien n'avait changé. J'ai fait un point avec lui il y a peu de temps, rien n'avait changé. Et hier j'apprends ça [qu'il veut partir]. Je suis pas étonné."*
+  - **Source 3** : Cédric lui-même, qui a déjà essayé d'alerter depuis 6 mois
+  
+  **Pourquoi c'est critique** :
+  - **Pole marketing = réacteur indirect de la boîte**. Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est, on est une vraie boîte de marketing, rien d'autre."*
+  - **Aucun successeur naturel sur le marché francophone**. Axel : *"Sur le marché français il y en a pas du tout des tonnes [de cracks marketing]."*
+  - **Si Cédric part, c'est 6e mouvement top en 22 mois** après Tang, Fabrice rétrogradé, Alexis sortant, Axel sortant juin, Sophia entrante juillet. Catastrophique pour la crédibilité externe (cf. HO28 dissonance).
+  - **Alec est dans son pattern affectif** (HO15) sur Cédric (*"vraiment le frérot d'Alec"* selon Axel). Donc Alec va vouloir le retenir par loyauté, pas par solution structurelle. Cédric a déjà alerté sans succès.
+  - **Hypothèse retour Amine Achour** mentionnée par Alec à Axel — *"à prendre avec des pincettes"*. Risque : si Amine revient en pointillé (pas full time), Cédric peut le percevoir comme "on me cherche un remplaçant" et accélérer son départ.
+  
+  **Action S1 (semaine du 5 mai)** : 1-to-1 prioritaire avec Cédric (cf. [[Cédric]]). Posture délicate — ne pas le mettre sous pression, ne pas reformuler ce que j'ai entendu d'Océane ou Axel, mais l'inviter à parler.
+  
+  **Action structurelle S2-S3** : cartographier ce qui se passerait si Cédric part demain (qui hérite, qui intérime, délai pour recruter). Préparer Alec sans nommer Cédric pour qu'il prenne conscience du risque structurel.
+  
+  **Test** : si Cédric ouvre spontanément au 1-to-1 S1, signal de confiance + opportunité de stabiliser. S'il reste verrouillé, le risque de départ dans les 60 jours est haut.
+  
+  **Horizon** : J+30 (premier signal post-1-to-1 S1) / J+60-90 (validation ou résolution).
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -156,6 +210,9 @@ _Statut au J+14 : à compléter_
 | HO28 (dissonance connue d'Alec mais non-actionnée) | Observer réaction Alec à un signal risque reputation | J+30 |
 | HO29 (cycle vicieux exécution) | Cartographier 3-5 décisions actes non-exécutées + observer COMEX + check middle mgmt | J+30 (1er diag) / J+90 (preuves d'impact) |
 | HO30 (sabotage Tang induit) | Réinstallation rituels S1 2025 + observation comportementale | J+90 |
+| HO31 (trou management top) | Rituels hebdo + matrice KPI + cadence revue mensuelle installés | J+60 (rituels) / J+90 (efficacité) |
+| HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
+| HO32 (départ Cédric Q2-Q3) | 1-to-1 priorité 1 S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
 
 ## Revue prévue
 

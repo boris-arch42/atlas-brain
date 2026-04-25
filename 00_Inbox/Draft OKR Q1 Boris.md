@@ -1,5 +1,5 @@
 ---
-type: draft-okr
+type: draft-plan-trimestriel
 quarter: Q1 Boris (mai-juillet 2026, 13 semaines)
 date-created: 2026-04-24
 date-validation-cible: 2026-05-01 (call trio Alec + Fabrice + Boris)
@@ -7,34 +7,51 @@ for: "[[Boris Arduy]]"
 status: draft-a-valider-en-trio
 source: entrepreneurs-com
 sensitivity: confidential
-tags: [okr, trimestriels, Q1, operating-partner, mai-juillet-2026, draft]
+tags: [plan-trimestriel, okr-interne, Q1, operating-partner, mai-juillet-2026, draft]
+naming-note: "En interne dans le vault = OKR. En externe (séance trio + livrables) = Plan trimestriel ou Engagements Q1"
 ---
 
-# 🎯 Draft OKR Q1 Boris — Operating Partner Entrepreneurs.com (mai-juillet 2026)
+# 🎯 Draft Plan trimestriel Q1 Boris — Operating Partner Entrepreneurs.com (mai-juillet 2026)
+
+> ⚠️ **MAJ 2026-04-24 soir — RENOMMAGE TACTIQUE** : Le mot **"OKR" est toxique** chez Entrepreneurs.com (cf. HO31bis dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]]). Verbatim Axel : *"L'entreprise n'a jamais aussi mal fonctionné depuis qu'on essaie de mettre les OKR. Tang, Alec : 'on n'a pas d'OKR, on déteste les OKR.'"* En séance trio le 1er mai, ce document s'appelle **"Plan trimestriel Q1"** ou **"Engagements Q1"**. La structure objectifs / résultats clés reste identique — seul le vocabulaire change.
 
 > **Statut** : draft préparé par Boris, à valider en call trio (Alec + Fabrice + Boris) le **1er mai 2026** après le call "cartographie nœuds opérationnels" avec Alec.
 >
-> **Posture de présentation** : même philosophie que la charte Fabrice — ce n'est **pas** un document à faire valider tel quel. C'est un **point de départ** pour discussion collective. Chaque OKR peut être modifié, supprimé ou remplacé par le trio.
+> **Posture de présentation** : même philosophie que la charte Fabrice — ce n'est **pas** un document à faire valider tel quel. C'est un **point de départ** pour discussion collective. Chaque objectif peut être modifié, supprimé ou remplacé par le trio.
 >
-> **Ce qui est non-négociable dans la forme** : avoir des OKR écrits, mesurables, et revus tous les 30 jours. Sans cadre, le trimestre se dilue.
+> **Ce qui est non-négociable dans la forme** : avoir des objectifs écrits, mesurables, et revus tous les 30 jours. Sans cadre, le trimestre se dilue.
 
 ---
 
-## 🔄 MAJ 2026-04-24 soir — Ajustements post 1-to-1 Fabrice
+## 🔄 MAJ 2026-04-24 soir — Ajustements post 1-to-1 Fabrice + 1-to-1 Axel
 
-Le 1-to-1 Fabrice de cet après-midi enrichit massivement plusieurs Key Results :
+Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
+
+### Apports Fabrice (après-midi 14h-16h08)
 
 - **O1 / KR1.2** — Fabrice a déjà nommé 7 sujets concrets à retirer de son assiette. Le KR "5 sujets identifiés" peut être re-formulé plus ambitieusement : **5 sujets retirés + déployés à J+45**, pas juste "identifiés".
-- **O2 / KR2.1** — La cartographie des nœuds **est déjà à 70%** (Fabrice + ce que j'ai observé cette semaine). Le travail du call Alec 1er mai est un **croisement et une priorisation conjointe**, pas une découverte. Date de livraison du document peut être raccourcie à **J+10 (10 mai)** au lieu de J+21.
-- **O2 / KR2.4** — Le rituel hebdo de revue d'exécution (jeudi 30 min Fabrice + Boris) est **pré-validé par Fabrice** au call. À confirmer en séance 1er mai.
-- **Nouvel élément** : **HO30 (sabotage Tang induit)** valide qu'on cherche à **restaurer un mode opératoire qui a déjà fonctionné** (S1 2025). Pas une refonte ex nihilo. Ajustement : O1 et O2 sont alors **plus faisables qu'estimé** — moins d'innovation, plus de restauration.
-- **Risque nouveau** : Fabrice a partagé que **les pertes 2025 viennent en grande partie des dépenses superflues** (van 120K€, bureaux Dubai 250-400K€, etc.). C'est plus structurel que les impayés. → **proposer en séance OKR un audit des dépenses discrétionnaires ≥ 50K€** comme KR2 supplémentaire à discuter.
+- **O2 / KR2.1** — La cartographie des nœuds **est déjà à 70%** (Fabrice + ce que j'ai observé cette semaine). Date de livraison raccourcie à **J+10 (10 mai)** au lieu de J+21.
+- **O2 / KR2.4** — Le rituel hebdo de revue d'exécution (jeudi 30 min) est **pré-validé par Fabrice**.
+- **HO30 (sabotage Tang induit)** valide qu'on cherche à **restaurer un mode opératoire qui a déjà fonctionné** (S1 2025). Pas une refonte ex nihilo.
+- **KR2.5 nouveau (audit dépenses discrétionnaires ≥ 50K€)** proposé suite au verbatim Fabrice sur les pertes 2025.
 
-**Ce que je propose maintenant pour le call OKR** :
-- **3 objectifs** confirmés, 4e candidat à trancher en séance
-- **Ajout d'un KR** sur l'audit des dépenses discrétionnaires (à caser dans O2)
+### Apports Axel (soir 17h-18h14)
+
+- **HO31bis (toxicité OKR)** → **renommage du document en "Plan trimestriel Q1"** à partir de la séance trio (cf. encadré en tête). Critique pour la crédibilité.
+- **HO31 (trou management top)** → mon mandat de **"general manager de fait"** doit être explicite dans O1 ou nouveau KR. Personne d'autre ne le porte.
+- **HO32 (départ Cédric Q2-Q3)** → **nouveau KR de mitigation marketing critique** à ajouter en O3 — cartographie de la succession si Cédric part + 1-to-1 prioritaire S1.
+- **Pression sur le titre** → Axel a envoyé un vocal à Alec ce soir pour pousser COO Boris + GM Fabrice. Position option C à tenir : ouvert au COO si organigramme officiel complet (Fabrice GM + clarification Sophia).
+- **Diagnostic Aziz** → ne JAMAIS mettre Aziz sous Fabrice. KR3 sur la passation Axel doit préserver cette règle.
+- **Confirmation passation Axel solide** → **risque "perte de deal post-passation" est plus faible qu'estimé**. Ajustement positif sur KR3.2.
+
+**Ce que je propose maintenant pour le call trio le 1er mai** :
+- **Renommage tactique** du document en "Plan trimestriel Q1"
+- **3 objectifs** confirmés, 4e candidat (culture / management) à trancher en séance — fortement renforcé par HO31
+- **Ajout d'un KR3.4 "mitigation risque marketing"** lié à HO32
 - **Raccourcir KR2.1** à J+10 (cartographie déjà partielle)
 - **Pousser KR1.2** à "5 sujets retirés ET déployés", pas juste identifiés
+- **Ajout KR2.5** (audit dépenses discrétionnaires ≥ 50K€)
+- **Préserver l'arrangé Aziz/Alec** dans KR3.1
 
 ---
 
@@ -127,9 +144,13 @@ _(Lien avec situation RH critique : 5e mouvement top en 20 mois — cf. [[Diag -
 
 - **KR3.3** : **Scope écrit Sophia vs Boris** clarifié et validé par Alec + Sophia + Boris avant son arrivée (cible **J+60**, 30 juin, avant signature définitive). Document partagé en quatuor. _Binaire : document existe et est signé._
 
+- **KR3.4 (nouveau, ajouté 24/4 suite à HO32)** : **Cartographie de la succession marketing si Cédric part** validée par Alec + Boris avant **J+30** (30 mai). Document inclut : (a) qui intérime sur les 6 chantiers clés du marketing, (b) délai réaliste de recrutement remplacement, (c) cadrage du retour Amine Achour si confirmé (% temps, durée, scope), (d) plan B si Cédric annonce avant Amine. _Binaire : document existe et a été validé par Alec._ **Sensible** : ne nomme pas Cédric directement dans le doc — cadre comme "résilience marketing" générique.
+
 ### Signaux d'avertissement
 - Axel se désengage avant le 1er juin → KR3.1 glisse, forcer un 2e call Axel avant mi-mai
 - Alec reporte / refuse de cadrer Sophia avant juillet → KR3.3 tombe → escalade en priorité lors du 1-to-1 S4
+- Cédric annonce son départ dans les 30 jours → KR3.4 devient urgence absolue, pivot sur la mitigation immédiate
+- Amine Achour revient en pointillé (pas full time) → risque d'accélérer le départ Cédric, à anticiper dans KR3.4
 
 ---
 
@@ -139,8 +160,9 @@ _(Lien avec situation RH critique : 5e mouvement top en 20 mois — cf. [[Diag -
 - KR4.1 : rituel COMEX structuré + décisions documentées par défaut
 - KR4.2 : middle management (Aziz, Sabrina, Cédric, Océane, Anisse) en posture d'ownership — mesure qualitative
 - KR4.3 : posture empowerment déployée vs culture de peur diagnostiquée par Océane
+- **KR4.4 (ajout 24/4)** : Boris assume formellement le rôle **"general manager de fait"** (cf. HO31) — rituels hebdo installés avec chaque head + matrice KPI partagée + cadence de revue mensuelle
 
-**Pourquoi je ne l'ai pas ajouté d'office** : risque de sur-solliciter Boris sur un premier trimestre. **À trancher ensemble** : est-ce qu'on le met en O4, ou on l'intègre comme levier à l'intérieur de O2 (nœuds d'exécution), ou on le reporte à Q2 ?
+**Pourquoi je ne l'ai pas ajouté d'office** : risque de sur-solliciter Boris sur un premier trimestre. **⚡ MAJ 24/4** : avec HO31 (trou management top), cet O4 prend une importance forte. Si je ne l'occupe pas, personne d'autre ne le fera. **À trancher ensemble en séance** : O4 explicite, ou intégration de KR4.4 dans O1/O2 ?
 
 ---
 

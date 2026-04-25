@@ -299,6 +299,40 @@ Cf. [[Prep - Règle du revirement écrit avec Alec]] pour l'analyse complète + 
 - HO29 (cycle vicieux) : confirmé, mécanisme documenté précisément
 - HO30 (sabotage Tang induit) : nouveau, validé par Fabrice avec date précise (avril-mai 2025)
 
+### 2026-04-24 17h00-18h14 — 1-to-1 Axel×Boris (1h14)
+
+**Événement** : 1-to-1 pré-prise de poste avec Axel (sortant juin 2026). Cf. [[Axel Bombezin]] section MAJ pour les verbatims complets.
+
+**Ce que ce call apporte sur Alec** (par triangulation Axel) :
+
+1. **Diagnostic affectif validé par 3e source** — Verbatim Axel : *"Alec, c'est un émotionnel, c'est un affectif. C'est l'un des seuls défauts d'Alec dans le business. Il virera pas Fabrice jusqu'à tant que ça soit presque trop tard."* Implication : Alec ne prendra **jamais l'initiative** de couper avec quelqu'un qu'il aime, même si c'est dans l'intérêt de la boîte. Cas Alexis confirme : Axel a alerté dès le recrutement, Alec a reconnu *"tu as raison frérot mais vire-le tout de suite ?"* puis *"non attends je lui laisse encore"*. Pattern systématique.
+
+2. **Le cas Alexis comme pattern compressé d'HO15** — Axel a alerté sur le mauvais recrutement en amont. Alec a refusé d'agir. 1 mois après : *"c'était n'importe quoi."* Et Alec dit : *"oh ** tu as raison frérot ! Mais vire-le tout de suite ?"* puis *"non attends, je lui laisse encore."* Pattern complet : (1) info disponible → (2) Alec refuse d'agir → (3) problème se matérialise → (4) Alec reconnaît l'erreur → (5) refuse encore d'agir immédiatement → (6) finalement règle quand c'est tard. **Le même pattern peut se rejouer sur tout sujet** : recrutement, partenariat, choix produit, alerte client, etc.
+
+3. **"Guerre des Titres" — origine d'HO30 confirmée** — Verbatim Axel : *"La Guerre des Titres elle commence avec l'arrivée de Tang."* Tang s'est mis très haut dans l'organigramme. Pour compenser, Alec a inventé un titre pour Fabrice. Ce qui a *"tué la propension de Fabrice à dicter des choses."* Renforce HO30 (sabotage Tang) avec un canal d'impact précis : la déstabilisation par les titres.
+
+4. **Pattern "justifier les titres au lieu d'agir"** — Verbatim Axel : *"Alec m'a carrément fait une réunion pour me justifier Alexis son titre. Je dis mais mec, je m'en bats les couilles."* Alec utilise les titres comme outils de validation émotionnelle, pas comme outils opérationnels. **Implication directe pour ma prise de poste** : si Alec veut à tout prix me donner un titre fancy (CEO, co-CEO), c'est probablement un signal qu'il essaye de **valider l'arrangé avec quelqu'un**, pas qu'il a une vraie stratégie de poste.
+
+5. **Vision incohérente** — Verbatim Axel : *"Tu écoutes Alec qui te dit 'j'ai la vision très claire sur les 5 prochaines années'. Le lendemain, tu vas me dire que tu veux stopper la boîte, virer tout le monde ?"* Renforce mon rôle : **proposer un cadre stable où Alec peut faire évoluer la vision sans tout détruire à chaque fois**.
+
+6. **Épargne sur les retours d'Amine Achour** — Verbatim Axel : *"Alec m'a parlé potentiellement d'un retour d'Amine Achour. Pas d'Alec [Amine, pas Alec]. Ce serait une bonne chose, mais il faut juste être sûr qu'il revienne réellement avec du temps, avec de l'implication."* Info à retenir : Alec envisage de rappeler des anciens. Risque d'écho avec mon propre retour : si je suis insuffisant, il appellera quelqu'un d'autre. Si j'ai trop de demi-engagements, je serai dilué.
+
+### 📊 Pression sur le titre — attention 24-48h post-call Axel
+
+**Axel a envoyé un vocal à Alec immédiatement après le call de 18h14** pour pousser la nomination Boris **COO** + Fabrice **General Manager** (pas CEO Boris — Axel parle de COO).
+
+**Probable réaction d'Alec dans les 24-48h** : il va re-questionner Boris sur le titre.
+
+**Position à tenir (option C)** : Boris est ouvert au titre **COO** (pas CEO) à deux conditions cumulatives :
+1. **Fabrice est promu officiellement General Manager** simultanément, avec organigramme cible publié
+2. **Sophia (co-COO juillet) clarifé ou ajourné** — sinon on aurait 2 COO + 1 GM ce qui n'a pas de sens
+
+Si Alec ne valide qu'une partie : Boris reste Operating Partner.
+Si Alec valide les deux : Boris accepte COO.
+
+**Phrase de positionnement à préparer pour Alec** :
+> *"Je suis ouvert au titre COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner — mieux vaut un titre temporaire propre qu'un titre officiel ambigu."*
+
 ---
 
 ## Notes liées

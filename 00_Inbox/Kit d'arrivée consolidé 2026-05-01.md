@@ -83,6 +83,50 @@ Fabrice a livré les chiffres. Les pertes 2025 viennent **principalement** :
 
 ---
 
+## 🟡 MAJ 2026-04-24 soir — 1-to-1 Axel tenu (1h14)
+
+**Le call s'est tenu à 17h00**. Axel était en forêt (nouveau rituel). Très fluide, **HO17 scénario A confirmé** : il s'ouvre à 100% car il part. Apport massif sur 3 sujets clés.
+
+### ⚠️ Alerte rouge : Cédric (CMO) en risque de départ Q2-Q3 (→ HO32)
+
+Triangulation triple-source désormais : Océane + Axel + Cédric lui-même. Verbatim Axel : *"Cédric il force déjà depuis octobre [2025] et il l'a dit ouvertement. En décembre on a refait le point, rien n'avait changé."* Si Cédric part = **6e mouvement top en 22 mois** + catastrophe sur le seul pôle critique (marketing). Aucun successeur naturel sur le marché francophone. **1-to-1 prioritaire S1** + nouveau KR3.4 dans le plan trimestriel (mitigation résilience marketing).
+
+### 🚨 Mot "OKR" toxique — RENOMMAGE TACTIQUE immédiat
+
+*"L'entreprise n'a jamais aussi mal fonctionné depuis qu'on essaie de mettre les OKR. Tang et Alec : 'on n'a pas d'OKR, on déteste les OKR.'"* En séance trio le 1er mai, document renommé en **"Plan trimestriel Q1"** ou **"Engagements Q1"**. Structure inchangée. **Cf. HO31bis**.
+
+### 🏛️ Pression sur le titre — vocal Axel à Alec hier soir
+
+Axel a envoyé un vocal à Alec **immédiatement après le call** pour pousser **Boris COO + Fabrice General Manager** (pas CEO Boris).
+
+**Position décidée par Boris (option C)** : ouvert au titre **COO** à 2 conditions cumulatives :
+1. Fabrice promu officiellement General Manager simultanément
+2. Sophia (co-COO juillet) clarifé ou ajourné
+
+Sinon : Operating Partner reste.
+
+**Phrase préparée** : *"Je suis ouvert au COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner."*
+
+### ⚠️ Aziz → ne JAMAIS sous Fabrice
+
+Verbatim Axel : *"Faudrait pas que Aziz soit en one-to-one avec Fabrice. Si demain ils étaient managés par Fabrice, Aziz par exemple, ça tient un mois et il part."* Règle structurelle : Aziz reste **directement managé par Alec**. Boris ne le prend pas non plus en management direct (red flag #1 d'Alec).
+
+### 🔍 Trou de management top systémique (→ HO31)
+
+Verbatim Axel : *"Alec n'est pas manager. Anis n'est pas manager. Fabrice n'est pas manager. Donc qui est manager ? Personne."* Validation croisée par auto-diag de chacun. **Mon mandat de "general manager de fait"** devient explicite — même sans titre, je dois assumer ce rôle. KR4.4 proposé dans l'O4 candidat.
+
+### ✅ Bonne nouvelle : passation Axel solide
+
+*"Ça tourne sans moi en fait."* Aziz et Sabrina autonomes. Le pôle commercial = *"réacteur de la boîte"* (Axel) tient sans lui. **Risque KR3.2 (perte de deal post-passation) plus faible qu'estimé**. Le risque structurel s'est déplacé du commercial vers le marketing (Cédric).
+
+### 📆 Engagements de fin de call
+
+- 2e call Axel à Marrakech (21-23 mai pendant immersion Scaling, ou 24 mai journée équipe)
+- WhatsApp/Slack ouverts pour Boris (Slack jusqu'à fin mai, puis WhatsApp)
+- Activité future Axel : advisory haut niveau sur sales / leadership / mindset
+
+---
+
 ## 📅 Chaîne d'intégration des calls — 24 avril au 1er mai
 
 | Date | Call | Input que je capte | Output vers quoi |

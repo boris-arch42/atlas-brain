@@ -47,6 +47,38 @@ Le 1-to-1 Fabrice de cet après-midi (2h08) a livré **une cartographie complèt
 
 ---
 
+## 🟡 MAJ 2026-04-24 fin de journée — Apports critiques du 1-to-1 Axel
+
+Le 1-to-1 Axel (17h-18h14) ajoute **3 éléments critiques** à anticiper pour le call Alec du 1er mai :
+
+### ⚠️ 1. Le mot "OKR" est toxique — ne PAS l'utiliser
+
+Verbatim Axel : *"L'entreprise n'a jamais aussi mal fonctionné depuis qu'on essaie de mettre les OKR. Tang et Alec : 'on n'a pas d'OKR, on déteste les OKR.' Charles [CEO L'Empire] dit : 'Google a créé les OKR pour affaiblir ses concurrents'"* — et Alec a validé.
+
+**À faire** : pendant le call Alec et le call OKR trio, utiliser **"plan trimestriel"**, **"engagements"**, **"objectifs/résultats clés"**, mais JAMAIS le mot "OKR". Même pour présenter le document : *"Voilà le plan que je propose pour Q1"*, pas *"voilà mes OKR"*.
+
+### ⚠️ 2. Axel a envoyé un vocal à Alec hier soir (24/4) sur l'organigramme
+
+Axel a poussé explicitement auprès d'Alec dans la soirée du 24/4 : **Boris COO + Fabrice General Manager**. Si Alec aborde le sujet du titre pendant le call, je dois être prêt.
+
+**Position à tenir (option C — décision Boris du 24/4 soir)** : ouvert au titre **COO** à deux conditions cumulatives :
+1. Fabrice promu officiellement **General Manager** simultanément, organigramme cible publié
+2. Sophia (co-COO juillet) **clarifé ou ajourné** — sinon 2 COO + 1 GM = absurde
+
+**Phrase préparée** : *"Je suis ouvert au COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner — mieux vaut un titre temporaire propre qu'un titre officiel ambigu."*
+
+**Piège à éviter** : Alec utilise les titres comme outils de validation émotionnelle (cf. cas Alexis où il *"a fait une réunion pour justifier le titre"*). S'il veut me donner un titre fancy sans organigramme cohérent, c'est probablement pour calmer une situation émotionnelle, pas pour structurer.
+
+### ⚠️ 3. Cédric en signal de départ (HO32 nouveau)
+
+Cédric (CMO) force depuis octobre 2025 et veut partir. Triangulation Océane + Axel + Cédric lui-même.
+
+Si le sujet Cédric émerge pendant le call Alec (probable, Alec en a parlé à Axel hier), je peux le reconnaître sans relayer ce que j'ai entendu : *"J'ai cru sentir qu'il y avait une tension sur le marketing actuellement. Tu veux qu'on en parle ?"* — laisser Alec amener le sujet plutôt que de le sortir moi.
+
+Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (cartographie succession sans nommer Cédric).
+
+---
+
 ## 🎯 Enjeu du call (en 1 phrase)
 
 > Transformer la frustration d'Alec en diagnostic partagé et actionnable, sans jouer les experts qui débarquent.
@@ -157,9 +189,13 @@ Pour chacune des 3, on clarifie ensemble :
 
 > *"Et comme on s'est dit — si en cours de route tu veux changer de direction sur l'un de ces 3, tu me dis par écrit, même 3 lignes. On garde ça propre."*
 
+**Si Alec aborde le sujet du titre pendant le call (probable après vocal Axel)** : utiliser la position option C documentée en tête. Ne pas refuser, ne pas accepter sans condition. Poser le cadre.
+
+**Si Alec aborde le sujet Cédric / marketing** : reconnaître sans relayer ce que j'ai entendu d'Axel/Océane. Laisser émerger.
+
 Puis transition vers le call OKR trio :
 
-> *"On enchaîne avec Fabrice sur les OKR ?"*
+> *"On enchaîne avec Fabrice sur le plan trimestriel ?"* (← NB : ne pas dire "OKR")
 
 ---
 

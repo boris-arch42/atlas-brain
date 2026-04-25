@@ -122,6 +122,35 @@ _(Matière première directe pour le call Alec du 1er mai et pour KR2.1 des OKR)
 - **Alec compare avec d'autres (Julien Scale recouvrement)** sans tenir compte du contexte (taille, ticket moyen, type de produit)
 - **Alec a tendance à appliquer du low-cost mental** ("on aurait dû prendre un Philippin à 15 dollars/jour") sur des sujets qui exigent du senior
 
+### 🔄 MAJ 2026-04-24 soir — Triangulation Axel sur le management de Fabrice
+
+**Source critique** : [[Axel Bombezin]] au 1-to-1 du 24/4 confirme par triangulation des signaux observés par Boris au call de l'après-midi.
+
+Verbatim Axel :
+
+> *"Fabrice c'est pas un leader, c'est juste pas un manager. À l'inverse d'Alec, Alec est mauvais manager. Fabrice c'est juste pas un manager pour Alain."*
+
+> *"Aujourd'hui, faudrait pas que Aziz soit en one-to-one avec Fabrice. Si demain ils étaient managés par Fabrice, Aziz par exemple, ça tient un mois et il part."*
+
+**Implications structurelles pour Boris** :
+
+1. **Auto-diagnostic Fabrice du 24/4 confirmé par tiers** : Fabrice s'était lui-même décrit comme faible sur orchestration / adoption / management direct. Axel le valide indépendamment. Donc HO6 + faiblesses Fabrice = **diagnostic stable multi-sources**.
+
+2. **Aziz et autres profils "leaders" à protéger** : Aziz est mentionné nommément par Axel comme "à ne JAMAIS mettre sous Fabrice". Probablement valable aussi pour les autres profils à forte personnalité (Anis ?, Océane ?, ... ?).
+
+3. **Mon mandat de transverse devient encore plus structurel** : si Fabrice n'est pas manager et Alec est mauvais manager (verbatim Axel : *"Personne n'est manager"*), je dois **assumer le rôle general manager de fait** que personne n'occupe. C'est un trou de compétence systémique au top.
+
+4. **Cas Mélissa corroborant** : *"Quand on l'a mis en one-to-one avec Fabrice, ça a pété direct"* (Axel). Confirme que les frictions Fabrice-collaborateur sont structurelles, pas anecdotiques.
+
+**Ce que cela ne change PAS** :
+- Mon respect pour Fabrice et son intelligence stratégique reste entier
+- Sa zone de génie (spécialisation rapide + analyse chiffres + conceptualisation) reste validée
+- La charte de délégation reste construite sur la complémentarité, pas sur la substitution
+
+**Ce que cela change concrètement** :
+- Le nœud P1 "animation et empowerment du middle management" (charte 3b) devient une **responsabilité explicite Boris**, pas une responsabilité partagée
+- Les 1-to-1 avec les heads (Aziz, Sabrina, Cédric, Anis, Océane) doivent passer par Boris, pas par Fabrice
+
 ### Décisions et suites
 
 - [x] Call tenu — verbatim consignés ci-dessus
