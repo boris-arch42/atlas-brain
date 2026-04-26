@@ -333,6 +333,39 @@ Si Alec valide les deux : Boris accepte COO.
 **Phrase de positionnement à préparer pour Alec** :
 > *"Je suis ouvert au titre COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner — mieux vaut un titre temporaire propre qu'un titre officiel ambigu."*
 
+### 🔄 MAJ 2026-04-25 matin — Décision sur CTO (vocal Alec)
+
+Vocal d'Alec reçu le 25/4 au matin. Élements clés :
+
+#### Décision tranchée : Anisse n'est PAS la piste CTO
+
+Verbatim partiel : *"Anisse n'a pas les compétences de CTO, il a pas les compétences techniques, il a pas les compétences globales, ça l'intéresse pas. Il est un peu geek mais [pas expert]. Niveau UX, c'est pas son expertise. C'est juste encore une incompréhension de l'organigramme global. Par contre, le fait de gérer toute la [partie produit/contenu/coaching], ça oui."*
+
+**Position définitive d'Alec** : 
+- **CTO externe à Dubai** avec équipes externes en anglais
+- **Anisse reste sur Produit / Innovation / IA / Mastercoach** — pas la tech
+
+**Implication immediate pour ma posture** :
+- Le sujet CTO sort complètement de mon périmètre — c'est Alec qui pilote en direct
+- Je ne dois PAS aborder le sujet CTO avec Anisse au call de dimanche
+- Je n'ai pas à commenter ce choix avec qui que ce soit
+- L'orientation "équipes externes anglais" s'aligne avec la vision "core team transverse pour pays" qu'a partagée Fabrice (24/4)
+
+#### Rendez-vous Alec↔Anisse demain matin (26/4 9h-11h)
+
+Alec passe sa matinée avec Anisse et **propose explicitement à Boris de lui transmettre des sujets** à sonder.
+
+**Action immédiate (à faire avant samedi soir)** : envoyer à Alec un message court avec les 3-4 sujets que je veux qu'il sonde :
+1. Le **niveau de stimulation** d'Anisse (signal départ identifié par Axel)
+2. Sa **lecture de la vision** actuelle (HO31bis)
+3. Sa **réaction à la décision CTO externe** — c'est Alec qui peut l'amener avec tact
+4. Son **alignement sur le scope Produit/Innovation/IA élargi** (en lieu et place du CTO)
+
+**Pourquoi c'est important** : ça permet de :
+- Triangulation sur les questions sensibles (stimulation, vision) avant que je les aborde dimanche soir avec Anisse
+- Faire passer le message CTO via Alec, pas via moi (cordon sanitaire)
+- Créer un effet de coordination Alec↔Boris visible pour Anisse
+
 ---
 
 ## Notes liées

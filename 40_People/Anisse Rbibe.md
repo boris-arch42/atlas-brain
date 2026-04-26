@@ -20,6 +20,55 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 - **Projet transverse connu** : plateforme `work.entrepreneurs.com`
 - **Piste de promotion** : pressenti CTO (malgré le fait qu'il n'est pas développeur)
 
+## 🚨 MAJ 2026-04-25 matin — ÉLIMINATION DU SUJET CTO (vocal Alec reçu)
+
+**Source** : Vocal d'Alec reçu par Boris le 25/4 au matin.
+
+### Position définitive d'Alec sur la piste CTO Anisse
+
+Alec a explicitement écarté la piste CTO pour Anisse. Son raisonnement (verbatim partiel transcrit) :
+
+> *"Anisse n'a pas les compétences de CTO, il a pas les compétences techniques, il a pas les compétences globales, ça l'intéresse pas. Il est un peu geek mais [pas expert]. Niveau UX, c'est pas son expertise. C'est juste encore une incompréhension de l'organigramme global."*
+
+> *"Par contre, le fait de gérer toute la [partie produit/contenu/coaching], ça oui."*
+
+### Décision d'Alec : CTO externe basé à Dubai
+
+Alec privilégie un **CTO externe à Dubai** avec des **équipes externes en anglais**. Implications :
+- Le sujet tech n'est plus dans le périmètre d'Anisse
+- Alec pilote ce sujet directement, pas Boris ni Fabrice
+- L'internationalisation par l'anglais (cf. vision Fabrice 24/4 "core team transverse pour pays") s'aligne avec ce choix
+
+### ⚠️ Implication majeure pour le call de dimanche : NE PAS aborder le CTO
+
+**Toute la phase "Piste CTO" de la trame (25-50 min) doit être supprimée ou redéployée**. Le sujet est tranché côté Alec, je n'ai pas à le rouvrir avec Anisse. Si je l'aborde :
+- Soit je donne de faux espoirs (mauvais)
+- Soit je dois lui dire que la piste est morte (pas mon rôle, c'est à Alec)
+- Dans tous les cas, je marche sur les plate-bandes d'Alec
+
+### 📅 Alec voit Anisse demain matin (26/4 9h-11h)
+
+Alec passe sa matinée du **dimanche 26 avril de 9h à 11h** avec Anisse. Il propose à Boris de lui transmettre des sujets à aborder de sa part.
+
+**Action immédiate** : envoyer à Alec d'ici dimanche matin une liste courte de sujets que je veux qu'il sonde avec Anisse. Sujets pertinents :
+- Le **niveau de stimulation** d'Anisse (HO"risque départ stimulation" évoqué par Axel)
+- Sa **lecture de la vision** actuelle (HO31bis)
+- Sa **réaction à la décision CTO externe** — c'est Alec qui peut l'amener avec tact
+- Son **accord pour être formé/positionné sur le scope Produit/Innovation/IA élargi**
+
+### Posture revue pour le call Boris↔Anisse de dimanche
+
+La trame ci-dessous est **à retravailler**. La phase 25-50 min "Piste CTO + stimulation + vision + alliance pré-Tang + artefact" devient :
+
+**Évolution proposée** : phase 25-50 min redéployée en :
+- **25-35 min** : zoom Produit / Innovation / IA — son scope réel (Fabrice 24/4)
+- **35-42 min** : stimulation + vision (questions sensibles)
+- **42-50 min** : alliance pré-Tang (S1 2025 transverse) + demande artefact ChatGPT
+
+Le **cadrage de la complémentarité explicite** (50-65 min) reste pertinent, mais sans le pivot "si tu prends le CTO". Reformuler en : *"On a chacun nos zones — toi le produit/innovation/IA, moi la structuration globale + l'équipe transverse. La tech de fond, c'est Alec qui pilote en externe."*
+
+---
+
 ## 🔄 MAJ 2026-04-24 soir — Apports Fabrice + Axel sur Anisse
 
 Les 1-to-1 Fabrice (14h-16h08) et Axel (17h-18h14) du 24/4 ont apporté **5 éléments nouveaux et critiques** sur Anisse qui modifient la posture du call.
@@ -169,47 +218,37 @@ Puis sur son scope :
 - *"Alec m'a parlé de son envie d'internaliser la tech en 3-6 mois, de sortir de la dette. T'as une vision là-dessus ?"*
 - *"Le stack actuel (BigQuery, plateforme) est aligné avec cette vision ou il y a des trucs à repenser ?"*
 
-#### 🎯 Piste CTO + stimulation + vision (25-40 min) — cœur du call \[ÉLARGI 24/4]
+#### 🎯 Zoom Produit / Innovation / IA + stimulation + vision + alliance pré-Tang (25-50 min) — cœur du call \[RÉVISÉ 25/4]
 
-**Avertissement post-Axel** : ne PAS aborder la piste CTO comme "chef d'équipe technique". Le mot "manager" est neurotoxique pour Anisse depuis son quasi-burnout de jan 2025. Reformuler systématiquement en archi / vision / produit.
+**Avertissement post-vocal Alec 25/4** : la piste CTO est OFFICIELLEMENT TRANCHÉE par Alec — ce ne sera pas Anisse, ce sera un CTO externe à Dubai. **NE PAS aborder le sujet CTO avec Anisse**. Si Anisse le mentionne lui-même, je l'écoute avec neutralité et je laisse Alec gérer la conversation lors de leur rendez-vous de dimanche matin (9h-11h).
 
-**Ouverture du sujet** :
-- *"Alec m'a évoqué la piste CTO pour toi. Ça fait quelques mois que c'est dans l'air. Où tu en es, toi ? Tu veux, tu veux pas, tu hésites ?"*
+**Avertissement persistant post-Axel** : ne PAS utiliser le mot "manager" — Anisse a vécu un quasi-burnout en jan 2025 sur des responsabilités managériales.
 
-**Reformulation immédiate pour cadrer le rôle** :
-- *"Pour moi le rôle CTO chez Entrepreneurs.com, ce n'est pas 'manager 5 devs'. C'est plus 'tu portes la vision archi / produit / IA et tu travailles avec les ressources externes ou internes que tu choisis'. Est-ce que c'est cohérent avec ce que toi tu projetterais ?"*
+##### 🛠️ Zoom Produit / Innovation / IA (25-35 min)
 
-**Si "je veux mais..."** :
-- *"Qu'est-ce qui te manque ou te freine pour prendre le rôle ?"*
-- *"Qu'est-ce qu'il te faudrait concrètement pour que ça soit possible — profil technique en renfort, scope redéfini, vision plus claire ?"*
+Périmètre confirmé par Fabrice + Alec : Anisse porte **Produit / Innovation / IA**, pas la tech.
 
-**Si "je veux pas"** :
-- *"OK, qu'est-ce qui te fait dire ça ? Le mot CTO, le scope, le timing, autre chose ?"*
-- *"Et tu vois comment ça évolue alors ? Rester Responsable de la performance, évoluer vers autre chose ?"*
+- *"Pour bien comprendre ton périmètre actuel : si je le résume en 3 mots, c'est Produit, Innovation, IA — c'est juste, ou je manque quelque chose ?"*
+- *"Sur le côté produit/contenu client : qu'est-ce que tu portes en ce moment ? La plateforme `work.entrepreneurs.com`, les Q&A Mastercoach, autre chose ?"*
+- *"Sur le volet IA : tu es sur quels chantiers ? Outils internes, contenus clients, automation ?"*
+- *"Tu vois ton périmètre s'élargir ou se concentrer dans les 6-12 prochains mois ?"*
 
-**Si "je sais pas"** :
-- *"Qu'est-ce qui fait que la décision est difficile pour toi ?"*
+##### 🌱 Stimulation + vision (35-42 min)
 
-#### 🌱 La question de la stimulation \[NOUVELLE 24/4]
+Ces deux questions sont sensibles. C'est ici que se joue le risque de départ identifié par Axel.
 
-Vraie question délicate à amener avec douceur. C'est le cœur du risque de départ identifié par Axel.
-
+**Sur la stimulation** :
 - *"Question plus large : qu'est-ce qui te stimule vraiment dans ton quotidien actuel ?"*
 - *"Qu'est-ce qui te manque côté stimulation intellectuelle ?"*
 - *"Tu sens où tu vas dans 12-18 mois, ou c'est flou ?"*
 
-**Ne PAS commenter sa réponse**. Écouter, prendre note, valider mentalement.
-
-#### 🧭 La question de la vision \[NOUVELLE 24/4]
-
-Lien direct avec HO31bis (Alec n'est pas clair sur la vision).
-
+**Sur la vision** (lien direct avec HO31bis) :
 - *"Tu sens la vision globale d'Entrepreneurs.com sur les 12-24 prochains mois, ou tu as l'impression que ça change beaucoup ?"*
 - *"Qu'est-ce qui pour toi ferait que la vision soit claire et embrassable ?"*
 
-**Ce que ça me dit** : si Anisse répond "flou", confirme HO31bis et le besoin de stabiliser la vision avec Alec en Q1.
+**Ne PAS commenter ses réponses**. Écouter, prendre note, valider mentalement. Ces réponses servent à calibrer ma posture pour S1+, pas à débordement de discussion ici.
 
-#### 🤝 Question d'alliance pré-Tang \[NOUVELLE 24/4]
+##### 🤝 Alliance pré-Tang + artefact (42-50 min)
 
 **Carte forte à jouer** — Anisse fait partie du core team qui a bien fonctionné au S1 2025.
 
@@ -217,22 +256,26 @@ Lien direct avec HO31bis (Alec n'est pas clair sur la vision).
 
 **Pourquoi cette question** : (1) elle valide HO30 par 4e source si Anisse confirme, (2) elle me positionne comme co-restaurateur du mode qu'il a aimé, (3) elle ouvre une alliance opérationnelle pour Q1.
 
-**Peu importe sa réponse, question-clé de bouclage** :
-- *"Si toi tu prends le rôle CTO sur la version archi/vision, ça clarifie énormément mon périmètre — je reste loin de la stack et on bosse en complémentarité pure. Si tu ne le prends pas, il y a un flou. Tu penses quoi ?"*
-
-#### 🛠️ Demande concrète d'artefact \[AJOUT 24/4]
-
-Fabrice a mentionné un ChatGPT structurant qu'Anisse a co-construit pour transformer des vocaux en process structurés.
-
+**Demande de l'artefact ChatGPT structurant** :
 - *"Fabrice m'a parlé d'un ChatGPT que vous avez monté ensemble pour structurer des vocaux en process. Tu peux me partager le lien ? Ça peut m'aider énormément sur ma première priorité \[la cartographie + standardisation des process top 10]."*
+
+##### ⚠️ Si Anisse mentionne lui-même le sujet CTO
+
+Il peut le faire spontanément (Alec lui en a probablement parlé, ou il sait que la piste était dans l'air). Posture à tenir :
+
+- **Si Anisse dit "j'étais censé être CTO"** : *"Alec et moi avons évolué sur la façon dont on construit la fonction tech. Je préfère que ce soit Alec qui te partage sa lecture précise — il te voit demain matin si je comprends bien. Mais ce que je peux te dire, c'est que ton rôle sur Produit / Innovation / IA est central pour ce qu'on construit ensemble."*
+
+- **Si Anisse dit "je veux pas être CTO"** : reconnaissance simple : *"OK, c'est cler. Alors restons sur ce que tu portes en Produit / Innovation / IA, c'est déjà un périmètre dense."*
+
+- **Si Anisse pose une question directe sur les décisions tech** : *"C'est un sujet qu'Alec pilote en direct. Lui demander."*
 
 #### 🤝 Complémentarité explicite (50-65 min)
 
-**Proposition de cadre à poser ensemble** :
+**Proposition de cadre à poser ensemble** \[RÉVISÉ 25/4 post vocal Alec] :
 - *"Je te propose qu'on pose 3 lignes simples pour éviter qu'on se chevauche :"*
-  1. ***"Toi tu pilotes la perf, je pilote la structuration globale. Quand ta perf dépend d'un process/org à changer, on bosse ensemble — mais c'est toi qui décides sur ton périmètre perf."***
-  2. ***"`work.entrepreneurs.com` est ton projet. Je n'y touche pas. Si j'ai des besoins qui le recoupent, je te les amène en input, pas en directive."***
-  3. ***"La stratégie tech globale : si tu deviens CTO, c'est ton territoire. Si la piste s'enlise, on en reparle avec Alec — mais je ne prends pas ton terrain par défaut."***
+  1. ***"Toi tu portes Produit / Innovation / IA — contenu client, plateforme, améliorations internes. Je n'y touche pas. Si j'ai des besoins qui le recoupent, je te les amène en input, pas en directive."***
+  2. ***"Je porte la structuration globale + l'animation transverse + le pilotage des nœuds opérationnels. Quand tes sujets dépendent d'un process/org à changer, on bosse ensemble — mais c'est toi qui décides sur ton périmètre."***
+  3. ***"La tech de fond (archi, stack, dette), c'est Alec qui pilote directement avec un setup externe. On reste tous deux loin de ce sujet."***
 - *"Est-ce que tu serais OK avec ça ? Ou tu voudrais qu'on ajuste ?"*
 
 **Ouvrir sur la suite** :
