@@ -55,6 +55,71 @@ Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
 
 ---
 
+## 🔄 MAJ 2026-04-26 — Apports 1-to-1 Anisse (5 enrichissements concrets)
+
+Le 1-to-1 Anisse du 26/4 (10h03-10h58) apporte **5 éléments concrets** à intégrer dans le plan trimestriel :
+
+### 1. Infrastructure `entrepreneurs.works` à leverager (KR2.4 et O4 candidat)
+
+Anisse a déployé en 3 semaines une infrastructure qui rend mes objectifs **directement opérationnalisables** :
+- **Marcus** (agent Slack) : demande prio jour, prio semaine, OKR trimestre. **Peut être configuré pour tracker les engagements du COMEX nouveau**.
+- **Plateforme `entrepreneurs.works`** (Firebase) : logs d'utilisation, supervision, dashboards. Disponible pour mes propres KR de tracking.
+- **Dev marocaine** à 900€/mois + Wassim test 1 mois — capacité d'exécution dispo.
+
+**→ À intégrer dans le plan trimestriel** : KR2.4 (rituel hebdo de revue d'exécution) peut s'appuyer sur Marcus pour le tracking automatisé. Et O4 candidat (rituels middle management) peut leverager Marcus aussi.
+
+### 2. Marcus comme cheval de Troie OKR (HO31bis nuancée)
+
+Anisse utilise déjà les OKR via Marcus, mais sans le mot toxique. Sa team IA a mis en place un agent qui demande les OKR trimestriels et calibre les priorités. **Le concept fonctionne, c'est juste le mot qui pollue**.
+
+**→ Action S1** : explorer avec Anisse en S1 la possibilité de configurer Marcus pour parler d'"engagements" ou de "plan trimestriel" au lieu d'"OKR". Cela rend l'outil cumulable avec la posture sémantique en séance.
+
+### 3. Principe "adoption > création" (KR1.2 et KR2.2)
+
+Verbatim Anisse : *"La difficulté c'est pas de leur créer des solutions, c'est de leur faire utiliser. Des fois tu te prends le crane à faire des trucs pendant un mois et personne l'utilise."*
+
+Sa méthode : **logs d'utilisation + backlog** sur chaque agent/dashboard pour mesurer l'adoption réelle.
+
+**→ Renforcement de KR1.2** : "5 sujets retirés ET déployés avec adoption mesurée" — **méthode de mesure précisée** : logs d'utilisation du process post-déploiement, pas juste "il est documenté". À calibrer concrètement avec Anisse en S1.
+
+### 4. Règle "pas de nouvelle initiative tant qu'une boucle ouverte n'est pas fermée" (principe transverse)
+
+Verbatim Anisse : *"Je rajouterai pas de nouvelles actions tant que les boucles sont ouvertes. Et dans la culture ou l'inculture de la boîte, c'est plus fort que les êtres humains. Chaque semaine, nouvelle décision, nouvelles actions, nouveau truc qu'il faut faire parce qu'il faut réparer."*
+
+**→ Principe à proposer en séance trio comme règle de fonctionnement Q1** : "Pas de nouvelle initiative tant qu'une boucle ouverte n'est pas fermée ou explicitement abandonnée." C'est l'arme structurelle contre "vite + partout" (HO15 reformulée par Anisse). À ajouter en préambule du document plutôt que dans un KR spécifique.
+
+### 5. Réduction d'erreurs marketing comme co-portage Boris↔Anisse
+
+Anisse a explicitement proposé un axe de collaboration sur la réduction d'erreurs marketing : **checklists, alertes, contrôle qualité** sur les chantiers (Twilio, landing pages, tags, relances email). Exemple concret : *"On met 400K€ pour Tapie et il y a eu des choses qui auraient pu être évitées juste avec une checklist."*
+
+**→ À intégrer dans KR3.4 (résilience marketing)** : un sous-livrable de "checklist + contrôle qualité sur les top 5 risques marketing" co-porté Boris+Anisse, avec déploiement Anisse via sa team IA. **Bonus** : si Cédric part en Q2-Q3, ces checklists deviennent une garantie de continuité minimum.
+
+### Synthèse des modifications à intégrer
+
+| KR | Avant | Après |
+|---|---|---|
+| KR1.2 | "5 sujets retirés + déployés" | "5 sujets retirés + déployés **+ adoption mesurée via logs**" (méthode Anisse) |
+| KR2.4 | Rituel hebdo Boris+Fabrice | Rituel hebdo + **tracking automatisé via Marcus** |
+| KR3.4 | Cartographie succession marketing | Cartographie + **co-portage checklists/alertes anti-erreurs avec Anisse** |
+| O4 candidat | Rituels middle management | + **Marcus configuré pour tracker engagements heads** |
+| Préambule | Allocation/principes directeurs | + **règle "boucles fermées avant nouvelle initiative"** comme principe transverse |
+
+---
+
+## 🔄 MAJ 2026-04-26 (samedi soir) — Miro Fabrice reçu : KR2.1 accélérable
+
+Fabrice a livré son Miro de cartographie des process **avant relance Boris**. Cf. [[Ressource - Miro Fabrice cartographie process]].
+
+**Implications sur les KR** :
+
+- **KR2.1 (cartographie nœuds)** : peut être **raccourci de J+10 à J+5 ou J+7**. La cartographie de Fabrice + observations Boris + croisement Alec = livrable signable dès la fin de la S1. **Important** : ne pas pré-annoncer le raccourcissement dans le doc envoyé en séance — garder J+10 comme cible officielle, livrer en avance comme "effet de levier".
+
+- **KR1.1 (charte délégation)** : peut s'appuyer concrètement sur le Miro pour la section 3b. Plus de précision, moins d'abstrait. La V1 envoyable lundi 27 ou mardi 28 sera **plus dense que prévu**.
+
+- **Posture call Alec 1er mai** : passe de "co-découverte des nœuds" à "validation/priorisation d'une cartographie déjà écrite". **Plus efficace mais aussi plus risqué** : Alec peut sentir qu'on "arrive avec la réponse" et se braquer. À gérer en présentant explicitement comme "le travail de Fabrice que je viens t'apporter pour qu'on priorise ensemble", pas "ma cartographie".
+
+---
+
 ## 🧭 Contexte et principes de ce draft
 
 ### Période
@@ -74,6 +139,7 @@ Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
 3. **Alignement explicite avec les 5 axes d'Alec** et avec la révélation du 23 avril (déficit d'exécution aval comme priorité centrale)
 4. **Les KR doivent pouvoir être appréciés sans ambiguïté** à J+30, J+60 et J+90 — soit binaires, soit chiffrés
 5. **Pas de KR qui dépendent exclusivement d'autres que Boris** — sinon je ne porte rien
+6. **⚡ NOUVEAU 2026-04-26 (Anisse)** : **Règle des boucles fermées** — pas de nouvelle initiative dans Q1 tant qu'une initiative en cours n'est pas fermée ou explicitement abandonnée. Verbatim Anisse : *"Je rajouterai pas de nouvelles actions tant que les boucles sont ouvertes. Chaque semaine, nouvelle décision, nouvelles actions, nouveau truc qu'il faut faire parce qu'il faut réparer."* C'est l'arme structurelle contre le pattern "vite + partout" (HO15 reformulée). **À valider explicitement en séance trio** — c'est probablement le KR le plus important du trimestre.
 
 ### Ce qui est volontairement exclu de ce Q1
 - **Stack tech / internalisation IT** (axe 4 d'Alec) : trop gros pour un premier trimestre, à planifier Q2
@@ -94,7 +160,7 @@ _(Lien avec axe 1 d'Alec : "Libérer Fabrice pour qu'il puisse faire son rôle")
 
 - **KR1.1** : **Charte de délégation Fabrice ↔ Boris** co-construite et signée (V2) avant **J+21** (22 mai). Tracée dans le vault + copie partagée avec Fabrice. _Binaire : signée ou pas._
 
-- **KR1.2** : **Minimum 5 sujets opérationnels** identifiés par Fabrice comme "à retirer de son assiette" ont été **effectivement retirés ET déployés avec adoption mesurée** avant **J+45** (15 juin). _Mesurable : liste nominative + statut "déployé + adopté par les équipes" pour chacun._ **MAJ 24/4** : Fabrice a déjà nommé 7 sujets concrets en call : onboarding RH process, outils éclatés, process closing/commissions, standardisation onboarding employés, migration Odoo, vision internationale, stabilisation top 10 process. Les 5 à déployer en P1 sont les 4 premiers (les 3 derniers sont P2/P3).
+- **KR1.2** : **Minimum 5 sujets opérationnels** identifiés par Fabrice comme "à retirer de son assiette" ont été **effectivement retirés ET déployés avec adoption mesurée** avant **J+45** (15 juin). _Mesurable : liste nominative + statut "déployé + adopté par les équipes" pour chacun._ **MAJ 24/4** : Fabrice a déjà nommé 7 sujets concrets en call : onboarding RH process, outils éclatés, process closing/commissions, standardisation onboarding employés, migration Odoo, vision internationale, stabilisation top 10 process. Les 5 à déployer en P1 sont les 4 premiers (les 3 derniers sont P2/P3). **MAJ 26/4 (Anisse)** : la mesure d'adoption se fait via **logs d'utilisation post-déploiement** (méthode Anisse), pas juste "documenté". À calibrer concrètement avec Anisse en S1.
 
 - **KR1.3** : À **J+60** (30 juin), une conversation structurée avec Fabrice confirme qualitativement (note 7+/10 de sa part) que sa bande passante est plus saine. _Mesure : verbatim écrit de Fabrice dans le cadre de la revue J+60._
 

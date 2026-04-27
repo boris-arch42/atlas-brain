@@ -127,6 +127,81 @@ Verbatim Axel : *"Alec n'est pas manager. Anis n'est pas manager. Fabrice n'est 
 
 ---
 
+## 🟢 MAJ 2026-04-26 — 1-to-1 Anisse tenu (55 min, allié le plus aligné de tous)
+
+**Le call a eu lieu de 10h03 à 10h58**, juste après la matinée Alec↔Anisse (9h-11h). Tonalité : **détendue, complice, fluide**. Anisse fait des blagues spontanées. **Aucune méfiance, aucun jeu politique.** Il s'est révélé être l'**allié le plus aligné** de tous les 1-to-1 pré-prise de poste.
+
+### 🔑 Révélation clé — cause racine reformulée
+
+Q Boris : *"C'est quoi la cause principale [du manque de focus, de la multiplicité des tâches, de l'instabilité] pour toi ?"*
+
+> R Anisse : ***"La volonté d'Alec d'aller vite ET partout."***
+
+**Formulation canonique à adopter** — plus précise que toutes les précédentes. C'est la combinaison **vitesse + ubiquité** qui rend l'organisation incontrôlable. Couper une dimension sans l'autre ne résout pas le problème. → HO15 5e source.
+
+### 🚢 Métaphore canonique catamaran/paquebot (HO31)
+
+> *"L'entreprise est devenue un paquebot, mais avec les mêmes adjudants-chefs que sur le catamaran. Les adjudants-chefs n'ont jamais été sur un paquebot."*
+
+**Meilleure formulation** entendue jusqu'ici sur le trou de management. Ne stigmatise personne, ouvre vers la solution Sophia. **À utiliser au call Alec du 1er mai** si le sujet middle management émerge.
+
+### 💡 Sophia n'est PAS un risque — c'est une opportunité
+
+Révélation majeure : **Anisse est le proposeur de Sophia à Alec** (après podcast YouTube de Master). Setup réel = consultante senior en immersion + audit + done with you (PAS un CDI, Sofia a refusé). Anisse projette spontanément la **complémentarité Sophia↔Boris** : Sofia apporte templates/frameworks, Boris exécute/adopte/contrôle. **HO16 largement résolue**. Cf. [[Sophia]] pour le détail.
+
+### 🤝 4 voix internes convergent sur l'organigramme cible Fabrice GM
+
+> Anisse : *"Fabrice, il faut lui enlever la partie opérationnelle, c'est pas viable. Il faut qu'il se focus sur la partie finance, sur la partie manager général de l'entreprise ou directeur général. Il faut arrêter de lui faire mettre le suivi des opérations, ça le flingue."*
+
+4 voix concordantes maintenant : Boris + Axel (24/4) + Anisse (26/4) + Fabrice lui-même (24/4). Le terrain est extrêmement préparé côté internes. Il manque juste **la décision Alec**.
+
+### ⚠️ 4e source confirme le risque de départ Fabrice
+
+> Anisse : *"Moi, je suis étonné que la collaboration se maintienne encore avec son quotidien. C'est même inquiétant."*
+
+4 sources concordantes (Boris obs + Fabrice auto-diag + Axel + Anisse). À garder en tête — la charte doit être **ambitieuse**, pas prudente.
+
+### 🤖 `entrepreneurs.works` est une infrastructure stratégique sous-estimée
+
+La team IA d'Anisse (3 semaines de focus intensif) a mis en place :
+- **Marcus** (chief of staff OKR — demande prio jour, semaine, OKR trimestre)
+- **Pepper** (assistante email Alec)
+- **Plateforme `entrepreneurs.works`** (Firebase, logs, supervision)
+- **Dashboard marketing** (extraction des appels closing pour copywriting)
+- **Dev marocaine à 900€/mois** + Wassim test 1 mois
+
+→ **À leverager dès Q1** : Marcus peut tracker les engagements/OKR du COMEX sans le mot toxique "OKR" (cf. HO31bis).
+
+### 📦 Mini-accord de complémentarité acquis spontanément
+
+Anisse a formulé lui-même 3 axes en fin de call — **pas besoin de négocier la charte** :
+1. Boris détecte les opportunités IA/automatisation transverses → Anisse exécute en prod
+2. Boris peut suggérer méthodes/agentic/backlog à Anisse — il est preneur
+3. Co-portage de la réduction d'erreurs marketing (checklists, alertes — ex Tapie 400K€)
+
+### 📥 Signal de résignation à surveiller
+
+> Anisse : *"Écoute, moi j'y crois peu à ça, que ce soit possible en fait de changer ça [le pattern Alec]. J'ai peu d'espoir."*
+
+Pas un signal de départ imminent (il est stimulé par l'IA + sa team), mais un **signal de fatigue mentale**. Si le pattern Alec ne change pas dans 6-12 mois, sa stimulation re-baissera. **À traiter en 1-to-1 réguliers S1+** : nourrir sa stimulation IA + montrer les progrès tangibles.
+
+### 🚫 Cordon sanitaire CTO respecté
+
+Le sujet CTO **n'a pas été abordé** au call (consigne post-vocal Alec 25/4). Anisse n'a pas tenté de l'amener — Alec l'a probablement géré le matin lors du café 9h-11h.
+
+### Bilan post-Anisse
+
+**5 hypothèses enrichies/résolues** :
+- HO15 (5e source + reformulation "vite ET partout")
+- HO16 (Sophia largement résolue — mission ponctuelle, pas poste)
+- HO29 (principe "adoption > création" + règle des boucles fermées)
+- HO31 (métaphore catamaran/paquebot canonique)
+- HO31bis (nuance OKR : Marcus = cheval de Troie pragmatique)
+
+**1 allié confirmé** : Anisse pour Q1, sur l'IA + le repositionnement Fabrice + la connexion Sophia.
+
+---
+
 ## 📅 Chaîne d'intégration des calls — 24 avril au 1er mai
 
 | Date | Call | Input que je capte | Output vers quoi |

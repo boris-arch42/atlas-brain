@@ -19,6 +19,65 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo]
 - **Manager** : [[Alec Henry]]
 - **Reports directs** : Aziz (sales), Sabrina (delivery/CSM), Anis (produit/innovation/IA), Océane (com), Cédric (marketing) + Boris à partir du 1er mai. Soit 6 directs reports identifiés. Avant : ~15 personnes en direct, à des niveaux complètement déconnectés.
 
+## 🔄 MAJ 2026-04-26 (samedi soir) — Fabrice a livré le Miro des process
+
+**Événement** : ce samedi, Fabrice a partagé spontanément (avant relance Boris) le Miro de cartographie des process qu'il avait promis au call 24/4.
+
+→ Lien : https://miro.com/app/board/uXjVGvre7co=/?share_link_id=448862319828
+→ Page d'analyse Boris : [[Ressource - Miro Fabrice cartographie process]]
+
+**Lecture politique** : Fabrice a tenu sa promesse en autonomie, sans relance. **C'est un signal majeur de la solidité de l'alliance** post-call 24/4. La posture "COO épuisé en demande active de relais" est cumulative avec une posture "acteur fiable qui livre".
+
+**Implications immédiates** :
+- KR2.1 (cartographie nœuds) peut potentiellement être raccourci à **J+5 ou J+7** au lieu de J+10
+- La V1 de la charte peut s'appuyer concrètement sur le Miro plutôt que sur les seuls verbatims du call
+- Le call Alec 1er mai passe de "co-construction" à "validation/priorisation conjointe" — plus efficace
+
+**Reste à obtenir** :
+- Matrice KPI associée au Miro (annoncée au call 24/4)
+- Export organigramme cible (annoncé au call 24/4)
+
+---
+
+## 🔄 MAJ 2026-04-26 — 4e source confirme le risque de départ Fabrice (Anisse)
+
+Le 1-to-1 Boris↔Anisse du 26/4 apporte la **4e source** indépendante confirmant le risque structurel sur Fabrice.
+
+### Verbatims critiques
+
+Boris : *"Sauf qu'il tiendra pas, il va pas tenir encore très longtemps."*
+
+> Anisse : ***"Moi, je suis étonné que la collaboration se maintienne encore avec son quotidien, tu vois. C'est même inquiétant."***
+
+> *"Pour l'instant, le fusible principal, ça reste Fabrice. 9 roquettes sur 10, c'est lui qui se les mange."*
+
+### Triangulation 4 sources désormais consolidée
+
+| Source | Date | Diagnostic |
+|---|---|---|
+| Boris (observation) | 23/4 | *"Comment a-t-il tenu jusque-là ?"* |
+| Fabrice (auto-diag) | 24/4 | *"Mon quotidien a été de faire tout sauf d'être COO"* + *"goulot d'étranglement"* |
+| Axel | 24/4 | *"Dans un an je suis presque sûr qu'il est plus là"* + *"il reste pas par plan B"* |
+| Anisse | 26/4 | *"Étonné que la collaboration se maintienne, c'est inquiétant"* |
+
+### Vision Anisse du repositionnement Fabrice (4e voix concordante)
+
+Anisse a explicitement porté la solution à Alec :
+> *"Fabrice, il faut lui enlever la partie opérationnelle, ça c'est trop de charge et il le vit, c'est pas viable. Il faut qu'il se focus sur la partie finance, sur la partie manager général de l'entreprise ou directeur général. Il faut arrêter de lui faire mettre le suivi des opérations, ça le flingue."*
+
+**Convergence parfaite** avec :
+- La position Axel (24/4) qui pousse Fabrice GM + Boris COO
+- La position Boris (option C tranchée 24/4)
+- L'auto-diagnostic Fabrice (24/4) sur ses faiblesses orchestration/adoption
+
+→ **3 voix internes (Axel, Anisse, Fabrice) + Boris (4e) convergent vers le même organigramme cible** : Fabrice GM finance + Boris COO exécution + Sophia consultante audit + Anisse Produit/Innovation/IA. Si Alec n'a pas encore tranché, le terrain est très préparé pour une discussion structurée en S1.
+
+### Implication immédiate — vendredi 1er mai
+
+La charte de délégation Fabrice doit être **ambitieuse** sans hésiter. Si je sous-décharge par prudence politique, je perds 4 alliés (Fabrice + Axel + Anisse + ma propre lecture) qui veulent tous le même allegement.
+
+---
+
 ## 🔄 MAJ 2026-04-24 — 1-to-1 pré-prise de poste de 2h08 effectué
 
 **Format** : Google Meet, 14h00-16h08. Ouvert, fluide, totalement transparent.

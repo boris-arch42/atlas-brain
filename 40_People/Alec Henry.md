@@ -366,6 +366,49 @@ Alec passe sa matinée avec Anisse et **propose explicitement à Boris de lui tr
 - Faire passer le message CTO via Alec, pas via moi (cordon sanitaire)
 - Créer un effet de coordination Alec↔Boris visible pour Anisse
 
+### 🔄 MAJ 2026-04-26 — Triangulation Anisse confirme et reformule la cause racine
+
+Le 1-to-1 Boris↔Anisse du 26/4 (10h03-10h58, juste après sa matinée avec Alec 9h-11h) apporte la **5e validation** du pattern Alec et une reformulation précieuse.
+
+#### Reformulation de la cause racine — verbatim canonique
+
+Q Boris : *"C'est quoi la cause principale de ça [le manque de focus, la multiplicité des tâches, l'instabilité] pour toi ?"*
+
+> R Anisse : ***"La volonté d'Alec d'aller vite ET partout."***
+
+**Pourquoi cette formulation est meilleure que les précédentes** :
+- *"Alec décide trop vite"* (HO15 v1) = unidimensionnel
+- *"Alec change d'avis"* (HO15 v2) = ne capture pas l'enjeu
+- *"Alec a un pattern affectif"* (Axel) = ne capture pas le mécanisme structurel
+- ***"Vite ET partout"*** (Anisse) = **bidimensionnel** : c'est la combinaison vitesse + ubiquité qui rend l'organisation incontrôlable. Couper l'un sans l'autre ne résout pas le problème.
+
+**Implication pour mon mandat** : la règle du revirement traite la dimension "vite". Mais il faut une **2e règle pour la dimension "partout"** = pas de nouvelle initiative tant qu'une boucle ouverte n'est pas fermée (cf. principe Anisse HO29).
+
+#### Confirmation du pattern affectif (5e source)
+
+Anisse confirme la dimension émotionnelle déjà décrite par Axel :
+> *"À l'usure tu perds. Ceux qui ont posé ou qui ont pas accepté, ils sont partis. On a des bons éléments qui à l'usure soit restent et deviennent mauvais [prophétie autoréalisatrice — ça baisse leur estime de soi]. Ou soit, en fait, très rapidement ils partent."*
+
+#### Métaphore catamaran/paquebot — à utiliser avec Alec
+
+Anisse a formulé la meilleure métaphore pour parler du problème de management top sans accusation : *"L'entreprise est devenue un paquebot avec les mêmes adjudants-chefs que sur le catamaran. Ils n'ont jamais navigué un paquebot."* (cf. HO31).
+
+**À utiliser au call Alec du 1er mai** si le sujet management/middle émerge — c'est une formulation qui ne stigmatise personne (y compris Alec) et qui ouvre vers la solution Sophia.
+
+#### Anisse a vérifié explicitement le calendrier Alec
+
+> *"Tout à l'heure on était ensemble [Alec et moi], on a pris un café ensemble juste avant."*
+
+Confirme que le rdv 9h-11h a bien eu lieu. Anisse n'a PAS abordé le sujet CTO avec moi — cordon sanitaire respecté. Alec a probablement géré le sujet le matin.
+
+#### Anisse signale Fabrice avec autorité (4e source)
+
+Verbatim Anisse — critique pour valider HO Fabrice fragile :
+> *"Pour l'instant, le fusible principal, ça reste Fabrice. 9 roquettes sur 10, c'est lui qui se les mange."*
+> *"Moi je suis étonné que la collaboration se maintienne encore avec son quotidien. C'est même inquiétant."*
+
+→ 4 sources concordantes maintenant sur le risque Fabrice (Boris obs + Fabrice auto-diag + Axel + Anisse). À garder en tête pour anticiper.
+
 ---
 
 ## Notes liées
