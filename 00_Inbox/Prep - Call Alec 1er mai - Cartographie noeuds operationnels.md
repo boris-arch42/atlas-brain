@@ -19,6 +19,80 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🔴 MAJ 2026-04-27 SOIR (post replay Alec↔Fabrice) — 4 sujets résolus + 4 sujets nouveaux
+
+Le replay du call Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec) change l'agenda de mon call du 1er mai. Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] pour les verbatims complets.
+
+### ✅ 4 sujets à RAYER de la prep (résolus dans le replay 27/4)
+
+1. **❌ Question titre** — Co-COO acté par Alec en privé à Fabrice. Position option C n'a plus à être défendue. **À confirmer** silencieusement au call sans relancer le débat.
+
+2. **❌ Passation recouvrement post-Alexis** — Fabrice prend l'interim entre 1er et 18 mai, Jordan reprend le 18/05. Résolu.
+
+3. **❌ Tessi entrante** — Profil CSM, géré par Sabrina + Fabrice Abansoa. Pas de mandat Boris.
+
+4. **⚠️ Communication d'arrivée** — La V1 Slack public du 1er mai matin est caduque. Alec veut une **annonce officielle au meeting mensuel du 1er juin**. À confirmer le calendrier au call (cf. sujet nouveau ci-dessous).
+
+### 🆕 4 sujets NOUVEAUX à amener au call
+
+#### Sujet nouveau 1 — Confirmation Co-COO + cadrage roadmap Fabrice GM
+
+**Posture** : ne pas relancer le débat sur le titre. Alec a tranché en privé. **Mon rôle** : confirmer que je suis aligné + cadrer les implications opérationnelles.
+
+**À dire** :
+> *"J'ai bien reçu ton message via le replay sur le titre Co-COO et la roadmap Fabrice GM. Je suis aligné. Concrètement, pour les 60 prochains jours : tu veux qu'on finalise comment l'organigramme cible se construit ? J'ai 3 questions :*
+> *1. Pour la phase de transition Co-COO simultanée — on différencie nos scopes comment exactement vis-à-vis des heads ?*
+> *2. Sur Sophia juillet — elle vient en immersion + audit + done with you, donc pas en troisième COO, c'est bien ça ?*
+> *3. Pour la roadmap Fabrice GM Dubai — on en parle à Marrakech mi-mai, ou tu veux qu'on cale déjà quelques jalons cette semaine ?"*
+
+#### Sujet nouveau 2 — Communication d'arrivée calibrée
+
+**Posture** : valider explicitement le calendrier 1er juin et clarifier ce qu'on dit aux équipes entre temps.
+
+**À dire** :
+> *"Sur l'annonce officielle du 1er juin — tu veux qu'on co-construise quoi exactement ? Et entre maintenant et le 1er juin, on dit quoi aux gens si on me demande qui je suis ? Operating Partner suffit ou tu préfères un autre framing temporaire ?"*
+
+**À valider** :
+- Phase 1 (1er-20 mai) : présence discrète, framing "Operating Partner" en 1-to-1
+- Phase 2 (21-24 mai Marrakech) : présence physique sans annonce de titre
+- Phase 3 (1er juin meeting mensuel) : annonce officielle Co-COO + roadmap Fabrice GM
+
+#### Sujet nouveau 3 — HO34 Abdel (sans citer le verbatim Alec)
+
+**Posture** : ne PAS révéler que je sais qu'Alec m'a partagé le risque d'Abdel. Laisser Alec amener le sujet s'il veut. Sinon, sonder indirectement par les frictions techniques.
+
+**Si Alec amene le sujet Abdel** : écouter, capter le diagnostic, proposer mon support sur les frictions techniques (HubSpot, BigQuery, mailing post-events automation).
+
+**Si Alec n'amene pas Abdel** : approche indirecte au 1-to-1 Abdel S1, et **escalader à Alec dans les 24-48h** après le 1-to-1 si signal de départ confirmé.
+
+**Phrase à prononcer si l'occasion s'y prête** :
+> *"Sur l'équipe en général, j'ai noté au Core qu'il y a des frictions opérationnelles récurrentes — accès outils retirés, dépendances Wassim, BigQuery promis non livré. C'est exactement le type de sujet que je peux débloquer en S1-S2 avec Anisse. Tu vois des pôles où tu sens que ces frictions créent du décrochage ?"*
+
+#### Sujet nouveau 4 — Mandat audit SaaS structuré
+
+**Posture** : prendre le mandat explicitement, poser un planning S1-S2, proposer les premières cibles chiffrées.
+
+**À dire** :
+> *"J'ai bien reçu via le replay le mandat audit SaaS. Cible 70-100K€/an d'économies. Je le prends et je propose le planning suivant :*
+> *- S1 (sem 5 mai) : recensement complet + premières prises de contact fournisseurs*
+> *- S2 (sem 12 mai) : négociations HubSpot, Zendesk, Aircall — les 3 plus gros tickets*
+> *- S3-S4 (sem 19-26 mai) : finalisation + décision Mohamed IT (fin mai = 30K€/an économisés) + NAS physique 1K€ (Google = 20K€/an économisés)*
+> *- Avant 1er juin : reporting consolidé avec montant négocié*
+> *Tu valides le calendrier ? Et qui pilote la suppression Klap côté Quentin — toi ou moi ?"*
+
+### 🆕 Sujet nouveau bonus — Présentation Mithril/Aiko Core 4 mai
+
+Alec demande explicitement la présentation Mithril au COMEX le 4 mai (J+3 prise de poste).
+
+**Action Boris** : préparer slides cette semaine (lundi-mercredi), valider avec Alec mercredi/jeudi.
+
+**Position** : Mithril = entreprise Boris, donc pas de conflit à gérer politiquement. Setup gagnant-gagnant comme Alec l'a formulé — Entrepreneurs.com économise du coût RH (recrutements coachs/sales/RH/partenaires), Mithril gagne un client de référence interne.
+
+**À dire au call** :
+> *"Pour le 4 mai, je vais préparer 5-7 slides Mithril/Aiko : présentation produit, cas d'usage Entrepreneurs.com (recrutements coachs/sales/RH + annuaire partenaires), planning d'onboarding S1-S2 pour Sabrina/Claire/Alexis. Ça te va ou tu veux que j'oriente différemment ?"*
+
+---
+
 ## 🔄 MAJ 2026-04-27 soir — 3 nouveaux sujets ajoutés post Core Meeting
 
 Le Core Meeting du 27/4 (replay analysé, cf. [[Ressource - Core Meeting 27 avril 2026]]) a fait émerger 3 sujets que je n'avais pas dans la prep initiale et qu'il faut amener au call Alec :

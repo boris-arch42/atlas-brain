@@ -2,15 +2,122 @@
 type: livrable-externe
 auteur: "[[Boris Arduy]]"
 destinataire: "Équipes Entrepreneurs.com (~140 personnes)"
-version: V1
-date-envoi-cible: "2026-05-01 (vendredi, J1)"
-canal-envoi: "à choisir : Slack #general / All-Hands / Notion / mixte"
-status: draft-à-valider
+version: V1-CADUQUE
+status: 🔴 caduque-refonte-requise
+refonte-statut: en-cours
 sensitivity: confidential
-tags: [communication-arrivee, J1, livrable, à-envoyer, prise-de-poste]
+tags: [communication-arrivee, J1, livrable, prise-de-poste, refonte-1er-juin]
 ---
 
-# Communication d'arrivée 1er mai — V1
+# Communication d'arrivée — V1 caduque, refonte en cours
+
+> 🔴 **STATUT 27/4 SOIR** : la V1 conçue pour le 1er mai matin **est caduque**. Le replay Alec↔Fabrice du 27/4 a révélé qu'Alec veut une **annonce officielle aux équipes le 1er juin** au meeting mensuel, pas le 1er mai.
+>
+> Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] section "Annonce officielle aux équipes : 1er JUIN".
+>
+> **Cette page documente la nouvelle stratégie + déposera les futures variantes après validation avec Alec.**
+
+---
+
+## 🔄 Nouveau calendrier officiel (acté par Alec 27/4)
+
+| Date | Événement | Action Boris |
+|---|---|---|
+| **1er mai (J1)** | Démarrage interne | Cadrage avec Alec + Fabrice. **Pas de com publique.** |
+| **2-9 mai** | Phase d'observation S1 | 1-to-1 individuels avec heads (Aziz, Sabrina, Cédric, Abdel, etc.) |
+| **10-20 mai** | Phase d'observation S2 | Audit SaaS démarré, préparation Marrakech |
+| **21-24 mai** | Marrakech — immersion Scaling + journée équipe | Première apparition physique, **sans annonce officielle de titre** |
+| **25-31 mai** | Préparation de l'annonce | V2 com officielle finalisée avec Alec et Fabrice |
+| **1er juin** | **Meeting mensuel** | 🟢 **Annonce officielle Co-COO + roadmap Fabrice GM** |
+| **5-7 juin** | Team building global | Présence formelle déjà actée |
+
+## 🎯 Stratégie de communication revue
+
+### Phase 1 : 1er-20 mai — "présence discrète"
+
+**Principe** : pas d'annonce publique. Les heads me découvrent par les 1-to-1 (Variante C oral). Les équipes me découvrent indirectement via les heads.
+
+**Ce qui se dit en 1-to-1** (Variante C ci-dessous, conservée) :
+> *"Hello \[prénom], merci pour ton temps. Pour cadrer rapidement avant qu'on rentre dans le concret : je rejoins Entrepreneurs.com comme Operating Partner aux côtés d'Alec, en complémentarité avec Fabrice qui reste COO. Mon scope c'est plutôt structuration, animation transverse, et décharger Fabrice sur l'opérationnel — donc clairement pas \[le pôle de la personne] où c'est ton terrain à toi. Sur ce call, mon objectif n'est pas de t'auditer ni de t'évaluer. Je suis là pour comprendre comment tu bosses aujourd'hui, où tu vois des trucs qui marchent, où tu vois des frictions, et surtout où je peux te servir d'appui. Je ne viens pas avec une feuille de route préfabriquée. On va voir ensemble."*
+
+**Note importante** : pour la Phase 1, je dis **"Operating Partner"** dans les 1-to-1, pas **"Co-COO"**. Le titre Co-COO ne sera annoncé qu'au 1er juin officiellement par Alec. Si quelqu'un me demande direct, je réponds *"Operating Partner pour l'instant, on cadrera l'organigramme officiellement en juin"*.
+
+### Phase 2 : 21-24 mai (Marrakech) — "présence physique sans annonce"
+
+**Principe** : je suis présent physiquement, je participe aux activités, mais **aucune annonce de titre n'est faite**. Si Alec souhaite faire un mot rapide pour me présenter informellement, OK. Pas de prise de parole solo.
+
+**Ma posture en Marrakech** :
+- Observer, écouter, prendre des notes
+- Faire connaissance avec les coachs et l'équipe élargie (au-delà du COMEX)
+- 1-to-1 #2 avec Océane et Axel sur place
+- Aucune intervention en séance plénière
+
+### Phase 3 : 1er juin — "annonce officielle au meeting mensuel"
+
+**Format** : annonce conjointe Alec + Fabrice + Boris au meeting mensuel.
+
+**Structure de l'annonce** (V2 à finaliser fin mai) :
+1. **Alec** ouvre : *"Aujourd'hui, je veux vous partager officiellement deux évolutions structurelles dans l'organisation."*
+2. **Annonce 1** : Boris rejoint en **Co-COO aux côtés de Fabrice**, scope structuration interne + animation transverse + décharge opérationnelle.
+3. **Annonce 2** : Fabrice transition vers **General Manager Dubai** à horizon 6 mois (sous condition stabilisation géopolitique).
+4. **Boris** prend la parole 5 minutes : message court (s'inspirer de Variante A actuelle, en ajustant)
+5. **Fabrice** prend la parole 5 minutes : signal d'alliance + roadmap commune
+6. **Alec** conclut + Q&A
+
+## 📝 Variantes préparées à conserver
+
+### ✅ Variante C — Pitch oral pour les 1-to-1 (S1-S2)
+
+**Reste valable telle quelle pour la Phase 1**. Cf. ci-dessus.
+
+### 🔄 Variante A — Slack public 1er mai
+
+❌ **CADUQUE** — ne pas envoyer le 1er mai.
+
+Pourrait être **adaptée en variante de prise de parole Boris au 1er juin** (5 minutes orales). Structure à revoir avec Alec et Fabrice fin mai.
+
+### 🔄 Variante B — All-Hands long
+
+À **transformer en V2 officielle pour le 1er juin**, avec :
+- Mention explicite du Co-COO à côté de Fabrice
+- Mention de la roadmap Fabrice GM (si Alec veut l'annoncer publiquement à ce moment-là — à décider à Marrakech)
+- Tonalité : "continuité + alliance + servir d'appui"
+- Pas plus de 5 minutes à l'oral
+
+## 🔴 Ce qu'il NE faut pas faire le 1er mai
+
+- ❌ Pas de post Slack #general
+- ❌ Pas d'email broadcast
+- ❌ Pas de mention publique de mon arrivée par Alec ou Fabrice (sauf demande explicite de quelqu'un)
+- ❌ Pas de changement de signature email avec mon titre
+- ❌ Pas de bio LinkedIn mise à jour publiquement
+
+## ✅ Ce qu'il faut faire le 1er mai
+
+- ✅ Call Alec 60-90 min (cartographie nœuds + nouveaux sujets post-replay)
+- ✅ Call trio Plan trimestriel Q1 (Alec + Fabrice + Boris)
+- ✅ Setup accès outils (Slack, Notion, Google Drive, etc.)
+- ✅ Préparer slides Mithril/Aiko pour Core Meeting du 4 mai (J+3)
+- ✅ Caler agenda 1-to-1 S1 avec les heads
+
+## 📥 Validation Alec — toujours pertinente (timing différent)
+
+L'enjeu de validation par Alec reste valable, mais avec un timing différent :
+
+**Avant** : valider la com Slack avec Alec mardi 28 ou mercredi 29 pour envoi le 1er mai matin.
+
+**Maintenant** : valider la **stratégie de phasage** avec Alec **au call du 1er mai** lui-même, et co-construire l'annonce du 1er juin tout au long de mai.
+
+**Question à amener au call Alec 1er mai** :
+> *"Sur l'annonce officielle du 1er juin — tu veux qu'on co-construise quoi exactement ? Et entre maintenant et le 1er juin, on dit quoi aux gens si on me demande qui je suis ? Operating Partner suffit ou tu préfères un autre framing temporaire ?"*
+
+## 🔗 Notes liées
+
+- [[Ressource - Replay Alec Fabrice 27 avril 2026]] (source de la décision 1er juin)
+- [[Alec Henry]] (MAJ 2026-04-27 — décision Co-COO)
+- [[Fabrice Jaeger]] (transition GM Dubai)
+- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] (V2 à mettre à jour avec parité Co-COO)
+- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (sujet com d'arrivée à amener)
 
 > **Usage** : ce document contient la stratégie de la communication d'arrivée + 3 variantes prêtes à l'emploi + une checklist de validation. À relire le 30 avril au soir, à valider/affiner mardi 28 ou mercredi 29.
 

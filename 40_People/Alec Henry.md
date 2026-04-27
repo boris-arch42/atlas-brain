@@ -366,6 +366,82 @@ Alec passe sa matinée avec Anisse et **propose explicitement à Boris de lui tr
 - Faire passer le message CTO via Alec, pas via moi (cordon sanitaire)
 - Créer un effet de coordination Alec↔Boris visible pour Anisse
 
+### 🛠️ MAJ 2026-04-27 après-midi — Side conformité TPE/PME proposé à Boris
+
+Dans la foulée du replay partagé, Alec a appelé Boris (~18 min) pour lui présenter un **side project** co-créé avec **Cédric Berrebi (fondateur de Bricks)** : SaaS de conformité réglementaire pour TPE/PME (document unique, sécurité incendie, RGPD, etc.).
+
+Boris a accepté en partenaire opérationnel (recherche closer + analyse commerciale + cut à confirmer). **Hors scope Operating Partner ENT** — allocation 0.5j/sem max sur ce side.
+
+→ Cf. [[Hub - Conformité TPE-PME]] et [[Replay - Boris x Alec 27 avril 2026]]
+
+**Note de gouvernance latente** : ce side leverage des actifs ENT (base clients, BPI/CCI, Le Déclic, banques en discussion). Question de convention d'utilisation à clarifier si la traction décolle, notamment vis-à-vis de Sophia entrante en juillet. À garder en tête, pas à ouvrir tant que c'est un test marché.
+
+### 🟢 MAJ 2026-04-27 — DÉCISION ACTÉE : Boris = Co-COO + roadmap Fabrice → GM
+
+**Source** : replay Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec à Boris). Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] pour les verbatims complets.
+
+#### Le titre est tranché — Co-COO
+
+Verbatim Alec à Fabrice :
+> *"Boris, pour moi, son rôle, c'est simple Co-COO. Comme ça, au moins, il n'y a pas de doute. Il était COO, il revient Co-COO à tes côtés, équivalence, vous avez juste un scope différent."*
+
+**Lecture politique** : Alec a acté **exactement** la position que la position option C visait, sans que Boris ait eu à la défendre. Aligné avec la proposition d'Axel du vocal du 24/4 (Boris COO + Fabrice GM), avec une phase de transition Co-COO simultanée.
+
+**Position Boris validée** : accepter Co-COO sans contestation au call du 1er mai.
+
+#### Roadmap Fabrice → General Manager Dubai
+
+Verbatim Alec à Fabrice :
+> *"Moi, j'aimerais t'enlever le titre de COO à terme pour que tu puisses être en mode General Manager. Le seul sujet, dans General Manager, il y a le mot manager, donc faudra vraiment voir si tu as envie de manager et comment. Et puis il y a la partie aussi Dubaï, et faudra qu'on en parle quand on se voit à Marrakech."*
+
+**Calendrier** : décision de la roadmap GM Fabrice à valider à Marrakech mi-mai (21-24 mai). Bloquée par scolarité fils Fabrice (homeschooling = no go) — donc conditionnée à stabilisation cessez-le-feu (~2.5 semaines selon Alec).
+
+#### Annonce officielle aux équipes : 1er JUIN (pas le 1er mai)
+
+Verbatim Alec :
+> *"On va l'introduire, je pense, le 1er juin, tu vois, enfin début juin, là, quand on va faire le meeting mensuel."*
+
+**Implication majeure pour ma com** : la stratégie de com Slack publique du 1er mai matin **ne tient plus**. Calendrier officiel :
+- 1er mai : démarrage interne, pas de com publique
+- 2-20 mai : phase d'observation / 1-to-1 silencieux
+- 21-24 mai (Marrakech) : première apparition physique sans annonce de titre
+- **1er juin meeting mensuel : annonce officielle Co-COO + roadmap Fabrice GM**
+
+#### Mandat opérationnel immédiat — audit + négociation SaaS
+
+Verbatim Alec :
+> *"Il faut donner cette tâche à Boris ou à je ne sais pas qui, avec Mohamed d'Haïti, tu vois, qu'on le rentabilise le mec."*
+
+Cible : **70-100K€/an d'économies SaaS** (HubSpot, Zendesk, Aircall + fin Mohamed IT au 30 mai + NAS physique 1K€ pour économiser sur Google + suppression Klap). Nourrit KR2.5 du Plan trimestriel Q1.
+
+#### Présentation Mithril/Aiko au Core du 4 mai
+
+Alec demande explicitement la présentation Mithril au COMEX **le 4 mai** (J+3 prise de poste). Sujet à préparer dans les 5 prochains jours.
+
+#### Risque départ Abdel signalé en privé (HO34 nouvelle)
+
+Verbatim Alec : *"Ensuite Abdel, j'ai un point one-one avec lui parce qu'il décroche un peu et vraisemblablement il risque de démissionner d'ici 2 semaines maximum si ça continue."*
+
+→ Stub [[Abdel El Mahi]] créé. HO34 nouvelle dans les hypothèses. **Ne jamais relayer cette info à Abdel ou à un tiers** — Alec me l'a partagée en confiance.
+
+#### Réflexion produit majeure d'Alec (à surveiller)
+
+Verbatim Alec : *"Surtout que peut-être que je vais supprimer toutes les features. Tu verras, je suis en réflexion sur le produit. Mais en fait, ça va plus loin, ça va plus loin, mais c'est pas le sujet du call, je dois poser ma réflexion."*
+
+Alec en réflexion sur un pivot produit majeur, probablement en lien avec HO33 (dégradation profil client). À surveiller en S1-S2 sans pousser.
+
+#### Lecture politique du partage du replay
+
+Le fait qu'Alec partage **volontairement** ce replay à Boris (en plus du replay du Core Meeting) est un signal politique fort :
+- Il anticipe le rôle de relais opérationnel de Boris
+- Il met Boris dans la confidence Fabrice
+- Il aligne l'arrivée 1er mai sur une vision déjà partagée à 3
+- C'est cohérent avec la décision Co-COO
+
+**Verbatim Alec sur le partage** : *"Je vais partager le replay du weekly à Boris d'une part, je peux aussi partager le replay de ce call à Boris d'autre part, qu'il se rende compte de la densité de sujets sur lesquels tu es constamment."*
+
+→ Alec **anticipe le décalage** que Boris va opérer pour soulager Fabrice. Bon signal pour la posture de relais.
+
 ### 🔄 MAJ 2026-04-26 — Triangulation Anisse confirme et reformule la cause racine
 
 Le 1-to-1 Boris↔Anisse du 26/4 (10h03-10h58, juste après sa matinée avec Alec 9h-11h) apporte la **5e validation** du pattern Alec et une reformulation précieuse.

@@ -55,6 +55,39 @@ Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
 
 ---
 
+## 🔴 MAJ 2026-04-27 SOIR (post replay Alec↔Fabrice) — KR2.5 chiffré + KR3.4 enrichi
+
+Le replay Alec↔Fabrice du 27/4 a converti le mandat général "audit dépenses" en mandat **chiffré et planifié** sur les SaaS. Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]].
+
+### KR2.5 — nouvelle formulation chiffrée
+
+**Avant** : *"Audit dépenses discrétionnaires ≥ 50K€ réalisé + plan d'action proposé à Alec/Fabrice avant J+45."*
+
+**Après (post mandat Alec 27/4)** :
+
+> **KR2.5** — Audit complet des licences SaaS réalisé + négociation aboutie sur les 3 plus gros tickets (HubSpot, Zendesk, Aircall) + décision Mohamed IT + déploiement NAS physique. **Cible chiffrée : 70-100K€/an d'économies réalisées** avant **J+30 (30 mai)**. _Mesurable : montant négocié par fournisseur + décision Mohamed IT (fin contrat 30 mai = 24K€/an) + NAS physique déployé (1K€ investi = 20K€/an Google économisés)._
+
+**Composantes chiffrées** :
+- HubSpot, Zendesk, Aircall : cible 30K€/an min (Fabrice estime 70K€ répartis sur ces 3)
+- Fin Mohamed IT au 30 mai : 24K€/an (2K€/mois)
+- NAS physique 1K€ → économie Google ~20K€/an
+- Suppression Klap (à câbler avec Quentin) : montant à confirmer
+- Petites licences (Typeform, Monday, Airtable déjà fermé) : ~5K€/an cumulé
+
+**Total cible cumulé : 70-100K€/an**
+
+### Planning S1-S4 du KR2.5
+
+| Semaine | Action | Livrable |
+|---|---|---|
+| **S1 (5-9 mai)** | Recensement complet via Mohamed IT + premières prises de contact fournisseurs | Liste complète + premiers contacts |
+| **S2 (12-16 mai)** | Négociations HubSpot, Zendesk, Aircall | 3 propositions négociées |
+| **S3 (19-23 mai)** | Finalisation + décision Mohamed IT + cadrage NAS physique | Décisions actes + montants confirmés |
+| **S4 (26-30 mai)** | Reporting consolidé + déploiement NAS | Reporting + NAS opérationnel |
+| **1er juin** | Présentation reporting au meeting mensuel | Annonce de l'économie réalisée (cohabite avec annonce Co-COO) |
+
+---
+
 ## 🔄 MAJ 2026-04-26 — Apports 1-to-1 Anisse (5 enrichissements concrets)
 
 Le 1-to-1 Anisse du 26/4 (10h03-10h58) apporte **5 éléments concrets** à intégrer dans le plan trimestriel :

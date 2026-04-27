@@ -23,6 +23,29 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 - **HO2** — Le blocage BNP (siège Émirats) est le vrai goulot bancaire, pas le dossier BPI.
 - **HO3** — Le pôle recouvrement en reconstruction (Jade, Jordan) peut récupérer 30-50% des 2-3M€ d'impayés sur 6 mois si bien outillé.
 
+- **HO34** — **Risque imminent de départ d'Abdel El Mahi d'ici 2 semaines**. Source unique mais haute confiance : Alec en privé à Fabrice au call du 27/4 (replay partagé volontairement à Boris).
+  
+  Verbatim Alec :
+  > *"Ensuite Abdel, j'ai un point one-one avec lui parce qu'il décroche un peu et vraisemblablement il risque de démissionner d'ici 2 semaines maximum si ça continue."*
+  
+  **Pourquoi c'est critique** :
+  - **Abdel est dans le noyau solide** identifié par Alec au cadrage du 23/4 (Q3 : *"Sabrina, Aziz, Océane, Thomas/Nicolas, Ouassim, Claire, **Abdel**, Jordan"*)
+  - **6e mouvement top en 22 mois** si départ confirmé (post Tang, Fabrice rétrogradé, Alexis sortant, Axel sortant juin, Cédric en risque)
+  - Probable **7e mouvement** si Cédric se confirme aussi (HO32) → hémorragie systémique au top
+  - Sa charge actuelle (mailings post-events, com clients, coordination experts) tombe sur **Sabrina** (déjà sous l'eau) et le **marketing** (Cédric en sous-effectif)
+  
+  **Pattern probable Alec** (HO15) : Alec a dit à Fabrice qu'il prend un 1-to-1 avec Abdel. C'est la même pattern que sur Alexis et Mélissa — alerte tardive, action curative plutôt que préventive. Risque : trop tard.
+  
+  **Source de la friction probable** : opportunité d'Abdel sur des frictions opérationnelles (accès HubSpot retirés régulièrement, dépendance à Wassim pour les extractions, BigQuery promis non livré). Friction technique cumulée — pas politique. → **Très grosse opportunité de retournement rapide** si je peux débloquer 1-2 sujets concrets en S1.
+  
+  **Action S1 (semaine du 5 mai)** : 1-to-1 prioritaire avec Abdel (cf. [[Abdel El Mahi]]). Posture : ne pas révéler ce que je sais d'Alec, faire émerger les frictions concrètes, livrer 1-2 déblocages en 10 jours pour créer une boucle de re-engagement.
+  
+  **Action structurelle S2-S3** : aligner avec Anisse sur l'automatisation mailing post-events + débloquer accès BigQuery (promesse Fabrice non tenue).
+  
+  **Test** : si Abdel ouvre spontanément au 1-to-1 S1, signal de confiance + opportunité de stabiliser via déblocages techniques. S'il reste verrouillé, le risque départ dans les 14 jours est haut. À escalader à Alec dans les 24-48h sans citer.
+  
+  **Horizon** : J+14 (premier signal post-1-to-1 S1) / J+30 (validation ou résolution).
+
 _Statut au J+14 : à compléter_
 
 ## Hypothèses sur l'équipe
@@ -256,6 +279,7 @@ _Statut au J+14 : à compléter_
 | HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
 | HO32 (départ Cédric Q2-Q3) | 🔴 **MAJ 27/4** : 4e source publique (verbatim au Core) — quasi-certitude. 1-to-1 priorité 1 début S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
 | HO33 (stagnation profil client) | 4 sources publiques au Core 27/4. Faire émerger à Alec au call 1er mai + apporter à Sophia juin | J+30 / J+90 |
+| HO34 (départ Abdel 2 semaines) | 🔴 **NOUVELLE 27/4** : source Alec privé. 1-to-1 prioritaire S1 + déblocages techniques en 10 jours pour boucle re-engagement | J+14 / J+30 |
 
 ## Revue prévue
 

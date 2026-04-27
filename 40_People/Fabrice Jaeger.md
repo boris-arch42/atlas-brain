@@ -1,23 +1,56 @@
 ---
 type: person
-role: "COO Entrepreneurs.com (ex-CEO)"
+role: "COO Entrepreneurs.com → General Manager Dubai (transition à valider Marrakech mi-mai)"
 team: "Entrepreneurs.com"
 manager: "[[Alec Henry]]"
 reports: 
 started: 2024
-status: active
+status: active-en-transition
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-tags: [coo, comex, entrepreneurs-com, ex-ceo]
+tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-Boris]
 ---
 
 # Fabrice Jaeger
 
-## Rôle actuel
-- **Poste** : COO Entrepreneurs.com
+## Rôle actuel et transition
+- **Poste actuel** : COO Entrepreneurs.com (devient **Co-COO avec Boris** au 1er mai 2026, transition Co-COO simultanée)
+- **Roadmap** : transition vers **General Manager Dubai** (validée par Alec au 27/4, à valider à Marrakech mi-mai)
 - **Équipe** : COMEX
 - **Manager** : [[Alec Henry]]
-- **Reports directs** : Aziz (sales), Sabrina (delivery/CSM), Anis (produit/innovation/IA), Océane (com), Cédric (marketing) + Boris à partir du 1er mai. Soit 6 directs reports identifiés. Avant : ~15 personnes en direct, à des niveaux complètement déconnectés.
+- **Reports directs** : Aziz (sales), Sabrina (delivery/CSM), Anis (produit/innovation/IA), Océane (com), Cédric (marketing) + Boris à partir du 1er mai (en parité, pas en hiérarchie). Soit 6 directs reports identifiés. Avant : ~15 personnes en direct, à des niveaux complètement déconnectés.
+
+## 🟢 MAJ 2026-04-27 — Co-COO avec Boris acté + roadmap GM Dubai
+
+**Source** : replay Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec à Boris). Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]].
+
+### Décision Alec sur l'organigramme
+
+Verbatim Alec à Fabrice :
+> *"Boris, pour moi, son rôle, c'est simple Co-COO. Comme ça, au moins, il n'y a pas de doute. Il était COO, il revient Co-COO à tes côtés, équivalence, vous avez juste un scope différent."*
+
+> *"Moi, j'aimerais t'enlever le titre de COO à terme pour que tu puisses être en mode General Manager. Le seul sujet, dans General Manager, il y a le mot manager, donc faudra vraiment voir si tu as envie de manager et comment. Et puis il y a la partie aussi Dubaï, et faudra qu'on en parle quand on se voit à Marrakech."*
+
+### Réaction Fabrice sur le déménagement Dubai
+
+Verbatim Fabrice :
+> *"Le plan il est toujours de bouger, c'est juste qu'encore une fois, même si là ça commence à bien se stabiliser, il y a une instabilité globale générale qui fait que ça reste un risque et que dans mon équation, mon fils qui rentre notamment en première, lui faire faire du homeschooling pendant 6 mois, c'est absolument un no go."*
+
+**Conditions de la transition GM Dubai** :
+- Stabilisation cessez-le-feu (écoles ouvertes durablement)
+- Point décisif dans **2 semaines et demie** selon Alec
+- **Si conflit reprend** : Fabrice reste à Paris, transition GM à distance
+- **Décision finale** à valider à Marrakech 21-24 mai
+
+### Implication pour la charte Boris↔Fabrice
+
+La charte V1 envoyée à Fabrice le 27/4 reste valable, mais **doit évoluer en V2** pour intégrer :
+1. **Parité Co-COO** explicite (au lieu de "complémentarité Boris/COO Fabrice")
+2. **Roadmap GM Dubai** comme horizon de transition (avec triggers conditionnels)
+3. **Répartition géographique à terme** : Boris basé Lyon avec missions Marrakech, Fabrice GM Dubai si conflit s'apaise
+4. **Annonce officielle au meeting mensuel du 1er juin**, pas le 1er mai
+
+→ Voir au 2e call Fabrice (mardi/mercredi) pour caler la V2.
 
 ## 🔄 MAJ 2026-04-26 (samedi soir) — Fabrice a livré le Miro des process
 
