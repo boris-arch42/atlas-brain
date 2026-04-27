@@ -3,9 +3,9 @@ type: livrable-externe
 destinataire: "[[Fabrice Jaeger]]"
 auteur: "[[Boris Arduy]]"
 version: V1
-date-envoi-cible: "2026-04-28 (mardi) ou 2026-04-27 (lundi)"
-canal-envoi: "Slack ou Google Doc partagé (à choisir)"
-status: pret-à-envoyer
+date-envoi: 2026-04-27
+canal-envoi: à-renseigner-par-boris
+status: envoyée-2026-04-27
 related: "[[Draft - Charte de délégation Fabrice]] (référence interne)"
 sensitivity: confidential
 tags: [charte, fabrice, V1, livrable, à-envoyer]
