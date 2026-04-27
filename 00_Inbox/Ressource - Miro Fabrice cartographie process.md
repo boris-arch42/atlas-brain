@@ -3,133 +3,163 @@ type: ressource-externe
 source-author: "[[Fabrice Jaeger]]"
 source-tool: Miro
 date-received: 2026-04-26
-date-author-creation: ~2025-2026 (à confirmer)
-status: à-analyser
+date-analyzed: 2026-04-27
+status: analysé-V1
 related-okr: KR2.1 (cartographie nœuds opérationnels)
 sensitivity: confidential
-tags: [miro, cartographie-process, fabrice, KR2.1, ressource-fabrice]
+tags: [miro, cartographie-process, fabrice, KR2.1, ressource-fabrice, customer-journey]
 ---
 
-# 📊 Miro Fabrice — Cartographie des process Entrepreneurs.com
+# 📊 Miro Fabrice — Cartographie du customer journey end-to-end
 
-> **Lien partagé par Fabrice le 26/4** (samedi) suite à demande Boris du week-end :
+> **Lien partagé par Fabrice le 26/4** (samedi) suite à demande Boris :
 > https://miro.com/app/board/uXjVGvre7co=/?share_link_id=448862319828
 
-## 🎯 Pourquoi c'est important
+> **Analyse Boris : 27/4 (dimanche matin)** sur la base de la capture d'écran reçue.
 
-Fabrice a livré ce Miro **avant même que Boris l'ait formellement relancé**. Signal très positif sur sa posture post-call 24/4 :
-- Il a tenu sa promesse en autonomie
-- Il agit sans qu'on l'ait poussé
-- Il préempte le travail de cartographie (HO29 / KR2.1)
-- Il **valide concrètement** le mode opératoire Boris+Fabrice qu'on a posé en call
+## 🚨 Insight majeur — divergence verbal/écrit
 
-→ À reconnaître via Slack avec gratitude (cf. proposition de message ci-dessous).
+**Ce que Fabrice avait verbalisé au call 24/4** = 7-10 process **internes** (onboarding RH, outils éclatés, process closing/commissions, standardisation onboarding employés, migration Odoo, vision internationale, stabilisation top 10 process).
 
-## 🎯 Pourquoi c'est stratégique pour le 1er mai
+**Ce que ce Miro contient** = **cartographie unique du customer journey end-to-end** (Growth → Sales → Onboarding → Delivery → Fidélisation → Upsell).
 
-Cette cartographie change le call Alec du 1er mai :
-- **Avant** : Boris arrivait avec ce que Fabrice avait nommé verbalement le 24/4 + ses propres observations (cartographie à 70%)
-- **Maintenant** : Boris arrive avec **un artefact écrit pré-existant signé Fabrice** que Boris a déjà étudié et annoté
+**Aucun chevauchement direct entre les deux**. Implications :
+- Les 7 process internes verbalisés au call 24/4 **ne sont PAS formalisés à ce jour** (probablement portés mentalement par Fabrice)
+- Le Miro est néanmoins une cartographie **utile et bien construite** du process client (qui n'avait pas non plus émergé au call)
+- **Mon territoire d'apport reste très clair en Q1** : les process internes restent à formaliser, c'est moi qui peux les apporter
+- **Le territoire de Fabrice reste inviolé** : sa cartographie client est solide, je n'y touche pas — je m'appuie dessus comme input
 
-→ Posture vis-à-vis d'Alec :
-> *"Voici ce que Fabrice et moi avons consolidé. Voici comment je le lis. Quelles sont tes priorités à toi ?"*
+## 🎯 Posture revue pour le call Alec du 1er mai
 
-Cela passe le call Alec d'une **co-construction** à une **validation/priorisation conjointe** — beaucoup plus efficace.
+**Avant cette analyse** : "j'arrive avec une cartographie pré-existante à valider/prioriser avec Alec".
 
-## 📝 Mes notes d'analyse (à remplir après lecture)
+**Après cette analyse** :
+- Pour les **process clients** : oui, j'ai la cartographie de Fabrice à présenter comme acquise
+- Pour les **process internes** : c'est mon mandat propre, à co-construire avec Alec
 
-> ⚠️ Boris à compléter après lecture attentive du Miro.
+**Phrase à utiliser au call Alec** :
+> *"Fabrice m'a partagé sa cartographie du process client end-to-end — c'est solide, on a les bases pour discuter delivery / fidélisation / facturation. Là où je vois mon apport principal en Q1, c'est sur les process internes : onboarding RH, outils éclatés, etc. — qu'on a verbalisés avec Fabrice mais qui ne sont pas formalisés. Toi, où tu mets la priorité ?"*
 
-### Vue d'ensemble
+C'est plus humble que "j'arrive avec la réponse", c'est plus juste, et ça délimite mon territoire propre.
 
-- **Nombre de process cartographiés** : ___ (Fabrice a annoncé ~10 au call 24/4)
-- **Format/structure** : ___
-- **Niveau de détail** : ___
-- **Date apparente de création / dernière mise à jour** : ___
+## 📊 Structure observée du Miro
 
-### Liste des process identifiés sur le Miro
+### 6 phases du customer journey
 
-1. ___
-2. ___
-3. ___
-4. ___
-5. ___
-6. ___
-7. ___
-8. ___
-9. ___
-10. ___
+| Phase | Couleur fond | Contenu |
+|---|---|---|
+| Growth (Marketing Communication) | beige clair | 4 sources d'acquisition + Lead Magnet/VSL/Webinaire/3 Days/Landing |
+| Growth (Sales) | vert clair | Pitch R1/R2/R3 → signature → cash → commission |
+| Onboarding | bleu clair | Création facture Odoo + attribution coach + onboarding CSM + 1ère session |
+| Delivery | beige clair | Coaching, masterclass, alertes consommation, gestion impayés et résiliations |
+| Fidélisation | violet clair | Bilan M3/M6 + upsell + use case Trustpilot |
+| Upsell | beige clair | Renouvellement + COPILOTE + Invitations events |
 
-### Croisement avec les 7 nœuds nommés au call 24/4
+### Code couleur VERT (à confirmer avec Fabrice)
 
-Vérifier que les 7 nœuds verbalement nommés au call sont bien dans le Miro :
+Blocs verts identifiés :
+- Meta/Google Ads Paid (acquisition payante)
+- Cash Encaissé
+- Plateforme Attribution Coach 48H
+- Email/Circle Prise RDV Onboarding
+- Plateforme Session 1-1 Coachs
+- 3 alertes Plateforme (sur-conso, +80% sessions, sous-conso)
+- Plateforme Pop-up Facturation
+- Plateforme Accès coupé / 0 coaching
+- Lettre résiliation FINANCE (×2)
 
-| Nœud (call 24/4) | Présent dans Miro ? | Niveau de détail | Priorité Fabrice | Ma priorité Boris |
-|---|---|---|---|---|
-| Onboarding RH process | ❓ | ❓ | ❓ | P1 |
-| Outils éclatés (less is more) | ❓ | ❓ | ❓ | P1 |
-| Process closing/commissions | ❓ | ❓ | ❓ | P1 |
-| Standardisation onboarding | ❓ | ❓ | ❓ | P2 |
-| Migration Odoo | ❓ | ❓ | ❓ | P2 |
-| Vision internationale | ❓ | ❓ | ❓ | P3 |
-| Stabilisation top 10 process | ❓ | ❓ | ❓ | P1 |
+**Hypothèse** : le vert = **étapes automatisées via la Plateforme/Odoo** OU étapes critiques cash/résiliation. → Question 1 à Fabrice.
 
-### Process présents dans le Miro mais pas mentionnés au call
+### Outils mentionnés
 
-À identifier — ce sont peut-être les sujets que Fabrice **sait importants** mais qu'il **n'a pas verbalisés** au call (oubli, pudeur, ou lecture personnelle):
-1. ___
-2. ___
-3. ___
+| Outil | Usage |
+|---|---|
+| **HubSpot** | CRM — entrée funnel post-signature closer |
+| **Odoo** | Création facture + modalités paiement + comptabilité |
+| **Plateforme** | Sessions, attributions, alertes, pop-ups, accès = **cœur opérationnel** |
+| **Zoom** | Onboarding + masterclass |
+| **Circle** | Communauté + prise de RDV onboarding |
+| **LeanPay** | Recouvrement + impayés |
+| **Email/Téléphone** | CSM + closer |
 
-### Observations critiques
+**Observation clé** : aucun outil interne d'organisation (Monday, Notion, Drive, WhatsApp, Slack) — ce Miro est **purement client-facing**. Cohérent avec l'observation que les process internes sont une zone vierge.
 
-- **Process complets vs incomplets** : ___
-- **Process avec KPI matrice associée** : ___ (cf. promesse Fabrice de partager aussi la matrice KPI)
-- **Process avec ownership défini vs flottant** : ___
-- **Process qui dépendent de zones interdites pour Boris** (marketing/com/event/closing/finance) : ___
+## 🚨 Trous visibles dans le process (alertes à creuser)
 
-### Éléments structurels de design
+### Trou 1 — "???" après Lead Qualifié NON
 
-- **Codes couleur utilisés** : ___
-- **Légendes / conventions** : ___
-- **Liens entre process** : ___
-- **Annotations / questions ouvertes** de Fabrice : ___
+Fabrice a **littéralement écrit "???"** comme aboutissement d'un lead non qualifié. C'est un **trou de process documenté par Fabrice lui-même**. Que devient un lead non qualifié ?
 
-## 🎯 Plan d'action post-lecture
+→ **Question 1 à Fabrice** : que faire d'un lead non qualifié ? Recyclage nurturing ? Disqualification définitive ? Critères de re-qualification ?
 
-### Étape 1 — Lecture (à faire avant lundi 28/4)
-- [ ] Lire le Miro intégralement
-- [ ] Compléter les sections d'analyse ci-dessus
-- [ ] Identifier les 3-4 process où je vais creuser pour le call Alec
+### Trou 2 — 3 sorties "SDR Follow up" indifférenciées
 
-### Étape 2 — Préparation (lundi 28/4)
-- [ ] Mettre à jour [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] avec les insights du Miro
-- [ ] Mettre à jour [[Draft - Charte de délégation Fabrice]] section 3b avec un renvoi explicite vers le Miro
-- [ ] Préparer 2-3 questions à poser à Fabrice en réponse au Miro (clarification, priorisation, lacunes)
+Que le lead ne book pas, ne show up pas, ou ne signe pas, c'est le même process SDR Follow up. La nature du blocage est pourtant très différente selon où ça décroche.
 
-### Étape 3 — Activation (mardi 28/4 ou mercredi 29/4)
-- [ ] Demander à Fabrice **la matrice KPI associée** au Miro (l'autre artefact promis au call)
-- [ ] Demander aussi **l'export de l'organigramme cible** (3e artefact promis)
-- [ ] Si possible, programmer un **2e call court (30 min)** avec Fabrice mardi/mercredi pour valider ma lecture du Miro avant le 1er mai
+→ **Pattern à challenger en S2-S3** : la stratégie de relance devrait probablement varier selon le point de décrochage (qualifié-pas-booké vs booké-pas-show vs show-pas-signé).
 
-### Étape 4 — Activation au 1er mai
-- [ ] Référencer le Miro de Fabrice dans le call Alec comme "input de cartographie déjà prêt"
-- [ ] **Ne PAS partager le lien Miro à Alec** sans accord préalable de Fabrice (respect de l'autorité de Fabrice sur son artefact)
-- [ ] Proposer en séance trio : "Voici ce que Fabrice et moi avons consolidé sur les nœuds — quelle priorité tu mets dessus ?"
+### Trou 3 — Branche impayés sans retour delivery clair
 
-## ⚠️ Risques à anticiper
+Un client en recouvrement réintégré (Clients réengagés OUI) repart vers la facturation 30j, pas vers le delivery normal. Que se passe-t-il sur le coaching pendant le recouvrement ? Suspendu ? Maintenu ?
 
-1. **Risque de rendre le Miro obsolète en y ajoutant ma lecture** — c'est l'artefact de Fabrice. Si je le réécris en parallèle dans mon vault, je crée un doublon. Solution : annoter dans mon vault uniquement, pas dans le Miro lui-même.
+→ **Question 2 à Fabrice** : pendant le recouvrement, le coaching est-il suspendu, maintenu, ou conditionné au paiement ?
 
-2. **Risque que le Miro révèle des écarts entre ce que Fabrice m'a dit verbalement et ce qu'il a écrit avant** — par ex, si la priorisation P1/P2/P3 sur le Miro diffère de ce qu'il a énuméré au call. Dans ce cas, **ne pas le confronter directement** — soulever la divergence avec douceur en 2e call.
+### Trou 4 — "Arrêt Accordé ?" sans embranchement complet
 
-3. **Risque que le Miro soit incomplet ou daté** — il a peut-être été créé pour un autre usage que celui-ci. À vérifier en 2e call : "Tu l'as construit pour quel objectif initialement ?"
+Si l'arrêt est accordé, que se passe-t-il ? Remboursement partiel ? Avoir ? Rien ?
+
+→ **Question 3 à Fabrice** : process post-arrêt accordé (financier, légal, comm) ?
+
+### Trou 5 — Réattribution coach sans critère
+
+La boucle de réattribution est visible mais pas de critère de déclenchement formalisé.
+
+→ **Question 4 à Fabrice** : quels sont les critères pour déclencher une réattribution coach ? À l'initiative du client, du coach, du CSM ? À partir de quel signal ?
+
+## 📌 Croisement avec les 7 nœuds verbaux du call 24/4
+
+| Nœud (call 24/4) | Présent dans Miro ? | Note |
+|---|---|---|
+| Onboarding RH process | ❌ Absent | Process interne (recrutement closer) — pas dans ce Miro |
+| Outils éclatés (less is more) | ❌ Absent | Outils internes (Monday/Notion/Drive/WhatsApp/Slack) — pas dans ce Miro |
+| Process closing/commissions | ⚠️ Partiel | "Commission Closer" mentionné mais sans process détaillé |
+| Standardisation onboarding employés | ❌ Absent | Onboarding salariés — pas dans ce Miro (confusion possible avec onboarding clients qui y est) |
+| Migration Odoo | ❌ Absent | Odoo apparaît comme outil mais pas la migration en cours |
+| Vision internationale | ❌ Absent | Pas de dimension géographique dans le Miro |
+| Stabilisation top 10 process | ⚠️ Partiel | Le Miro EST une formalisation d'1 process (le funnel client). Les 9 autres restent à formaliser. |
+
+**Conclusion** : ce Miro couvre **1 des 7 nœuds verbalisés** (process top 10, partiellement). Les 6 autres restent **non-formalisés**. C'est précisément là que mon mandat opérationnel a le plus de valeur.
+
+## 💡 Ce que ce Miro me permet de faire concrètement
+
+### Pour le call Alec du 1er mai
+
+1. **Présenter ce Miro comme acquis sur le client journey** — base de discussion solide pour parler delivery/fidélisation/facturation avec Alec
+2. **Pointer les 5 trous identifiés** comme questions ouvertes du process actuel — qu'Alec et Fabrice vont apprécier que j'aie spotté
+3. **Délimiter mon territoire Q1** : process internes non-formalisés + adoption + animation transverse
+
+### Pour la V1 charte Fabrice
+
+- **Section 3a (ce que Fabrice garde)** : ajouter explicitement "ownership de la cartographie client end-to-end (Miro existant)"
+- **Section 3b (ce que Boris prend)** : préciser "process internes non-formalisés (RH, outils, finance interne)" — le territoire est désormais nettement séparé
+
+### Pour le 2e call Fabrice (mardi/mercredi)
+
+5 questions concrètes à poser :
+1. **Code couleur** : que signifie le vert dans tes blocs ?
+2. **"???" après Lead Qualifié NON** : que devient un lead non qualifié ?
+3. **Recouvrement et coaching** : suspension ou maintien pendant le recouvrement ?
+4. **"Arrêt Accordé ?"** : process post-arrêt (financier, légal, comm) ?
+5. **Réattribution coach** : critères de déclenchement ?
+
+Et 1 question stratégique :
+> *"Sur les 7 process que tu m'as mentionnés au call (RH, outils éclatés, etc.) — ils sont sur un autre Miro, ou c'est qu'ils ne sont pas formalisés ?"*
 
 ## 🔗 Notes liées
 
 - [[Fabrice Jaeger]] (auteur du Miro)
-- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (utilisera cette cartographie)
-- [[Draft - Charte de délégation Fabrice]] (KR1.1 et 1.2 dépendent de cette analyse)
-- [[Draft OKR Q1 Boris]] (KR2.1 raccourci à J+10 grâce à cet input)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO29 — éléments concrets à débloquer)
+- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (utilisera cette analyse)
+- [[Draft - Charte de délégation Fabrice]] (sections 3a et 3b à préciser)
+- [[Draft OKR Q1 Boris]] (KR2.1 et KR1.1)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO29 enrichi par les 5 trous identifiés)
 - [[Kit d'arrivée consolidé 2026-05-01]]
