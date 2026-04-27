@@ -22,7 +22,29 @@ tags: [sales, head-of-sales, ex-team-manager, passation-axel, stakeholder-priori
 - **Manager direct** : Alec (call hebdo en place) — **pas Fabrice**
 - **Pôle commercial = "réacteur de la boîte"** selon Axel — sain et autonome post-passation
 - **Warning critique** : Aziz ne doit JAMAIS être mis sous Fabrice — *"ça tient un mois et il part"* (Axel)
+- **🔄 MAJ 2026-04-27 (post Core Meeting)** : HO5 (risque départ) **dégradée en risque modéré**. Aziz performant (1.16M€ signés sur avril, objectif 1.5M€ cette semaine), demandeur d'aide tooling (bug Woop, contrats Mike). Pas de signal de départ.
 - **Mon rôle** : complément, pas hiérarchie. Reconnaître son rôle pivot. L'aider sur ce qui le bouffe **en dehors du closing pur** (red flag #1 d'Alec)
+
+---
+
+## 🔄 MAJ 2026-04-27 (post Core Meeting) — Aziz performant et demandeur
+
+Aziz au Core du 27/4 :
+- **1 167 000 € signés** sur avril, **objectif 1.5M€** cette semaine
+- 84 ventes au total + 65 ventes 5D + 4 incubateurs Core la semaine dernière
+- **2 demandes d'aide posées publiquement** à Fabrice :
+  1. Bug Woop — paiements incomplets sur les liens ("des clients qui apparaissent en paiement incomplet dès le démarrage")
+  2. Problème Mike qui ne peut pas signer les contrats (*"Si tu peux me résoudre le problème de Mike pour qu'il puisse signer"*)
+- **Coordination Sabrina annoncée** : Sabrina a dit *"Aziz, il faut qu'on se voie sur Marrakech pour discuter de l'alignement entre le discours commercial et le delivery, parce qu'on a un changement en termes de typologie de client"*
+
+### Implications pour le 1-to-1 S1
+
+- **HO5 dégradée en risque modéré** — pas de signal de départ, profil sain et engagé
+- **3 sujets concrets identifiés en amont** que je peux reprendre :
+  1. **Bug Woop / Mike** : suivi avec Fabrice, je peux être l'interface qui débloque sans qu'Aziz ait à relancer
+  2. **Coordination Sabrina sur typologie client** : sujet transverse parfait pour mon mandat (deal→delivery)
+  3. **Sales calls analyse Plateforme** : Quentin a annoncé que la Plateforme analyse maintenant les sales calls automatiquement pour optimiser l'attribution coach — sujet de coordination avec Aziz
+- **Pression cash 1.5M€ cette semaine** : ne PAS rajouter de friction opérationnelle pendant la semaine du 28/4. Mon 1-to-1 doit attendre la semaine du 5 mai.
 
 ## 🚨 WARNING CRITIQUE — Aziz ne doit JAMAIS être managé par Fabrice
 

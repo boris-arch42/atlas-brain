@@ -22,7 +22,40 @@ tags: [delivery, csm, fidelisation, head-of-customer, ex-team-manager, passation
 - **Périmètre énorme** : delivery + CSM + coachs (post-Mélissa) + fidélisation + immersions
 - **Manager** : Alec ou Fabrice ? À clarifier au call (Axel disait *"chapeautée en direct soit par Fabrice soit par Alec"*)
 - **Profil** : *"super exécutante, super potentiel, elle se donne"* (Fabrice 24/4)
+- **🟢 MAJ 2026-04-27 (post Core Meeting)** : **alliée structuration confirmée**. Pousse spontanément 4 chantiers : sortie WhatsApp, drive "qui fait quoi", standardisation immersions M-3, Tessi entrant.
 - **Mon rôle** : reconnaître l'ampleur, identifier 1-2 zones où je peux la soulager, observer si le périmètre est tenable
+
+---
+
+## 🔄 MAJ 2026-04-27 (post Core Meeting) — Alliée structuration confirmée
+
+Sabrina au Core du 27/4 a porté le **plus long slot de la réunion** (~10 min) avec une vision structurée et autonome.
+
+### 4 chantiers qu'elle pousse activement (sans relais extérieur)
+
+1. **Sortie de WhatsApp pour les Boards** → Circle/plateforme (canal premium en cours)
+2. **Drive partagé "qui fait quoi dans la boîte"** distribué cette semaine à toutes les équipes
+3. **Standardisation immersions à M-3** — verbatim : *"Je vais vous envoyer à tous les attentes qu'on a, parce qu'il faut vraiment qu'on s'y prenne 3 mois à l'avance pour les immersions."*
+4. **Tessi entrant** — nouvelle personne pour alléger Zoé/Lëren/Annelise sur le CSM. Sabrina finalise les détails avec Fabrice Abansoa.
+
+### 3 décisions stratégiques annoncées
+
+1. **Asynchrone des coachs stoppé** — verbatim : *"Les coachs travaillent à la place du client pour avoir des résultats sur des profils néophytes. Ça, j'ai demandé aux coachs de stopper complètement dans la limite où ça dépasse 20 minutes."* → décision structurelle qui va affecter la satisfaction à court terme mais réveler le vrai niveau client. Courage managérial.
+2. **Annelise reprise comme prestataire externe** sous l'entreprise de Sabrina pour Trustpilot/Success Client (zone *"laissée de côté"*). Test 1-2 mois.
+3. **Passation Claire en Head of Coach** : Clara Deleuze à confirmer cette semaine, sinon Claire nommera un team leader directement.
+
+### Demandes d'aide posées publiquement (pour Boris en S1)
+
+- **Coordination avec Aziz** : *"On doit se voir de toute façon sur Marrakech pour discuter de l'alignement entre marketing/sales et delivery sur le discours commercial."*
+- **Réflexion partenaires avec Alec + Aziz** cet après-midi (27/4)
+- **Sortie de Airtable / structuration data delivery** — Fabrice indique que la base client BigQuery va l'accompagner
+
+### Implications pour le 1-to-1 S1
+
+- **Posture revue** : moins *"je viens comprendre"*, plus *"je viens te confirmer comme alliée structuration et te demander où je peux t'aider concrètement sur tes 4 chantiers"*
+- **Sujets concrets à reprendre** : probablement standardisation immersions M-3 OU onboarding RH coachs, en complément de ses propres chantiers
+- **Charge de travail manifestement élevée mais maîtrisée** : pas de signal de surcharge bloquante. Profil tenable.
+- **Sujet sensible** : la zone immersions implique Nicole (compagne d'Alec) et Fabrice. Sabrina gère la logistique mais dépend des deadlines de ces deux personnes (*"il faut qu'on se base sur les deadlines de qu'est-ce que Nicole a besoin et qu'est-ce que Fabrice a besoin"*). À capter en S1, ne pas creuser au call.
 
 ## Rôle actuel
 

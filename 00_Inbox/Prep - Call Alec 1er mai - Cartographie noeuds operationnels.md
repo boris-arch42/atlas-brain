@@ -19,6 +19,42 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🔄 MAJ 2026-04-27 soir — 3 nouveaux sujets ajoutés post Core Meeting
+
+Le Core Meeting du 27/4 (replay analysé, cf. [[Ressource - Core Meeting 27 avril 2026]]) a fait émerger 3 sujets que je n'avais pas dans la prep initiale et qu'il faut amener au call Alec :
+
+### Sujet 1 — Passation recouvrement post-Alexis (URGENT)
+
+Alexis sort le 30/4. Au Core il a livré un mini-bilan recouvrement (555K€ chez Care, 965K€ en interne, transition vers Introum). **Personne n'a annoncé publiquement qui reprend.** Bug critique attrapé in extremis (facture Damien Colin à 54K€ vs 4500€ attendu).
+
+**Question à amener** : *"Sur le recouvrement et la transition vers Introum — qui reprend après Alexis ? Jordan le 18/05 ? Quelqu'un en intérim ? Si rien n'est cadré, ce sera mon sujet S1 par défaut."*
+
+### Sujet 2 — Tessi entrant
+
+Sabrina au Core : *"On va pouvoir mettre en place rapidement Tessi qui va intégrer entrepreneurs.com. Je dois finaliser les détails avec Fabrice Abansoa."*
+
+Nouvelle personne entrante non-mappée dans mon onboarding. Profil ? CDI ou prestataire ? Scope CSM ?
+
+**Question à amener** : *"Sabrina a mentionné Tessi qui rentre — c'est qui, c'est quoi le scope, est-ce que je dois faire un onboarding ?"*
+
+### Sujet 3 — Stagnation profil client (sujet stratégique de fond)
+
+3 sources publiques convergent au Core sur la dégradation du profil client :
+- **Anisse** : *"Avec les nouveaux profils qu'on a, attention. Ça marchait avant, mais je ne suis pas sûr qu'on puisse continuer à tenir le même discours."*
+- **Sabrina** : *"On a quand même un changement en termes de typologie de client."* + décision de stopper l'asynchrone des coachs
+- **Alexis sortant** : *"Il y a aussi des business qu'on sait qu'ils ont très peu de chances de réussir. C'est une vérité."*
+- **Fabrice** s'est interrogé publiquement sur la stagnation incubateur → scaling : *"Est-ce qu'une fois qu'ils sont matricés dans un programme, ils restent dedans ?"*
+
+**À amener avec précaution** (zone marketing/sales = red flag) :
+*"J'ai entendu en réunion que vous avez identifié une dégradation du profil client — plus néophyte, moins de progression incubateur→scaling. C'est un sujet que tu comptes prioriser ? Je veux pas rentrer dans le marketing, mais c'est probablement un trou stratégique qui touche tous les pôles."*
+
+### Complément sur le sujet titre (Axel→Alec vocal du 24/4 + décision Boris option C)
+
+Cf. [[Alec Henry]] section sur la pression titre. Position option C à tenir si Alec re-questionne :
+> *"Je suis ouvert au COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner."*
+
+---
+
 ## 🔄 MAJ 2026-04-24 soir — Ce que j'apporte au call (du 1-to-1 Fabrice)
 
 Le 1-to-1 Fabrice de cet après-midi (2h08) a livré **une cartographie complète des nœuds d'exécution**. Je n'arrive plus en mode découverte. J'arrive avec un **diagnostic pré-structuré** que je dois croiser avec celui d'Alec.

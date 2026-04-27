@@ -180,10 +180,11 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Action** : (1) renommer le draft à envoyer en séance, (2) préparer une réponse si Alec ou Fabrice questionne le format ("j'ai utilisé une structure objectifs/résultats clés parce que c'est mesurable, mais on l'appelle comme on veut"), (3) **explorer avec Anisse en S1** la possibilité de configurer Marcus pour parler d'"engagements" au lieu d'"OKR".
 
-- **HO32** — **Risque imminent de départ de Cédric (CMO) en Q2-Q3 2026**. Triangulation triple-source :
+- **HO32** — **Risque imminent de départ de Cédric (CMO) en Q2-Q3 2026**. Quadruple-source (depuis 27/4) :
   - **Source 1** [[Océane De Queiros]] (23/4) : Cédric s'est confié à Océane sur ses doutes
   - **Source 2** [[Axel Bombezin]] (24/4) verbatim : *"Cédric il force déjà depuis octobre [2025] et il l'a dit ouvertement. En décembre on a refait le point, rien n'avait changé. J'ai fait un point avec lui il y a peu de temps, rien n'avait changé. Et hier j'apprends ça [qu'il veut partir]. Je suis pas étonné."*
   - **Source 3** : Cédric lui-même, qui a déjà essayé d'alerter depuis 6 mois
+  - **Source 4 🔴 publique 27/4** : Cédric en séance Core Meeting : *"On a un gros enjeu de processation et d'IAisation sur mon pôle parce que comme vous l'avez remarqué, **il y a de moins en moins de personnes dans mon pôle. Chaque mois, il y a des personnes qui sont remerciées.**"* → il pleure publiquement devant tout le COMEX. **Confiance ≈ certitude.**
   
   **Pourquoi c'est critique** :
   - **Pole marketing = réacteur indirect de la boîte**. Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est, on est une vraie boîte de marketing, rien d'autre."*
@@ -192,13 +193,36 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   - **Alec est dans son pattern affectif** (HO15) sur Cédric (*"vraiment le frérot d'Alec"* selon Axel). Donc Alec va vouloir le retenir par loyauté, pas par solution structurelle. Cédric a déjà alerté sans succès.
   - **Hypothèse retour Amine Achour** mentionnée par Alec à Axel — *"à prendre avec des pincettes"*. Risque : si Amine revient en pointillé (pas full time), Cédric peut le percevoir comme "on me cherche un remplaçant" et accélérer son départ.
   
-  **Action S1 (semaine du 5 mai)** : 1-to-1 prioritaire avec Cédric (cf. [[Cédric]]). Posture délicate — ne pas le mettre sous pression, ne pas reformuler ce que j'ai entendu d'Océane ou Axel, mais l'inviter à parler.
+  **Action S1 (semaine du 5 mai) — URGENCE renforcée** : 1-to-1 prioritaire avec Cédric **en début de S1, pas en fin** (cf. [[Cédric De Saint Jean]]). Posture revue post-Core : moins *"j'écoute"* et plus *"je viens t'aider concrètement sur sous-effectif + IA en complément d'Anisse"*.
   
   **Action structurelle S2-S3** : cartographier ce qui se passerait si Cédric part demain (qui hérite, qui intérime, délai pour recruter). Préparer Alec sans nommer Cédric pour qu'il prenne conscience du risque structurel.
   
   **Test** : si Cédric ouvre spontanément au 1-to-1 S1, signal de confiance + opportunité de stabiliser. S'il reste verrouillé, le risque de départ dans les 60 jours est haut.
   
   **Horizon** : J+30 (premier signal post-1-to-1 S1) / J+60-90 (validation ou résolution).
+
+- **HO33** — **Dégradation structurelle du profil client — trou stratégique de fond non-porté**. Apparu au Core du 27/4 par triangulation publique de **4 sources convergentes** :
+  - **Anisse** : *"Avec les nouveaux profils qu'on a, attention. Ça marchait avant, mais je ne suis pas sûr qu'on puisse continuer à tenir le même discours."*
+  - **Sabrina** : *"On a quand même un changement en termes de typologie de client."* + décision unilatérale de stopper l'asynchrone des coachs (qui faisaient le boulot à la place du client)
+  - **Alexis sortant** : *"Il y a aussi des business qu'on sait qu'ils ont très peu de chances de réussir. C'est une vérité."*
+  - **Fabrice** s'est interrogé publiquement sur la stagnation incubateur → scaling : *"Est-ce qu'une fois qu'ils sont matricés dans un programme, ils restent dedans ? Le passage scaling → board, il a vraiment du sens ?"*
+  
+  **Diagnostic composé** : (1) le profil client se dégrade (plus néophyte, moins de capacité d'exécution autonome), (2) les coachs compensent en faisant le boulot à la place du client (ce qui masque le problème), (3) Sabrina vient d'arrêter cette compensation, donc la satisfaction et les résultats vont baisser à court terme, (4) la progression naturelle incubateur → scaling → board ne fonctionne pas — les clients restent matricés dans leur programme initial.
+  
+  **Conséquences systémiques** :
+  1. **Discours commercial à calibrer** (Sabrina + Aziz à Marrakech) : on ne peut plus vendre la même chose au même profil
+  2. **LTV en baisse** : si pas de progression de programme, pas de upsell naturel → le 24M€/2026 dépend uniquement d'acquisition nouvelle (sous-pression cf. KR3.4)
+  3. **Trustpilot/Use cases en risque** : moins de clients qui réussissent = moins de témoignages = boucle négative sur l'acquisition
+  4. **Probable lien avec HO19** (positionnement produit comme cause trésorerie) — c'est la même racine vue par un angle différent
+  
+  **Statut Boris** : ce sujet **est dans la zone red flag #1** (marketing/sales/produit). Je ne peux pas le piloter, mais je peux :
+  - **Le faire émerger explicitement** au call Alec 1er mai ("j'ai entendu ça en réunion, c'est un sujet que tu veux prioriser ?")
+  - **Écouter aux 1-to-1 S1** si Sabrina, Aziz, Cédric, Anisse y reviennent
+  - **L'apporter à Sophia en juin** comme un des sujets-clés de son immersion (elle est spécialiste de la montée en gamme e-commerce 3-4M€ → 20M€, c'est exactement le type de problème qu'elle sait traiter)
+  
+  **Test** : si à J+30 Alec a explicitement saisi le sujet et lancé un chantier (ou même délégué à Sophia), HO33 est en cours de résolution. Sinon, c'est un trou stratégique qui va pénaliser la crédibilité du Plan trimestriel Q1.
+  
+  **Horizon** : J+30 (signal de prise en charge) / J+90 (premiers livrables).
 
 _Statut au J+14 : à compléter_
 
@@ -208,7 +232,7 @@ _Statut au J+14 : à compléter_
 
 | Hypothèse | Test | Horizon |
 |---|---|---|
-| HO5 (départ Aziz) | Signal explicite en 1-to-1 semaine 1 | J+7 |
+| HO5 (départ Aziz) | 🔄 **MAJ 27/4** : dégradée en risque modéré (perf 1.16M€, demandeur tooling, pas de signal départ) — à confirmer 1-to-1 S1 | J+7 |
 | HO8 (goulot Alec/Fabrice) | Observation COMEX + dynamique décisionnelle semaine 1 | J+7 |
 | HO9 (leads latents) | Identification de 1-2 candidats précis d'ici | J+30 |
 | HO13 (réparation Alec-Fabrice) | Mesure qualitative à | J+90 |
@@ -230,7 +254,8 @@ _Statut au J+14 : à compléter_
 | HO30 (sabotage Tang induit) | Réinstallation rituels S1 2025 + observation comportementale | J+90 |
 | HO31 (trou management top) | Rituels hebdo + matrice KPI + cadence revue mensuelle installés | J+60 (rituels) / J+90 (efficacité) |
 | HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
-| HO32 (départ Cédric Q2-Q3) | 1-to-1 priorité 1 S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
+| HO32 (départ Cédric Q2-Q3) | 🔴 **MAJ 27/4** : 4e source publique (verbatim au Core) — quasi-certitude. 1-to-1 priorité 1 début S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
+| HO33 (stagnation profil client) | 4 sources publiques au Core 27/4. Faire émerger à Alec au call 1er mai + apporter à Sophia juin | J+30 / J+90 |
 
 ## Revue prévue
 

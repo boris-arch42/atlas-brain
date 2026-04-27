@@ -35,6 +35,13 @@ tags: [cmo, marketing, risque-depart-imminent, rupture-latente, stakeholder-prio
 
 **Source 3** : Cédric lui-même, qui a essayé d'alerter sans succès depuis 6 mois.
 
+**Source 4** : 🔴 **Cédric en public au Core Meeting du 27/4** — verbatim :
+> *"On a un gros enjeu de processation et d'IAisation sur mon pôle parce que comme vous l'avez remarqué, **il y a de moins en moins de personnes dans mon pôle. Chaque mois, il y a des personnes qui sont remerciées.**"*
+
+Il a aussi taquiné Anisse sur Marcus (*"Laurent, c'est un gros morceau à gérer"* — humour de découragement). Il a abandonné spontanément le format webinaire suisse sectoriel après l'avoir poussé pendant des mois (*"toujours très compliqué"*). Il pleure publiquement devant tout le COMEX.
+
+**Convergence quadruple-source** : 4 signaux indépendants concordants. **Confiance ≈ certitude.**
+
 ## 🌡️ Pourquoi c'est critique pour la boîte
 
 Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est, on est une vraie boîte de marketing, rien d'autre."*
@@ -60,6 +67,15 @@ Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est
 ---
 
 # 📅 Trame 1-to-1 S1 — semaine du 5 mai
+
+> 🚨 **MAJ 2026-04-27 (post Core Meeting) — URGENCE RENFORCÉE**
+>
+> Le 1-to-1 Cédric **doit être en début de S1, pas en fin**. Le verbatim public du 27/4 (*"de moins en moins de personnes dans mon pôle, chaque mois il y a des personnes qui sont remerciées"*) est un **appel à l'aide explicite**.
+>
+> **Posture revue** : moins *"je viens écouter"* et plus *"je viens t'aider concrètement sur ce que tu ne peux pas faire seul"*. Anisse a déployé un dashboard analyse appels closing pour Cédric et Raphaël — **Boris peut s'y greffer comme co-portage** (cf. KR3.4).
+>
+> **Nouveau pivot à amener au call** :
+> *"J'ai entendu au Core que tu as un sujet de sous-effectif et de processisation IA. Je peux t'aider concrètement sur ces deux points sans rentrer dans ton métier marketing — RH/structuration d'un côté, et complément IA avec Anisse de l'autre. On en parle ?"*
 
 - **Durée prévue** : 60 min (allongée pour laisser respirer — il faut du temps pour qu'il se livre s'il en a envie)
 - **Format** : visio (Google Meet ou Teams selon habitude équipe)
