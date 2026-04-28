@@ -247,6 +247,27 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+30 (signal de prise en charge) / J+90 (premiers livrables).
 
+- **HO35** — **La tech sales (Yoan/Wassim) est rattachée au marketing (sous Cédric), ce qui crée une zone grise structurelle**. Révélé par Aziz au 1-to-1 du 28/4.
+  
+  Verbatim Aziz :
+  > *"Yoan, en fait, il gère la partie data avec Nicolas et Wassim, c'est leur chef qui est à mi-temps ici, qui est sous la responsabilité de Cédric."*
+  
+  **Diagnostic** : 
+  - Aziz (Head of Sales) dépend de Yoan/Wassim pour ses automatisations CRM, son pipeline data, et ses blocages techniques quotidiens
+  - Mais Yoan/Wassim sont rattachés hiérarchiquement à Cédric (CMO), pas à Aziz
+  - **Résultat** : les priorités tech sales sont arbitrées par Cédric, qui a ses propres priorités marketing
+  - Aziz se plaint d'un blocage tech (automatisation pipeline) à cause d'un *"non"* de Yoan, mais sans pouvoir escalader directement
+  
+  **Implication politique** :
+  - Cette zone grise est un **bug d'organigramme structurel** qui crée des frictions silencieuses entre sales et marketing
+  - **À ne PAS toucher en S1** : Cédric est en HO32 (risque départ Q2-Q3). Toucher au rattachement de Yoan/Wassim maintenant = Alec lit cela comme "Boris remet en cause le scope Cédric" = catastrophe
+  - **À observer en S1-S2** : comprendre la réalité du fonctionnement avant de proposer un changement
+  - **À évoquer en S3-S4 si HO32 se résout (Cédric reste)** ou en S4+ si HO32 se confirme (Cédric part) avec une réorganisation propre
+  
+  **Test** : si en S2 le rituel hebdo data Boris+Fabrice+Anisse+Aziz+Cédric (sujet du replay Alec/Fabrice 27/4) se met en place, on aura une coordination horizontale qui contournera la zone grise sans la toucher.
+  
+  **Horizon** : J+30 (observation) / J+90 (proposition si pertinent).
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -255,7 +276,7 @@ _Statut au J+14 : à compléter_
 
 | Hypothèse | Test | Horizon |
 |---|---|---|
-| HO5 (départ Aziz) | 🔄 **MAJ 27/4** : dégradée en risque modéré (perf 1.16M€, demandeur tooling, pas de signal départ) — à confirmer 1-to-1 S1 | J+7 |
+| HO5 (départ Aziz) | 🟢 **MAJ 28/4** : **DÉSAMORCÉE** post 1-to-1 Boris×Aziz — alliance forte, rituel acquis, projet 2026 confirmé, pas de signal départ. Risque résiduel uniquement. | J+90 (revérifier au prochain rituel) |
 | HO8 (goulot Alec/Fabrice) | Observation COMEX + dynamique décisionnelle semaine 1 | J+7 |
 | HO9 (leads latents) | Identification de 1-2 candidats précis d'ici | J+30 |
 | HO13 (réparation Alec-Fabrice) | Mesure qualitative à | J+90 |
@@ -273,13 +294,14 @@ _Statut au J+14 : à compléter_
 | HO26 (départ Axel → choc opérationnel) | Capter via 1-to-1 Axel S1 + observer passation juin | J+45 |
 | HO27 (Océane confrontation latente Alec) | Observer ouverture spontanée S1-S2 | J+14 |
 | HO28 (dissonance connue d'Alec mais non-actionnée) | Observer réaction Alec à un signal risque reputation | J+30 |
-| HO29 (cycle vicieux exécution) | Cartographier 3-5 décisions actes non-exécutées + observer COMEX + check middle mgmt | J+30 (1er diag) / J+90 (preuves d'impact) |
+| HO29 (cycle vicieux exécution) | 🔄 **MAJ 28/4** : confirmé par Aziz (bug Mike paiement = cas concret + 5 mois perdus sur bug commission HubSpot↔Airtable). Cartographier 3-5 décisions actes non-exécutées + observer COMEX + check middle mgmt | J+30 (1er diag) / J+90 (preuves d'impact) |
 | HO30 (sabotage Tang induit) | Réinstallation rituels S1 2025 + observation comportementale | J+90 |
 | HO31 (trou management top) | Rituels hebdo + matrice KPI + cadence revue mensuelle installés | J+60 (rituels) / J+90 (efficacité) |
 | HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
 | HO32 (départ Cédric Q2-Q3) | 🔴 **MAJ 27/4** : 4e source publique (verbatim au Core) — quasi-certitude. 1-to-1 priorité 1 début S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
 | HO33 (stagnation profil client) | 4 sources publiques au Core 27/4. Faire émerger à Alec au call 1er mai + apporter à Sophia juin | J+30 / J+90 |
 | HO34 (départ Abdel 2 semaines) | 🔴 **NOUVELLE 27/4** : source Alec privé. 1-to-1 prioritaire S1 + déblocages techniques en 10 jours pour boucle re-engagement | J+14 / J+30 |
+| HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4** : révélé par Aziz. Observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
 
 ## Revue prévue
 

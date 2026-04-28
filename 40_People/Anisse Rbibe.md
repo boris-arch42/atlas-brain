@@ -20,6 +20,49 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 - **Projet transverse connu** : plateforme `work.entrepreneurs.com`
 - **Piste de promotion** : pressenti CTO (malgré le fait qu'il n'est pas développeur)
 
+## 🆕 MAJ 2026-04-28 — Sujets concrets révélés par Aziz (1-to-1 Boris×Aziz)
+
+2 sujets à amener à Anisse en S1, identifiés lors du 1-to-1 Boris×Aziz du 28/4 :
+
+### Sujet 1 — Ré-évaluer la faisabilité de l'automatisation pipeline HubSpot
+
+Verbatim Aziz :
+> *"On voulait mettre en place une automatisation : à la fin d'un call, on détecte que ça a été fait, on bascule automatiquement d'une case à l'autre. On a eu un call avec Yoan. Il nous a dit qu'il y avait un blocage, qu'il pouvait pas faire ça. Moi je reste persuadé que c'est possible. Il faut creuser, peut-être via un système un peu shady. Cyclab se connecte aux agendas, donc il y a des API, je pense qu'on peut réfléchir à ça."*
+
+**Mandat Boris** : briefer Anisse en S1 pour qu'il ré-évalue la faisabilité technique avec un regard neuf et expert. Aziz a la conviction que c'est faisable, Yoan a dit non. Anisse peut arbitrer en tant que CTO de fait sur la team IA.
+
+**Si faisable** : Boris peut catalyser le projet en complément de la team IA d'Anisse, sans toucher à la zone grise Yoan/Wassim sous Cédric (cf. HO35).
+
+### Sujet 2 — Architecture support tech sales dédié (cas test : bug Mike paiement)
+
+Verbatim Aziz :
+> *"Hier il y avait un problème de paiement sur Mike. Donc ça fait sauter toutes les automatisations de tout le pôle. Trois commerciaux en ligne directe avec des clients, le contrat s'envoie pas, donc eux ça bloque, donc ils reviennent vers moi."*
+
+> *"Sur 10 questions qui me reviennent, t'as 8 sur la partie technique et 2 sur la partie commerciale."*
+
+> *"Toute la partie blocage technique, avoir un support — même un agent IA, un truc, quelqu'un qui peut intervenir, qui peut résoudre des blocages techniques — ce serait magnifique."*
+
+**Mandat Boris** : design avec Anisse en S2-S3 d'un agent de support tech dédié sales. Format possible :
+- Agent IA en 1ère ligne (Slack/HubSpot) qui répond aux blocages techniques courants
+- Escalade humaine vers Anisse/Wassim/Yoan en 2ème ligne
+- Pas de création de nouveau poste — mutualisation avec les capacités existantes de la team IA d'Anisse
+
+**Cas test immédiat** : prendre le bug Mike paiement comme premier cas à résoudre via cette architecture. Mesurable, concret, faible risque.
+
+### Pourquoi Anisse est l'alliié naturel sur ces 2 sujets
+
+- Il porte déjà Marcus + Pepper + l'app closing en cours — il a la team IA et la posture
+- Il sera demandeur de cas d'usage IA structurés (logique d'adoption qu'il pousse déjà)
+- Il est aligné avec la posture *"adoption > création"* (cf. principe canonique Anisse)
+- Le triangle Boris↔Aziz↔Anisse crée une coordination horizontale qui contourne la zone grise Yoan/Wassim sans la toucher (HO35)
+
+### Action S1 (semaine du 5 mai)
+
+1. Premier rituel Boris×Anisse — mentionner ces 2 sujets dans le brief initial
+2. Si Anisse OK — organiser un point Boris+Anisse+Aziz (30 min) pour valider l'approche
+3. Faisabilité automatisation pipeline en S2 (verdict tech d'Anisse)
+4. Architecture support tech sales en S2-S3 (design à 4 mains)
+
 ## 🚨 MAJ 2026-04-25 matin — ÉLIMINATION DU SUJET CTO (vocal Alec reçu)
 
 **Source** : Vocal d'Alec reçu par Boris le 25/4 au matin.

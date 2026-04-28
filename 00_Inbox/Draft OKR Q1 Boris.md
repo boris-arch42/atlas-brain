@@ -55,6 +55,42 @@ Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
 
 ---
 
+## 🆕 MAJ 2026-04-28 — Apports du 1-to-1 Boris×Aziz (3 enrichissements concrets)
+
+Le 1-to-1 Boris×Aziz du 28/4 a révélé 3 sujets opérationnels qui s'intègrent dans le Plan trimestriel Q1. Cf. [[Aziz Sfaihi]] section "POST-CALL 2026-04-28".
+
+### KR1.2 enrichi (4e item)
+
+> KR1.2 — 5 sujets retirés + déployés + adoption mesurée via logs avant J+45. **Inclut** :
+> - nommer un owner par point vert du Miro client (~10 points) — _post réponses Fabrice 27/4_
+> - centraliser les lettres de résiliation client dans la base client — _post réponses Fabrice 27/4_
+> - automatiser le nurturing leads non qualifiés (avec Cédric + Anisse) — _post réponses Fabrice 27/4_
+> - **🆕 Architecture support tech sales dédié (agent IA + escalade)** — _post 1-to-1 Aziz 28/4_. Cas test : bug Mike paiement. Triangle Boris↔Aziz↔Anisse.
+
+### KR2.4 candidat — Automatisation pipeline HubSpot
+
+**Contexte** : Aziz a un blocage technique sur l'automatisation pipeline (détection fin de call → bascule auto R1/R2/disqualifié). Yoan a dit non, Aziz reste convaincu que c'est faisable via API.
+
+**Proposition KR (à valider en séance trio 1er mai)** :
+
+> **KR2.4** — Automatisation pipeline HubSpot déployée (détection fin de call → bascule de stade automatique sans action humaine). Verdict de faisabilité d'Anisse avant J+30. Si faisable : déploiement avant J+60.
+
+_Mesurable : taux de RDV requalifiés automatiquement vs manuellement à J+60._
+
+**Note politique** : ce KR contourne la zone grise Yoan/Wassim sous Cédric (HO35) en passant par Anisse comme arbitre tech. Pas de remise en cause de scope Cédric.
+
+### KR3 candidat — Rituel hebdo data structuré (Boris+Fabrice+Anisse+Aziz+Cédric)
+
+**Contexte** : sujet évoqué par Alec dans le replay 27/4 (*"Conviez Alec, Thomas, Fabrice, Aziz, Cédric, Océane. Call structuré d'une heure."*).
+
+**Proposition KR** :
+
+> **KR3.5** — Rituel hebdo data structuré installé d'ici J+30 avec 5 participants minimum (Boris, Fabrice, Anisse, Aziz, Cédric). Format 1h/semaine. Objectif : coordination horizontale tech-data-marketing-sales sans toucher aux organigrammes.
+
+_Mesurable : nombre de sessions tenues sur 4 semaines + qualité des décisions arbitrées (mesure qualitative)._
+
+**Note politique** : ce rituel est la réponse opérationnelle à HO35 (zone grise Yoan/Wassim sous Cédric). Coordination horizontale = on contourne la zone grise sans la toucher.
+
 ## 🆕 MAJ 2026-04-27 fin de journée — Réponses Fabrice sur le Miro étoffent KR1.2
 
 Fabrice a répondu aux 5 questions Slack sur son Miro. Cf. [[Ressource - Miro Fabrice cartographie process]] section "Réponses Fabrice".

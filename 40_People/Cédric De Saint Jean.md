@@ -42,6 +42,26 @@ Il a aussi taquiné Anisse sur Marcus (*"Laurent, c'est un gros morceau à gére
 
 **Convergence quadruple-source** : 4 signaux indépendants concordants. **Confiance ≈ certitude.**
 
+## 🆕 MAJ 2026-04-28 — Zone grise Yoan/Wassim révélée par Aziz (HO35)
+
+Au 1-to-1 Boris×Aziz du 28/4, Aziz a révélé spontanément :
+> *"Yoan, en fait, il gère la partie data avec Nicolas et Wassim, c'est leur chef qui est à mi-temps ici, qui est sous la responsabilité de Cédric."*
+
+**Implication politique pour le 1-to-1 Cédric S1** :
+- La tech sales (Yoan/Wassim) est rattachée hiérarchiquement à Cédric (pas à Aziz)
+- Aziz se plaint d'un blocage tech (automatisation pipeline) à cause d'un *"non"* de Yoan, sans pouvoir escalader directement
+- **À NE PAS TOUCHER en S1** : remettre en cause le rattachement de Yoan/Wassim maintenant serait lu par Alec et Cédric comme "Boris remet en cause le scope Cédric" = catastrophe en plein contexte HO32
+- **Posture S1** : ne PAS mentionner cette information au 1-to-1 Cédric. Observer comment Cédric parle de Yoan/Wassim spontanément.
+- **Posture S2-S3** : si rituel hebdo data Boris+Fabrice+Anisse+Aziz+Cédric (sujet du replay Alec/Fabrice 27/4) se met en place, on contournera la zone grise par coordination horizontale sans la toucher
+- **Posture S4+** : si HO32 se résout (Cédric reste), proposer une réorganisation propre. Si HO32 se confirme (Cédric part), profiter de la transition pour nettoyer le rattachement.
+
+## 🆕 Sujet à creuser (sans le citer) au 1-to-1 S1
+
+La friction tech sales (problème Aziz/Yoan) peut être un **angle d'entrée indirect** :
+> *"J'ai entendu qu'il y a parfois des arbitrages tech compliqués entre les besoins du sales et ceux du marketing — c'est un sujet qui te bouffe ?"*
+
+Si Cédric ouvre, j'ai un levier concret pour proposer mon aide. Sinon, je laisse passer et j'attends S2-S3 pour amener le sujet par un rituel data structuré.
+
 ## 🌡️ Pourquoi c'est critique pour la boîte
 
 Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est, on est une vraie boîte de marketing, rien d'autre."*
