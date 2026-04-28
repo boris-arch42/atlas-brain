@@ -44,6 +44,18 @@ Sabrina au Core du 27/4 a porté le **plus long slot de la réunion** (~10 min) 
 2. **Annelise reprise comme prestataire externe** sous l'entreprise de Sabrina pour Trustpilot/Success Client (zone *"laissée de côté"*). Test 1-2 mois.
 3. **Passation Claire en Head of Coach** : Clara Deleuze à confirmer cette semaine, sinon Claire nommera un team leader directement.
 
+### 🆕 Sujet à creuser au 1-to-1 S1 — Réattribution coach (post-réponses Fabrice 27/4)
+
+Fabrice m'a confirmé par Slack le 27/4 : *"Réattribution de coach => on ne demande plus de critères particuliers. Un client qui veut changer, on change sans conditions pour le 1er coach."*
+
+**Question à amener au 1-to-1 Sabrina** :
+> *"Sur la réattribution de coach — Fabrice m'a confirmé que vous changez sans conditions pour le 1er coach. Côté coachs, comment c'est vécu ? Vous avez un suivi des réattributions répétées (un client qui change 3x = signal sur le client, pas sur les coachs) ?"*
+
+**Pourquoi c'est important** :
+- Règle récemment assouplie — risque côté coachs qui peuvent se sentir lâchés
+- Un client qui change 3x = signal sur le **client**, pas sur les coachs (typologie clients dans HO33)
+- Lien direct avec la décision "asynchrone stoppé" : si un client mauvais exécuteur change de coach 3x, c'est lui le problème, pas le coach
+
 ### Demandes d'aide posées publiquement (pour Boris en S1)
 
 - **Coordination avec Aziz** : *"On doit se voir de toute façon sur Marrakech pour discuter de l'alignement entre marketing/sales et delivery sur le discours commercial."*

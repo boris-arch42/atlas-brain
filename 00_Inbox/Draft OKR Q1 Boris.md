@@ -55,6 +55,20 @@ Deux 1-to-1 ce 24/4 enrichissent massivement plusieurs Key Results :
 
 ---
 
+## 🆕 MAJ 2026-04-27 fin de journée — Réponses Fabrice sur le Miro étoffent KR1.2
+
+Fabrice a répondu aux 5 questions Slack sur son Miro. Cf. [[Ressource - Miro Fabrice cartographie process]] section "Réponses Fabrice".
+
+**Apport pour KR1.2** :
+
+- **Le code couleur vert sur le Miro = points de contrôle managériaux** où Fabrice attend un responsable nommé. Cela donne une **liste préexistante de ~10 points** où il manque un owner. À reprendre comme livrable concret KR1.2.
+- **Lettre de résiliation** : process existe (signature manuelle) mais **localisation des fichiers signés inconnue**. À centraliser dans la base client BigQuery dans KR1.2.
+- **Lead non qualifié = aucun process** — *"Aujourd'hui on ne fait rien"* (verbatim Fabrice). Sujet à sortir avec Cédric + Anisse en S2-S3 (zone red flag #1, je catalyse pas pilote).
+
+**Synthèse KR1.2 enrichi** :
+
+> KR1.2 — 5 sujets retirés + déployés + adoption mesurée via logs avant J+45. **Inclut** : nommer un owner par point vert du Miro client (~10 points) + centraliser les lettres de résiliation client dans la base client + automatiser le nurturing leads non qualifiés (avec Cédric + Anisse).
+
 ## 🔴 MAJ 2026-04-27 SOIR (post replay Alec↔Fabrice) — KR2.5 chiffré + KR3.4 enrichi
 
 Le replay Alec↔Fabrice du 27/4 a converti le mandat général "audit dépenses" en mandat **chiffré et planifié** sur les SaaS. Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]].

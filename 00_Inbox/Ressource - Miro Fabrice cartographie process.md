@@ -84,6 +84,55 @@ Blocs verts identifiés :
 
 **Observation clé** : aucun outil interne d'organisation (Monday, Notion, Drive, WhatsApp, Slack) — ce Miro est **purement client-facing**. Cohérent avec l'observation que les process internes sont une zone vierge.
 
+## ✅ Réponses Fabrice 27/4 (post-Slack Boris)
+
+Fabrice a répondu rapidement aux 5 questions techniques posées en Slack le 27/4 matin. Réponses ci-dessous, intégrées avant la section "Trous" pour clarifier la lecture du Miro.
+
+### Q1 — Code couleur vert
+
+> Fabrice : *"Vert correspond à un KPI à suivre, i.e. un point de contrôle où je dois avoir un responsable."*
+
+→ **Lecture** : le vert n'est ni "automatisé Plateforme" ni "critique cash" comme je l'avais hypothétisé. C'est plus structurant : ce sont les **points de contrôle managériaux** où Fabrice attend un responsable nommé. C'est un **outil de management**, pas un outil technique. Implication directe pour mon mandat de structuration : **chacun de ces points verts doit avoir un owner clairement désigné** dans la cartographie cible. C'est un livrable concret KR1.2.
+
+### Q2 — Lead Qualifié = NON → ???
+
+> Fabrice : *"Justement à voir avec Marketing… est-ce qu'on nurturing, est-ce qu'on met à la poubelle… QUID… aujourd'hui on ne fait rien."*
+
+→ **Confirmation explicite** : c'est un **trou de process actuellement non traité**. *"Aujourd'hui on ne fait rien"* = leakage de leads non qualifiés, perte directe sur le ROAS marketing. Le sujet sort directement chez Cédric (CMO), donc **zone red flag #1 pour Boris** — je ne peux pas piloter, mais je peux le faire émerger en S2-S3 avec Cédric et Anisse pour automatiser un nurturing minimal via la team IA.
+
+### Q3 — Recouvrement et coaching
+
+> Fabrice : *"Impayé = accès coupé à la plateforme au bout de 30 jours, donc plus de coaching."*
+
+→ **Lecture** : règle nette et automatisée. Pas d'ambiguïté entre "on continue le coaching pendant le recouvrement" et "on coupe". **C'est coupé à J+30 jours d'impayé**. Cohérent avec le "Plateforme Accès coupé / 0 coaching" en vert sur le Miro. Sujet clos pour moi.
+
+### Q4 — Arrêt accordé
+
+> Fabrice : *"Si arrêt accordé, on fait signer une lettre de résiliation de contrat (je ne sais pas où elles sont sauvegardées, je vais demander)."*
+
+→ **Sujet partiellement clos** : process existe (lettre de résiliation), mais **localisation des fichiers signés inconnue**. Symptomatique de HO29 : le process est dans la tête de Fabrice mais pas dans un système consultable. **À ajouter dans KR1.2** : centraliser les lettres de résiliation signées dans un endroit unique (probablement dans la base client BigQuery, lié au profil client).
+
+### Q5 — Réattribution coach
+
+> Fabrice : *"Réattribution de coach => on ne demande plus de critères particuliers. Un client qui veut changer, on change sans conditions pour le 1er coach."*
+
+→ **Lecture** : règle radicalement assouplie récemment. Pas de friction client mais **risque côté coachs** — ils peuvent se sentir lâchés si un client change sans qu'on les consulte. **À creuser au 1-to-1 Sabrina** : comment cette règle est vécue côté coachs ? Y a-t-il un suivi des réattributions répétées (ex : un client qui change 3x = signal sur le client, pas sur les coachs) ?
+
+## 🧠 Synthèse stratégique des réponses Fabrice
+
+| Question | Statut | Implication Boris |
+|---|---|---|
+| Q1 Vert = points contrôle managériaux | ✅ Clarifié | Chaque point vert = 1 owner à nommer (KR1.2) |
+| Q2 Lead non qualifié = rien | 🔴 Trou ouvert | Sortir avec Cédric+Anisse en S2-S3 |
+| Q3 Recouvrement = coupure J+30 | ✅ Clos | RAS |
+| Q4 Arrêt accordé = lettre résiliation | 🟠 Process partiel | Centraliser fichiers (KR1.2) |
+| Q5 Réattribution = sans condition | 🟠 Risque coachs | Creuser 1-to-1 Sabrina |
+
+**3 sujets à reprendre concrètement** dans mon backlog post-1er mai :
+1. **KR1.2** : nommer un owner par point vert + centraliser lettres de résiliation
+2. **Sortir le sujet "lead non qualifié"** avec Cédric + Anisse en S2-S3 (zone marketing, je n'y rentre pas, je catalyse)
+3. **Creuser réattribution coach** au 1-to-1 Sabrina S1
+
 ## 🚨 Trous visibles dans le process (alertes à creuser)
 
 ### Trou 1 — "???" après Lead Qualifié NON
