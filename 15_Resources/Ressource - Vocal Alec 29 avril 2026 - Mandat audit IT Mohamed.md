@@ -1,138 +1,200 @@
 ---
 type: ressource-vocal
-source: vocal Slack/WhatsApp Alec → Boris
+source: WhatsApp / vocal Alec → Boris (transcription manuelle Boris, partielle)
 date-meeting: 2026-04-29
 date-analyzed: 2026-04-29
-duration: ~2 min (vocal)
+duration: ~2 min (estimation)
 status: analysé
-participants: "Alec Henry (émetteur), Boris Arduy (destinataire)"
-shared-by: "Alec direct (vocal asynchrone)"
+participants: "Alec Henry (émetteur), Boris Arduy (récepteur)"
+shared-by: "Boris (vocal personnel reçu)"
 sensitivity: confidential-max
-tags: [vocal, alec, mandat-direct, audit-IT, mohamed, cybersec, mai, J-2, codename-haiti]
+tags: [vocal, alec, mandat-direct, mohamed, audit-IT, cybersec, jargon-alec, codename-haiti, J-2]
 ---
 
 # 📨 Vocal Alec → Boris — 29 avril 2026 (~2 min)
 
-> **Contexte** : Vocal d'Alec à Boris à J-2 de la prise de poste, formalisant directement le mandat audit IT + passation Mohamed sur tout le mois de mai. **Premier contact direct Alec → Boris sur ce sujet** (pas via Fabrice, pas via le call 1er mai).
+> **Contexte** : Alec envoie un vocal direct à Boris (J-2 prise de poste) pour cadrer le mandat audit IT et la passation Mohamed. **Premier mandat direct Alec → Boris** (sans passer par Fabrice). Confirmation que la collaboration avec Mohamed s'arrête au 31 mai 2026.
 >
-> **Lecture politique** : Alec **acte le mandat en amont du 1er mai**. Donc le call de mardi n'a plus à valider — il a juste à confirmer/caler le calendrier. Alec consolide aussi sa **promotion implicite de Boris** comme owner cybersec/IT centralisé post-Mohamed.
+> **Lecture politique** : ce vocal est l'acte 1 de la relation managériale directe Alec/Boris. Pas de filtre Fabrice. Le mandat est déjà acté — au call du 1er mai, Boris doit accuser réception et caler le calendrier précis, pas re-discuter le mandat lui-même.
 
 ## ⚡ Synthèse en 30 secondes
 
-- 🎯 **Mandat acté** : audit IT (codename Alec = "Haïti") sur tout le mois de mai, Boris pilote en supervisant Mohamed
-- 📅 **Calendrier précis** : du 1er au 31 mai. Fin de collaboration Mohamed = 31 mai. Pas S2-S4 comme estimé précédemment, c'est **tout le mois**
-- 🔧 **Périmètre élargi** : SaaS (négociation/résiliation/mutualisation/internalisation) + cybersec pure (accès admin, MFA, comptes individuels) + rapatriement docs externes vers interne
-- 💰 **Économie chiffrée** : ~2 000€/mois post-Mohamed (cohérent avec 24K€/an du replay 27/4)
-- 🎖️ **Promotion implicite Boris** : *"tu centralises sous ton scope"* + *"j'ai 100% confiance en toi"* + *"t'es un banger"*
-- ⚠️ **Position Alec sur Mohamed plus dure que Fabrice** : *"c'est un pirate"*, *"il est pas là dans l'intérêt de l'entreprise"*, *"j'ai pas 100% confiance"*. Divergence latente Alec/Fabrice à ne PAS relayer
+- 🎯 **Mandat consolidé** : audit IT (cybersec + SaaS + rapatriement docs externes + structuration accès) **avec Mohamed pendant tout le mois de mai**
+- 📅 **Calendrier précis** : co-supervision Boris+Mohamed du 1er au 31 mai, fin de collaboration au 31 mai
+- 💸 **Économie actée** : 2000€/mois (24K€/an) post-départ Mohamed
+- 👤 **Owner permanent** : Boris centralise IT/cybersec sous son scope **post-mai** (mandat structurel, pas one-shot)
+- 🟠 **Position Alec sur Mohamed plus dure que Fabrice** : *"c'est un pirate"*, *"il est pas là dans l'intérêt de l'entreprise"*, *"j'ai pas 100% confiance en lui"*. Réserve nette mais nuancée.
+- 🟢 **Position Alec sur Boris** : *"j'ai 100% confiance en toi"* + *"t'es un banger"*. Promotion implicite.
+- 🔑 **Convention vault** : *Haïti* = codename Alec pour **IT**. Glossaire jargon Alec à constituer.
 
-## 📝 Contenu reconstitué du vocal
+## 📜 Reconstitution complète du vocal
 
-> *"Quand tu feras l'audit de sécurité Haïti [= IT] avec Mohamed, l'idée c'est que sur tout le mois de mai — je sais pas si t'as été informé mais je préfère te le dire — le but c'est que tu fasses l'audit de sécurité Haïti avec Mohamed sur tous les fichiers qui sont en externe, tous les abonnements qu'on paye dans le vide qu'on pourrait négocier ou qu'on devrait annuler, ou qu'on pourrait mutualiser, ou qu'on pourrait remplacer par une solution interne. Également revoir les accès admin, les docs, les machins à rapatrier en interne, s'assurer que Mohamed n'ait pas gardé des accès dérobés sur certains trucs ou autre, s'assurer que même nos outils soient carrés, mettre en place des MFA sur quasiment tous les outils critiques, s'assurer que des anciens collaborateurs n'y aient plus forcément accès, faire en sorte que les gens ne se partagent pas des accès et des comptes/Subs — à chaque fois attribuer individuellement. Le but c'est qu'on puisse le superviser, que toi tu puisses le superviser avec Mohamed Haïti durant tout le mois de mai, et qu'ensuite on arrête la collaboration. Comme ça boom on économise 2 000 balles par mois et que toi tu centralises sous ton scope. T'as les compétences, t'es un banger ? Et j'ai 100% confiance en toi, alors que Mohamed bah je sais pas si les compétences je pense que oui — c'est un pirate — mais il est pas là dans l'intérêt de l'entreprise, il a son intérêt, et j'ai pas 100% confiance en lui. C'est pas que j'ai pas confiance en lui, mais j'ai pas 100% confiance en lui. Donc je sais pas si j'avais demandé à Fabrice de te le partager, au cas où."*
+> Quand tu feras l'audit de sécurité **Haïti** [= IT] **avec Mohamed**, l'idée c'est que sur tout le mois de mai — je sais pas si t'as été informé mais je pense que non donc je préfère te le dire — le but c'est que tu **fasses l'**audit de sécurité IT sur tous les fichiers qui sont en externe, tous les abonnements qu'on paye dans le vide qu'on pourrait négocier, ou qu'on paye dans le vide qu'on devrait annuler, ou qu'on pourrait mutualiser, ou qu'on pourrait remplacer par une **solution interne**. Également **revoir** les **accès admin**, les docs, les machins **à rapatrier en interne**, s'assurer que Mohamed **n'ait pas** des accès dérobés sur certains trucs ou autre, **s'assurer** que même nos **outils** soient carrés, mettre en place des **MFA** sur quasiment tous les outils **critiques**, s'assurer que des anciens collaborateurs n'**y aient** plus forcément accès, faire en sorte que les gens ne se partagent pas des accès et des **comptes / Subs** [abonnements] — à chaque fois attribuer **individuellement**.
+>
+> Et le but c'est qu'on puisse le superviser, que toi tu puisses le superviser avec Mohamed Haïti durant tout le mois de **mai**, et qu'ensuite on arrête la collaboration. Comme ça boom on économise 2000 balles par mois et que toi tu centralises sous **ton scope**.
+>
+> **T'as** les compétences, t'es un **banger** ? Et j'ai 100% confiance en toi. Alors que Mohamed bah je sais pas si les compétences je pense que oui — c'est un pirate — mais il est pas là dans l'intérêt de l'entreprise, il **a** son intérêt, et j'ai pas 100% confiance en lui. **C'est pas** que j'ai pas confiance en lui, mais j'ai pas 100% confiance en lui.
+>
+> Donc je sais **pas** si **j'avais demandé à** Fabrice **de** te **l**'avait partagé, au cas où.
 
-## 🧩 Décodage du jargon Alec
+## 🔑 Décodage du jargon Alec
 
-- **"Haïti"** = **IT** (codename Alec — convention interne. À ajouter au glossaire jargon Alec dans sa fiche People)
-- **"Mohamed Haïti"** = Mohamed dans sa fonction d'IT externe (pas d'info géographique sur Mohamed)
-- **"Subs"** = abonnements / subscriptions (ex : Adobe, HubSpot, Zendesk, etc.)
-- **"Pirate"** dans la bouche d'Alec à propos de Mohamed = compétent techniquement (positif sur les skills) mais **non aligné sur l'intérêt de l'entreprise** (négatif sur l'alignement). Pas une accusation de hacking au sens littéral.
+### *Haïti* = IT
 
-## 🎯 6 éléments structurants
+C'est un **codename** dans le vocabulaire Alec. *"Audit Haïti"* = audit IT. *"Mohamed Haïti"* = Mohamed-IT (sa fonction). Pas de référence géographique réelle.
+
+→ **À ajouter au glossaire jargon Alec** dans la fiche [[Alec Henry]]. Probable que d'autres codenames émergent dans ses prochaines comms — à capter au fur et à mesure.
+
+### *Subs* = abonnements (subscriptions)
+
+Anglicisme courant chez Alec. Cohérent avec mandat audit SaaS (replay 27/4).
+
+### *"C'est un pirate"*
+
+Pas une accusation criminelle. **Compétence reconnue** ("je pense que oui les compétences"). Le mot capture une dualité : très technique + non-aligné sur l'intérêt de l'entreprise. À lire comme *"talent qui joue pour son compte"*, pas *"acteur malveillant"*.
+
+### *"T'es un banger"*
+
+Validation positive forte. Cohérent avec le ton Alec quand il valide quelqu'un (cf. *"Boris c'est un banger"* déjà observé dans replay Alec/Fabrice 27/4).
+
+## 🎯 Les 6 éléments structurants
 
 ### 1. Calendrier précis : tout le mois de mai
 
-Boris travaille **AVEC** Mohamed du 1er au 31 mai en supervision active, pas en audit post-départ. Fin de collaboration = 31 mai. Implication : **plan d'audit à étaler sur 4 semaines de co-travail**, pas en burst final.
+- **1er → 31 mai** : co-supervision Boris + Mohamed sur l'audit IT
+- **31 mai** : fin de collaboration Mohamed (date hard, pas approximative)
+- **Post-31 mai** : Boris centralise IT/cybersec sous son scope (owner permanent)
 
-→ **Reformulation du calendrier** dans `40_People/Mohamed.md` :
-- S1 (1-5 mai) : prise de contact + cartographie initiale
-- S2 (5-12 mai) : audit accès / inventaire SaaS / docs externes
-- S3 (12-19 mai) : Marrakech (pause sur le terrain — supervision à distance)
-- S4 (19-26 mai) : exécution rapatriements + rotation credentials
-- S5 (26-31 mai) : finalisation + bascule complète sous scope Boris
+→ **Recalibrage majeur** vs ce qu'on avait : pas une passation post-départ, c'est une **supervision pendant tout le mois**. Boris **co-pilote l'audit avec Mohamed**, pas seulement audit ce que Mohamed laisse.
 
-### 2. Périmètre élargi (consolidation IT + audit SaaS)
+### 2. Périmètre élargi (consolidation 3 chantiers)
 
-Le mandat consolide en un seul chantier piloté par Boris ce qui était auparavant **deux mandats séparés** :
-- **Audit SaaS** (replay Alec/Fabrice 27/4 — cible 70-100K€/an)
-- **Passation cybersec Mohamed** (call Boris/Fabrice 28/4)
+Le mandat consolide en un seul chantier piloté par Boris ce qui était jusqu'ici dispersé :
 
-Le périmètre couvre maintenant :
-1. **SaaS** : négociation / résiliation / mutualisation / remplacement par solution interne
-2. **Fichiers externes** : rapatriement docs vers infra interne (cohérent avec NAS 1K€ déjà acté)
-3. **Accès admin** : audit + révocation des comptes Mohamed après son départ
-4. **MFA** : déploiement sur tous les outils critiques
-5. **Anciens collaborateurs** : audit des accès résiduels (Tang, Mélissa, Olivia, Nolwenn, Alexis sortant, Axel sortant juin, etc.)
-6. **Comptes individuels** : fin du partage d'accès / d'abonnements, attribution individuelle systématique
-
-### 3. Position Alec sur Mohamed (divergence latente avec Fabrice)
-
-| Aspect | Fabrice (28/4) | Alec (29/4) |
+| Chantier d'origine | Source | Consolidé dans le vocal |
 |---|---|---|
-| Compétence technique | Implicitement OK | *"C'est un pirate"* (= très compétent) |
-| Loyauté | *"Ça c'est vos trucs, j'interviens pas"* (Mohamed à Fabrice pendant Tang) — rassurant | *"Pas là dans l'intérêt de l'entreprise, il a son intérêt"* — réservé |
-| Confiance | Implicitement OK | *"Pas 100% confiance"* (formulé 2x) |
-| Recommandation | Audit standard suffisant | Audit serré, surveillance "accès dérobés" |
+| Audit SaaS (cible 70-100K€/an) | Replay Alec/Fabrice 27/4 | ✅ "abonnements à négocier / annuler / mutualiser / remplacer par solution interne" |
+| Cybersec passation Mohamed | Call Boris/Fabrice 28/4 | ✅ "MFA / accès admin / pas d'accès dérobés" |
+| Rapatriement docs externes en interne | NEW (vocal 29/4) | ✅ "docs, fichiers externes, à rapatrier en interne" |
 
-→ **Posture Boris** : exécuter l'audit au **niveau de paranoïa Alec** (plus serré que ce que Fabrice estimerait nécessaire) **sans relayer la lecture Alec à Fabrice ni à Mohamed**. Ne PAS amener cette divergence au call 1er mai.
+→ **Implication** : c'est désormais **un seul chantier consolidé** "Audit IT mai 2026". Plus 3 mandats parallèles. Boris doit le structurer comme un seul livrable de fin de mois.
 
-→ **Lecture stratégique** : Alec a probablement reçu un signal récent (peut-être l'épisode NAS/Shade où Alec a balancé "vous êtes des couillons" à Mohamed, ou une autre interaction). Sa réserve n'est pas tang-historique, c'est récent. À ne pas creuser frontalement.
+### 3. Position Alec sur Mohamed (plus dure que Fabrice)
 
-### 4. Promotion implicite Boris
+Verbatim Alec :
+- *"c'est un pirate"*
+- *"il est pas là dans l'intérêt de l'entreprise, il a son intérêt"*
+- *"j'ai pas 100% confiance en lui"*
 
-Alec acte plusieurs choses simultanément :
-- **Validation compétence** : *"T'as les compétences, t'es un banger"*
-- **Confiance maximale** : *"J'ai 100% confiance en toi"*
-- **Centralisation IT sous Boris** : *"Tu centralises sous ton scope"*
+Verbatim Fabrice (call 28/4) — rapporté de Mohamed :
+- *"Mon job c'est la sécurité, la confidentialité, c'est mon métier."*
+- Position Fabrice : rassurante, pas de risque politique majeur
 
-→ **Implication structurelle** : l'IT/cybersec devient une **zone permanente de Boris**, pas juste un mandat ponctuel de transition. Cohérent avec posture Co-COO + rôle "general manager de fait" (cf. HO31). À acter dans la charte V2 Boris/Fabrice (zone IT/cybersec = Boris owner explicite).
+→ **Divergence latente Alec/Fabrice sur la lecture Mohamed**. Pas un conflit, mais 2 calibrages différents. Fabrice = pragmatique (Mohamed est pro). Alec = méfiant (Mohamed joue pour lui-même).
 
-### 5. Premier mandat direct Alec → Boris
+⚠️ **Posture Boris** :
+- **NE PAS relayer la lecture Alec à Fabrice** (créerait une friction inutile)
+- **NE PAS relayer la lecture Alec à Mohamed** (briserait la dynamique du mois de co-supervision)
+- **Faire un audit qui satisfait le niveau de paranoïa Alec** (rotation credentials, vérification MFA, traque accès dérobés) sans le formuler comme tel
+- **Garder cette divergence en interne** dans le vault, pour calibrer la rigueur de l'audit, pas pour la communiquer
 
-C'est le **premier contact direct** d'Alec à Boris sur un mandat opérationnel pré-prise de poste (en dehors du cadrage du 23/4 et de la règle du revirement du 23/4 soir). Alec court-circuite légèrement Fabrice (*"je sais pas si j'avais demandé à Fabrice de te le partager"*) — ce qui :
-- Confirme que l'urgence est réelle (Alec ne veut pas attendre le call 1er mai)
-- Peut créer une fragilité avec Fabrice si le mandat n'est pas re-cadré au call trio (Boris doit vérifier que Fabrice est aligné)
+### 4. Promotion implicite : Boris owner permanent IT/cybersec
 
-→ **Action Boris** : confirmer avec Fabrice que le mandat lui a été partagé. Si non, Boris peut lui en parler de manière neutre ("Alec m'a envoyé un vocal, je voulais valider que tu es aligné sur le calendrier") avant le call 1er mai.
+Verbatim : *"toi tu centralises sous ton scope"* + *"j'ai 100% confiance en toi"* + *"t'es un banger"*.
 
-### 6. Économie 2 000€/mois (24K€/an)
+→ **C'est un mandat structurel**, pas un mandat one-shot. Post-31 mai, Boris est owner permanent du périmètre IT/cybersec d'Entrepreneurs.com. À ajouter dans la charte V2 Boris/Fabrice section 3 (mandat) et au call du 1er mai comme acté.
 
-Cohérent à l'euro près avec ce qu'Alec avait annoncé à Fabrice au replay 27/4. Confirme que l'économie n'est pas négociable — Mohamed sort au 31 mai. **Pas de scénario "et si on le gardait à temps partiel"**.
+### 5. Premier mandat direct Alec → Boris (sans Fabrice)
 
-## 🎯 Implications stratégiques consolidées
+Verbatim final : *"je sais pas si j'avais demandé à Fabrice de te le partager"*.
 
-### Ce qui change vs ce qu'on savait
+→ Acte 1 de la relation managériale directe. **Le call du 1er mai n'a plus à valider le mandat — il est déjà acté.** Boris doit juste :
+- Accuser réception (déjà fait par Boris)
+- Caler le calendrier précis avec Alec au call 1er mai
+- Confirmer la posture (Boris pilote, Mohamed exécute pendant le mois sous supervision Boris)
 
-| Élément | Avant ce vocal | Après ce vocal |
-|---|---|---|
-| **Calendrier passation** | S2-S4 avant fin mai | **Tout le mois de mai en supervision active** |
-| **Périmètre** | Cybersec pure (accès, MFA, backups) | **+ Audit SaaS + rapatriement docs externes + comptes individuels** |
-| **Position Alec sur Mohamed** | Inconnue / supposée alignée Fabrice | **Réserve nette : "pas 100% confiance"** |
-| **Owner cybersec/IT post-mai** | Implicite | **Boris explicite — *"tu centralises sous ton scope"*** |
-| **Mandat formalisé via** | Fabrice au call 28/4 | **Direct Alec au vocal 29/4** |
-| **Économie chiffrée** | 24K€/an estimé | **2 000€/mois confirmés (24K€/an)** |
+### 6. Économie chiffrée confirmée
 
-### Ce qui change dans le call Alec 1er mai
+2000€/mois × 12 = **24K€/an**, cohérent avec ce qu'Alec avait déjà mentionné à Fabrice au replay 27/4. Confirme le levier audit SaaS dans son ensemble (cible 70-100K€/an dont Mohamed = 24K€).
 
-Le sujet F1 (passation cybersec Mohamed) du Prep Call Alec **bascule de "à valider" à "déjà acté — accuser réception + caler calendrier précis"**. Boris peut amener au call :
+## 🎯 Implications stratégiques
 
-1. **Confirmation accusé** : *"J'ai bien reçu ton vocal sur l'audit IT avec Mohamed sur mai. Je prends. Je commence le 5 mai (S1) avec une cartographie initiale."*
-2. **Calendrier précis** : valider le découpage S1-S5 ci-dessus (en intégrant Marrakech 20-25 mai)
-3. **Budget audit cyber externe** : si nécessaire (CASES type, 5-10K€) — Alec valide ou pas ?
-4. **Modalités com** : Alec, Fabrice et Boris s'alignent sur un message à Mohamed pour cadrer la fin de collab (Alec parle direct, Fabrice annonce ?)
+### Pour le call Alec du 1er mai
 
-### Ce qui ne doit PAS être amené au call 1er mai
+**Sujet F1 (passation Mohamed) bascule** :
+- ❌ Avant : "à valider avec Alec"
+- ✅ Maintenant : "déjà acté par vocal du 29/4 — accuser réception + caler calendrier précis"
 
-- **Ne PAS relayer la divergence Alec/Fabrice sur Mohamed**. Boris exécute au niveau Alec.
-- **Ne PAS challenger le calendrier** (mois entier vs S2-S4) — c'est l'instruction.
-- **Ne PAS proposer de garder Mohamed plus longtemps** — la fin au 31 mai n'est pas négociable.
+**Question à poser au call** (calage opérationnel, pas validation de fond) :
+> *"J'ai bien reçu ton vocal sur l'audit IT avec Mohamed. Je le prends. 3 questions opérationnelles pour caler :*
+> *1. Communication à Mohamed : tu lui as déjà dit qu'on arrête au 31 mai, ou je le découvre avec lui le 1er mai ?*
+> *2. Tu veux un point d'avancement hebdo (Slack récap chaque vendredi) ou un milestone à mi-mois ?*
+> *3. Si je détecte un risque cyber sérieux pendant l'audit, je te remonte direct ou je passe par Fabrice ?"*
+
+→ Pas de re-discussion du mandat. Pas de mention de la position Mohamed. Calage opérationnel propre.
+
+### Pour la fiche Mohamed
+
+**Recalibrage** :
+- Pas de surnom géographique "Mohamed Haïti" (Haïti = IT, pas un lieu)
+- Calendrier mai entier (pas S2-S4)
+- Mandat élargi (SaaS + cybersec + rapatriement docs)
+- Position Alec ≠ Fabrice à documenter (en interne, pour calibrer audit)
+- Promotion implicite Boris owner permanent post-mai
+
+### Pour la fiche Alec Henry
+
+**Nouvelle section** :
+- "Lecture Alec sur Mohamed" avec verbatim "pirate" + "pas 100% confiance"
+- **Glossaire jargon Alec** (à enrichir au fur et à mesure) : *Haïti* = IT
+
+### Pour la charte Boris/Fabrice V2
+
+**Ajout structurel section 3** : ownership permanent IT/cybersec post-mai pour Boris (acté par Alec en direct le 29/4).
+
+## 📋 Plan d'audit IT mai 2026 (premier draft)
+
+À structurer plus finement post-call 1er mai et après contact Mohamed.
+
+### Semaine 1 (1er-5 mai) — Cadrage + cartographie
+
+- 1er mai : kick-off avec Mohamed (présentation + cadrage attentes Alec)
+- 2-5 mai : cartographie complète des fichiers externes / abonnements / accès admin
+- Livrable : liste exhaustive des outils, propriétaires, coûts, statuts MFA
+
+### Semaine 2 (6-12 mai) — Audit accès + MFA
+
+- Inventaire accès admin par outil critique
+- Activation MFA sur tous les outils manquants
+- Identification anciens collaborateurs avec accès résiduels
+- Livrable : matrice accès + plan de rotation
+
+### Semaine 3 (13-19 mai) — Rapatriement docs + négociations SaaS
+
+- Identification docs externes à rapatrier en interne
+- Premières négociations SaaS (HubSpot, Zendesk, Aircall — top tickets)
+- Livrable : plan rapatriement + pipeline négociations
+
+### Semaine 3bis (20-25 mai) — Marrakech (Boris absent partiel)
+
+- Supervision à distance avec Mohamed
+- Pas de gros chantier prévu, just maintien du momentum
+
+### Semaine 4 (26-31 mai) — Exécution rapatriements + clôture
+
+- Rapatriement effectif docs externes
+- Rotation credentials critiques
+- Suppression accès Mohamed sur tout le périmètre
+- Désactivation comptes / accès anciens collaborateurs
+- Livrable final : rapport audit IT + montant économisé négocié + état cybersec post-Mohamed
 
 ## 🔗 Notes liées
 
-- [[Mohamed]] (mise à jour cascade : calendrier mai entier, mandat élargi, position Alec)
-- [[Alec Henry]] (mise à jour cascade : "Lecture Alec sur Mohamed" + glossaire jargon)
-- [[Fabrice Jaeger]] (vérifier l'alignement avant call 1er mai — pas de divergence à acter)
-- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (sujet F1 bascule à "acté")
-- [[Ressource - Replay Alec Fabrice 27 avril 2026]] (mandat audit SaaS initial — cohérence avec ce vocal)
-- [[Ressource - Replay Boris Fabrice 28 avril 2026]] (mandat passation cybersec initial via Fabrice)
-- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] (V2 doit acter zone IT/cybersec = Boris owner permanent)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 — épisode NAS/Shade pourrait être à l'origine de la réserve récente d'Alec sur Mohamed)
+- [[Mohamed]] (recalibrage majeur post-vocal)
+- [[Alec Henry]] (section lecture Mohamed + glossaire jargon)
+- [[Fabrice Jaeger]] (à NE PAS relayer la divergence sur Mohamed)
+- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (sujet F1 bascule "à valider" → "à confirmer + caler")
+- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] (V2 doit ajouter ownership permanent IT/cybersec)
+- [[Ressource - Replay Alec Fabrice 27 avril 2026]] (mandat audit SaaS originel)
+- [[Ressource - Replay Boris Fabrice 28 avril 2026]] (mandat passation cybersec originel)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO15 — cas NAS/Shade comme illustration de la dynamique Alec/Mohamed)

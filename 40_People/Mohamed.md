@@ -3,183 +3,177 @@ type: person
 full-name: "Mohamed [nom de famille à compléter]"
 role: "IT externe / Sécurité & infrastructure — Entrepreneurs.com"
 team: "Externe / prestataire"
-manager: "[[Alec Henry]] (en direct historiquement) / [[Fabrice Jaeger]] (interlocuteur opérationnel)"
+manager: "[[Alec Henry]] (en direct historiquement) / [[Fabrice Jaeger]] (interlocuteur opérationnel) / [[Boris Arduy]] (co-superviseur audit mai 2026)"
 reports: 
 started: "antérieur à 2024 (à confirmer)"
-status: "departure-planned"
-departure-target: "31 mai 2026 (acté par vocal Alec du 29/4)"
+status: "departure-acted"
+departure-date: "2026-05-31 (acté par vocal Alec 29/4)"
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-codename-alec: "Mohamed Haïti (jargon Alec : Haïti = IT)"
-tags: [it, cybersec, infrastructure, presta-externe, departure-31-mai, lien-tang-historique, mandat-direct-alec, codename-haiti]
+tags: [it, cybersec, infrastructure, presta-externe, departure-acted, fin-mai-2026, lien-tang-historique, codename-haiti]
 ---
 
 # Mohamed
 
-> 🔴 **Stub passation IT/cybersec critique** — IT externe en sortie planifiée au **31 mai 2026** (mandat direct Alec à Boris au vocal du 29/4 + acté au replay Alec/Fabrice du 27/4). Boris pilote l'audit IT consolidé (SaaS + cybersec + rapatriement docs) sur **tout le mois de mai** en supervisant Mohamed.
+> 🔴 **IT externe en sortie actée au 31 mai 2026** — décision Alec confirmée par vocal direct à Boris le 29/4. **Tout le mois de mai** = co-supervision Boris + Mohamed sur l'audit IT consolidé (cybersec + SaaS + rapatriement docs). Boris devient owner permanent du périmètre IT/cybersec post-31 mai.
+>
+> 🔑 **Codename Alec** : dans le jargon Alec, *"Haïti"* = IT. Donc *"audit Haïti"* = audit IT, *"Mohamed Haïti"* = Mohamed-IT (sa fonction). Pas une référence géographique. Cf. [[Alec Henry]] glossaire jargon.
 
 ## ⚡ Synthèse en 30 secondes
 
 - **Profil** : IT externe / sécurité & infrastructure d'Entrepreneurs.com depuis avant 2024
-- **Statut au 29/4** : départ acté au **31 mai 2026** (mandat direct Alec via vocal du 29/4)
-- **Codename Alec** : *"Mohamed Haïti"* — où **"Haïti" = IT** dans le jargon Alec (pas une info géographique, c'est un codename interne)
-- **Mandat Boris** : audit IT consolidé sur **tout le mois de mai** en supervision active de Mohamed (pas en passation post-départ)
-- **Économie** : 2 000€/mois confirmés post-Mohamed (24K€/an)
-- **Position Alec** : *"pirate"* (compétent technique) mais *"pas 100% confiance"*, *"pas dans l'intérêt de l'entreprise"*. Plus dur que Fabrice. **Divergence latente Alec/Fabrice à NE PAS relayer**.
-- **Promotion implicite Boris** : *"tu centralises sous ton scope"* + *"100% confiance"* + *"banger"*. L'IT/cybersec devient une **zone permanente Boris** post-mai.
+- **Statut au 29/4** : **départ acté au 31 mai 2026** (vocal Alec direct à Boris)
+- **Mandat Boris** : co-supervision audit IT **avec** Mohamed pendant tout le mois de mai (pas une passation post-départ — une supervision pendant)
+- **Périmètre élargi** : audit cybersec + audit SaaS + rapatriement docs externes + structuration accès (consolidé en un seul chantier)
+- **Économie actée** : 2000€/mois post-31 mai (24K€/an)
+- **Owner permanent post-mai** : Boris centralise IT/cybersec sous son scope (mandat structurel Alec)
+- **Sensibilité** : Boris a un historique pro **personnel** avec Mohamed (projet IA pour Tang, hors entrepreneurs.com)
+- **Divergence Alec/Fabrice latente** : Alec plus dur (*"pirate"*, *"pas 100% confiance"*) que Fabrice (rassurant, pragmatique). À ne pas relayer.
 
-## 🎖️ Mandat direct Alec — vocal du 29/4
+## 🔴 Mandat Boris consolidé — Audit IT mai 2026
 
-> Cf. [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] pour le contenu complet du vocal et l'analyse politique.
+### Sources du mandat (3 layers convergents)
 
-### Verbatim Alec (29/4) — extraits clés
-
-> *"Sur tout le mois de mai, le but c'est que tu fasses l'audit de sécurité Haïti avec Mohamed."*
-
-> *"Tu centralises sous ton scope. T'as les compétences, t'es un banger. J'ai 100% confiance en toi."*
-
-> *"Mohamed, c'est un pirate, mais il est pas là dans l'intérêt de l'entreprise, il a son intérêt. J'ai pas 100% confiance en lui."*
-
-### Périmètre élargi consolidé
-
-Le mandat consolide en un seul chantier deux mandats antérieurs (audit SaaS du 27/4 + passation cybersec du 28/4) :
-
-1. **SaaS** : abonnements à négocier / annuler / mutualiser / remplacer par solution interne
-2. **Fichiers externes** : rapatriement vers infra interne (cohérent NAS 1K€ déjà acté)
-3. **Accès admin** : audit + révocation comptes Mohamed
-4. **MFA** : déploiement sur tous les outils critiques
-5. **Anciens collaborateurs** : audit accès résiduels (Tang, Mélissa, Olivia, Nolwenn, Alexis sortant, Axel sortant juin)
-6. **Comptes individuels** : fin du partage d'accès, attribution individuelle systématique
-
-## 📅 Calendrier de l'audit IT — tout le mois de mai
-
-> ⚠️ **Recalibrage important** : l'audit n'est pas une passation post-départ comme initialement estimé (S2-S4). C'est un **co-travail sur 4 semaines** avec Mohamed, suivi du départ au 31/5.
-
-| Phase | Dates | Objectif |
+| Date | Source | Apport |
 |---|---|---|
-| **S1** | 1-5 mai | Prise de contact directe avec Mohamed + cartographie initiale infra/SaaS/accès |
-| **S2** | 5-12 mai | Audit accès admin + inventaire SaaS complet + identification docs externes à rapatrier |
-| **S3** | 12-19 mai | Marrakech 20-25 (préparation) — audit en parallèle, supervision à distance possible |
-| **S3bis** | 20-25 mai | Marrakech (pause sur le terrain — Mohamed continue en autonomie supervisée) |
-| **S4** | 26-31 mai | Exécution rapatriements + rotation credentials + bascule complète sous scope Boris |
-| **Post-31/5** | Juin | Boris owner permanent IT/cybersec (cf. promotion implicite Alec) |
+| 27/4 | [[Ressource - Replay Alec Fabrice 27 avril 2026]] | Mandat audit SaaS — cible 70-100K€/an d'économies, Mohamed = 24K€/an inclus |
+| 28/4 | [[Ressource - Replay Boris Fabrice 28 avril 2026]] | Mandat passation cybersec à Boris avant départ Mohamed (verbatim Fabrice : *"il faut que tu récupères qu'on soit clean cyber secure"*) |
+| 29/4 | [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] | **Consolidation des 3 chantiers en un seul** + calendrier précis tout le mois de mai + promotion implicite Boris owner permanent |
 
-## 🔧 Plan d'audit cybersec à conduire
+### Périmètre consolidé (vocal Alec 29/4)
 
-| Domaine | À auditer | Risque si non-fait |
+| Domaine | À auditer / faire |
+|---|---|
+| **Fichiers externes** | Inventaire complet + identification de ceux à rapatrier en interne |
+| **Abonnements SaaS** | Inventaire + classification : négocier / annuler / mutualiser / remplacer par solution interne |
+| **Accès admin** | Inventaire + révocation des accès résiduels (Mohamed + anciens collaborateurs) |
+| **MFA / 2FA** | Activation systématique sur tous les outils critiques |
+| **Comptes partagés** | Identification + attribution individuelle (fin du partage de credentials) |
+| **Documents** | Rapatriement docs externes en interne |
+| **Backups + DR** | Vérification stratégie backups + qui a credentials de restauration |
+| **Certificats SSL/TLS / DNS** | Renouvellement + qui contrôle les clés privées et DNS records |
+| **Scripts cron / API keys** | Inventaire + audit accès |
+| **Anciens collaborateurs** | Suppression accès résiduels (cohérent avec rotation cartes Wayo Fabrice il y a 5 mois) |
+
+### Calendrier précis (5 phases sur le mois de mai)
+
+| Phase | Dates | Focus |
 |---|---|---|
-| **Accès admin** | Comptes admin Google Workspace, AWS/cloud, Stripe, Cloudflare, etc. — révocation accès résiduels Mohamed | Backdoor possible, accès résiduels |
-| **MFA / 2FA** | Comptes critiques avec MFA configuré — sur device de qui ? | Lockout / accès non-autorisé post-départ |
-| **Certificats SSL/TLS** | Renouvellement, qui a la clé privée | Perte certificat = sites HS |
-| **DNS** | Qui contrôle les enregistrements DNS (Cloudflare ? OVH ?) | Perte contrôle domaines |
-| **Backups** | Stratégie backups (NAS Dubai, Google Drive, Blackbaize) — credentials de restauration | Pas de DR possible si fail |
-| **Scripts cron / automatisations** | Hébergés où, accès à qui | Bombes potentielles |
-| **Comptes services / API keys** | Inventory des secrets stockés où, sur quel compte | Fuite credentials post-départ |
-| **Documentation** | Doc cyber actuelle ? À demander/exiger pendant le co-travail | Aucune transmission de savoir |
-| **Anciens accès collaborateurs** | Audit Tang / Mélissa / Olivia / Nolwenn / Alexis / Axel / etc. | Comptes dormants exploitables |
-| **Subs / abonnements** | Inventory + qui paye + sur quel compte | Doublons + paiements après départ |
+| **S1 — Cadrage** | 1er-5 mai | Kick-off Mohamed + cartographie complète outils/accès/coûts |
+| **S2 — Accès + MFA** | 6-12 mai | Audit accès admin + activation MFA + identification accès résiduels anciens collab. |
+| **S3 — Rapatriement + SaaS** | 13-19 mai | Rapatriement docs externes + premières négos SaaS (HubSpot, Zendesk, Aircall) |
+| **S3bis — Marrakech** | 20-25 mai | Supervision à distance, maintien du momentum (Boris partiellement absent) |
+| **S4 — Exécution + clôture** | 26-31 mai | Rotation credentials critiques + suppression accès Mohamed + livrable final |
 
-## 🟠 Position Alec vs Position Fabrice — divergence latente
+→ **Cohérent avec planning audit SaaS** posé au call 1er mai prep (S1-S4).
 
-**À NE PAS relayer ni à Mohamed ni à Fabrice. Boris exécute au niveau de paranoïa Alec.**
+### Question à arbitrer avec Alec au call 1er mai
 
-| Aspect | Fabrice (call 28/4) | Alec (vocal 29/4) |
-|---|---|---|
-| Compétence technique | Implicitement OK | *"C'est un pirate"* (= très compétent) |
-| Loyauté pendant Tang | Mohamed à Fabrice : *"Mon job c'est la sécurité, j'interviens pas dans vos trucs"* — rassurant | *"Pas là dans l'intérêt de l'entreprise, il a son intérêt"* — réservé |
-| Confiance | Implicitement OK | *"Pas 100% confiance"* (formulé 2x) |
-| Recommandation | Audit standard suffisant | Audit serré, surveiller "accès dérobés" |
+- ✅ Mandat ne se rediscute PAS — déjà acté par vocal 29/4
+- 📅 Communication à Mohamed : Alec lui a-t-il déjà dit qu'on arrête au 31 mai ? Ou Boris découvre avec lui le 1er mai ?
+- 📊 Format de point d'avancement : Slack récap hebdo (vendredi) ou milestone à mi-mois ?
+- 🚨 Escalation : si Boris détecte risque cyber sérieux, remontée directe Alec ou via Fabrice ?
 
-### Lecture stratégique
+## 🟠 Divergence Alec/Fabrice sur la lecture Mohamed
 
-La réserve d'Alec semble **récente, pas tang-historique**. Probable lien avec l'épisode NAS/Shade/Blackbaize (cf. HO15 / replay Alec/Fabrice 27/4) où Alec a balancé *"vous êtes des couillons"* à Mohamed et Océane après comparaison hâtive avec Amine. La friction a peut-être laissé une trace dans la relation Alec/Mohamed.
+⚠️ **À garder en interne strict — NE PAS relayer**.
 
-→ **Posture Boris** : 
-- Audit serré (niveau Alec)
-- Sans accusation explicite à Mohamed
-- Sans relayer la lecture Alec à Fabrice
-- Surveiller les *"accès dérobés"* mentionnés par Alec en restant pro
+### Position Alec (vocal 29/4)
+
+Verbatim :
+- *"C'est un pirate"* (= talent qui joue pour son compte, pas acteur malveillant)
+- *"Il est pas là dans l'intérêt de l'entreprise, il a son intérêt"*
+- *"J'ai pas 100% confiance en lui"*
+- *"C'est pas que j'ai pas confiance, mais j'ai pas 100% confiance"*
+
+→ Réserve nette mais nuancée. Pas une accusation. Plutôt une **demande de vigilance accrue**.
+
+### Position Fabrice (call 28/4)
+
+Verbatim Fabrice rapportant Mohamed :
+- *"Mon job c'est la sécurité, la confidentialité, c'est mon métier."*
+- *"Je vais pas me cramer auprès de... je me tire pas une balle dans le pied."*
+- *"Ça c'est vos trucs, vos problèmes, j'interviens pas là-dessus."*
+
+→ Lecture Fabrice : Mohamed est un pro qui veut partir proprement. Audit standard suffisant.
+
+### Posture Boris
+
+- **NE PAS relayer la lecture Alec à Fabrice** (créerait friction inutile)
+- **NE PAS relayer la lecture Alec à Mohamed** (briserait la dynamique du mois de co-supervision)
+- **Calibrer la rigueur de l'audit au niveau de paranoïa Alec** : rotation systématique des credentials, vérification MFA exhaustive, traque des accès dérobés et comptes parallèles
+- **Sans formuler cette rigueur comme de la défiance** : la présenter comme *"hygiène standard de sortie"*, pas *"on te suspecte"*
 
 ## 🟠 Contexte historique sensible — lien Tang
 
 ### Boris a un historique pro avec Mohamed
 
-Au moment où ça se passait encore bien avec [[Tang]], Boris a travaillé personnellement avec Mohamed **hors d'Entrepreneurs.com** sur un micro-projet IA confié par Tang. Boris connaît Mohamed à titre personnel et avait un pied dans son réseau professionnel via Tang.
+Au moment où ça se passait encore bien avec [[Tang]], Boris a travaillé personnellement avec Mohamed **hors d'Entrepreneurs.com** sur un micro-projet IA confié par Tang. Donc Boris connaît Mohamed à titre personnel et avait un pied dans son réseau professionnel via Tang.
 
-→ **Ne pas en faire un sujet politique** avec Alec sauf si Alec amène lui-même la question. C'est un détail biographique, pas un signal d'alerte.
+→ **Ne pas en faire un sujet politique** avec Alec sauf si Alec amène lui-même la question. C'est un détail biographique, pas un signal d'alerte. Mais ça donne à Boris une **lecture additionnelle** : Mohamed n'est pas un parfait inconnu, donc le mois de mai sera aussi un moment de re-calibration interpersonnelle.
 
-### Position Fabrice rassurante (call 28/4)
+### Episode NAS/Shade/Blackbaize (cas d'école HO15)
 
-Fabrice a parlé frontalement avec Mohamed au moment du conflit Tang. Réponse Mohamed à l'époque (rapportée par Fabrice) :
-> *"Mon job c'est la sécurité, la confidentialité, c'est mon métier. Je vais pas me cramer auprès de... je me tire pas une balle dans le pied."*
+Cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO15 + [[Ressource - Replay Boris Fabrice 28 avril 2026]] section "Épisode NAS/Shade/Blackbaize".
 
-Fabrice signale aussi que la dégradation récente de la dynamique Mohamed/Alec vient des projets empilés sans sens (cas NAS/Shade), pas d'un problème de loyauté Tang.
+Mohamed est un acteur central de cette saga. Alec a balancé *"vous êtes des couillons"* à Mohamed et Océane sans tenir compte de la spec (volumétrie 70 To vs 4 To Amine, lock-in technique Shade, etc.). Solution structurelle = NAS physique 1K€ à Dubaï pour archiver 2023-2025 + baisser licences Google.
 
-→ **Lecture Boris** : Mohamed est probablement un pro qui veut partir proprement, pas un acteur hostile. Mais l'audit doit être au niveau de paranoïa Alec, pas Fabrice.
+→ **À déployer pendant le mois de mai dans le cadre de l'audit**. Cohérent avec mandat "rapatrier docs externes en interne" du vocal 29/4. Le NAS est l'arme de rapatriement.
 
-## 🟢 Cohérence avec autres décisions Alec
+## 🟢 Cohérence multi-mandats convergents
 
-Au replay Alec/Fabrice du 27/4, Alec a posé son mandat audit SaaS structurel à Boris avec **fin Mohamed IT au 30 mai** comme l'un des leviers d'économie (24K€/an). Le vocal du 29/4 **consolide ce mandat avec la passation cybersec** en un seul chantier piloté par Boris sur tout le mois de mai. L'économie est confirmée à 2 000€/mois (24K€/an).
+Le mandat audit IT mai 2026 consolide 3 chantiers initialement dispersés en un seul livrable piloté par Boris :
 
-Cf. :
-- [[Ressource - Replay Alec Fabrice 27 avril 2026]] — mandat audit SaaS initial
-- [[Ressource - Replay Boris Fabrice 28 avril 2026]] — mandat passation cybersec via Fabrice
-- [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] — consolidation directe
+1. **Audit SaaS** (Alec→Fabrice 27/4 → Boris) — cible 70-100K€/an
+2. **Passation cybersec Mohamed** (Fabrice→Boris 28/4) — clean cyber secure avant départ
+3. **Rapatriement docs externes + structuration accès** (Alec→Boris 29/4) — nouveau
 
-## 🎖️ Promotion implicite Boris — owner permanent IT/cybersec
-
-Le vocal Alec acte plusieurs choses simultanément :
-- **Validation compétence** : *"T'as les compétences, t'es un banger"*
-- **Confiance maximale** : *"J'ai 100% confiance en toi"*
-- **Centralisation** : *"Tu centralises sous ton scope"*
-
-→ **L'IT/cybersec devient une zone permanente de Boris**, pas juste un mandat ponctuel. À acter dans la **charte V2 Boris/Fabrice** : zone IT/cybersec = Boris owner explicite. Cohérent avec posture Co-COO + rôle "general manager de fait" (cf. HO31).
+→ **Implication structurelle** : Boris devient **owner permanent IT/cybersec d'Entrepreneurs.com post-31 mai**. Mandat à acter dans la charte V2 Boris/Fabrice section 3.
 
 ## 🔗 Liens contextuels
 
-- **NAS / Shade / Blackbaize** : Mohamed est acteur central de cette saga (cf. [[Ressource - Replay Boris Fabrice 28 avril 2026]] section "Épisode NAS/Shade/Blackbaize"). Solution structurelle = NAS physique 1K€ à Dubaï pour archiver 2023-2025 + baisser licences Google. À déployer pendant l'audit (S2-S4).
-- **Cas d'école HO15** : la dynamique Alec → Mohamed est un cas d'école parfait du mécanisme HO15 (impulsivité + scuds sans contexte spec). Probable origine de la réserve récente d'Alec.
-- **Zendesk** : Sabrina restructure Zendesk avec Mohamed (cf. replay Sabrina 28/4). À voir si la restructuration est terminée avant son départ ou si Boris doit reprendre le sujet.
+- **NAS / Shade / Blackbaize** : Mohamed est acteur central. NAS physique 1K€ à déployer en mai. Cf. [[Ressource - Replay Boris Fabrice 28 avril 2026]].
+- **Cas d'école HO15** : la dynamique Alec → Mohamed est un cas d'école parfait du mécanisme HO15 (impulsivité + scuds sans contexte spec). À garder en tête : ne pas reproduire le pattern pendant le mois de mai.
+- **Zendesk** : Sabrina restructure Zendesk avec Mohamed (cf. replay Sabrina 28/4). À voir si la restructuration est terminée avant son départ ou si Boris doit reprendre le sujet en cours.
+- **Charte Boris/Fabrice V2** : ajouter ownership permanent IT/cybersec post-mai pour Boris (acté par Alec en direct le 29/4).
 
-## ⚠️ Signaux à observer
+## ⚠️ Signaux à observer pendant le mois de mai
 
 | Signal | Lecture | Action immédiate |
 |---|---|---|
-| Mohamed accepte la supervision et livre la doc | 🟢 Pro standard | Continuer audit normal |
+| Mohamed accepte la co-supervision et livre une cartographie complète | 🟢 Pro standard | Continuer l'audit normal |
 | Mohamed fait traîner / livre une doc partielle | 🟠 Frustration latente | Boris pilote en direct, escalade Fabrice |
-| Mohamed propose des "extensions de mission" | 🟠 Ne veut pas partir | Tenir 31 mai, polite mais ferme |
-| Détection accès résiduels post-départ | 🚨 Risque cyber | Rotation immédiate + alerte Fabrice + Alec |
-| Mohamed apparaît dans des conversations Alec après départ | 🟠 Lien informel persiste | Capter, ne pas alerter |
-| Mohamed pose des questions sur la position Alec à son égard | 🟠 Il sent qu'Alec se méfie | Réponse neutre, ne PAS relayer la position Alec |
+| Mohamed propose des "extensions de mission" post-mai | 🟠 Ne veut pas partir | Tenir la deadline 31 mai, polite mais ferme |
+| Détection accès résiduels post-rotation | 🚨 Risque cyber | Rotation immédiate + alerte Alec direct |
+| Détection comptes parallèles non documentés | 🚨 Confirmation lecture Alec | Alerte Alec direct, audit approfondi |
+| Mohamed continue à apparaître dans des conversations Alec après 31 mai | 🟠 Lien informel persiste | Capter, ne pas alerter |
+| Mohamed amène lui-même un sujet sensible (Tang, Alec, etc.) | 🟠 Test de loyauté Boris | Écouter, ne pas commenter, ne pas relayer |
 
-## 📝 À mettre à jour pendant l'audit
+## 📝 À mettre à jour pendant le mois (S1-S4)
 
 - [ ] Nom de famille
 - [ ] Date d'arrivée historique chez Entrepreneurs.com
+- [ ] Date de fin de collaboration confirmée (probablement 31 mai)
 - [ ] Inventory complet des accès admin (Google Workspace, AWS/cloud, Stripe, Cloudflare, etc.)
 - [ ] Inventory MFA / device d'authentification
 - [ ] Liste scripts cron / automatisations actifs
+- [ ] Liste docs externes à rapatrier
+- [ ] Liste abonnements SaaS à négocier / annuler / mutualiser / remplacer
 - [ ] Doc cyber transmise (oui/non/partielle)
 - [ ] Audit cyber externe nécessaire (oui/non) + budget
 - [ ] Rotation credentials critiques (date d'exécution)
-- [ ] Successeur / outil de remplacement identifié pour chaque zone
-- [ ] Inventory SaaS complet avec économies négociées
-- [ ] Inventory anciens collaborateurs avec accès résiduels révoqués
-
-## ✅ Vérifications préalables au call Alec 1er mai
-
-- [ ] **Vérifier alignement Fabrice** : *"Alec m'a envoyé un vocal sur l'audit IT avec Mohamed sur mai. Tu es au courant du calendrier ?"* — neutre, sans relayer la position Alec sur Mohamed
-- [ ] **Préparer accusé de réception** au call : *"J'ai bien reçu ton vocal. Je prends. Démarrage 5 mai (S1) avec cartographie."*
-- [ ] **Préparer 2-3 questions de cadrage** : budget audit cyber externe possible (CASES type) ? Modalités com à Mohamed (Alec parle direct ou Fabrice annonce) ?
+- [ ] Successeur / outil de remplacement identifié pour chaque domaine
+- [ ] Liste anciens collaborateurs avec accès à révoquer
 
 ## 🔗 Notes liées
 
-- [[Fabrice Jaeger]] — interlocuteur opérationnel actuel + à vérifier alignement avant call 1er mai
-- [[Alec Henry]] — décideur direct du mandat (vocal 29/4) + position personnelle réservée sur Mohamed
-- [[Tang]] (à créer si pas existant — référence historique uniquement)
-- [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] — mandat direct
-- [[Ressource - Replay Boris Fabrice 28 avril 2026]] — contexte mandat passation initial via Fabrice
-- [[Ressource - Replay Alec Fabrice 27 avril 2026]] — décision Alec audit SaaS (24K€/an)
+- [[Alec Henry]] — décideur de l'arrêt + mandat direct Boris (vocal 29/4) + glossaire jargon Alec (Haïti=IT)
+- [[Fabrice Jaeger]] — interlocuteur opérationnel historique, source mandat passation 28/4
+- [[Tang]] (à créer si pas déjà existant — référence historique uniquement)
+- [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] — mandat consolidé 29/4
+- [[Ressource - Replay Boris Fabrice 28 avril 2026]] — contexte mandat passation + cas NAS/Shade
+- [[Ressource - Replay Alec Fabrice 27 avril 2026]] — décision Alec d'arrêter Mohamed (24K€/an d'économie audit SaaS)
 - [[Sabrina Dahel]] — restructuration Zendesk en cours avec Mohamed
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] — HO15 (cas d'école NAS/Shade, probable origine de la réserve Alec)
-- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] — V2 doit acter zone IT/cybersec = Boris owner permanent
+- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] — V2 doit ajouter ownership permanent IT/cybersec
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] — HO15 (cas d'école NAS/Shade)
+- [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] — sujet F1 bascule "à valider" → "déjà acté"

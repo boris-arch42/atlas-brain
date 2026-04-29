@@ -19,6 +19,72 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🔴 MAJ 2026-04-29 (post vocal Alec) — Sujet F1 bascule "à valider" → "déjà acté" + recalibrage majeur
+
+> Cf. [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] pour le contenu complet et l'analyse politique du vocal.
+
+### Ce qui change vs MAJ 28/4 19h
+
+Le vocal direct d'Alec à Boris du 29/4 (~2 min) **acte le mandat audit IT Mohamed** sans passer par Fabrice. Conséquence : le sujet F1 (anciennement "passation cybersec à valider") **n'a plus à être validé au call** — il est déjà acté. Recalibrage en 4 points :
+
+| Avant (MAJ 28/4 19h) | Après (vocal 29/4) |
+|---|---|
+| ❓ Mandat passation cybersec à valider avec Alec | ✅ **Mandat acté** par vocal direct (premier mandat opérationnel direct Alec→Boris) |
+| 📅 Calendrier S2-S4 (passation post-départ) | 📅 **Tout le mois de mai** — co-supervision Boris + Mohamed du 1er au 31 mai |
+| 🎯 Périmètre cybersec uniquement | 🎯 **Périmètre élargi consolidé** : audit SaaS + cybersec + rapatriement docs externes + structuration accès en un seul chantier piloté Boris |
+| 👤 Mandat ponctuel transitoire | 👤 **Owner permanent IT/cybersec post-mai** — Boris centralise sous son scope (mandat structurel) |
+
+### Nouvelle posture au call : calage opérationnel, pas validation
+
+**À NE PLUS faire** :
+- ❌ Demander validation du mandat (déjà acté)
+- ❌ Proposer le calendrier S2-S4 (calendrier mai entier déjà donné par Alec)
+- ❌ Mentionner qu'on s'est demandé si Mohamed était lié à Tang (sujet réglé en interne avec Fabrice)
+
+**À faire** : 3 questions opérationnelles courtes pour caler.
+
+> *"J'ai bien reçu ton vocal sur l'audit IT avec Mohamed. Je le prends. 3 questions opérationnelles pour caler :*
+> *1. Communication à Mohamed : tu lui as déjà dit qu'on arrête au 31 mai, ou je le découvre avec lui le 1er mai ?*
+> *2. Format de point d'avancement : Slack récap chaque vendredi, ou milestone à mi-mois ?*
+> *3. Si je détecte un risque cyber sérieux pendant l'audit, je te remonte direct ou je passe par Fabrice ?"*
+
+→ Pas de re-discussion du mandat. Pas de calendrier alternatif proposé. Calage propre en 3 minutes.
+
+### ⚠️ Posture critique : NE PAS relayer la divergence Alec/Fabrice sur Mohamed
+
+Dans le vocal, Alec a livré une lecture **plus dure** que Fabrice sur Mohamed :
+- Alec : *"c'est un pirate"*, *"il est pas là dans l'intérêt de l'entreprise"*, *"j'ai pas 100% confiance en lui"*
+- Fabrice (call 28/4) : Mohamed est un pro qui veut partir proprement, audit standard suffit
+
+**Posture Boris au call 1er mai** :
+- ✅ **Calibrer la rigueur de l'audit au niveau Alec** (rotation systématique credentials, MFA exhaustive, traque accès dérobés) sans le formuler comme tel
+- ❌ **NE PAS demander à Alec de préciser sa lecture sur Mohamed** (ouvrirait une zone de friction inutile)
+- ❌ **NE PAS mentionner la lecture Fabrice** (Alec sait probablement déjà qu'elle est plus douce)
+- ❌ **NE PAS relayer la position Alec à Fabrice après le call** (créerait une friction Alec/Fabrice inutile)
+
+→ La divergence est documentée dans [[Mohamed]] et [[Alec Henry]] pour calibrer l'audit en interne, pas pour la communiquer.
+
+### Implication pour la promotion implicite Boris (à acter)
+
+Verbatim Alec : *"Tu centralises sous ton scope. T'as les compétences, t'es un banger. J'ai 100% confiance en toi."* → C'est une **promotion implicite** à owner permanent IT/cybersec post-mai.
+
+**Au call 1er mai** : ne pas le souligner explicitement (Alec n'aime pas qu'on relève ce qu'il vient de dire), mais **l'acter dans la charte V2 Boris/Fabrice** quand on la finalisera mercredi.
+
+### Cohérence avec le reste de la cartographie nœuds
+
+Le mandat audit IT mai 2026 **consolide 3 chantiers** initialement listés séparément dans la cartographie :
+- ❌ Anciennement nœud "Passation cybersec Mohamed" (MAJ 28/4 19h, F1)
+- ❌ Anciennement nœud "Audit SaaS structuré" (MAJ 27/4 SOIR, sujet 4)
+- ❌ Anciennement implicite "Rapatriement docs externes en interne"
+
+→ ✅ Désormais **un seul nœud** : **"Audit IT mai 2026 — Boris piloté + Mohamed co-supervisé"** — livrable consolidé pour fin mai.
+
+### Décodage jargon Alec à enregistrer
+
+⚠️ Important pour le call et pour la suite : *"Haïti"* dans le jargon Alec = **codename pour IT**. Donc *"audit Haïti"* = audit IT, *"Mohamed Haïti"* = Mohamed-IT. Pas une référence géographique. Glossaire jargon Alec en construction dans [[Alec Henry]] — à enrichir si d'autres codenames émergent.
+
+---
+
 ## 🟢 MAJ 2026-04-28 19h SOIR (post call Boris↔Fabrice 1h07) — 3 sujets supplémentaires à porter au call Alec
 
 > Cf. [[Ressource - Replay Boris Fabrice 28 avril 2026]] pour le replay complet (1h07, J-3 prise de poste).
@@ -27,19 +93,12 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ### Sujet supplémentaire F1 — Mandat passation cybersécurité Mohamed (IT)
 
+> ⚠️ **Recalibré 29/4** : sujet F1 bascule de "à valider" à "déjà acté par vocal direct Alec". Cf. MAJ 29/4 ci-dessus pour la nouvelle posture (calage opérationnel uniquement). Le contenu ci-dessous reste pour mémoire historique du raisonnement, mais **n'est plus la posture à tenir**.
+
 Fabrice confirme au call que la décision Alec d'arrêter Mohamed IT (fin mai/début juin, économie 24K€/an, cf. replay Alec/Fabrice 27/4) **place Boris en charge de la passation cybersec** avant le départ.
 
 **Verbatim Fabrice (mandat opérationnel direct)** :
 > *"Il faut que tu récupères, t'assurer que d'un point de vue système et tout, lui il a pu laisser, qu'on soit clean cyber secure."*
-
-**À valider au call Alec** :
-- Calendrier de passation (4-6 semaines avant fin mai)
-- Périmètre de l'audit Boris : accès admin, MFA, certificats, backups, infra, scripts cron, comptes services
-- Communication à Mohamed (Boris vs Fabrice — qui pilote l'échange)
-- Ressource externe possible si audit cyber profond nécessaire (CASES — budget 5-10K€ ?)
-
-**À dire au call** :
-> *"Sur Mohamed IT — Fabrice m'a confirmé que tu veux qu'on arrête fin mai/début juin. Je prends la passation cybersec : audit accès / certificats / backups / scripts. Je propose de commencer en S2 pour avoir 4 semaines de glissement avant son départ. Tu veux qu'on lui parle ensemble ou tu préfères que ce soit Fabrice qui annonce et moi qui exécute ?"*
 
 ⚠️ **Sensibilité non-bloquante** : Boris a alerté Fabrice sur le lien Tang potentiel (Boris a bossé avec Mohamed hors entrepreneurs.com sur projet IA Tang à l'époque). Fabrice a confirmé avoir parlé frontalement avec Mohamed au moment du conflit Tang — Mohamed a posé son cadre pro (*"mon job c'est la sécurité et la confidentialité"*). Pas de raison d'en faire un sujet politique avec Alec, sauf si Alec amène lui-même la question. Cf. [[Mohamed]] pour le suivi.
 
@@ -160,7 +219,7 @@ Ajouter aux 7 nœuds Fabrice cartographiés au 24/4 + nœuds Aziz du 28/4 :
 - **Nœud "Discours sales/delivery unifié"** — à traiter à Marrakech (Sabrina + Aziz + Boris)
 - **Nœud "Cadence M-3 immersions"** — à valider avec Alec en principe, déployer ensuite
 - **🆕 Nœud "Cartographie top 10 process avec head owner"** (call Fabrice 28/4 19h) — livrable Boris+Fabrice J+30
-- **🆕 Nœud "Passation cybersec Mohamed"** (call Fabrice 28/4 19h) — livrable Boris S2-S4 avant fin mai
+- **🔴 Nœud "Audit IT mai 2026"** (vocal Alec 29/4 — recalibré) — chantier consolidé Boris piloté + Mohamed co-supervisé, livrable fin mai (fusionne anciens nœuds Passation cybersec + Audit SaaS + Rapatriement docs)
 
 → La cartographie nœuds n'est plus à co-construire avec Alec — elle est **déjà construite**. L'enjeu du call devient : **valider la cartographie + faire choisir à Alec ses 3 priorités sur la liste**.
 
@@ -216,6 +275,8 @@ Le replay du call Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par A
 > *"Sur l'équipe en général, j'ai noté au Core qu'il y a des frictions opérationnelles récurrentes — accès outils retirés, dépendances Wassim, BigQuery promis non livré. C'est exactement le type de sujet que je peux débloquer en S1-S2 avec Anisse. Tu vois des pôles où tu sens que ces frictions créent du décrochage ?"*
 
 #### Sujet nouveau 4 — Mandat audit SaaS structuré
+
+> ⚠️ **Recalibré 29/4** : ce sujet est désormais **fusionné avec le sujet F1 (passation Mohamed)** dans le mandat consolidé "Audit IT mai 2026". Cf. MAJ 29/4 ci-dessus. Le contenu ci-dessous reste pour mémoire historique.
 
 **Posture** : prendre le mandat explicitement, poser un planning S1-S2, proposer les premières cibles chiffrées.
 
@@ -354,6 +415,7 @@ Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (
 - **Alec m'a déjà donné la clé** : la vraie frustration = les décisions qui n'avancent pas. Je pars de là, pas de mon propre diagnostic.
 - **J'ai désormais les inputs de Fabrice** (call du 24 avril ET 28 avril) sur les décisions non-exécutées de son point de vue. Je croise sans citer.
 - **J'ai aussi les inputs de Sabrina** (call du 28 avril) qui matérialise HO29 par les 300 process Mélissa sans décisionnaire. Je croise sans citer non plus.
+- **Le mandat audit IT (Mohamed mai 2026) est acté** par vocal direct du 29/4. Le call F1 = calage opérationnel uniquement.
 - **Je ne cite pas les équipes** (Océane, Anisse, Axel, Sabrina, Fabrice) pour éviter de trianguler. Je parle en "je vois", "j'entends", "j'observe".
 - **HO29** : le cycle vicieux HO8 (peur) + HO15 (impulsivité) + déficit d'exécution est probablement le mécanisme central. Le call doit tester cette hypothèse sans la nommer comme telle — je laisse Alec la découvrir par ses propres mots.
 
@@ -363,6 +425,7 @@ Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (
 - **Alec parle 60%, je parle 40%**. Je suis là pour structurer, pas pour pérorer.
 - **Honnêteté nuancée**. Je peux dire *"je me demande si ce ne serait pas lié à X"* plutôt que *"c'est à cause de X"*.
 - **Pas d'invocation d'équipes par leur nom** — sauf Fabrice (puisqu'Alec sait que je l'ai vu) et seulement pour des faits opérationnels neutres.
+- **Sur Mohamed : pas relayer la divergence Alec/Fabrice**. Calibrer audit au niveau Alec, sans le souligner.
 
 ---
 
@@ -441,13 +504,13 @@ Pour chacune des 3, on clarifie ensemble :
 
 > *"Ces 3-là, on les reprendra quand on sera avec Fabrice pour les OKR dans la foulée — ça va nous donner 1 ou 2 Key Results concrets."*
 
-**Si l'occasion s'y prête, embarquer les sujets MAJ 28/4** :
+**Si l'occasion s'y prête, embarquer les sujets MAJ 28/4 + 29/4** :
 - Warning immersion ≠ scale → demander validation principe
 - Mandat Marrakech 20-25 mai → demander validation format
 - Insight Sabrina sur HO33 → si HO33 émerge
 - Matrice jurisprudence financière → mentionner le suivi
 - 🆕 Co-construction top 10 process Boris+Fabrice (livrable J+30)
-- 🆕 Passation cybersec Mohamed (calendrier S2-S4 avant fin mai)
+- 🔴 **Mandat audit IT mai 2026** (déjà acté vocal 29/4) → 3 questions de calage opérationnel uniquement
 - 🆕 Convention com Slack/WhatsApp (si moment léger)
 
 ### 80-90 min — Clôture + règle du revirement
@@ -484,6 +547,7 @@ Puis transition vers le call OKR trio :
 | N'arrive pas à identifier de mécanisme | Je le propose doucement, je ne force pas l'analyse |
 | Me teste sur ma compréhension du terrain | Normal — répondre avec humilité + observations factuelles |
 | Devient impatient / veut "passer à l'action" | Typique Alec — accepter, conclure la cartographie à 45-50 min |
+| Re-aborde Mohamed avec des arguments durs | Calibrer l'audit en conséquence sans relayer à Fabrice |
 
 ---
 
@@ -499,6 +563,8 @@ Puis transition vers le call OKR trio :
 | ❌ Aller sur le "pourquoi" psychologique d'Alec | Pas le moment. C'est entre lui et sa psy. Je reste opérationnel. |
 | ❌ Forcer Alec à conclure le diagnostic si ça vient pas | Mieux vaut finir avec les 3 nœuds priorisés sans diagnostic complet |
 | ❌ Oublier le lien avec Fabrice pour le call OKR suivant | Le trio doit rester cohérent — Fabrice ne doit pas être surpris |
+| ❌ Re-discuter le mandat audit IT Mohamed | Acté par vocal 29/4 — calage opérationnel uniquement (3 questions) |
+| ❌ Relayer la lecture Alec sur Mohamed à Fabrice | Crée friction Alec/Fabrice inutile — calibrer audit en silence |
 
 ---
 
@@ -520,18 +586,20 @@ Puis transition vers le call OKR trio :
 
 ## 🔗 Notes liées
 
-- [[Alec Henry]] (historique de la conversation du 23 avril)
+- [[Alec Henry]] (historique de la conversation du 23 avril + vocal 29/4 + glossaire jargon)
 - [[Prep - Règle du revirement écrit avec Alec]] (réponse d'Alec + HO29)
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO8, HO15, HO28, HO29, HO37, HO38)
 - [[Prep - 1-to-1 Fabrice S1]] (inputs du call du 24 avril après-midi — nœuds d'exécution selon Fabrice)
 - [[Sabrina Dahel]] (inputs du call du 28 avril 17h — diagnostic systémique + warning immersions M-3)
 - [[Fabrice Jaeger]] (inputs du call du 28 avril 18h — posture spec/architecte + mandat Mohamed + top 10 process)
-- [[Mohamed]] (passation cybersec à orchestrer)
+- [[Mohamed]] (recalibrage 29/4 — mandat audit IT mai entier + divergence Alec/Fabrice)
+- [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]]
 - [[Ressource - Replay Boris Fabrice 28 avril 2026]]
 - [[Ressource - Replay Sabrina 28 avril 2026]]
 - [[Ressource - Replay Alec Fabrice 27 avril 2026]]
 - [[Ressource - Core Meeting 27 avril 2026]]
 - [[Draft - Charte de délégation Fabrice]] (section 3b mandat d'accélération d'exécution)
+- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]] (V2 doit ajouter ownership permanent IT/cybersec post-mai)
 - [[Prep - Call OKR trio 1er mai]] (enchaînement direct)
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (5 axes initiaux)
 - [[Kit d'arrivée consolidé 2026-05-01]]
