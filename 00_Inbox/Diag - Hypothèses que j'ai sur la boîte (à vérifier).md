@@ -59,7 +59,7 @@ _Statut au J+14 : à compléter_
 
 ## Hypothèses sur le management
 
-- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. **[AGGRAVÉE par Océane le 2026-04-23 soir]** : Océane ajoute une 3e cause (au-delà de "pas confiance en middle" et "Alec seul décideur") : **culture de peur + culture du héros**. **[MÉCANISME COMPLÉTÉ par Fabrice le 2026-04-24]** : 4e cause découverte = **les gens évitent la flamme** et **se défaussent vers Alec ou Fabrice** pour pouvoir dire *"j'ai vu avec untel, donc si ça marche pas, j'ai protégé mon dos"*. Verbatim Fabrice : *"Personne ne veut prendre de responsabilité, de décision. Donc 'j'ai vu avec Fabrice', donc au pire si ça marche pas, je pourrais toujours dire que j'ai vu avec Fabrice."* HO8 est maintenant un **diagnostic partagé multi-sources avec mécanisme documenté précisément**. Le cycle complet : (1) personne ne décide → (2) tout remonte → (3) Alec ou Fabrice tranche → (4) personne n'a appris à décider → retour (1). **Levier d'action** : restaurer un mode transverse où les heads ont l'autorité réelle (pas juste fictive) sur leur périmètre. Cf. mode opératoire 2024-S1 détruit par Tang (HO30).
+- **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. **[AGGRAVÉE par Océane le 2026-04-23 soir]** : Océane ajoute une 3e cause (au-delà de "pas confiance en middle" et "Alec seul décideur") : **culture de peur + culture du héros**. **[MÉCANISME COMPLÉTÉ par Fabrice le 2026-04-24]** : 4e cause découverte = **les gens évitent la flamme** et **se défaussent vers Alec ou Fabrice** pour pouvoir dire *"j'ai vu avec untel, donc si ça marche pas, j'ai protégé mon dos"*. Verbatim Fabrice : *"Personne ne veut prendre de responsabilité, de décision. Donc 'j'ai vu avec Fabrice', donc au pire si ça marche pas, je pourrais toujours dire que j'ai vu avec Fabrice."* **[ULTRA-CONFIRMÉE 2026-04-28 par Sabrina]** : verbatim système Sabrina *"300 process, mais aucun décisionnaire."* + *"Personne ne sait qui fait quoi, encore moins qui prend la décision sous délai imparti."* La cause racine n'est plus seulement la culture de peur — c'est l'**absence structurelle de pouvoir de décision distribué** matérialisée par 300 process Mélissa où aucun nom n'est jamais identifié comme décisionnaire final. HO8 est maintenant un **diagnostic partagé multi-sources avec mécanisme documenté précisément** (Alec auto-diag + Océane + Fabrice + Sabrina). Le cycle complet : (1) personne ne décide → (2) tout remonte → (3) Alec ou Fabrice tranche → (4) personne n'a appris à décider → retour (1). **Levier d'action** : restaurer un mode transverse où les heads ont l'autorité réelle (pas juste fictive) sur leur périmètre. Cf. mode opératoire 2024-S1 détruit par Tang (HO30). **Cf. HO38 — la matrice jurisprudence financière demandée à Fabrice est un proxy parfait de cet enjeu**.
 - **HO9** — Il existe 1-2 leads potentiels niveau -1 dans l'équipe actuelle, juste pas identifiés / pas empowered.
 - **HO10** — La culture de "tâches déléguées sans responsabilités associées" est le levier de transformation n°1.
 
@@ -142,6 +142,8 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   > *"Je rajouterai pas de nouvelles actions tant que les boucles sont ouvertes."*
   
   **Règle implicite à proposer en Q1** : **pas de nouvelle initiative tant qu'une boucle ouverte n'est pas fermée ou explicitement abandonnée**. C'est l'arme structurelle contre le pattern "vite + partout" d'Alec (HO15). Met une friction salutaire entre l'envie d'Alec de lancer et la capacité de la boîte à exécuter.
+  
+  **⚡ ENRICHISSEMENT 2026-04-28 (Sabrina)** : Sabrina apporte la matérialisation la plus claire du cycle vicieux : les **300 process Mélissa**. Verbatim : *"Il y a une bonne intention, mais aucun décisionnaire."* C'est exactement le mécanisme HO29 vu sous un autre angle — des décisions actées (les 300 process) qui n'avancent pas (boucles infinies sans owner). Sabrina ajoute la conséquence concrète : *"Personne ne sait qui fait quoi. Personne ne sait qui prend la décision, encore moins sous délai imparti."* → Le **délai moyen de traitement ticket = 3 mois** sur des clients à 24K€ est la manifestation client-facing du cycle. Bombe à retardement réputationnelle. Cf. **HO37** ci-dessous.
 
 ## Hypothèses apparues au 1-to-1 Fabrice du 24 avril
 
@@ -157,6 +159,8 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   - **Tang n'est plus là** — mais ses recommandations stratifiées sont restées (silos verticaux, abandon des rapports, multiplications des direct reports).
   - **Question éthique sensible** : si je formule ça publiquement, je risque de créer un narratif "on accuse Tang" qui peut atteindre des oreilles sensibles (notamment si Tang a gardé des contacts dans la boîte). À garder en interne strict.
   - **Question politique sensible** : Alec a accepté ce conseil pendant son deuil. Toucher à ce sujet = toucher à une zone affective profonde. **Ne JAMAIS évoquer Tang nominalement avec Alec**. Parler de "l'évolution depuis avril 2025" en termes neutres.
+  
+  **⚡ ENRICHISSEMENT 2026-04-28 (Sabrina)** : Sabrina confirme indirectement HO30 par le verbatim système : *"Tout le monde s'est enfermé dans son royaume."* Elle date le tournant à *"l'arrivée d'Antoine et Hugo"* (Tang) où *"on a dissocié vraiment tous les pôles, chacun faisait ce qu'il voulait"*. Avant : *"On n'avait pas du tout ces mêmes liens"* — c'est-à-dire que le mode catamaran (transversalité, rapports, animations) **fonctionnait avant l'ère Antoine/Hugo**. Sabrina valide HO30 sans le savoir, par observation directe.
   
   **Test** : si je remets en place les rituels du S1 2025 (rapports hebdo/mensuels/trimestriels, animations transverses Fabrice, réduction des direct reports à 6) et que la performance s'améliore en 60-90 jours, HO30 est validée a posteriori.
   
@@ -232,14 +236,21 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Diagnostic composé** : (1) le profil client se dégrade (plus néophyte, moins de capacité d'exécution autonome), (2) les coachs compensent en faisant le boulot à la place du client (ce qui masque le problème), (3) Sabrina vient d'arrêter cette compensation, donc la satisfaction et les résultats vont baisser à court terme, (4) la progression naturelle incubateur → scaling → board ne fonctionne pas — les clients restent matricés dans leur programme initial.
   
-  **Conséquences systémiques** :
-  1. **Discours commercial à calibrer** (Sabrina + Aziz à Marrakech) : on ne peut plus vendre la même chose au même profil
-  2. **LTV en baisse** : si pas de progression de programme, pas de upsell naturel → le 24M€/2026 dépend uniquement d'acquisition nouvelle (sous-pression cf. KR3.4)
-  3. **Trustpilot/Use cases en risque** : moins de clients qui réussissent = moins de témoignages = boucle négative sur l'acquisition
+  **⚡ NUANCE CRITIQUE 2026-04-28 (Sabrina au call cadrage)** : Sabrina apporte un **insight contre-intuitif majeur** qui requalifie partiellement HO33. À l'upsell et à l'immersion, elle observe que **60% des clients disent vouloir un coach plus pushy**. Verbatim : *"On aurait aimé un coach qui soit plus pushy, qui soit plus dur et qui t'envoie vraiment au charbon."* 
+  
+  → **La posture coach est sous-calibrée, pas (seulement) le profil client qui est dégradé**. Le client lui-même demande plus de cadrage. Donc HO33 est nuancée : il y a bien une dégradation structurelle du profil, MAIS les coachs ont une **opportunité d'asseoir leur posture** et le client est en demande. Le problème n'est pas que les clients sont devenus mauvais, c'est qu'on ne leur tient plus la barre assez fermement.
+  
+  **Implication produit** : le retour à une posture coach plus directive + les 3 indicateurs clés Sabrina (financier/structurel/transfo) + l'onboarding auto plateforme du 23 mai = paquet de mesures qui peut **redresser la courbe de réussite client sans changer le profil**. C'est plus actionnable que ce que je pensais.
+  
+  **Conséquences systémiques (mis à jour)** :
+  1. **Discours commercial à recalibrer** (Sabrina + Aziz à Marrakech 20-25 mai) : on assume que le client veut être cadré, pas materné
+  2. **LTV à protéger via posture coach** : si la posture est restaurée, la progression incubateur→scaling peut redevenir naturelle
+  3. **Trustpilot/Use cases en risque court terme** : Sabrina a stoppé l'asynchrone (coach faisait le boulot à la place du client) → satisfaction va baisser sur 30-60 jours avant de remonter
   4. **Probable lien avec HO19** (positionnement produit comme cause trésorerie) — c'est la même racine vue par un angle différent
   
   **Statut Boris** : ce sujet **est dans la zone red flag #1** (marketing/sales/produit). Je ne peux pas le piloter, mais je peux :
   - **Le faire émerger explicitement** au call Alec 1er mai ("j'ai entendu ça en réunion, c'est un sujet que tu veux prioriser ?")
+  - **Co-arbitrer à Marrakech 20-25 mai** avec Sabrina + Aziz le discours sales/delivery unifié (Sabrina l'a posé explicitement au call 28/4)
   - **Écouter aux 1-to-1 S1** si Sabrina, Aziz, Cédric, Anisse y reviennent
   - **L'apporter à Sophia en juin** comme un des sujets-clés de son immersion (elle est spécialiste de la montée en gamme e-commerce 3-4M€ → 20M€, c'est exactement le type de problème qu'elle sait traiter)
   
@@ -268,6 +279,57 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+30 (observation) / J+90 (proposition si pertinent).
 
+## Hypothèses apparues au call de cadrage Sabrina du 28 avril
+
+> Cf. [[Ressource - Replay Sabrina 28 avril 2026]] pour le replay complet.
+
+- **HO37** — **Le délai de 3 mois sur le ticketing client va générer un risque réputationnel imminent (Trustpilot, bouche-à-oreille) si non-traité d'ici fin juin**. Révélé par Sabrina au call cadrage 28/4 : 1 200 tickets analysés, délai moyen de traitement = 3 mois (tickets décembre-janvier traités en avril). Sujet n°1 contre-intuitif = **facturation**, pas insatisfaction directe.
+  
+  **Comparaison choc** (Boris au call) : Free répond en 24h sur un abo 40€/mois ; Entrepreneurs.com met 3 mois sur des clients à 24K€. **Asymétrie ROI/satisfaction critique**.
+  
+  **Mécanisme** :
+  1. Zendesk mal utilisé (pas de catégorisation, pas d'auto-close des tickets sans réponse)
+  2. 2 canaux d'entrée concurrents (plateforme + customer@) → Sabrina veut tuer le canal email
+  3. Équipe support (Zoé/Laurène) dispatch sans système d'alerte sur la résolution
+  4. Pas de pouvoir de décision distribué = chaque ticket non-trivial remonte à Sabrina ou Fabrice
+  
+  **Conséquences si non-traité** :
+  - **Avis Trustpilot dégradés** = boucle négative sur l'acquisition (Trustpilot/use cases sont le pilier de [[Cédric De Saint Jean|Cédric]])
+  - **Bouche-à-oreille négatif** dans les communautés entrepreneurs francophones
+  - **Lien direct avec HO28** (dissonance externe/interne connue d'Alec mais non-actionnée)
+  - **Lien direct avec HO27** (Océane comme bouclier reputation — elle va devoir gérer ça en BRO)
+  
+  **Plan Sabrina (en cours, pas Boris à porter)** :
+  - Tuer canal email customer@ (force la catégorisation native plateforme)
+  - FAQ data-driven post-2 mois d'analyse de récurrence
+  - Autonomie client sur les sujets non-sensibles (duplicata facture, modif email/adresse)
+  - Restructuration Zendesk avec Mohamed
+  
+  **Statut Boris** : zone d'observation, pas de mandat direct. Sabrina pilote. Boris peut amener un regard sur la priorisation côté Quentin (qui est saturé).
+  
+  **Test** : à J+30, le délai moyen de traitement est-il descendu sous 30 jours ? À J+60, sous 7 jours ? Si oui, HO37 est en voie de résolution. Sinon, c'est un trou structurel qui mérite une intervention plus directe.
+  
+  **Horizon** : J+30 (descente sous 30 jours) / J+60 (descente sous 7 jours).
+
+- **HO38** — **La matrice "jurisprudence" financière demandée à Fabrice est un proxy parfait du déficit de pouvoir de décision distribué (HO8)**. Révélé indirectement par Sabrina au call 28/4 : aujourd'hui, chaque ticket finance (remboursement, sortie anticipée, échéancier) est **un cas particulier** traité ad hoc, ce qui sature Fabrice et Sabrina. Sabrina a explicitement demandé à Fabrice de produire une **matrice de règles écrites** — ex : *"Dans tel cas de figure, on doit encaisser un minima tant"* — pour que chaque cas devienne traitable au niveau opérationnel sans escalade.
+  
+  **Pourquoi c'est un proxy de HO8** :
+  - HO8 = absence structurelle de pouvoir de décision distribué
+  - La matrice jurisprudence = rendre le pouvoir de décision **réplicable** sur la zone finance (la zone qui sature le plus Fabrice)
+  - Si la matrice se construit, le pouvoir de décision **descend d'un cran** automatiquement
+  - C'est exactement ce que la culture HO8 a empêché jusqu'ici (Mélissa avait fait 300 process **sans décisionnaire**, donc inutilisables comme matrice de décision)
+  
+  **Test diagnostic Fabrice** :
+  - Si Fabrice produit la matrice **en moins de 30 jours** → signal positif que Fabrice peut documenter pour déléguer (compatibilité avec HO6 récupérable)
+  - Si elle traîne au-delà de 60 jours → signal de **saturation Fabrice qu'il faut aider** (proposition Boris : co-construire la matrice ensemble en 2-3 sessions)
+  - Si elle ne se fait jamais → confirmation HO31 (trou de management top, Fabrice n'arrive pas à formaliser pour distribuer)
+  
+  **Action Boris S2-S3** : suivre l'avancement de la matrice. Si Fabrice n'a pas démarré à J+21, proposer une session de co-construction. Aligné avec mandat charte de délégation.
+  
+  **Liaison** : HO38 est un cas concret de la cartographie HO29 (cycle vicieux exécution). C'est un nœud à débloquer en priorité dans les 30 nœuds opérationnels.
+  
+  **Horizon** : J+21 (premier point d'avancement) / J+45 (matrice opérationnelle ou besoin de co-construction Boris).
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -277,7 +339,7 @@ _Statut au J+14 : à compléter_
 | Hypothèse | Test | Horizon |
 |---|---|---|
 | HO5 (départ Aziz) | 🟢 **MAJ 28/4** : **DÉSAMORCÉE** post 1-to-1 Boris×Aziz — alliance forte, rituel acquis, projet 2026 confirmé, pas de signal départ. Risque résiduel uniquement. | J+90 (revérifier au prochain rituel) |
-| HO8 (goulot Alec/Fabrice) | Observation COMEX + dynamique décisionnelle semaine 1 | J+7 |
+| HO8 (goulot Alec/Fabrice) | 🔄 **MAJ 28/4** : ultra-confirmée par Sabrina (300 process sans décisionnaire). Observation COMEX + dynamique décisionnelle semaine 1 | J+7 |
 | HO9 (leads latents) | Identification de 1-2 candidats précis d'ici | J+30 |
 | HO13 (réparation Alec-Fabrice) | Mesure qualitative à | J+90 |
 | HO14 (tests politiques) | Nombre de sollicitations "prendre parti" | J+14 |
@@ -294,14 +356,16 @@ _Statut au J+14 : à compléter_
 | HO26 (départ Axel → choc opérationnel) | Capter via 1-to-1 Axel S1 + observer passation juin | J+45 |
 | HO27 (Océane confrontation latente Alec) | Observer ouverture spontanée S1-S2 | J+14 |
 | HO28 (dissonance connue d'Alec mais non-actionnée) | Observer réaction Alec à un signal risque reputation | J+30 |
-| HO29 (cycle vicieux exécution) | 🔄 **MAJ 28/4** : confirmé par Aziz (bug Mike paiement = cas concret + 5 mois perdus sur bug commission HubSpot↔Airtable). Cartographier 3-5 décisions actes non-exécutées + observer COMEX + check middle mgmt | J+30 (1er diag) / J+90 (preuves d'impact) |
-| HO30 (sabotage Tang induit) | Réinstallation rituels S1 2025 + observation comportementale | J+90 |
+| HO29 (cycle vicieux exécution) | 🔄 **MAJ 28/4** : ultra-confirmé par Sabrina (300 process Mélissa = matérialisation parfaite). Cartographier 3-5 décisions actes non-exécutées + observer COMEX + check middle mgmt | J+30 (1er diag) / J+90 (preuves d'impact) |
+| HO30 (sabotage Tang induit) | 🔄 **MAJ 28/4** : confirmé indirectement par Sabrina (date tournant = arrivée Antoine/Hugo). Réinstallation rituels S1 2025 + observation comportementale | J+90 |
 | HO31 (trou management top) | Rituels hebdo + matrice KPI + cadence revue mensuelle installés | J+60 (rituels) / J+90 (efficacité) |
 | HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
 | HO32 (départ Cédric Q2-Q3) | 🔴 **MAJ 27/4** : 4e source publique (verbatim au Core) — quasi-certitude. 1-to-1 priorité 1 début S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
-| HO33 (stagnation profil client) | 4 sources publiques au Core 27/4. Faire émerger à Alec au call 1er mai + apporter à Sophia juin | J+30 / J+90 |
+| HO33 (stagnation profil client) | 🔄 **MAJ 28/4** : nuancée par insight Sabrina (60% upsells veulent coach + pushy = posture sous-calibrée, pas seulement profil dégradé). Marrakech 20-25 mai = co-arbitrage avec Sabrina + Aziz | J+30 / J+90 |
 | HO34 (départ Abdel 2 semaines) | 🔴 **NOUVELLE 27/4** : source Alec privé. 1-to-1 prioritaire S1 + déblocages techniques en 10 jours pour boucle re-engagement | J+14 / J+30 |
-| HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4** : révélé par Aziz. Observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
+| HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4 (Aziz)** : observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
+| HO37 (risque réputationnel ticketing 3 mois) | 🆕 **NOUVELLE 28/4 (Sabrina)** : observation Sabrina pilotage. Mesure du délai moyen de traitement à J+30 et J+60 | J+30 / J+60 |
+| HO38 (matrice jurisprudence financière = proxy HO8) | 🆕 **NOUVELLE 28/4 (Sabrina)** : suivre avancement Fabrice. Si pas démarré à J+21, proposer co-construction | J+21 / J+45 |
 
 ## Revue prévue
 

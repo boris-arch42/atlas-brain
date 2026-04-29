@@ -74,10 +74,10 @@ tags: [delivery, csm, fidelisation, head-of-customer, ex-team-manager, passation
 - **Sabrina porte triple casquette + décès récent dans son entourage** (mentionné *"j'ai eu un décès"*) — charge psychologique élevée, ne pas en faire un sujet frontal mais surveiller.
 - **Tessie négocie 500€ de plus** : Sabrina propose de retirer de son propre salaire — témoigne de l'urgence ressentie.
 
-### Hypothèses émergentes (à ajouter à la liste)
+### Hypothèses émergentes (ajoutées au diag)
 
-- **HO35** : Le ticketing à 3 mois de délai sur des clients à 24K€ va générer un risque réputationnel imminent (Trustpilot, bouche-à-oreille). Monitorer en S1.
-- **HO36** : La matrice de "jurisprudence" financière demandée à Fabrice est un **proxy parfait du déficit de pouvoir de décision distribué**. Si elle existe en 30 jours = signal positif Fabrice. Si elle traîne = signal de saturation Fabrice qu'il faut aider.
+- **HO37** : Le ticketing à 3 mois de délai sur des clients à 24K€ va générer un risque réputationnel imminent (Trustpilot, bouche-à-oreille). Monitorer en S1.
+- **HO38** : La matrice de "jurisprudence" financière demandée à Fabrice est un **proxy parfait du déficit de pouvoir de décision distribué**. Si elle existe en 30 jours = signal positif Fabrice. Si elle traîne = signal de saturation Fabrice qu'il faut aider.
 
 ### Implication directe sur le 1-to-1 S1
 
@@ -335,10 +335,11 @@ Fabrice m'a confirmé par Slack le 27/4 : *"Réattribution de coach => on ne dem
 
 ## Notes liées
 - [[Ressource - Replay Sabrina 28 avril 2026]] — replay complet du call de cadrage
+- [[Tessie]] — CSM senior entrante semaine du 5 mai (onboarding par Sabrina)
 - [[Axel Bombezin]] (l'a recrutée et promue, lui dépose la confiance)
 - [[Fabrice Jaeger]] (probable manager actuel)
 - [[Alec Henry]] (manager possible alternatif)
 - [[Aziz Sfaihi]] (autre branche post-passation Axel, complémentaire commercial vs delivery)
 - [[Océane De Queiros]] (peut éclairer la dynamique Sabrina/Nicole sur immersions)
 - [[Anisse Rbibe]] (coordination sur les alertes Plateforme, équipe IA qui peut soulager)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO4 noyau solide, HO6 Fabrice débordé, HO35 ticketing risque réputationnel, HO36 matrice jurisprudence proxy de pouvoir de décision)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO4 noyau solide, HO6 Fabrice débordé, HO37 ticketing risque réputationnel, HO38 matrice jurisprudence proxy de pouvoir de décision)

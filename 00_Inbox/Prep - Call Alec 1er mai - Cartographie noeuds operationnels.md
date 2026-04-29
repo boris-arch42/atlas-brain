@@ -19,6 +19,80 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🟢 MAJ 2026-04-28 SOIR (post call cadrage Sabrina) — 3 sujets supplémentaires à porter au call Alec
+
+> Cf. [[Ressource - Replay Sabrina 28 avril 2026]] pour le replay complet (60 min, J-3 prise de poste).
+
+### Sujet supplémentaire 1 — Warning Sabrina à porter : **immersions ≠ scale**
+
+Sabrina a re-posé au call 28/4 (et déjà au Core 27/4) un warning structurel qu'Alec n'a probablement pas pleinement intégré. Boris doit le porter explicitement.
+
+**Le warning** :
+- **Scale** → préparation immédiate (cadence courte, cycle commercial rapide)
+- **Immersion** → préparation à **M-3 minimum** (logistique, contenu, cadrage produit, alignement coachs)
+
+**Pourquoi c'est critique** :
+- Alec a posé la deadline *"standardiser les immersions sur la plateforme"* sans date précise, mais **traiter les immersions comme du scale = casse l'organisation à chaque fois**
+- Sabrina dépend des deadlines de Nicole (compagne d'Alec) et Fabrice sur la zone immersions — elle ne peut pas porter seule cette anticipation M-3 si Alec ne valide pas le principe
+
+**À dire au call** :
+> *"Sabrina m'a remonté un warning précis sur les immersions : ça ne se traite pas comme du scale, il faut une cadence M-3. Si tu valides ce principe, je peux le faire descendre auprès de Sabrina + Nicole + Fabrice avec un calendrier de référence pour les 3 prochaines immersions."*
+
+**Position Boris** : porter le warning sans nommer Sabrina si pas nécessaire (elle l'a déjà dit au Core, donc Alec sait qu'elle le pense). Le rendre cadre opérationnel.
+
+### Sujet supplémentaire 2 — Mandat Marrakech 20-25 mai : co-arbitrage discours sales/delivery avec Aziz
+
+Sabrina a posé Marrakech (où Boris sera 20-25 mai, Sabrina 18-25, Aziz à confirmer) comme le **moment d'arbitrage du discours sales/delivery unifié**.
+
+**Verbatim Sabrina au call 28/4** :
+> *"On va rediscuter le discours sales, les process pour rendre de l'autonomie aussi à l'équipe sales sur les onboardings."*
+
+**Sujets à arbitrer à Marrakech** :
+- Discours sales unifié (cadrage produit, limites delivery, posture coach pushy)
+- Autonomie sales sur les onboardings (où ça commence, où ça s'arrête)
+- Done-for-you : qu'est-ce qu'on vend / qu'est-ce qu'on ne vend plus
+- Posture coach (insight 60% upsell veulent + pushy — la posture est sous-calibrée, pas le client qui est mauvais)
+
+**À dire au call** :
+> *"Sabrina pose Marrakech comme le moment de re-arbitrer le discours sales/delivery avec Aziz. Concrètement : 1 session 90 min Sabrina + Aziz + moi le 22 ou 23 mai. Tu valides que c'est le bon format ? Et est-ce que tu veux y participer ou tu nous laisses construire et te valides après ?"*
+
+**Position Boris** : laisser Alec choisir s'il veut être présent. Si oui = caution forte. Si non = délégation propre.
+
+### Sujet supplémentaire 3 — Insight contre-intuitif sur HO33 (stagnation profil client)
+
+Sabrina apporte au call 28/4 un **insight qui requalifie partiellement HO33** :
+- 60% des clients en upsell + immersion **demandent un coach plus pushy**
+- → La posture coach est sous-calibrée, **pas (seulement) le profil client qui est dégradé**
+- → Le client lui-même demande plus de cadrage. C'est plus actionnable que ce que je pensais.
+
+**À mentionner si HO33 émerge** (ne PAS l'ouvrir frontalement) :
+> *"J'ai eu un insight de Sabrina côté delivery : 60% des clients en upsell disent vouloir un coach plus pushy. Donc la posture est probablement plus à recalibrer que le profil à changer. C'est une bonne nouvelle, c'est plus actionnable. À voir comment on intègre ça à la réflexion produit."*
+
+### Sujet supplémentaire 4 — Démarrer la matrice jurisprudence financière (HO38)
+
+Sabrina a demandé à Fabrice une **matrice de "jurisprudence" financière** sur les remboursements / sorties anticipées : règles écrites du type *"dans tel cas de figure, on encaisse a minima tant"*.
+
+**Pourquoi c'est important pour Alec** :
+- C'est un **proxy direct** du déficit de pouvoir de décision distribué (HO8)
+- Si Fabrice produit la matrice en 30 jours = signal positif sur sa capacité à documenter pour déléguer
+- Si elle traîne = saturation Fabrice qu'il faut aider (proposition Boris : co-construire en 2-3 sessions)
+- C'est l'arme structurelle pour vider le ticketing finance qui sature aujourd'hui Sabrina + Fabrice
+
+**À dire au call (en complément du sujet titre Co-COO)** :
+> *"Une chose concrète sur le périmètre Fabrice : Sabrina lui a demandé une matrice 'jurisprudence' sur les remboursements et sorties anticipées. C'est exactement le type de chantier qui fait descendre le pouvoir de décision d'un cran. Je le suis avec Fabrice. Si à J+21 il n'a pas démarré, je propose qu'on co-construise. Tu valides l'approche ?"*
+
+### Implications sur la cartographie nœuds opérationnels
+
+Ajouter aux 7 nœuds Fabrice cartographiés au 24/4 + nœuds Aziz du 28/4 :
+- **Nœud "Ticketing 3 mois"** (HO37) — cicatrice visible du problème HO8/HO29
+- **Nœud "Matrice jurisprudence financière"** (HO38) — proxy concret pour casser HO8
+- **Nœud "Discours sales/delivery unifié"** — à traiter à Marrakech (Sabrina + Aziz + Boris)
+- **Nœud "Cadence M-3 immersions"** — à valider avec Alec en principe, déployer ensuite
+
+→ La cartographie nœuds n'est plus à co-construire avec Alec — elle est **déjà construite**. L'enjeu du call devient : **valider la cartographie + faire choisir à Alec ses 3 priorités sur la liste**.
+
+---
+
 ## 🔴 MAJ 2026-04-27 SOIR (post replay Alec↔Fabrice) — 4 sujets résolus + 4 sujets nouveaux
 
 Le replay du call Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec) change l'agenda de mon call du 1er mai. Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] pour les verbatims complets.
@@ -122,6 +196,8 @@ Nouvelle personne entrante non-mappée dans mon onboarding. Profil ? CDI ou pres
 **À amener avec précaution** (zone marketing/sales = red flag) :
 *"J'ai entendu en réunion que vous avez identifié une dégradation du profil client — plus néophyte, moins de progression incubateur→scaling. C'est un sujet que tu comptes prioriser ? Je veux pas rentrer dans le marketing, mais c'est probablement un trou stratégique qui touche tous les pôles."*
 
+> ⚠️ **Mise à jour 28/4** : Sabrina apporte un insight contre-intuitif qui requalifie partiellement HO33 (cf. MAJ 28/4 SOIR ci-dessus, sujet supplémentaire 3). À intégrer dans la formulation au call.
+
 ### Complément sur le sujet titre (Axel→Alec vocal du 24/4 + décision Boris option C)
 
 Cf. [[Alec Henry]] section sur la pression titre. Position option C à tenir si Alec re-questionne :
@@ -204,7 +280,8 @@ Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (
 
 - **Alec m'a déjà donné la clé** : la vraie frustration = les décisions qui n'avancent pas. Je pars de là, pas de mon propre diagnostic.
 - **J'ai désormais les inputs de Fabrice** (call du 24 avril) sur les décisions non-exécutées de son point de vue. Je croise sans citer.
-- **Je ne cite pas les équipes** (Océane, Anisse, Axel) pour éviter de trianguler. Je parle en "je vois", "j'entends", "j'observe".
+- **J'ai aussi les inputs de Sabrina** (call du 28 avril) qui matérialise HO29 par les 300 process Mélissa sans décisionnaire. Je croise sans citer non plus.
+- **Je ne cite pas les équipes** (Océane, Anisse, Axel, Sabrina, Fabrice) pour éviter de trianguler. Je parle en "je vois", "j'entends", "j'observe".
 - **HO29** : le cycle vicieux HO8 (peur) + HO15 (impulsivité) + déficit d'exécution est probablement le mécanisme central. Le call doit tester cette hypothèse sans la nommer comme telle — je laisse Alec la découvrir par ses propres mots.
 
 ### Posture à tenir
@@ -222,7 +299,7 @@ Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (
 
 **Ce que je dis** :
 
-> *"Alec, merci de prendre ce créneau le jour de ma prise de poste. Je voulais qu'on revienne sur ce que tu m'as dit il y a une semaine — le fait que les décisions sont actées mais n'avancent pas. J'ai passé la semaine à écouter (Fabrice, Axel, Océane), et je pense qu'on peut faire une cartographie concrète ensemble. Ça va nous servir pour le call OKR juste après, et surtout pour que je sache où mettre mon énergie en priorité dans les semaines qui viennent."*
+> *"Alec, merci de prendre ce créneau le jour de ma prise de poste. Je voulais qu'on revienne sur ce que tu m'as dit il y a une semaine — le fait que les décisions sont actées mais n'avancent pas. J'ai passé la semaine à écouter (Fabrice, Axel, Océane, Sabrina), et je pense qu'on peut faire une cartographie concrète ensemble. Ça va nous servir pour le call OKR juste après, et surtout pour que je sache où mettre mon énergie en priorité dans les semaines qui viennent."*
 
 **Clés** :
 - Je **rappelle sa phrase à lui**, pas la mienne. Ancre directement.
@@ -260,7 +337,9 @@ Je creuse chaque décision avec ces 3 angles **sans commenter**. Je cherche la d
 
 **Observation 2 (outils éclatés)** — *"Sur les outils, j'ai l'impression qu'on a Monday + Notion + Drive + WhatsApp + Slack en parallèle, et personne ne sait où chercher quoi. Ça doit créer des heures perdues chaque semaine."*
 
-**Observation 3 (mécanisme nourrir la bête)** — à amener prudemment, pas frontalement : *"Il y a un truc qui me fait réfléchir aussi — j'ai l'impression que parfois quand toi tu prends le pouls auprès d'une personne en direct, comme tu sais le faire, la personne te raconte sa version qui est par définition partielle. Et après on doit décortiquer pour comprendre. Ce que je voulais te demander, c'est : est-ce que tu vois ça aussi ? Et qu'est-ce qu'on pourrait imaginer pour qu'on ait des infos plus structurées à te remonter ?"*
+**Observation 3 (300 process sans décisionnaire — proxy HO8)** — *"J'ai aussi vu un truc frappant côté delivery : il existe quelque part 300 process écrits, hérités, mais où aucun n'a de décisionnaire identifié. Donc concrètement, dès qu'un cas arrive, soit il remonte à toi, soit il remonte à Fabrice, soit il stagne. C'est probablement la même mécanique sur la finance, le support et le sales."*
+
+**Observation 4 (mécanisme nourrir la bête)** — à amener prudemment, pas frontalement : *"Il y a un truc qui me fait réfléchir aussi — j'ai l'impression que parfois quand toi tu prends le pouls auprès d'une personne en direct, comme tu sais le faire, la personne te raconte sa version qui est par définition partielle. Et après on doit décortiquer pour comprendre. Ce que je voulais te demander, c'est : est-ce que tu vois ça aussi ? Et qu'est-ce qu'on pourrait imaginer pour qu'on ait des infos plus structurées à te remonter ?"*
 
 **Cette dernière question** est le cœur du call. Elle invite Alec à **co-construire le cordon sanitaire**, sans le formuler comme une contrainte sur lui. Si Alec mord, je tiens HO15 et HO29 d'un coup.
 
@@ -288,6 +367,12 @@ Pour chacune des 3, on clarifie ensemble :
 **Cette section nourrit directement les OKR** — je peux le dire à Alec :
 
 > *"Ces 3-là, on les reprendra quand on sera avec Fabrice pour les OKR dans la foulée — ça va nous donner 1 ou 2 Key Results concrets."*
+
+**Si l'occasion s'y prête, embarquer les 4 sujets MAJ 28/4** :
+- Warning immersion ≠ scale → demander validation principe
+- Mandat Marrakech 20-25 mai → demander validation format
+- Insight Sabrina sur HO33 → si HO33 émerge
+- Matrice jurisprudence financière → mentionner le suivi
 
 ### 80-90 min — Clôture + règle du revirement
 
@@ -331,7 +416,7 @@ Puis transition vers le call OKR trio :
 | Piège | Pourquoi c'est dangereux |
 |---|---|
 | ❌ Arriver avec une liste pré-établie des nœuds | Contradiction avec la co-construction — tue le sens du call |
-| ❌ Citer Océane / Anisse / Axel / Fabrice par leur nom pour étayer mes observations | Triangulation — casse la confiance que ces personnes m'ont faite |
+| ❌ Citer Océane / Anisse / Axel / Fabrice / Sabrina par leur nom pour étayer mes observations | Triangulation — casse la confiance que ces personnes m'ont faite |
 | ❌ Nommer HO29 ou parler de "cycle vicieux" en jargon | Décrédibilise — Alec déteste le vocabulaire conseil |
 | ❌ Faire des promesses chiffrées en séance | Je ne connais pas encore le terrain — toute promesse est dangereuse |
 | ❌ Accepter trop de priorités | Si Alec veut 5-6 nœuds en priorité, je ramène à 3 max |
@@ -361,8 +446,12 @@ Puis transition vers le call OKR trio :
 
 - [[Alec Henry]] (historique de la conversation du 23 avril)
 - [[Prep - Règle du revirement écrit avec Alec]] (réponse d'Alec + HO29)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO8, HO15, HO28, HO29)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO8, HO15, HO28, HO29, HO37, HO38)
 - [[Prep - 1-to-1 Fabrice S1]] (inputs du call du 24 avril après-midi — nœuds d'exécution selon Fabrice)
+- [[Sabrina Dahel]] (inputs du call du 28 avril — diagnostic systémique + warning immersions M-3)
+- [[Ressource - Replay Sabrina 28 avril 2026]]
+- [[Ressource - Replay Alec Fabrice 27 avril 2026]]
+- [[Ressource - Core Meeting 27 avril 2026]]
 - [[Draft - Charte de délégation Fabrice]] (section 3b mandat d'accélération d'exécution)
 - [[Prep - Call OKR trio 1er mai]] (enchaînement direct)
 - [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]] (5 axes initiaux)

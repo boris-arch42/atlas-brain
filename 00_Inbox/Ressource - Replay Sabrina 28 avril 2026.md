@@ -162,15 +162,15 @@ Sabrina a tracé la corrélation : profils risqués (mindset / financier) + clie
 ## 🎯 Implications stratégiques consolidées
 
 ### Confirmation de hypothèses Boris (HO)
-- **HO sur silos** : confirmé à 100% (verbatim Sabrina sur les pôles enfermés depuis Antoine/Hugo)
-- **HO sur dégradation depuis Antoine/Hugo** : confirmé à 100% — moment où *"on a dissocié vraiment tous les pôles"*
-- **HO sur Mélissa** : confirmé à 200% — *"300 process sans décisionnaire"*, *"continue à créer le process de process de process"*
-- **HO sur Fabrice débordé** : confirmé latéralement (Fabrice dit *"bon courage"* à Sabrina sur le batch quotidien)
-- **HO sur dégradation profil client** : nuancée — la posture coach est sous-calibrée, pas le profil client qui est forcément moins bon
+- **HO8 (silos + pouvoir de décision)** : ultra-confirmé (verbatim Sabrina sur les pôles enfermés depuis Antoine/Hugo + 300 process sans décisionnaire)
+- **HO29 (cycle vicieux exécution)** : confirmé à 200% — *"300 process Mélissa"* = matérialisation parfaite de décisions actées qui n'avancent pas
+- **HO30 (sabotage Tang induit)** : confirmé indirectement — Sabrina date le tournant à *"l'arrivée d'Antoine et Hugo"*
+- **HO6 (Fabrice débordé)** : confirmé latéralement (Fabrice dit *"bon courage"* à Sabrina sur le batch quotidien)
+- **HO33 (dégradation profil client)** : nuancée — la posture coach est sous-calibrée, pas le profil client qui est forcément moins bon (60% des upsells veulent un coach + pushy)
 
 ### Nouvelles hypothèses émergentes
-- **HO35** : Le ticketing à 3 mois de délai sur des clients à 24K€ va générer un risque réputationnel imminent (avis Trustpilot, bouche-à-oreille). À monitorer en S1.
-- **HO36** : La matrice de "jurisprudence" financière demandée à Fabrice est un **proxy parfait du déficit de pouvoir de décision distribué**. Si elle existe en 30 jours = signal positif Fabrice. Si elle traîne = signal de saturation Fabrice qu'il faut aider.
+- **HO37** : Le ticketing à 3 mois de délai sur des clients à 24K€ va générer un risque réputationnel imminent (avis Trustpilot, bouche-à-oreille). À monitorer en S1.
+- **HO38** : La matrice de "jurisprudence" financière demandée à Fabrice est un **proxy parfait du déficit de pouvoir de décision distribué**. Si elle existe en 30 jours = signal positif Fabrice. Si elle traîne = signal de saturation Fabrice qu'il faut aider.
 
 ### Mandat Boris consolidé post-call
 | Sujet | Mandat | Timing |
@@ -224,7 +224,8 @@ Sur sa propre posture :
 - [[Fabrice Jaeger]] (matrice jurisprudence à demander pour S2)
 - [[Aziz Sfaihi]] (co-arbitrage Marrakech 20-25 mai sur discours sales)
 - [[Cédric De Saint Jean]] (à coordonner sur l'arrivée des leads / cadrage)
-- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO35 + HO36 à ajouter)
+- [[Tessie]] (CSM senior entrante semaine du 5 mai — onboarding par Sabrina)
+- [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO37 + HO38 ajoutées + HO8/HO29/HO30/HO33 enrichies)
 - [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] (immersion warning Sabrina à porter)
 - [[Ressource - Replay Alec Fabrice 27 avril 2026]] (cohérence parfaite — même diag silos/mélissa/fabrice débordé)
 - [[Ressource - Core Meeting 27 avril 2026]] (Sabrina = alliée structuration confirmée)
