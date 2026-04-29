@@ -130,6 +130,26 @@ Déjà documenté. Règles en place :
 
 ---
 
+## 🗣️ Glossaire jargon Alec
+
+> **Note** : Alec a son vocabulaire propre, mélange de codenames internes, d'argot business, et de raccourcis qui peuvent dérouter au début. À enrichir au fil des observations.
+
+| Terme Alec | Signification | Exemple d'usage |
+|---|---|---|
+| **Haïti** | **IT** (informatique / sécurité / infrastructure) | *"Audit de sécurité Haïti avec Mohamed"* (vocal 29/4) = audit IT, pas info géographique |
+| **Mohamed Haïti** | Mohamed dans sa fonction d'IT externe | *"Tu superviseras Mohamed Haïti pendant tout le mois de mai"* |
+| **Subs** | abonnements / subscriptions SaaS | *"Les Subs à attribuer individuellement"* (vocal 29/4) |
+| **Pirate** (à propos de Mohamed) | compétent techniquement mais non aligné sur l'intérêt entreprise | *"C'est un pirate, mais il est pas là dans l'intérêt de l'entreprise"* — pas une accusation de hacking littéral |
+| **Banger** | quelqu'un de top niveau / fiable | *"T'es un banger ?"* — formulation d'éloge typique Alec |
+| **Sous ton scope** / *"sous l'appart"* (probable typo vocal de "sous le scope") | dans ton périmètre de responsabilité | *"Tu centralises sous ton scope"* (vocal 29/4) — promotion implicite à owner permanent IT |
+| **Frérot** | terme affectif pour les proches collaborateurs | *"Tu as raison frérot"* (cas Alexis rapporté par Axel) |
+| **Le Déclic** | son podcast personnel (non interne) | hors périmètre Operating Partner |
+| **Faire couper les cartes** | révoquer accès / cartes Wayo | Action déjà faite il y a 5 mois (replay 28/4) |
+
+→ Glossaire à enrichir au fur et à mesure si d'autres codenames émergent.
+
+---
+
 ## Bio publique (source [[Dossier-de-presse-Le-Declic]] + [[Dossier-de-presse-Alec-Henry]])
 
 ### Profil
@@ -244,203 +264,73 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
-### 2026-04-23 soirée — Transmission directe de la proposition de règle du revirement + réponse d'Alec
+### 🔴 MAJ 2026-04-29 — Vocal direct sur audit IT Mohamed (premier mandat opérationnel direct)
 
-**Action Boris** : envoi direct du message à Alec au sujet du protocole d'alignement écrit sur les décisions en cours d'exécution (court-circuitant le timing tactique S3-S4 initialement prévu).
+**Source** : vocal Slack/WhatsApp Alec → Boris reçu le 29/4. Cf. [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] pour le contenu complet et l'analyse politique.
 
-**Raisonnement Boris** : *"On a une relation particulière puisqu'on travaille ensemble depuis de nombreuses années. Il répondra dans l'intérêt de l'entreprise et en toute honnêteté."*
+#### Premier mandat opérationnel direct Alec → Boris (avant prise de poste)
 
-**Posture choisie** : transparence directe plutôt qu'inversion de cadrage. Boris s'appuie sur le capital de confiance préexistant.
+C'est le **premier contact opérationnel direct** d'Alec à Boris pré-prise de poste, en dehors du cadrage du 23/4 et de la règle du revirement. Alec court-circuite légèrement Fabrice :
+> *"Je sais pas si j'avais demandé à Fabrice de te le partager."*
 
-**Réponse d'Alec (même soirée)** :
-> *"L'observation est correct. Faut que je développe se réflexe. Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."*
+**Lecture politique** :
+- L'urgence est réelle (Alec ne veut pas attendre le call 1er mai pour cadrer)
+- Le mandat est **acté en amont du call**, donc le call 1er mai n'a plus à valider — juste à confirmer/caler le calendrier
+- Petite friction potentielle avec Fabrice si pas re-cadré — Boris doit vérifier avant le call que Fabrice est aligné
 
-**Ce que la réponse révèle d'Alec** (important pour la compréhension long terme) :
+#### Lecture Alec sur Mohamed — verbatim
 
-1. **Capacité de recul authentique**. Alec reconnaît directement le pattern sans défensivité, sans triangulation (*"c'est Fabrice qui t'a demandé ça ?"*), sans minimisation.
-2. **Prise de responsabilité personnelle**. *"Faut que je développe se réflexe"* — il écrit *"je"*, pas *"on"*. Il assume seul, pas en collectif.
-3. **Transparence sur sa vraie frustration**. Le vrai nerf n'est pas ses revirements mais le **déficit d'exécution aval**. C'est une révélation majeure : sa *"impulsivité"* est probablement un symptôme de sa frustration face à la lenteur d'exécution, pas une cause primaire.
-4. **Capacité de co-pilotage**. Il ne se contente pas de valider ou refuser — il ajoute une dimension au problème. Signal fort de maturité co-gestionnaire.
+> *"Mohamed, c'est un pirate, mais il est pas là dans l'intérêt de l'entreprise, il a son intérêt. J'ai pas 100% confiance en lui. C'est pas que j'ai pas confiance en lui, mais j'ai pas 100% confiance en lui."*
 
-**Ce que ça confirme pour la relation avec Boris** : le capital de confiance pré-existant est réel, profond, utilisable pour des conversations difficiles en mode direct. **Le choix de Boris de transmettre directement était le bon**.
+**Décodage** :
+- *"Pirate"* (jargon Alec) = **compétent techniquement** (positif sur les skills)
+- *"Pas là dans l'intérêt de l'entreprise"* = **non aligné** (négatif sur l'alignement)
+- *"Pas 100% confiance"* (formulé 2 fois) = **réserve nette mais pas accusation forte**
 
-**Ce qui reste à faire** :
-- Boris répond à Alec (3 variantes proposées dans [[Prep - Règle du revirement écrit avec Alec]])
-- Consolider l'accord verbal en 1-to-1 S1
-- Cartographier en S1-S2 les nœuds d'exécution aval (cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO29)
+**Divergence latente avec Fabrice** :
 
-**Implications pour le mandat Operating Partner** :
+| Aspect | Fabrice (call 28/4) | Alec (vocal 29/4) |
+|---|---|---|
+| Compétence | Implicitement OK | Très compétent (*"pirate"*) |
+| Loyauté | *"Mon job c'est la sécurité, j'interviens pas"* (Mohamed à Fabrice pendant Tang) — rassurant | *"Pas là dans l'intérêt de l'entreprise"* — réservé |
+| Confiance | OK | Pas 100% (formulé 2x) |
+| Recommandation audit | Standard | Serré, surveiller "accès dérobés" |
 
-Alec vient de **valider implicitement le mandat d'exécution** qu'il a donné à Boris. Sa vraie frustration — les décisions qui n'avancent pas — est **précisément ce que Boris vient résoudre**. C'est la 2ème confirmation forte du bon cadrage de la prise de poste (la 1ère était le cadrage du 23 avril avec les 4 réponses vocales).
+**Posture Boris** : 
+- Audit serré au **niveau de paranoïa Alec**, pas Fabrice
+- **NE PAS relayer cette divergence** ni à Fabrice, ni à Mohamed, ni au call 1er mai
+- Lecture stratégique probable : la réserve d'Alec est **récente** (pas tang-historique) — possible lien avec l'épisode NAS/Shade où Alec a balancé *"vous êtes des couillons"* à Mohamed (cas d'école HO15). Friction qui a laissé une trace.
 
-Cf. [[Prep - Règle du revirement écrit avec Alec]] pour l'analyse complète + [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO15 (mise à jour) et HO29 (nouvelle).
-
-### 2026-04-24 après-midi — 1-to-1 Boris×Fabrice de 2h08 (validation éclatante)
-
-**Événement** : 1-to-1 pré-prise de poste entre Boris et Fabrice. Le call a couvert tous les sujets clés en transparence totale. **Aucun blocage**, validation des 3 principes (non-COO, non-héritage Alexis, règle revirement) avec enthousiasme. Cf. [[Fabrice Jaeger]] section MAJ 2026-04-24 pour les verbatims complets.
-
-**Ce que ce call révèle sur Alec** (par triangulation Fabrice) :
-
-1. **Pattern "nourrir la bête" cartographié précisément** — cf. section ci-dessus dans Patterns et risques.
-
-2. **Sabotage Tang validé** — Fabrice : *"En tout cas, c'était du sabotage, mais c'était bien exécuté."* Le retour d'Alec dans l'opérationnel sur conseil de Tang (avril-mai 2025) est diagnostiqué par les deux comme un déclencheur clair de la dégradation 2025. Ce n'est pas une dérive organique, c'est un pivot externe induit. **Implication** : la boîte a fonctionné en mode transverse sain de janvier à mars 2025 — retrouver cet état n'est pas une invention, c'est un retour. Cf. **HO30**.
-
-3. **Alec a tendance à valider sans solution concrète** — *"Alec ne fournira jamais de solution. [...] T'as juste à faire ça et voilà."* Boris valide, Fabrice valide. Implication : ne pas attendre d'Alec qu'il fournisse les comment, seulement les quoi et les pourquoi. Le comment, c'est mon mandat avec Fabrice.
-
-4. **Alec compare sans contexte** — Julien Scale (boutique de coaching personnel à ~300 balles le ticket) cité comme référence pour fixer les objectifs de recouvrement d'Entrepreneurs.com (tickets 8K-30K€, contexte radicalement différent). Pattern à désamorcer en S1.
-
-5. **Alec applique du low-cost mental sur des sujets seniors** — *"On aurait dû prendre un Philippin à 15 dollars/jour"* sur le data engineer Thomas Beaumelin (paye 5K€/mois pour structurer la data). Pattern : sous-estimation de la valeur ajoutée du senior, surestimation de l'économie offshore. À surveiller sur les recrutements futurs.
-
-6. **Validation forte de la posture "sous cloche"** — Boris : *"il faut le mettre sous cloche"*. Fabrice : *"c'est exactement ça que je cherchais"*. Le terme **"cordon sanitaire"** est adopté par Fabrice : *"l'info qui lui est remontée doit être structurée, documentée, expliquée sur de l'accomplissement."* C'est mon nouveau verbatim de référence pour le mandat.
-
-**Ce qui est validé par cette triangulation** :
-- HO8 (tout remonte à Alec) : confirmé et expliqué mécaniquement
-- HO15 (impulsivité) : confirmé et compris dans son origine (frustration d'exécution + nourriture de la bête)
-- HO29 (cycle vicieux) : confirmé, mécanisme documenté précisément
-- HO30 (sabotage Tang induit) : nouveau, validé par Fabrice avec date précise (avril-mai 2025)
-
-### 2026-04-24 17h00-18h14 — 1-to-1 Axel×Boris (1h14)
-
-**Événement** : 1-to-1 pré-prise de poste avec Axel (sortant juin 2026). Cf. [[Axel Bombezin]] section MAJ pour les verbatims complets.
-
-**Ce que ce call apporte sur Alec** (par triangulation Axel) :
-
-1. **Diagnostic affectif validé par 3e source** — Verbatim Axel : *"Alec, c'est un émotionnel, c'est un affectif. C'est l'un des seuls défauts d'Alec dans le business. Il virera pas Fabrice jusqu'à tant que ça soit presque trop tard."* Implication : Alec ne prendra **jamais l'initiative** de couper avec quelqu'un qu'il aime, même si c'est dans l'intérêt de la boîte. Cas Alexis confirme : Axel a alerté dès le recrutement, Alec a reconnu *"tu as raison frérot mais vire-le tout de suite ?"* puis *"non attends je lui laisse encore"*. Pattern systématique.
-
-2. **Le cas Alexis comme pattern compressé d'HO15** — Axel a alerté sur le mauvais recrutement en amont. Alec a refusé d'agir. 1 mois après : *"c'était n'importe quoi."* Et Alec dit : *"oh ** tu as raison frérot ! Mais vire-le tout de suite ?"* puis *"non attends, je lui laisse encore."* Pattern complet : (1) info disponible → (2) Alec refuse d'agir → (3) problème se matérialise → (4) Alec reconnaît l'erreur → (5) refuse encore d'agir immédiatement → (6) finalement règle quand c'est tard. **Le même pattern peut se rejouer sur tout sujet** : recrutement, partenariat, choix produit, alerte client, etc.
-
-3. **"Guerre des Titres" — origine d'HO30 confirmée** — Verbatim Axel : *"La Guerre des Titres elle commence avec l'arrivée de Tang."* Tang s'est mis très haut dans l'organigramme. Pour compenser, Alec a inventé un titre pour Fabrice. Ce qui a *"tué la propension de Fabrice à dicter des choses."* Renforce HO30 (sabotage Tang) avec un canal d'impact précis : la déstabilisation par les titres.
-
-4. **Pattern "justifier les titres au lieu d'agir"** — Verbatim Axel : *"Alec m'a carrément fait une réunion pour me justifier Alexis son titre. Je dis mais mec, je m'en bats les couilles."* Alec utilise les titres comme outils de validation émotionnelle, pas comme outils opérationnels. **Implication directe pour ma prise de poste** : si Alec veut à tout prix me donner un titre fancy (CEO, co-CEO), c'est probablement un signal qu'il essaye de **valider l'arrangé avec quelqu'un**, pas qu'il a une vraie stratégie de poste.
-
-5. **Vision incohérente** — Verbatim Axel : *"Tu écoutes Alec qui te dit 'j'ai la vision très claire sur les 5 prochaines années'. Le lendemain, tu vas me dire que tu veux stopper la boîte, virer tout le monde ?"* Renforce mon rôle : **proposer un cadre stable où Alec peut faire évoluer la vision sans tout détruire à chaque fois**.
-
-6. **Épargne sur les retours d'Amine Achour** — Verbatim Axel : *"Alec m'a parlé potentiellement d'un retour d'Amine Achour. Pas d'Alec [Amine, pas Alec]. Ce serait une bonne chose, mais il faut juste être sûr qu'il revienne réellement avec du temps, avec de l'implication."* Info à retenir : Alec envisage de rappeler des anciens. Risque d'écho avec mon propre retour : si je suis insuffisant, il appellera quelqu'un d'autre. Si j'ai trop de demi-engagements, je serai dilué.
-
-### 📊 Pression sur le titre — attention 24-48h post-call Axel
-
-**Axel a envoyé un vocal à Alec immédiatement après le call de 18h14** pour pousser la nomination Boris **COO** + Fabrice **General Manager** (pas CEO Boris — Axel parle de COO).
-
-**Probable réaction d'Alec dans les 24-48h** : il va re-questionner Boris sur le titre.
-
-**Position à tenir (option C)** : Boris est ouvert au titre **COO** (pas CEO) à deux conditions cumulatives :
-1. **Fabrice est promu officiellement General Manager** simultanément, avec organigramme cible publié
-2. **Sophia (co-COO juillet) clarifé ou ajourné** — sinon on aurait 2 COO + 1 GM ce qui n'a pas de sens
-
-Si Alec ne valide qu'une partie : Boris reste Operating Partner.
-Si Alec valide les deux : Boris accepte COO.
-
-**Phrase de positionnement à préparer pour Alec** :
-> *"Je suis ouvert au titre COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner — mieux vaut un titre temporaire propre qu'un titre officiel ambigu."*
-
-### 🔄 MAJ 2026-04-25 matin — Décision sur CTO (vocal Alec)
-
-Vocal d'Alec reçu le 25/4 au matin. Élements clés :
-
-#### Décision tranchée : Anisse n'est PAS la piste CTO
-
-Verbatim partiel : *"Anisse n'a pas les compétences de CTO, il a pas les compétences techniques, il a pas les compétences globales, ça l'intéresse pas. Il est un peu geek mais [pas expert]. Niveau UX, c'est pas son expertise. C'est juste encore une incompréhension de l'organigramme global. Par contre, le fait de gérer toute la [partie produit/contenu/coaching], ça oui."*
-
-**Position définitive d'Alec** : 
-- **CTO externe à Dubai** avec équipes externes en anglais
-- **Anisse reste sur Produit / Innovation / IA / Mastercoach** — pas la tech
-
-**Implication immediate pour ma posture** :
-- Le sujet CTO sort complètement de mon périmètre — c'est Alec qui pilote en direct
-- Je ne dois PAS aborder le sujet CTO avec Anisse au call de dimanche
-- Je n'ai pas à commenter ce choix avec qui que ce soit
-- L'orientation "équipes externes anglais" s'aligne avec la vision "core team transverse pour pays" qu'a partagée Fabrice (24/4)
-
-#### Rendez-vous Alec↔Anisse demain matin (26/4 9h-11h)
-
-Alec passe sa matinée avec Anisse et **propose explicitement à Boris de lui transmettre des sujets** à sonder.
-
-**Action immédiate (à faire avant samedi soir)** : envoyer à Alec un message court avec les 3-4 sujets que je veux qu'il sonde :
-1. Le **niveau de stimulation** d'Anisse (signal départ identifié par Axel)
-2. Sa **lecture de la vision** actuelle (HO31bis)
-3. Sa **réaction à la décision CTO externe** — c'est Alec qui peut l'amener avec tact
-4. Son **alignement sur le scope Produit/Innovation/IA élargi** (en lieu et place du CTO)
-
-**Pourquoi c'est important** : ça permet de :
-- Triangulation sur les questions sensibles (stimulation, vision) avant que je les aborde dimanche soir avec Anisse
-- Faire passer le message CTO via Alec, pas via moi (cordon sanitaire)
-- Créer un effet de coordination Alec↔Boris visible pour Anisse
-
-### 🛠️ MAJ 2026-04-27 après-midi — Side conformité TPE/PME proposé à Boris
-
-Dans la foulée du replay partagé, Alec a appelé Boris (~18 min) pour lui présenter un **side project** co-créé avec **Cédric Berrebi (fondateur de Bricks)** : SaaS de conformité réglementaire pour TPE/PME (document unique, sécurité incendie, RGPD, etc.).
-
-Boris a accepté en partenaire opérationnel (recherche closer + analyse commerciale + cut à confirmer). **Hors scope Operating Partner ENT** — allocation 0.5j/sem max sur ce side.
-
-→ Cf. [[Hub - Conformité TPE-PME]] et [[Replay - Boris x Alec 27 avril 2026]]
-
-**Note de gouvernance latente** : ce side leverage des actifs ENT (base clients, BPI/CCI, Le Déclic, banques en discussion). Question de convention d'utilisation à clarifier si la traction décolle, notamment vis-à-vis de Sophia entrante en juillet. À garder en tête, pas à ouvrir tant que c'est un test marché.
-
-### 🟢 MAJ 2026-04-27 — DÉCISION ACTÉE : Boris = Co-COO + roadmap Fabrice → GM
-
-**Source** : replay Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec à Boris). Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] pour les verbatims complets.
-
-#### Le titre est tranché — Co-COO
-
-Verbatim Alec à Fabrice :
-> *"Boris, pour moi, son rôle, c'est simple Co-COO. Comme ça, au moins, il n'y a pas de doute. Il était COO, il revient Co-COO à tes côtés, équivalence, vous avez juste un scope différent."*
-
-**Lecture politique** : Alec a acté **exactement** la position que la position option C visait, sans que Boris ait eu à la défendre. Aligné avec la proposition d'Axel du vocal du 24/4 (Boris COO + Fabrice GM), avec une phase de transition Co-COO simultanée.
-
-**Position Boris validée** : accepter Co-COO sans contestation au call du 1er mai.
-
-#### Roadmap Fabrice → General Manager Dubai
-
-Verbatim Alec à Fabrice :
-> *"Moi, j'aimerais t'enlever le titre de COO à terme pour que tu puisses être en mode General Manager. Le seul sujet, dans General Manager, il y a le mot manager, donc faudra vraiment voir si tu as envie de manager et comment. Et puis il y a la partie aussi Dubaï, et faudra qu'on en parle quand on se voit à Marrakech."*
-
-**Calendrier** : décision de la roadmap GM Fabrice à valider à Marrakech mi-mai (21-24 mai). Bloquée par scolarité fils Fabrice (homeschooling = no go) — donc conditionnée à stabilisation cessez-le-feu (~2.5 semaines selon Alec).
-
-#### Annonce officielle aux équipes : 1er JUIN (pas le 1er mai)
+#### Promotion implicite Boris — owner permanent IT/cybersec
 
 Verbatim Alec :
-> *"On va l'introduire, je pense, le 1er juin, tu vois, enfin début juin, là, quand on va faire le meeting mensuel."*
+> *"Tu centralises sous ton scope. T'as les compétences, t'es un banger. J'ai 100% confiance en toi."*
 
-**Implication majeure pour ma com** : la stratégie de com Slack publique du 1er mai matin **ne tient plus**. Calendrier officiel :
-- 1er mai : démarrage interne, pas de com publique
-- 2-20 mai : phase d'observation / 1-to-1 silencieux
-- 21-24 mai (Marrakech) : première apparition physique sans annonce de titre
-- **1er juin meeting mensuel : annonce officielle Co-COO + roadmap Fabrice GM**
+**3 actes simultanés** :
+- Validation compétence (*"banger"*)
+- Confiance maximale (*"100% confiance"*)
+- Centralisation IT/cybersec sous Boris (*"tu centralises sous ton scope"*)
 
-#### Mandat opérationnel immédiat — audit + négociation SaaS
+→ **L'IT/cybersec devient une zone permanente de Boris**, pas juste un mandat ponctuel de transition. À acter dans la **charte V2 Boris/Fabrice** : zone IT/cybersec = Boris owner explicite. Cohérent avec posture Co-COO + rôle "general manager de fait" (cf. HO31).
 
-Verbatim Alec :
-> *"Il faut donner cette tâche à Boris ou à je ne sais pas qui, avec Mohamed d'Haïti, tu vois, qu'on le rentabilise le mec."*
+#### Mandat opérationnel précis
 
-Cible : **70-100K€/an d'économies SaaS** (HubSpot, Zendesk, Aircall + fin Mohamed IT au 30 mai + NAS physique 1K€ pour économiser sur Google + suppression Klap). Nourrit KR2.5 du Plan trimestriel Q1.
+- **Calendrier** : tout le mois de mai (1er → 31), pas S2-S4 comme initialement supposé
+- **Périmètre élargi** : SaaS (négo/résiliation/mutualisation/internalisation) + cybersec (accès admin, MFA, comptes individuels) + rapatriement docs externes
+- **Économie** : 2 000€/mois post-Mohamed (24K€/an) confirmés
+- **Posture** : co-travail supervisé pendant tout le mois, pas passation post-départ
 
-#### Présentation Mithril/Aiko au Core du 4 mai
+→ Cf. [[Mohamed]] pour le plan d'audit détaillé en 5 phases.
 
-Alec demande explicitement la présentation Mithril au COMEX **le 4 mai** (J+3 prise de poste). Sujet à préparer dans les 5 prochains jours.
+#### Préparation call Alec 1er mai
 
-#### Risque départ Abdel signalé en privé (HO34 nouvelle)
+Le sujet F1 (passation Mohamed) du Prep Call Alec **bascule de "à valider" à "déjà acté"**. Boris doit :
+1. Accuser réception du vocal (vocal/Slack avant le call — ✅ Boris a déjà répondu)
+2. Caler le calendrier précis au call 1er mai
+3. Vérifier l'alignement Fabrice **avant** le call (neutre, sans relayer la position Alec)
+4. Préparer 2-3 questions de cadrage (budget audit cyber externe possible ? modalités com à Mohamed ?)
 
-Verbatim Alec : *"Ensuite Abdel, j'ai un point one-one avec lui parce qu'il décroche un peu et vraisemblablement il risque de démissionner d'ici 2 semaines maximum si ça continue."*
-
-→ Stub [[Abdel El Mahi]] créé. HO34 nouvelle dans les hypothèses. **Ne jamais relayer cette info à Abdel ou à un tiers** — Alec me l'a partagée en confiance.
-
-#### Réflexion produit majeure d'Alec (à surveiller)
-
-Verbatim Alec : *"Surtout que peut-être que je vais supprimer toutes les features. Tu verras, je suis en réflexion sur le produit. Mais en fait, ça va plus loin, ça va plus loin, mais c'est pas le sujet du call, je dois poser ma réflexion."*
-
-Alec en réflexion sur un pivot produit majeur, probablement en lien avec HO33 (dégradation profil client). À surveiller en S1-S2 sans pousser.
-
-#### Lecture politique du partage du replay
-
-Le fait qu'Alec partage **volontairement** ce replay à Boris (en plus du replay du Core Meeting) est un signal politique fort :
-- Il anticipe le rôle de relais opérationnel de Boris
-- Il met Boris dans la confidence Fabrice
-- Il aligne l'arrivée 1er mai sur une vision déjà partagée à 3
-- C'est cohérent avec la décision Co-COO
-
-**Verbatim Alec sur le partage** : *"Je vais partager le replay du weekly à Boris d'une part, je peux aussi partager le replay de ce call à Boris d'autre part, qu'il se rende compte de la densité de sujets sur lesquels tu es constamment."*
-
-→ Alec **anticipe le décalage** que Boris va opérer pour soulager Fabrice. Bon signal pour la posture de relais.
+→ Cf. [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] section MAJ 29/4.
 
 ### 🔄 MAJ 2026-04-26 — Triangulation Anisse confirme et reformule la cause racine
 
@@ -485,6 +375,203 @@ Verbatim Anisse — critique pour valider HO Fabrice fragile :
 
 → 4 sources concordantes maintenant sur le risque Fabrice (Boris obs + Fabrice auto-diag + Axel + Anisse). À garder en tête pour anticiper.
 
+### 🟢 MAJ 2026-04-27 — DÉCISION ACTÉE : Boris = Co-COO + roadmap Fabrice → GM
+
+**Source** : replay Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec à Boris). Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]] pour les verbatims complets.
+
+#### Le titre est tranché — Co-COO
+
+Verbatim Alec à Fabrice :
+> *"Boris, pour moi, son rôle, c'est simple Co-COO. Comme ça, au moins, il n'y a pas de doute. Il était COO, il revient Co-COO à tes côtés, équivalence, vous avez juste un scope différent."*
+
+**Lecture politique** : Alec a acté **exactement** la position que la position option C visait, sans que Boris ait eu à la défendre. Aligné avec la proposition d'Axel du vocal du 24/4 (Boris COO + Fabrice GM), avec une phase de transition Co-COO simultanée.
+
+**Position Boris validée** : accepter Co-COO sans contestation au call du 1er mai.
+
+#### Roadmap Fabrice → General Manager Dubai
+
+Verbatim Alec à Fabrice :
+> *"Moi, j'aimerais t'enlever le titre de COO à terme pour que tu puisses être en mode General Manager. Le seul sujet, dans General Manager, il y a le mot manager, donc faudra vraiment voir si tu as envie de manager et comment. Et puis il y a la partie aussi Dubaï, et faudra qu'on en parle quand on se voit à Marrakech."*
+
+**Calendrier** : décision de la roadmap GM Fabrice à valider à Marrakech mi-mai (21-24 mai). Bloquée par scolarité fils Fabrice (homeschooling = no go) — donc conditionnée à stabilisation cessez-le-feu (~2.5 semaines selon Alec).
+
+#### Annonce officielle aux équipes : 1er JUIN (pas le 1er mai)
+
+Verbatim Alec :
+> *"On va l'introduire, je pense, le 1er juin, tu vois, enfin début juin, là, quand on va faire le meeting mensuel."*
+
+**Implication majeure pour ma com** : la stratégie de com Slack publique du 1er mai matin **ne tient plus**. Calendrier officiel :
+- 1er mai : démarrage interne, pas de com publique
+- 2-20 mai : phase d'observation / 1-to-1 silencieux
+- 21-24 mai (Marrakech) : première apparition physique sans annonce de titre
+- **1er juin meeting mensuel : annonce officielle Co-COO + roadmap Fabrice GM**
+
+#### Mandat opérationnel immédiat — audit + négociation SaaS
+
+Verbatim Alec :
+> *"Il faut donner cette tâche à Boris ou à je ne sais pas qui, avec Mohamed d'Haïti, tu vois, qu'on le rentabilise le mec."*
+
+Cible : **70-100K€/an d'économies SaaS** (HubSpot, Zendesk, Aircall + fin Mohamed IT au 30 mai + NAS physique 1K€ pour économiser sur Google + suppression Klap). Nourrit KR2.5 du Plan trimestriel Q1.
+
+→ **Mandat consolidé le 29/4** par vocal direct Alec → Boris (cf. MAJ 29/4 ci-dessus). L'audit SaaS est désormais fusionné avec la passation cybersec Mohamed en un seul chantier sur le mois de mai.
+
+#### Présentation Mithril/Aiko au Core du 4 mai
+
+Alec demande explicitement la présentation Mithril au COMEX **le 4 mai** (J+3 prise de poste). Sujet à préparer dans les 5 prochains jours.
+
+#### Risque départ Abdel signalé en privé (HO34 nouvelle)
+
+Verbatim Alec : *"Ensuite Abdel, j'ai un point one-one avec lui parce qu'il décroche un peu et vraisemblablement il risque de démissionner d'ici 2 semaines maximum si ça continue."*
+
+→ Stub [[Abdel El Mahi]] créé. HO34 nouvelle dans les hypothèses. **Ne jamais relayer cette info à Abdel ou à un tiers** — Alec me l'a partagée en confiance.
+
+#### Réflexion produit majeure d'Alec (à surveiller)
+
+Verbatim Alec : *"Surtout que peut-être que je vais supprimer toutes les features. Tu verras, je suis en réflexion sur le produit. Mais en fait, ça va plus loin, ça va plus loin, mais c'est pas le sujet du call, je dois poser ma réflexion."*
+
+Alec en réflexion sur un pivot produit majeur, probablement en lien avec HO33 (dégradation profil client). À surveiller en S1-S2 sans pousser.
+
+#### Lecture politique du partage du replay
+
+Le fait qu'Alec partage **volontairement** ce replay à Boris (en plus du replay du Core Meeting) est un signal politique fort :
+- Il anticipe le rôle de relais opérationnel de Boris
+- Il met Boris dans la confidence Fabrice
+- Il aligne l'arrivée 1er mai sur une vision déjà partagée à 3
+- C'est cohérent avec la décision Co-COO
+
+**Verbatim Alec sur le partage** : *"Je vais partager le replay du weekly à Boris d'une part, je peux aussi partager le replay de ce call à Boris d'autre part, qu'il se rende compte de la densité de sujets sur lesquels tu es constamment."*
+
+→ Alec **anticipe le décalage** que Boris va opérer pour soulager Fabrice. Bon signal pour la posture de relais.
+
+### 🛠️ MAJ 2026-04-27 après-midi — Side conformité TPE/PME proposé à Boris
+
+Dans la foulée du replay partagé, Alec a appelé Boris (~18 min) pour lui présenter un **side project** co-créé avec **Cédric Berrebi (fondateur de Bricks)** : SaaS de conformité réglementaire pour TPE/PME (document unique, sécurité incendie, RGPD, etc.).
+
+Boris a accepté en partenaire opérationnel (recherche closer + analyse commerciale + cut à confirmer). **Hors scope Operating Partner ENT** — allocation 0.5j/sem max sur ce side.
+
+→ Cf. [[Hub - Conformité TPE-PME]] et [[Replay - Boris x Alec 27 avril 2026]]
+
+**Note de gouvernance latente** : ce side leverage des actifs ENT (base clients, BPI/CCI, Le Déclic, banques en discussion). Question de convention d'utilisation à clarifier si la traction décolle, notamment vis-à-vis de Sophia entrante en juillet. À garder en tête, pas à ouvrir tant que c'est un test marché.
+
+### 🔄 MAJ 2026-04-25 matin — Décision sur CTO (vocal Alec)
+
+Vocal d'Alec reçu le 25/4 au matin. Élements clés :
+
+#### Décision tranchée : Anisse n'est PAS la piste CTO
+
+Verbatim partiel : *"Anisse n'a pas les compétences de CTO, il a pas les compétences techniques, il a pas les compétences globales, ça l'intéresse pas. Il est un peu geek mais [pas expert]. Niveau UX, c'est pas son expertise. C'est juste encore une incompréhension de l'organigramme global. Par contre, le fait de gérer toute la [partie produit/contenu/coaching], ça oui."*
+
+**Position définitive d'Alec** : 
+- **CTO externe à Dubai** avec équipes externes en anglais
+- **Anisse reste sur Produit / Innovation / IA / Mastercoach** — pas la tech
+
+**Implication immediate pour ma posture** :
+- Le sujet CTO sort complètement de mon périmètre — c'est Alec qui pilote en direct
+- Je ne dois PAS aborder le sujet CTO avec Anisse au call de dimanche
+- Je n'ai pas à commenter ce choix avec qui que ce soit
+- L'orientation "équipes externes anglais" s'aligne avec la vision "core team transverse pour pays" qu'a partagée Fabrice (24/4)
+
+#### Rendez-vous Alec↔Anisse demain matin (26/4 9h-11h)
+
+Alec passe sa matinée avec Anisse et **propose explicitement à Boris de lui transmettre des sujets** à sonder.
+
+**Action immédiate (à faire avant samedi soir)** : envoyer à Alec un message court avec les 3-4 sujets que je veux qu'il sonde :
+1. Le **niveau de stimulation** d'Anisse (signal départ identifié par Axel)
+2. Sa **lecture de la vision** actuelle (HO31bis)
+3. Sa **réaction à la décision CTO externe** — c'est Alec qui peut l'amener avec tact
+4. Son **alignement sur le scope Produit/Innovation/IA élargi** (en lieu et place du CTO)
+
+**Pourquoi c'est important** : ça permet de :
+- Triangulation sur les questions sensibles (stimulation, vision) avant que je les aborde dimanche soir avec Anisse
+- Faire passer le message CTO via Alec, pas via moi (cordon sanitaire)
+- Créer un effet de coordination Alec↔Boris visible pour Anisse
+
+### 2026-04-24 17h00-18h14 — 1-to-1 Axel×Boris (1h14)
+
+**Événement** : 1-to-1 pré-prise de poste avec Axel (sortant juin 2026). Cf. [[Axel Bombezin]] section MAJ pour les verbatims complets.
+
+**Ce que ce call apporte sur Alec** (par triangulation Axel) :
+
+1. **Diagnostic affectif validé par 3e source** — Verbatim Axel : *"Alec, c'est un émotionnel, c'est un affectif. C'est l'un des seuls défauts d'Alec dans le business. Il virera pas Fabrice jusqu'à tant que ça soit presque trop tard."* Implication : Alec ne prendra **jamais l'initiative** de couper avec quelqu'un qu'il aime, même si c'est dans l'intérêt de la boîte. Cas Alexis confirme : Axel a alerté dès le recrutement, Alec a reconnu *"tu as raison frérot mais vire-le tout de suite ?"* puis *"non attends je lui laisse encore"*. Pattern systématique.
+
+2. **Le cas Alexis comme pattern compressé d'HO15** — Axel a alerté sur le mauvais recrutement en amont. Alec a refusé d'agir. 1 mois après : *"c'était n'importe quoi."* Et Alec dit : *"oh ** tu as raison frérot ! Mais vire-le tout de suite ?"* puis *"non attends, je lui laisse encore."* Pattern complet : (1) info disponible → (2) Alec refuse d'agir → (3) problème se matérialise → (4) Alec reconnaît l'erreur → (5) refuse encore d'agir immédiatement → (6) finalement règle quand c'est tard. **Le même pattern peut se rejouer sur tout sujet** : recrutement, partenariat, choix produit, alerte client, etc.
+
+3. **"Guerre des Titres" — origine d'HO30 confirmée** — Verbatim Axel : *"La Guerre des Titres elle commence avec l'arrivée de Tang."* Tang s'est mis très haut dans l'organigramme. Pour compenser, Alec a inventé un titre pour Fabrice. Ce qui a *"tué la propension de Fabrice à dicter des choses."* Renforce HO30 (sabotage Tang) avec un canal d'impact précis : la déstabilisation par les titres.
+
+4. **Pattern "justifier les titres au lieu d'agir"** — Verbatim Axel : *"Alec m'a carrément fait une réunion pour me justifier Alexis son titre. Je dis mais mec, je m'en bats les couilles."* Alec utilise les titres comme outils de validation émotionnelle, pas comme outils opérationnels. **Implication directe pour ma prise de poste** : si Alec veut à tout prix me donner un titre fancy (CEO, co-CEO), c'est probablement un signal qu'il essaye de **valider l'arrangé avec quelqu'un**, pas qu'il a une vraie stratégie de poste.
+
+5. **Vision incohérente** — Verbatim Axel : *"Tu écoutes Alec qui te dit 'j'ai la vision très claire sur les 5 prochaines années'. Le lendemain, tu vas me dire que tu veux stopper la boîte, virer tout le monde ?"* Renforce mon rôle : **proposer un cadre stable où Alec peut faire évoluer la vision sans tout détruire à chaque fois**.
+
+6. **Épargne sur les retours d'Amine Achour** — Verbatim Axel : *"Alec m'a parlé potentiellement d'un retour d'Amine Achour. Pas d'Alec [Amine, pas Alec]. Ce serait une bonne chose, mais il faut juste être sûr qu'il revienne réellement avec du temps, avec de l'implication."* Info à retenir : Alec envisage de rappeler des anciens. Risque d'écho avec mon propre retour : si je suis insuffisant, il appellera quelqu'un d'autre. Si j'ai trop de demi-engagements, je serai dilué.
+
+### 📊 Pression sur le titre — attention 24-48h post-call Axel
+
+**Axel a envoyé un vocal à Alec immédiatement après le call de 18h14** pour pousser la nomination Boris **COO** + Fabrice **General Manager** (pas CEO Boris — Axel parle de COO).
+
+**Probable réaction d'Alec dans les 24-48h** : il va re-questionner Boris sur le titre.
+
+**Position à tenir (option C)** : Boris est ouvert au titre **COO** (pas CEO) à deux conditions cumulatives :
+1. **Fabrice est promu officiellement General Manager** simultanément, avec organigramme cible publié
+2. **Sophia (co-COO juillet) clarifé ou ajourné** — sinon on aurait 2 COO + 1 GM ce qui n'a pas de sens
+
+Si Alec ne valide qu'une partie : Boris reste Operating Partner.
+Si Alec valide les deux : Boris accepte COO.
+
+**Phrase de positionnement à préparer pour Alec** :
+> *"Je suis ouvert au titre COO si on fait l'organigramme officiellement complet : Fabrice GM, et clarification sur Sophia. Sans ça, je préfère Operating Partner — mieux vaut un titre temporaire propre qu'un titre officiel ambigu."*
+
+→ **Sujet désormais résolu** par MAJ 27/4 (Co-COO acté par Alec, roadmap Fabrice GM enclenchée).
+
+### 2026-04-24 après-midi — 1-to-1 Boris×Fabrice de 2h08 (validation éclatante)
+
+**Événement** : 1-to-1 pré-prise de poste entre Boris et Fabrice. Le call a couvert tous les sujets clés en transparence totale. **Aucun blocage**, validation des 3 principes (non-COO, non-héritage Alexis, règle revirement) avec enthousiasme. Cf. [[Fabrice Jaeger]] section MAJ 2026-04-24 pour les verbatims complets.
+
+**Ce que ce call révèle sur Alec** (par triangulation Fabrice) :
+
+1. **Pattern "nourrir la bête" cartographié précisément** — cf. section ci-dessus dans Patterns et risques.
+
+2. **Sabotage Tang validé** — Fabrice : *"En tout cas, c'était du sabotage, mais c'était bien exécuté."* Le retour d'Alec dans l'opérationnel sur conseil de Tang (avril-mai 2025) est diagnostiqué par les deux comme un déclencheur clair de la dégradation 2025. Ce n'est pas une dérive organique, c'est un pivot externe induit. **Implication** : la boîte a fonctionné en mode transverse sain de janvier à mars 2025 — retrouver cet état n'est pas une invention, c'est un retour. Cf. **HO30**.
+
+3. **Alec a tendance à valider sans solution concrète** — *"Alec ne fournira jamais de solution. [...] T'as juste à faire ça et voilà."* Boris valide, Fabrice valide. Implication : ne pas attendre d'Alec qu'il fournisse les comment, seulement les quoi et les pourquoi. Le comment, c'est mon mandat avec Fabrice.
+
+4. **Alec compare sans contexte** — Julien Scale (boutique de coaching personnel à ~300 balles le ticket) cité comme référence pour fixer les objectifs de recouvrement d'Entrepreneurs.com (tickets 8K-30K€, contexte radicalement différent). Pattern à désamorcer en S1.
+
+5. **Alec applique du low-cost mental sur des sujets seniors** — *"On aurait dû prendre un Philippin à 15 dollars/jour"* sur le data engineer Thomas Beaumelin (paye 5K€/mois pour structurer la data). Pattern : sous-estimation de la valeur ajoutée du senior, surestimation de l'économie offshore. À surveiller sur les recrutements futurs.
+
+6. **Validation forte de la posture "sous cloche"** — Boris : *"il faut le mettre sous cloche"*. Fabrice : *"c'est exactement ça que je cherchais"*. Le terme **"cordon sanitaire"** est adopté par Fabrice : *"l'info qui lui est remontée doit être structurée, documentée, expliquée sur de l'accomplissement."* C'est mon nouveau verbatim de référence pour le mandat.
+
+**Ce qui est validé par cette triangulation** :
+- HO8 (tout remonte à Alec) : confirmé et expliqué mécaniquement
+- HO15 (impulsivité) : confirmé et compris dans son origine (frustration d'exécution + nourriture de la bête)
+- HO29 (cycle vicieux) : confirmé, mécanisme documenté précisément
+- HO30 (sabotage Tang induit) : nouveau, validé par Fabrice avec date précise (avril-mai 2025)
+
+### 2026-04-23 soirée — Transmission directe de la proposition de règle du revirement + réponse d'Alec
+
+**Action Boris** : envoi direct du message à Alec au sujet du protocole d'alignement écrit sur les décisions en cours d'exécution (court-circuitant le timing tactique S3-S4 initialement prévu).
+
+**Raisonnement Boris** : *"On a une relation particulière puisqu'on travaille ensemble depuis de nombreuses années. Il répondra dans l'intérêt de l'entreprise et en toute honnêteté."*
+
+**Posture choisie** : transparence directe plutôt qu'inversion de cadrage. Boris s'appuie sur le capital de confiance préexistant.
+
+**Réponse d'Alec (même soirée)** :
+> *"L'observation est correct. Faut que je développe se réflexe. Le fait est aujourd'hui que souvent les choses sont décidées mais n'avancent pas c'est surtout ça qui me frustre réellement."*
+
+**Ce que la réponse révèle d'Alec** (important pour la compréhension long terme) :
+
+1. **Capacité de recul authentique**. Alec reconnaît directement le pattern sans défensivité, sans triangulation (*"c'est Fabrice qui t'a demandé ça ?"*), sans minimisation.
+2. **Prise de responsabilité personnelle**. *"Faut que je développe se réflexe"* — il écrit *"je"*, pas *"on"*. Il assume seul, pas en collectif.
+3. **Transparence sur sa vraie frustration**. Le vrai nerf n'est pas ses revirements mais le **déficit d'exécution aval**. C'est une révélation majeure : sa *"impulsivité"* est probablement un symptôme de sa frustration face à la lenteur d'exécution, pas une cause primaire.
+4. **Capacité de co-pilotage**. Il ne se contente pas de valider ou refuser — il ajoute une dimension au problème. Signal fort de maturité co-gestionnaire.
+
+**Ce que ça confirme pour la relation avec Boris** : le capital de confiance pré-existant est réel, profond, utilisable pour des conversations difficiles en mode direct. **Le choix de Boris de transmettre directement était le bon**.
+
+**Implications pour le mandat Operating Partner** :
+
+Alec vient de **valider implicitement le mandat d'exécution** qu'il a donné à Boris. Sa vraie frustration — les décisions qui n'avancent pas — est **précisément ce que Boris vient résoudre**. C'est la 2ème confirmation forte du bon cadrage de la prise de poste (la 1ère était le cadrage du 23 avril avec les 4 réponses vocales).
+
+Cf. [[Prep - Règle du revirement écrit avec Alec]] pour l'analyse complète + [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO15 (mise à jour) et HO29 (nouvelle).
+
 ---
 
 ## Notes liées
@@ -495,8 +582,10 @@ Verbatim Anisse — critique pour valider HO Fabrice fragile :
 - [[Dossier-de-presse-Le-Declic]] (bio publique + podcast comme actif de marque)
 - [[Dossier-de-presse-Entrepreneurs]] (édito d'Alec)
 - [[Fabrice Jaeger]] (position capital à clarifier)
+- [[Mohamed]] (mandat audit IT direct vocal 29/4)
 - [[Alexis Gresoviac]]
 - [[Sophia]]
+- [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]]
 
 ## SOPs dont il est owner
 ```dataview

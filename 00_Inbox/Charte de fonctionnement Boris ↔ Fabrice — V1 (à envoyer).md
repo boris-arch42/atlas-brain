@@ -4,11 +4,12 @@ destinataire: "[[Fabrice Jaeger]]"
 auteur: "[[Boris Arduy]]"
 version: V1
 date-envoi: 2026-04-27
+date-feedback-fabrice: 2026-04-28
 canal-envoi: à-renseigner-par-boris
-status: envoyée-2026-04-27
+status: validée-V2-en-cours
 related: "[[Draft - Charte de délégation Fabrice]] (référence interne)"
 sensitivity: confidential
-tags: [charte, fabrice, V1, livrable, à-envoyer]
+tags: [charte, fabrice, V1, V2-pending, livrable, validée-call-28-4]
 ---
 
 > **⚠️ Note interne Boris (à supprimer avant envoi)** :
@@ -17,6 +18,76 @@ tags: [charte, fabrice, V1, livrable, à-envoyer]
 > Format d'envoi recommandé : **Google Doc partagé en édition** (pour qu'il puisse commenter/modifier) plutôt que Slack ou mail. Lui demander de relire/annoter avant le 2e call de mardi/mercredi.
 >
 > Tout ce qui est entre `[crochets]` est un commentaire interne à supprimer ou personnaliser avant envoi.
+
+---
+
+> 📋 **MAJ 2026-04-28 — Retours Fabrice au call 1h07 (inputs pour V2)** _(note interne Boris, à supprimer avant envoi V2)_
+>
+> Cf. [[Ressource - Replay Boris Fabrice 28 avril 2026]] pour le replay complet. Synthèse des retours Fabrice sur la V1 ci-dessous, à intégrer en V2.
+>
+> ## Validation globale
+>
+> Fabrice a lu la V1 envoyée le 27/4 et **valide la posture sans réserve**. Verbatim : *"Je vois pas trop d'overlap et je vois plutôt beaucoup de complémentarité."*
+>
+> **Posture canonique trouvée** par Fabrice à intégrer en V2 (probablement en intro section 1) :
+> > *"Moi je spec, voilà l'idée générale, voilà la vision, voilà à quoi on aimerait arriver — donc le brouillon. Toi derrière tu es l'architecte."*
+>
+> → Cette métaphore est **plus puissante** que la formulation actuelle "complémentarité". À adopter comme grammaire commune et propager au COMEX.
+>
+> ## Réponses point par point aux 7 questions à trancher
+>
+> **Q1 — Priorisation des P1 (onboarding RH > outils > closing > top 10 process)** :
+> Fabrice ne tranche pas explicitement l'ordre au call, mais clarifie un point critique : **la cartographie top 10 process N'EXISTE PAS encore**. Verbatim : *"C'est à nous peut-être justement de les cartographier ensemble et de se dire par quoi on commence."* → V2 doit refléter ce statut : la "stabilisation top 10 process" devient un **livrable de co-construction Boris+Fabrice à J+30**, pas une reprise d'existant.
+>
+> **Q2 — Cadence des rituels (30 min jeudi matin)** :
+> Pas de retour explicite au call 28/4. À confirmer au 2e call.
+>
+> **Q3 — Format output hebdo (Slack/Notion/Google Doc)** :
+> Fabrice tranche **Slack pour la doc et l'échange formel**, WhatsApp pour les urgences seulement. Méthode Fabrice avec Alec à propager : message Slack avec **CAPS LOCK + titre du sujet** (*"COMMISSION LAURENT TAPIE — ANALYSE MENSUELLE"*) puis tag, pour que ce soit retrouvable. Verbatim : *"Sinon c'est trop chiant à essayer de retrouver un document."* → V2 doit poser cette convention explicitement et proposer de la pousser au COMEX comme règle commune.
+>
+> **Q4 — Seuil règle du revirement (50K€)** :
+> Fabrice **nuance** la formulation. Verbatim : *"500K c'était plus par rapport à Alec, focaliser sur les trucs à gros montants. Le truc à 2-3K balles par mois, franchement..."* → la vraie ligne n'est pas un seuil monétaire simple. Distinguer 2 cas :
+> - **Engagements financiers structurants** (>50K€) : revirement écrit obligatoire
+> - **Décisions d'organisation d'équipe** (peu importe le montant) : revirement écrit obligatoire
+> - **Décisions opérationnelles courantes** (<50K€, pas d'impact équipe) : autonomie
+>
+> → V2 doit reformuler ainsi pour éviter le piège du seuil monétaire qui rend ridicule le micro-management Alec sur les frais à 250€ près (cf. cas Thomas Beaumelin payé 5250 vs 5000 mentionné par Fabrice).
+>
+> **Q5 — Communication aux équipes** :
+> Fabrice valide implicitement la position option C de Boris. Verbatim : *"Si on veut, il dit co-CEO parce que toi je veux plus que tu sois CEO. Si on a Sofia donc on se retrouve avec 3 co-COO, il y a un moment coucou, mais bon on trouvera."* → V2 doit refléter le timing : **annonce officielle au meeting mensuel du 1er juin** (pas le 1er mai), framing "Operating Partner" en attendant. Sophia reste à clarifier.
+>
+> **Q6 — Le Miro et les 7 process internes** :
+> Fabrice clarifie : les 7 process listés au call 24/4 sont **mentaux**, pas formalisés. Le Miro envoyé le 26/4 = lifetime client, pas top 10 process. La stabilisation top 10 process est un **livrable J+30 à co-construire**. Avec un principe owner critique : *"Le owner doit être au niveau des heads. Je vois pas des gens en dessous, c'est des gens qui sont soit prestat, soit là quelques mois."* → V2 doit poser ce principe (head owner par process) comme **fondation structurelle**, pas comme détail d'implémentation.
+>
+> **Q7 — Matrice KPI** :
+> Confirmé envoyée. À exploiter en S1.
+>
+> ## Ajustements supplémentaires V2 (issus du call)
+>
+> **Lignes rouges marketing/com/closing (section 5 actuelle)** :
+> Fabrice **nuance la formulation actuelle d'Alec**. Verbatim : *"Pour moi, t'as pas de carte blanche. Je suis pas forcément aussi catégorique [qu'Alec]."* → Boris peut intervenir sur des **sujets opérationnels** dans ces zones (ex : ops sur le marketing, frictions tech sales/marketing), juste pas sur le management direct des équipes. V2 doit reformuler section 5 pour refléter cette nuance, sans réécrire le mandat Alec.
+>
+> **Mandat passation cybersécurité Mohamed** :
+> Nouveau mandat sorti du call 28/4. Verbatim Fabrice : *"Il faut que tu récupères, t'assurer que d'un point de vue système et tout, lui il a pu laisser, qu'on soit clean cyber secure."* → V2 doit ajouter ce mandat dans la section 3 (priorités prises en charge), avec timing S2-S4 avant fin mai. Cf. [[Mohamed]] pour le suivi détaillé.
+>
+> **Co-construction matrice jurisprudence financière (avec Sabrina/Fabrice)** :
+> Issu du call Sabrina 28/4 + confirmé latéralement par Fabrice (cas mise en demeure 6500€ traité par Fabrice à 18h en 30 min). V2 doit ajouter ce nœud comme livrable Boris/Fabrice S2-S3.
+>
+> ## Statut V2
+>
+> - [x] V1 envoyée 27/4 + lue par Fabrice
+> - [x] Retours Fabrice consolidés au call 28/4 — voir ci-dessus
+> - [ ] V2 à rédiger en intégrant les 7 nuances + ajouts
+> - [ ] V2 à valider au 2e call Boris/Fabrice (mardi 28 OU mercredi 29 à confirmer — call déjà tenu le 28 18h, donc 2e call probablement mercredi 30)
+> - [ ] V2 partagée à Alec en S2 (semaine du 5 mai)
+>
+> ## ⚠️ Friction de calendrier
+>
+> Le 2e call mentionné dans la V1 ("mardi 28 ou mercredi 29") **a en fait eu lieu le mardi 28 à 18h** sous la forme du call 1h07 dont les retours sont consolidés ici. Donc :
+> - Soit la V2 est rédigée par Boris ce mercredi 30/4 + envoyée à Fabrice pour validation rapide avant le 1er mai
+> - Soit la V2 est rédigée mais validée seulement post 1er mai (acceptable, vu que Fabrice a déjà validé l'esprit V1)
+>
+> → Reco : rédiger V2 mercredi 30/4 en fin de journée, l'envoyer à Fabrice avec demande de validation par retour (pas de call nécessaire — le call 28/4 a tout couvert).
 
 ---
 
@@ -202,4 +273,3 @@ Boris
 ---
 
 *Version 1 — préparée le 27 avril 2026*
-

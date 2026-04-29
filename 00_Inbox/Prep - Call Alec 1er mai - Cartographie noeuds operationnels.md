@@ -19,6 +19,73 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🟢 MAJ 2026-04-28 19h SOIR (post call Boris↔Fabrice 1h07) — 3 sujets supplémentaires à porter au call Alec
+
+> Cf. [[Ressource - Replay Boris Fabrice 28 avril 2026]] pour le replay complet (1h07, J-3 prise de poste).
+>
+> Note chronologie : ce call s'enchaîne après le call cadrage Sabrina du même jour 17h-18h. Donc ces 3 sujets viennent **EN PLUS** des 4 sujets MAJ 28/4 SOIR (Sabrina) listés ci-dessous.
+
+### Sujet supplémentaire F1 — Mandat passation cybersécurité Mohamed (IT)
+
+Fabrice confirme au call que la décision Alec d'arrêter Mohamed IT (fin mai/début juin, économie 24K€/an, cf. replay Alec/Fabrice 27/4) **place Boris en charge de la passation cybersec** avant le départ.
+
+**Verbatim Fabrice (mandat opérationnel direct)** :
+> *"Il faut que tu récupères, t'assurer que d'un point de vue système et tout, lui il a pu laisser, qu'on soit clean cyber secure."*
+
+**À valider au call Alec** :
+- Calendrier de passation (4-6 semaines avant fin mai)
+- Périmètre de l'audit Boris : accès admin, MFA, certificats, backups, infra, scripts cron, comptes services
+- Communication à Mohamed (Boris vs Fabrice — qui pilote l'échange)
+- Ressource externe possible si audit cyber profond nécessaire (CASES — budget 5-10K€ ?)
+
+**À dire au call** :
+> *"Sur Mohamed IT — Fabrice m'a confirmé que tu veux qu'on arrête fin mai/début juin. Je prends la passation cybersec : audit accès / certificats / backups / scripts. Je propose de commencer en S2 pour avoir 4 semaines de glissement avant son départ. Tu veux qu'on lui parle ensemble ou tu préfères que ce soit Fabrice qui annonce et moi qui exécute ?"*
+
+⚠️ **Sensibilité non-bloquante** : Boris a alerté Fabrice sur le lien Tang potentiel (Boris a bossé avec Mohamed hors entrepreneurs.com sur projet IA Tang à l'époque). Fabrice a confirmé avoir parlé frontalement avec Mohamed au moment du conflit Tang — Mohamed a posé son cadre pro (*"mon job c'est la sécurité et la confidentialité"*). Pas de raison d'en faire un sujet politique avec Alec, sauf si Alec amène lui-même la question. Cf. [[Mohamed]] pour le suivi.
+
+### Sujet supplémentaire F2 — Co-construction process top 10 Boris+Fabrice (livrable J+30)
+
+Au call 28/4, Fabrice a clarifié un point important : **la cartographie des process top 10 N'EXISTE PAS encore**. Elle n'a pas été faite. Verbatim :
+> *"Stabilisation des process top 10, c'est à nous peut-être justement de les cartographier ensemble et de se dire par quoi on commence."*
+
+Et il pose un principe structurant pour le owner :
+> *"Le owner doit être au niveau des heads. Je vois pas des gens en dessous, c'est des gens qui sont soit prestat, soit là quelques mois."*
+
+→ **Tous les owners de fait du tableau Monday actuel se sont barrés** (Olivia, Nolwenn, blonde de la pédagogie, Thomas Rodier sur Levelups, etc.). Le turnover empêche toute stabilisation.
+
+**À valider au call Alec** :
+- Co-construction Boris+Fabrice de la matrice top 10 process avec head owner pour chaque (livrable cible J+30)
+- Validation du principe "owner = head, pas en dessous" comme cadre structurant
+- Lecture Alec sur les 3-5 process qu'il considère comme prioritaires à stabiliser en premier
+
+**À dire au call** :
+> *"Avec Fabrice on va co-construire la cartographie top 10 process pour J+30 — chaque process avec un head owner identifié (Aziz, Sabrina, Cédric, Anisse, Océane, Fabrice). C'est exactement ce qui te ferait sortir du goulot 'tout remonte à toi'. Tu valides l'approche ? Et si oui, sur les 10, lesquels tu mets en P1 dans ta tête ?"*
+
+→ Cohérence directe avec HO8/HO29 : faire descendre le pouvoir de décision aux heads via owner explicite + matrice de règles écrites (cf. HO38 matrice jurisprudence financière).
+
+### Sujet supplémentaire F3 — Convention com Slack / WhatsApp à pousser au COMEX
+
+Fabrice a livré une frustration concrète au call : *"J'ouvre mon téléphone le samedi soir, j'ai 12 messages WhatsApp dont 10 entrepreneurs.com."* Il propose une convention :
+- **WhatsApp** : urgences seulement
+- **Slack** : tout ce qui est documentation, échange formel, retrouvabilité (avec format CAPS LOCK + tag : *"COMMISSION LAURENT TAPIE — ANALYSE MENSUELLE"*)
+
+Cohérent avec décision Sabrina (sortie WhatsApp pour les Boards, cf. Core 27/4) — la même grammaire de discipline communication remonte de plusieurs heads.
+
+**À dire au call (en mode léger, pas un mandat formel)** :
+> *"Sur la com interne — Fabrice et Sabrina convergent sur une convention : Slack pour la doc et l'échange formel, WhatsApp pour les urgences seulement. Ça libère beaucoup de temps mental. Tu serais OK qu'on pousse ça au COMEX comme règle au prochain meeting ?"*
+
+**Position Boris** : pas un sujet à pousser fortement au call 1er mai (Alec peut être réticent — il utilise lui-même WhatsApp en flux). Si Alec dit oui = parfait. Si Alec hésite ou résiste = ne pas insister, ressortira plus tard quand un cas concret le justifiera.
+
+### Implications structurelles supplémentaires
+
+**Posture Boris/Fabrice désormais cadrée** : la métaphore canonique du call 28/4 est *"Fabrice spec / brouillon, Boris architecte"*. À utiliser comme grammaire commune pour expliquer la complémentarité au reste du COMEX et à Alec si question.
+
+**Niveau de validation Charte V1** : Fabrice a validé la V1 envoyée le 27/4. Quelques nuances pour V2 (seuil règle du revirement à recalibrer, lignes rouges marketing/com/closing à nuancer, convention Slack/WhatsApp à expliciter). Tout reste alignable au 2e call Boris/Fabrice (mardi/mercredi avant le 1er mai).
+
+**Point de friction Alec à anticiper** : Fabrice a partagé sa frustration sur le bug récent d'Alec qui regarde BigQuery comme un data analyst (et reproche à Fabrice/Thomas de ne pas avoir analysé) au lieu de demander à Aziz/Cédric (heads concernés). Cas d'école HO31 (trou management top). Si Alec amène ce sujet au call, formuler en termes **fonctionnels** : *"Le pattern data analyst doit revenir aux heads sales/marketing. Toi et Fabrice vous restez au niveau lecture macro et arbitrage."*
+
+---
+
 ## 🟢 MAJ 2026-04-28 SOIR (post call cadrage Sabrina) — 3 sujets supplémentaires à porter au call Alec
 
 > Cf. [[Ressource - Replay Sabrina 28 avril 2026]] pour le replay complet (60 min, J-3 prise de poste).
@@ -68,6 +135,8 @@ Sabrina apporte au call 28/4 un **insight qui requalifie partiellement HO33** :
 **À mentionner si HO33 émerge** (ne PAS l'ouvrir frontalement) :
 > *"J'ai eu un insight de Sabrina côté delivery : 60% des clients en upsell disent vouloir un coach plus pushy. Donc la posture est probablement plus à recalibrer que le profil à changer. C'est une bonne nouvelle, c'est plus actionnable. À voir comment on intègre ça à la réflexion produit."*
 
+⚠️ **Mise à jour 28/4 19h** : Fabrice apporte au call du soir 3 cas concrets de survente (papy 76 ans pitché *"0→2M finger in the nose, 14 coachs experts"* / argument *"rentabilise en 2 mois"* / dépendance 95% ads) qui complètent HO19. Sujet à amener si HO33 OU HO19 émerge — préférer un seul angle pour ne pas saturer.
+
 ### Sujet supplémentaire 4 — Démarrer la matrice jurisprudence financière (HO38)
 
 Sabrina a demandé à Fabrice une **matrice de "jurisprudence" financière** sur les remboursements / sorties anticipées : règles écrites du type *"dans tel cas de figure, on encaisse a minima tant"*.
@@ -81,6 +150,8 @@ Sabrina a demandé à Fabrice une **matrice de "jurisprudence" financière** sur
 **À dire au call (en complément du sujet titre Co-COO)** :
 > *"Une chose concrète sur le périmètre Fabrice : Sabrina lui a demandé une matrice 'jurisprudence' sur les remboursements et sorties anticipées. C'est exactement le type de chantier qui fait descendre le pouvoir de décision d'un cran. Je le suis avec Fabrice. Si à J+21 il n'a pas démarré, je propose qu'on co-construise. Tu valides l'approche ?"*
 
+⚠️ **Confirmation 28/4 19h** : au call Boris↔Fabrice, Fabrice traite en direct un cas mise en demeure 6500€ (30 min avec ChatGPT) — illustration parfaite de pourquoi cette matrice est critique. Cas à mentionner si Alec demande un exemple concret du besoin.
+
 ### Implications sur la cartographie nœuds opérationnels
 
 Ajouter aux 7 nœuds Fabrice cartographiés au 24/4 + nœuds Aziz du 28/4 :
@@ -88,6 +159,8 @@ Ajouter aux 7 nœuds Fabrice cartographiés au 24/4 + nœuds Aziz du 28/4 :
 - **Nœud "Matrice jurisprudence financière"** (HO38) — proxy concret pour casser HO8
 - **Nœud "Discours sales/delivery unifié"** — à traiter à Marrakech (Sabrina + Aziz + Boris)
 - **Nœud "Cadence M-3 immersions"** — à valider avec Alec en principe, déployer ensuite
+- **🆕 Nœud "Cartographie top 10 process avec head owner"** (call Fabrice 28/4 19h) — livrable Boris+Fabrice J+30
+- **🆕 Nœud "Passation cybersec Mohamed"** (call Fabrice 28/4 19h) — livrable Boris S2-S4 avant fin mai
 
 → La cartographie nœuds n'est plus à co-construire avec Alec — elle est **déjà construite**. L'enjeu du call devient : **valider la cartographie + faire choisir à Alec ses 3 priorités sur la liste**.
 
@@ -279,7 +352,7 @@ Nouveau **KR3.4 dans le plan trimestriel** dédié à la résilience marketing (
 ### Ce que je tiens en tête
 
 - **Alec m'a déjà donné la clé** : la vraie frustration = les décisions qui n'avancent pas. Je pars de là, pas de mon propre diagnostic.
-- **J'ai désormais les inputs de Fabrice** (call du 24 avril) sur les décisions non-exécutées de son point de vue. Je croise sans citer.
+- **J'ai désormais les inputs de Fabrice** (call du 24 avril ET 28 avril) sur les décisions non-exécutées de son point de vue. Je croise sans citer.
 - **J'ai aussi les inputs de Sabrina** (call du 28 avril) qui matérialise HO29 par les 300 process Mélissa sans décisionnaire. Je croise sans citer non plus.
 - **Je ne cite pas les équipes** (Océane, Anisse, Axel, Sabrina, Fabrice) pour éviter de trianguler. Je parle en "je vois", "j'entends", "j'observe".
 - **HO29** : le cycle vicieux HO8 (peur) + HO15 (impulsivité) + déficit d'exécution est probablement le mécanisme central. Le call doit tester cette hypothèse sans la nommer comme telle — je laisse Alec la découvrir par ses propres mots.
@@ -368,11 +441,14 @@ Pour chacune des 3, on clarifie ensemble :
 
 > *"Ces 3-là, on les reprendra quand on sera avec Fabrice pour les OKR dans la foulée — ça va nous donner 1 ou 2 Key Results concrets."*
 
-**Si l'occasion s'y prête, embarquer les 4 sujets MAJ 28/4** :
+**Si l'occasion s'y prête, embarquer les sujets MAJ 28/4** :
 - Warning immersion ≠ scale → demander validation principe
 - Mandat Marrakech 20-25 mai → demander validation format
 - Insight Sabrina sur HO33 → si HO33 émerge
 - Matrice jurisprudence financière → mentionner le suivi
+- 🆕 Co-construction top 10 process Boris+Fabrice (livrable J+30)
+- 🆕 Passation cybersec Mohamed (calendrier S2-S4 avant fin mai)
+- 🆕 Convention com Slack/WhatsApp (si moment léger)
 
 ### 80-90 min — Clôture + règle du revirement
 
@@ -448,7 +524,10 @@ Puis transition vers le call OKR trio :
 - [[Prep - Règle du revirement écrit avec Alec]] (réponse d'Alec + HO29)
 - [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] (HO8, HO15, HO28, HO29, HO37, HO38)
 - [[Prep - 1-to-1 Fabrice S1]] (inputs du call du 24 avril après-midi — nœuds d'exécution selon Fabrice)
-- [[Sabrina Dahel]] (inputs du call du 28 avril — diagnostic systémique + warning immersions M-3)
+- [[Sabrina Dahel]] (inputs du call du 28 avril 17h — diagnostic systémique + warning immersions M-3)
+- [[Fabrice Jaeger]] (inputs du call du 28 avril 18h — posture spec/architecte + mandat Mohamed + top 10 process)
+- [[Mohamed]] (passation cybersec à orchestrer)
+- [[Ressource - Replay Boris Fabrice 28 avril 2026]]
 - [[Ressource - Replay Sabrina 28 avril 2026]]
 - [[Ressource - Replay Alec Fabrice 27 avril 2026]]
 - [[Ressource - Core Meeting 27 avril 2026]]
