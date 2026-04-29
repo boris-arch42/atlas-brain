@@ -20,6 +20,82 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 - **Manager** : [[Alec Henry]]
 - **Reports directs** : Aziz (sales), Sabrina (delivery/CSM), Anis (produit/innovation/IA), Océane (com), Cédric (marketing) + Boris à partir du 1er mai (en parité, pas en hiérarchie). Soit 6 directs reports identifiés. Avant : ~15 personnes en direct, à des niveaux complètement déconnectés.
 
+## 🟢 MAJ 2026-04-28 — Call Boris↔Fabrice 1h07 — Charte V1 validée + posture "spec/architecte"
+
+> Voir replay complet : [[Ressource - Replay Boris Fabrice 28 avril 2026]]
+
+### Posture canonique trouvée — à conserver et propager
+
+Fabrice trouve la formulation qui résume tout le rapport de travail Boris/Fabrice :
+> *"Moi je spec, voilà l'idée générale, voilà la vision, voilà à quoi on aimerait arriver — donc le brouillon. Toi derrière tu es l'architecte."*
+
+Et il pousse l'image avec une métaphore concrète : il avait construit sa maison en faisant des PowerPoint pour les plans aux artisans, qui ont "halluciné" — l'architecte ensuite traduisait la spec brouillon en plans déployables. C'est ce que Fabrice attend de Boris : recevoir une vision/brouillon, et la traduire en architecture déployée.
+
+→ **À adopter comme grammaire commune Boris/Fabrice + propager au COMEX** (Anisse, Aziz, Sabrina). Permet de poser publiquement la complémentarité sans hiérarchie.
+
+### Charte V1 validée — quelques ajustements pour V2
+
+Fabrice a lu et valide la V1 envoyée le 27/4. Il valide explicitement :
+- **Pas d'overlap** entre Boris et lui : *"Je vois pas trop d'overlap et je vois plutôt beaucoup de complémentarité"*
+- **Les 3 conditions Boris** (specs validés + délais + budget) acceptées sans réserve
+- Boris pose son nouveau mode : *"Je vais prendre un Indien, je le supervise"* — Fabrice valide, *"100%, là-dessus j'ai pas de sujet"*
+
+**Ajustements à intégrer en V2** (réponses Fabrice aux 7 questions de la V1) :
+- **Q4 (seuil règle du revirement 50K€)** : Fabrice nuance — *"500K c'était plus par rapport à Alec, focaliser sur les trucs à gros montants. Le truc à 2-3K balles par mois, franchement..."* → Vrai seuil : >50K€ pour les engagements structurants ET principe pour les decisions stratégiques d'org équipe (peu importe le montant)
+- **Q5 (communication aux équipes)** : *"Si on veut, il dit co-CEO parce que toi je veux plus que tu sois CEO. Si on a Sofia donc on se retrouve avec 3 co-COO, il y a un moment coucou, mais bon on trouvera."* → Fabrice valide implicitement la position Boris option C
+- **Q6 (sujets internes / 7 process)** : ⚠️ La cartographie top 10 process **N'EXISTE PAS** encore — Fabrice clarifie : *"Stabilisation des process top 10, c'est à nous peut-être justement de les cartographier ensemble et de se dire par quoi on commence"*. À co-construire J+30.
+- **Q7 (matrice KPI)** : *"Matrice KPI ça je te l'ai envoyée"* — confirmé, à exploiter
+- **Slack vs WhatsApp** : *"WhatsApp j'ai pas de problème. Par contre, documentation ou truc comme ça, je le laisse dans Slack. Sinon c'est trop chiant à retrouver."* → V2 doit poser cette convention explicitement
+- **Lignes rouges marketing/com/closing** : Fabrice nuance — *"Pour moi, t'as pas de carte blanche"* sur ces zones. Il dit qu'il *"n'est pas aussi catégorique"* qu'Alec sur ces lignes rouges. Boris peut intervenir sur des sujets opérationnels, pas sur le management des équipes elles-mêmes.
+
+### 4 cas concrets ressortis du call (matière première)
+
+1. **Cas mise en demeure 6500€** : Fabrice gère en personne le soir avec ChatGPT (30 min). Devrait être au CSM/CFO post-18 mai. Confirmation directe HO38.
+2. **Cas Alexis "éléphant dans la pièce"** : Alexis répond à Fabrice ce matin sur l'onboarding RH "il y a pas de owner" alors que c'était sa mission depuis 3-4 mois. Confirmation HO29.
+3. **Cas papy 76 ans** : closer pitch *"0 → 2 millions finger in the nose, 14 coachs experts"*. Confirmation HO19.
+4. **Cas NAS/Shade/Blackbaize** : Alec balance *"vous êtes des couillons"* à Océane sans tenir compte de la spec (4 To Amine vs 70 To boîte). Cas d'école HO15.
+
+### Position Sophia confirmée réservée
+
+Boris demande l'opinion. Réponse Fabrice (paraphrasée) : 30-45 min de call, *"très assez plat"*, pas d'exemples concrets, *"c'est toujours un peu au cas par cas"*. Fabrice lui a demandé de retravailler son sales pitch, pas fait. Mais Alec et Anis emballés, donc Fabrice reste ouvert : *"Je peux qu'être agréablement surpris."* → Confirmation HO16 (scope Sophia à clarifier avant fin juin).
+
+### Owner = head, pas en dessous
+
+Position structurante confirmée par Fabrice :
+> *"Le owner doit être au niveau des heads. Je vois pas des gens en dessous, c'est des gens qui sont soit prestat, soit là quelques mois."*
+
+→ Levier d'action HO8/HO29 : pour la cartographie top 10 process à venir, **chaque process aura un head owner explicite** (Aziz, Sabrina, Cédric, Anis, Océane, Fabrice). Boris déploie, mais le head signe.
+
+### Critique des lundis COMEX
+
+Fabrice formule sa lecture du format actuel :
+> *"Pendant qu'un parle, les autres ils s'en branlent un peu. Ils te disent finalement des trucs que je sais déjà parce que j'ai accès aux datas, ou des banalités. C'est très pompeux."*
+
+Sa cible : revenir à ce qui marchait début 2025 — visibilité 30/90 jours sur les enjeux transverses, vraie concernance. → Confirmation HO30 + cohérence parfaite avec mandat Boris (revoir cadence COMEX en S1).
+
+### Mandat passation cybersécurité Mohamed (IT)
+
+⚠️ Sujet structurel à anticiper. Alec veut arrêter Mohamed fin mai/début juin. Mandat Fabrice à Boris :
+> *"Il faut que tu récupères, t'assurer que d'un point de vue système et tout, lui il a pu laisser, qu'on soit clean cyber secure."*
+
+Boris a alerté sur le lien Tang potentiel (Boris a bossé avec Mohamed hors entrepreneurs.com sur projet IA Tang). Fabrice rassure : *"Moi j'en ai parlé frontalement à Mohamed quand il y a eu le truc avec Tang. Son point c'est : 'Mon job c'est la sécurité, la confidentialité, c'est mon métier.'"* → Création stub [[Mohamed]] pour suivre la passation.
+
+### BigQuery — accès Boris confirmé OK
+
+Boris a accès au dashboard BigQuery. Fabrice peut tout remonter à terme (banques en cours via Odoo connectors).
+
+→ **Implication** : Boris peut commencer à analyser les datas dès J0. Pas de blocage info.
+
+### Implications sur le 1-to-1 S1 Fabrice
+
+Vu la densité du call 28/4 (1h07 de cadrage opérationnel), le 1-to-1 S1 prévu **n'a plus à servir à la cartographie de fonctionnement** — c'est fait. Refonte de la trame :
+- ❌ Annulation des 30 min "écoute large"
+- ✅ Garder : zoom sur les 3-5 nœuds prioritaires identifiés au call Alec 1er mai
+- ✅ Renforcer : co-construction matrice top 10 process (livrable J+30)
+- ✅ Ajouter : alignement sur la passation cybersec Mohamed (planning + risque)
+
+---
+
 ## 🟢 MAJ 2026-04-27 — Co-COO avec Boris acté + roadmap GM Dubai
 
 **Source** : replay Alec↔Fabrice du 27/4 (~70 min, partagé volontairement par Alec à Boris). Cf. [[Ressource - Replay Alec Fabrice 27 avril 2026]].
@@ -325,6 +401,7 @@ Zones de faiblesse reconnues par lui-même :
 - **Novembre 2025 - mars 2026** — Fabrice compense par le bas. Direct reports multipliés (~15 personnes), tous niveaux. Plus aucun fonctionnement horizontal effectif.
 - **23 avril 2026** — Annonce officielle du retour de Boris.
 - **24 avril 2026** — 1-to-1 pré-prise de poste de 2h08 avec Boris.
+- **28 avril 2026** — Call cadrage opérationnel 1h07 — charte V1 validée + posture "spec/architecte" trouvée.
 
 ## Postes précédents et parcours
 - **14 ans à New York** (verbatim Boris du cadrage 23/4 d'Alec)
@@ -336,17 +413,22 @@ Zones de faiblesse reconnues par lui-même :
 _Préférences de travail, contraintes, modes de communication qui marchent._
 
 - **Mode "dream scénario"** (verbatim) : *"Le matin quand j'arrive, je clique sur mon dashboard data, j'ai ma data. Je clique sur mon truc de process, j'ai mes process à jour. Je clique sur le côté RH : 'tiens, il y a un nouvel arrivant', boum, on doit déployer ça, c'est visuel, c'est orchestré."* → préfère les **dashboards visuels** aux meetings. Mes livrables doivent être au format dashboard / matrice / tableau.
-- **Préfère Slack > WhatsApp** : on l'avait acquis il y a 18 mois, à reverrouiller.
+- **Préfère Slack > WhatsApp** : on l'avait acquis il y a 18 mois, à reverrouiller. Confirmé au call 28/4 — Slack pour docs, WhatsApp seulement pour urgences.
 - **A créé un ChatGPT structurant avec Anis** pour générer des process à partir de vocaux. Outil utilisable, à vérifier en S1.
 - **Communication factuelle** : *"Moi j'essaie d'être factuel, franchement il y a un moment où…"* — pas de communication politique, parle direct quand il a confiance.
-- **A déjà cartographié 10 process clés + matrice de KPI** : *"Je pourrais te partager parce que je l'ai cartographié et j'ai fait un tableau de KPI qui est censé matcher la cartographie."* → **À demander en priorité** lundi 27/04.
-- **A fait un Miro de son organigramme cible**. À demander aussi.
+- **A déjà cartographié 10 process clés + matrice de KPI** : *"Je pourrais te partager parce que je l'ai cartographié et j'ai fait un tableau de KPI qui est censé matcher la cartographie."* → Matrice KPI envoyée. ⚠️ Mais au call 28/4, Fabrice a précisé que la cartographie top 10 process **n'existe pas encore comme telle** — à co-construire en S1-S2 avec Boris.
+- **A fait un Miro de son organigramme cible**. Reçu 26/4.
 - **Travaille le week-end et tard** par contrainte plus que par choix : *"Tout le monde travaille quand il veut [...] mais par contre tout le monde me contacte. Donc moi, que ça soit le matin ou dimanche 17h, il y a pas de sujet, on peut le contacter Fabrice."*
 
 ## Notes liées
 - [[2026-04-30 - Operating Partner chez Entrepreneurs.com]] (DR mère)
 - [[Accélérateur]] (plaquette qui révèle l'historique CEO)
 - [[Alec Henry]] (a repris le CEO)
+- [[Mohamed]] (passation cybersec à orchestrer)
+- [[Ressource - Replay Boris Fabrice 28 avril 2026]]
+- [[Ressource - Replay Alec Fabrice 27 avril 2026]]
+- [[Ressource - Miro Fabrice cartographie process]]
+- [[Charte de fonctionnement Boris ↔ Fabrice — V1 (à envoyer)]]
 
 ## SOPs dont il est owner
 ```dataview
