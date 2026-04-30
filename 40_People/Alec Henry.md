@@ -145,6 +145,8 @@ Déjà documenté. Règles en place :
 | **Frérot** | terme affectif pour les proches collaborateurs | *"Tu as raison frérot"* (cas Alexis rapporté par Axel) |
 | **Le Déclic** | son podcast personnel (non interne) | hors périmètre Operating Partner |
 | **Faire couper les cartes** | révoquer accès / cartes Wayo | Action déjà faite il y a 5 mois (replay 28/4) |
+| **Gros orteil de [référence]** | profil sous-calibré / dépendant d'une référence senior | *"Nicolas n'est que le gros orteil de Thomas Rodier"* (call 29/4 PM — verbatim Cédric repris par Alec) |
+| **Banger** | profil top niveau / fiable | *"T'es un banger ?"* (vocal 29/4 sur Boris) |
 
 → Glossaire à enrichir au fur et à mesure si d'autres codenames émergent.
 
@@ -263,6 +265,68 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 - _(à compléter à l'observation)_
 
 ## Interactions clés avec Boris — chronologie
+
+### 🔴 MAJ 2026-04-29 PM — 2e mandat direct du jour : vitrine Mithril/Aiko + workshop COMEX (à 6/7/8 mai)
+
+**Source** : call Recrutement Ops Marketing (Alec + Cédric + Anisse + Boris, 31 min, 13h35-14h06). Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]].
+
+#### 2e mandat direct Alec → Boris en 24h
+
+**Le matin (vocal Mohamed)** : audit IT + cybersec + SaaS sur tout le mois de mai → Boris owner permanent IT/cybersec post-mai.
+**L'après-midi (call Recrutement)** : déploiement Mithril/Aiko comme stack de référence pour TOUS les recrutements (coachs, sales, RH, partenaires) → Boris owner opérationnel immédiat.
+
+→ **En 24h, Alec a posé Boris comme owner sur 2 zones structurantes**. Bascule majeure de positionnement Operating Partner. Cohérent avec promotion implicite Co-COO actée au replay 27/4.
+
+#### Mandat 1 — Démarrage immédiat (29-30 avril → 1er mai)
+
+Verbatim Alec :
+> *"Techniquement, j'aimerais beaucoup, s'il vous plaît, qu'entre aujourd'hui et après-demain, on ait réussi à lancer via Aiko Mithril la recherche de ce profil évoqué ce jour ainsi que peut-être d'autres profils pour te faire gagner du temps toi Anis. Comme ça, ça permet aussi de s'approprier Mithril."*
+
+**Périmètre immédiat** : DataOps marketing (remplacement Nicolas) + profils supplémentaires équipe Naïma (chasse Anisse) ± changement de CM (Community Manager).
+
+#### Mandat 2 — Workshop COMEX 6/7/8 mai
+
+Verbatim Alec :
+> *"J'aimerais qu'on planifie soit le 6, soit le 7, soit le 8 mai un call qui va durer genre une heure avec Aziz, Claire, Fabrice, Océane, Sabrina aussi qui sera en replay, pour leur présenter justement toute la stack Mithril Aiko, le process de recrutement, et que sous leurs yeux tu crées de A à Z un recrutement."*
+
+**Format** : workshop avec **création en direct d'un recrutement réel** (probablement remplacement CM).
+
+**Posture qu'Alec veut faire passer** :
+> *"J'ai vraiment envie que les gens [...] se rendent compte de la puissance du bazar et qu'ils se disent un, ça me fait gagner du temps et deux, le machin il est meilleur que moi."*
+
+→ **Ce n'est PAS une démo technique. C'est un acte de bascule organisationnelle** — Mithril/Aiko devient l'outil de recrutement de référence pour TOUS les pôles. Levier énorme pour Boris (légitimité + traction Mithril) + léger délicate également (échec public = coût politique).
+
+#### Vision Alec confirmée — 2 Ops distincts à terme
+
+Verbatim Alec :
+> *"J'en aimerais 2 à terme. C'est vraiment un Ops qui connecte les trucs, qui branche les machins automatisation pour toute l'entreprise au global, et un même mec spécifiquement marketing, sales, communication."*
+
+| Profil | Rattachement |
+|---|---|
+| Ops "toute entreprise" (admin/RH/finance/connexions) | Équipe Automation IA d'**Anisse** (sujet du 5 mai) |
+| Ops "marketing/sales/com" unifié (revenus globaux) | Sous **Cédric** (recrutement immédiat — sujet du call 29/4) |
+
+→ **Cohérent HO35** (zone grise tech sales). La direction "Ops marketing/sales/com unifié" résout structurellement la zone grise Yoan/Wassim.
+
+→ **Cohérent organigramme cible** : Anisse étend son équipe Automation IA (cf. décision CTO du vocal 25/4 — Anisse reste sur Produit/Innovation/IA, pas tech).
+
+#### Verbatim cru sur Nicolas (à archiver, ne JAMAIS relayer)
+
+Deux verbatims durs d'Alec sur Nicolas (sortant) au call :
+> *"On garde uniquement par dépit et pas parce que c'est un talent."*
+>
+> *"Nicolas n'est que le gros orteil de Thomas Rodier."* (citation par Alec d'un mot de Cédric)
+
+→ **À ajouter au glossaire jargon Alec** : *"gros orteil de [référence]"* = formulation d'Alec/Cédric pour qualifier un profil sous-calibré par rapport à un benchmark interne. Registre cru typique. **Ne jamais relayer à l'extérieur du cercle COMEX**.
+
+#### Préparation call Alec 1er mai
+
+**Sujet à ajouter à la prep** :
+- Confirmation deadline 30 avril sur le lancement annonces (déjà acté, juste signaler avancement)
+- Cadrage workshop Core 6/7/8 mai (date précise + format final + casting)
+- Articulation Ops "toute entreprise" (Anisse) vs Ops "marketing/sales/com" (Cédric) — sujet du 5 mai à cadrer
+
+→ Cf. [[Prep - Call Alec 1er mai - Cartographie noeuds operationnels]] section MAJ 29/4 PM.
 
 ### 🔴 MAJ 2026-04-29 — Vocal direct sur audit IT Mohamed (premier mandat opérationnel direct)
 

@@ -20,6 +20,12 @@ Chaque side a son **propre sous-dossier** avec :
 
 ## 📂 Sides actifs
 
+### 🪶 [[Mithril/README|Mithril — Hub de capitalisation produit]]
+- **Owner** : Boris (entreprise principale)
+- **Statut** : actif — cas client interne ENT depuis 29 avril 2026
+- **Mon rôle** : capter feedback / frictions / insights produit issus du déploiement ENT pour faire évoluer Mithril
+- **Note positionnement** : Mithril n'est pas un side classique, c'est l'entreprise principale. Ce hub sert uniquement à capter les apprentissages issus du déploiement ENT, pas à piloter Mithril (qui se fait sur Notion / Linear Mithril).
+
 ### 🏛️ [[Conformité TPE-PME/README|Conformité TPE-PME]]
 - **Co-fondateurs** : Alec Henry + Cédric Berrebi (Bricks)
 - **Démarré** : 27 avril 2026

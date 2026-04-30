@@ -20,6 +20,53 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 - **Projet transverse connu** : plateforme `work.entrepreneurs.com`
 - **Piste de promotion** : pressenti CTO (malgré le fait qu'il n'est pas développeur)
 
+## 🆕 MAJ 2026-04-29 PM — Confirmation équipe Automation IA élargie (call Recrutement Ops Marketing)
+
+> Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]] pour le replay complet (31 min, Alec + Cédric + Anisse + Boris).
+
+### Vision Alec confirmée — équipe Automation IA d'Anisse s'élargit
+
+Alec a clarifié au call sa vision à terme — **2 Ops distincts** :
+
+| Profil | Rattachement |
+|---|---|
+| **Ops "toute entreprise"** (admin/RH/finance/connexions) | Équipe Automation IA d'**Anisse** — sujet du 5 mai à cadrer |
+| **Ops "marketing/sales/com"** unifié | Sous **Cédric** — recrutement immédiat (sujet du call 29/4) |
+
+Verbatim Alec :
+> *"Quand je dis toute l'entreprise, c'est toute la partie admin, comme Wassim il a fait beaucoup, RH, finance, ça, la connexion, etc., ça peut s'intégrer dans l'équipe Automation IA. Ça sera typiquement le sujet du 5 mai potentiellement."*
+
+→ **Cohérent avec décision CTO du vocal 25/4** : Anisse reste sur Produit/Innovation/IA (pas tech), MAIS son scope s'élargit avec un Ops "toute entreprise" intégré à sa team Automation IA.
+
+→ **Action S1** : ce "sujet du 5 mai" est à cadrer entre Alec, Anisse et Boris. Probable extension Wassim ou nouveau profil. À capter au 1-to-1 Anisse S1 sa lecture de l'élargissement.
+
+### Posture collaborative confirmée sur la stack Mithril/Aiko
+
+Anisse a posé les **bonnes questions de validation** au call (signaux de bon profil utilisateur de la stack) :
+
+1. *"Pour les questions, ça pose les questions qu'on lui donne dans l'ordre ou bien ça interagit et ça se débrouille pour avoir les réponses ?"* → question pivot adaptatif vs trame logique. Réponse Boris : adaptatif.
+
+2. *"Nous on travaille aujourd'hui principalement avec Join, Welcome to the Jungle. [...] Comment on peut être aussi bon que les diffusions via Join ?"* → question pratique sur la couverture multi-plateforme.
+
+3. *"Nous on peut sélectionner les gars avec qui on a envie d'aller plus loin. C'est top, moi je fais pareil du coup de mon côté, dès que je valide avec Alec qu'est-ce qu'on doit recruter et pour quand, et comme ça on garde ce même process."* → **engagement explicite** à utiliser la stack Mithril pour ses recrutements futurs (équipe Naïma).
+
+→ **Anisse devient un allié immédiat sur la vitrine Mithril** — il va l'utiliser, donner du feedback structuré, valider/désamorcer les réticences potentielles d'autres heads. Cohérent avec sa posture canonique "adoption > création" (cf. logs d'utilisation + backlog d'agents).
+
+### Stratégie de recrutement Anisse — verbatim canonique à retenir
+
+> *"Aller les chercher, aller les sonder, les pêcher, jeter les filets."*
+
+> *"L'expérience plus que les diplômes et les certifications."*
+
+> *"Au Maroc, les mecs ils ont déjà tous les tags, ils sont déjà tagués sur business en ligne, business, make money, marketing, IA. Donc ils sont déjà targeted et ils font déjà leur veille."*
+
+Approche structurée proposée par Anisse :
+1. **Levier 1 (majeur)** : réseau et recommandation — quelqu'un qui nous est recommandé puis qu'on teste
+2. **Levier 2 (complément)** : annonces ciblées Maroc/Madagascar avec rémunération max non communiquée mais déjà connue + ads Meta possible (test à faire)
+3. **Statut** : Upwork pour phase de test (15% surcoût mais agilité contractuelle), bascule auto-entrepreneur ensuite
+
+→ **À capter pour Mithril** : cette logique "Upwork pour test → contrat ensuite" est un workflow Mithril potentiel à créer nativement dans le produit. Cf. [[Hub - Mithril]].
+
 ## 🆕 MAJ 2026-04-28 — Sujets concrets révélés par Aziz (1-to-1 Boris×Aziz)
 
 2 sujets à amener à Anisse en S1, identifiés lors du 1-to-1 Boris×Aziz du 28/4 :

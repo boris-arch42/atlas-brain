@@ -42,6 +42,54 @@ Il a aussi taquiné Anisse sur Marcus (*"Laurent, c'est un gros morceau à gére
 
 **Convergence quadruple-source** : 4 signaux indépendants concordants. **Confiance ≈ certitude.**
 
+## 🆕 MAJ 2026-04-29 PM — Posture coopérative au call Recrutement Ops Marketing (à observer)
+
+> Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]] pour le replay complet (31 min, Alec + Cédric + Anisse + Boris).
+
+### Signal en surface : posture coopérative et constructive
+
+Au call du 29/4 PM (~31 min), Cédric apparaît **constructif et coopératif** :
+- ✅ A déjà partagé en DM les éléments sur l'intégrateur à recruter
+- ✅ Demande spontanément à Boris : *"Si tu as la fiche de poste c'est parfait, moi comme ça je ferai une espèce de contre-fiche de poste via mon système"* — accepte l'aide Boris
+- ✅ Pose des questions précises et techniques sur Mithril/Aiko (ads Maroc/Madagascar, score CV vs questionnaire)
+- ✅ Structure son pôle avec 3 briques en cours : intégrateur + responsable webinaire + DataOps remplaçant Nicolas
+- ✅ Confirme la décision de sortir Nicolas (verbatim repris par Alec : *"Nicolas n'est que le gros orteil de Thomas Rodier"*)
+
+### Lecture critique : posture publique ≠ état privé
+
+⚠️ **NE PAS lire ce signal comme une invalidation HO32**. La posture publique constructive peut masquer une lassitude privée. Hypothèses possibles :
+
+| Hypothèse | Lecture |
+|---|---|
+| **A** : Cédric va bien, HO32 obsolète | Possible mais peu probable au vu des 4 sources convergentes |
+| **B** : Cédric structure pour partir proprement | Probable — *"Je structure mon pôle avec 3 briques solides pour pouvoir partir sans laisser le bordel"* |
+| **C** : Cédric reprend l'air sur fond de soutien Alec/Boris | Possible — l'arrivée de Boris + la stack Mithril peuvent re-engager temporairement |
+| **D** : Cédric joue le jeu en public, exprime sa vraie position en 1-to-1 | Très probable au vu des 4 sources |
+
+→ **À valider en 1-to-1 S1 dédié**. Le call Mithril est un cadre **opérationnel collectif**, pas un espace de confidence. La posture coopérative observée n'est pas représentative.
+
+### Signal positif à capter : 3 briques de recrutement comme cadeau d'arrivée
+
+Cédric va recruter dans les 30-45 jours :
+1. **DataOps marketing** (remplacement Nicolas) — full-time, sujet du call 29/4
+2. **Responsable opérationnel webinaire** — 2-3K€/mois, brique nouvelle
+3. **Intégrateur** — déjà partagé en DM, partie tech branchement
+
+→ **Levier d'aide concret immédiat pour Boris** : si je délivre 3 recrutements de qualité via Mithril en 30-45 jours, je rends à Cédric 30-50% de sa bande passante recrutement. C'est exactement le "cadeau d'arrivée" cherché en S1-S2 (cf. trame 1-to-1 ci-dessous).
+
+### À ne PAS faire au 1-to-1 S1
+
+- ❌ Citer le call Recrutement comme preuve qu'"il va bien" — invaliderait son ressenti privé
+- ❌ Présupposer que la coopération sur Mithril = engagement long terme
+- ❌ Lui poser frontalement *"vu ta dynamique du 29/4, ça va mieux ?"* — naïf et désarmant
+
+### À faire au 1-to-1 S1
+
+- ✅ Reconnaître concrètement les 3 briques en cours comme **structuration ambitieuse**
+- ✅ Proposer mon aide opérationnelle sur ces 3 briques (Mithril/Aiko + workshop COMEX 6/7/8 mai = ma livraison concrète)
+- ✅ Garder ouverte la zone "ce qui te bouffe" — la coopération publique ne supprime pas la lassitude privée
+- ✅ Observer s'il mentionne spontanément l'horizon long terme ou s'il reste sur le court terme (signal indirect)
+
 ## 🆕 MAJ 2026-04-28 — Zone grise Yoan/Wassim révélée par Aziz (HO35)
 
 Au 1-to-1 Boris×Aziz du 28/4, Aziz a révélé spontanément :

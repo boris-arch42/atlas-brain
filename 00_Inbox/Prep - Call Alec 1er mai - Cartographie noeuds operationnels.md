@@ -19,6 +19,74 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## 🔴 MAJ 2026-04-29 PM (post call Recrutement Ops Marketing) — 2e mandat direct du jour
+
+> Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]] pour le replay complet (31 min, Alec + Cédric + Anisse + Boris).
+>
+> Note chronologie : c'est le **2e mandat direct Alec → Boris en 24h** après le vocal IT du matin. Bascule de positionnement majeure.
+
+### Sujet supplémentaire M1 — Avancement annonces Mithril/Aiko (deadline 30 avril)
+
+Alec a posé au call la deadline : **lancement effectif des annonces Mithril/Aiko entre aujourd'hui et après-demain** (29-30 avril → 1er mai). Périmètre :
+- DataOps marketing (remplacement Nicolas) — fiche de poste Cédric en prep
+- Profils supplémentaires équipe Naïma (chasse Anisse)
+- Potentiel changement de CM (Community Manager)
+
+**À dire au call (rapide — pas re-discussion)** :
+> *"Sur ton mandat Mithril d'hier : annonces lancées au 30 avril, premières candidatures qui rentrent dans le funnel ce week-end / lundi matin. Je récapé mardi soir avec Cédric et Anisse."*
+
+→ **Status report, pas validation**. Le mandat est acté, juste signaler avancement. 30 secondes max.
+
+### Sujet supplémentaire M2 — Cadrage workshop COMEX 6/7/8 mai (1h)
+
+Alec a proposé le format au call 29/4 : **workshop ~1h** avec Aziz + Claire + Fabrice + Océane + Sabrina (replay), avec **création en direct d'un recrutement réel** sous les yeux du COMEX.
+
+**À valider au call Alec 1er mai** :
+- Date précise (6, 7 ou 8 mai ?) — Fabrice planifie
+- Casting final : Sabrina en replay confirmé ? Anisse présent ou non ?
+- Cas concret : remplacement CM ? autre ? (Alec a suggéré CM au call)
+- Coordination Océane sur la **page LinkedIn Entrepreneurs.com** (Alec : *"il faut aussi synchroniser avec Océane pour la page LinkedIn comme ça on pousse directement là-dessus"*)
+
+**À dire au call** :
+> *"Sur le workshop COMEX que tu as proposé hier — le 6, 7 ou 8 mai à caler avec Fabrice. J'imagine 1h, création d'un vrai recrutement en direct (probablement le CM que tu as mentionné). Tu veux quel casting exactement — Aziz, Claire, Fabrice, Océane suffisent ou tu veux Anisse aussi ? Et je coordonne avec Océane sur la page LinkedIn pour qu'on pousse l'annonce le jour même ?"*
+
+**Posture Boris** : prendre le sujet en pilotage complet, demander juste la validation casting + cas test. Pas de discussion sur le format — la décision Alec était claire au call 29/4.
+
+### Sujet supplémentaire M3 — "Sujet du 5 mai" : Ops "toute entreprise" dans équipe Anisse
+
+Alec a mentionné au call : *"Ça sera typiquement le sujet du 5 mai potentiellement"* en parlant de l'Ops "toute entreprise" (admin/RH/finance/connexions) qui s'intègre dans la team Automation IA d'Anisse.
+
+**À valider au call Alec** :
+- Le 5 mai, c'est un call spécifique avec Anisse ou un point dans le Core ?
+- Boris présent ou pas ? Si oui, en pilotage ou en écoute ?
+- Articulation avec le "sujet du 4 mai" (présentation Mithril Core, cf. replay 27/4) — même sujet éclaté ou 2 sujets différents ?
+
+**À dire au call** (en mode léger) :
+> *"Tu as mentionné hier le 'sujet du 5 mai' sur l'Ops 'toute entreprise' dans la team Anisse. C'est un call spécifique avec lui ou un point au Core ? Et j'imagine que tu veux qu'on l'articule avec le sujet du 4 mai sur Mithril ?"*
+
+**Position Boris** : laisser Alec préciser. Pas un sujet majeur du call 1er mai, juste capter le calendrier exact.
+
+### Implication structurelle : 2 zones structurelles déjà actées par Alec en 24h
+
+| Zone | Mandat | Date acte | Owner |
+|---|---|---|---|
+| **IT / cybersec / SaaS** | Audit IT mai 2026 (Mohamed co-supervisé) + owner permanent post-mai | Vocal 29/4 matin | Boris (avec Mohamed mai, seul post-mai) |
+| **Recrutement Mithril/Aiko** | Déploiement stack référence pour TOUS les recrutements + workshop COMEX 6/7/8 mai | Call 29/4 PM | Boris |
+
+→ **Cohérent avec promotion implicite Co-COO** actée au replay 27/4 (verbatim Alec : *"Boris, pour moi, son rôle c'est simple Co-COO"*). Les 2 mandats du 29/4 sont les **premières zones structurantes propres à Boris**.
+
+→ **À acter dans charte V2 Boris/Fabrice section 3** : Boris owner explicite sur (1) IT/cybersec post-mai et (2) recrutement-Mithril. Cohérent avec posture spec/architecte (Fabrice spec, Boris architecte sur ces zones).
+
+### Posture générale au call 1er mai sur ces sujets
+
+- ✅ **Status court** sur M1 (annonces Mithril) — 30 secondes, ne pas s'étendre
+- ✅ **Validation casting + cas test** sur M2 (workshop COMEX) — 2-3 minutes max
+- ✅ **Capter le calendrier** sur M3 (sujet 5 mai) — 1 minute max
+- ❌ **Ne PAS re-débattre** des mandats eux-mêmes — Alec a tranché, on cale
+- ❌ **Ne PAS souligner** les 2 mandats comme une promotion — Alec n'aime pas qu'on relève
+
+---
+
 ## 🔴 MAJ 2026-04-29 (post vocal Alec) — Sujet F1 bascule "à valider" → "déjà acté" + recalibrage majeur
 
 > Cf. [[Ressource - Vocal Alec 29 avril 2026 - Mandat audit IT Mohamed]] pour le contenu complet et l'analyse politique du vocal.
