@@ -243,26 +243,56 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Action** : (1) renommer le draft à envoyer en séance, (2) préparer une réponse si Alec ou Fabrice questionne le format ("j'ai utilisé une structure objectifs/résultats clés parce que c'est mesurable, mais on l'appelle comme on veut"), (3) **explorer avec Anisse en S1** la possibilité de configurer Marcus pour parler d'"engagements" au lieu d'"OKR".
 
-- **HO32** — **Risque imminent de départ de Cédric (CMO) en Q2-Q3 2026**. Quadruple-source (depuis 27/4) :
+- **HO32** — ~~**Risque imminent de départ de Cédric (CMO) en Q2-Q3 2026**~~ → **CONFIRMÉE À 100% le 2026-04-30** : passe d'hypothèse à fait actionnable. Quintuple-source maintenant :
   - **Source 1** [[Océane De Queiros]] (23/4) : Cédric s'est confié à Océane sur ses doutes
   - **Source 2** [[Axel Bombezin]] (24/4) verbatim : *"Cédric il force déjà depuis octobre [2025] et il l'a dit ouvertement. En décembre on a refait le point, rien n'avait changé. J'ai fait un point avec lui il y a peu de temps, rien n'avait changé. Et hier j'apprends ça [qu'il veut partir]. Je suis pas étonné."*
   - **Source 3** : Cédric lui-même, qui a déjà essayé d'alerter depuis 6 mois
-  - **Source 4 🔴 publique 27/4** : Cédric en séance Core Meeting : *"On a un gros enjeu de processation et d'IAisation sur mon pôle parce que comme vous l'avez remarqué, **il y a de moins en moins de personnes dans mon pôle. Chaque mois, il y a des personnes qui sont remerciées.**"* → il pleure publiquement devant tout le COMEX. **Confiance ≈ certitude.**
+  - **Source 4 🔴 publique 27/4** : Cédric en séance Core Meeting : *"Il y a de moins en moins de personnes dans mon pôle. Chaque mois, il y a des personnes qui sont remerciées."* → il pleure publiquement devant tout le COMEX.
+  - **Source 5 🔴 1-to-1 Boris×Cédric 30/4** : **Cédric a livré sa situation directement à Boris**. Verbatim : *"En toute transparence, il y a un mois j'étais en full dépression. Du coup, vraiment la première fois de ma life que le taf me rend comme ça."* + *"J'ai un stop loss clair et net, si en juin la situation n'a pas changé, c'est ciao, c'est bye."*
   
-  **Pourquoi c'est critique** :
-  - **Pole marketing = réacteur indirect de la boîte**. Verbatim Axel : *"L'entreprise est complètement dépendante du marketing. C'est, on est une vraie boîte de marketing, rien d'autre."*
-  - **Aucun successeur naturel sur le marché francophone**. Axel : *"Sur le marché français il y en a pas du tout des tonnes [de cracks marketing]."*
-  - **Si Cédric part, c'est 6e mouvement top en 22 mois** après Tang, Fabrice rétrogradé, Alexis sortant, Axel sortant juin, Sophia entrante juillet. Catastrophique pour la crédibilité externe (cf. HO28 dissonance).
-  - **Alec est dans son pattern affectif** (HO15) sur Cédric (*"vraiment le frérot d'Alec"* selon Axel). Donc Alec va vouloir le retenir par loyauté, pas par solution structurelle. Cédric a déjà alerté sans succès.
-  - **Hypothèse retour Amine Achour** mentionnée par Alec à Axel — *"à prendre avec des pincettes"*. Risque : si Amine revient en pointillé (pas full time), Cédric peut le percevoir comme "on me cherche un remplaçant" et accélérer son départ.
+  **État 30/4** : c'est plus une hypothèse, c'est un **fait actionnable avec calendrier court** (4-6 semaines, pas 3-6 mois).
   
-  **Action S1 (semaine du 5 mai) — URGENCE renforcée** : 1-to-1 prioritaire avec Cédric **en début de S1, pas en fin** (cf. [[Cédric De Saint Jean]]). Posture revue post-Core : moins *"j'écoute"* et plus *"je viens t'aider concrètement sur sous-effectif + IA en complément d'Anisse"*.
+  **🔴 Plan de délestage actif négocié avec Alec (révélé 30/4)** :
+  - Objectif Cédric : **10-15h/sem max d'ici début juin** via IA + 3 recrutements
+  - Si pas atteint = départ juin/juillet
+  - 3 briques de recrutement actées : DataOps marketing (remplacement Nicolas) + responsable webinaire (2-3K€/mois) + intégrateur efficace
+  - Pivot vs sortie sèche initialement prévue : Cédric a accepté sous conditions de rémunération supérieure + délestage. Mais méfie du pattern HO15 d'Alec (acceptation chaud puis re-négociation à froid).
   
-  **Action structurelle S2-S3** : cartographier ce qui se passerait si Cédric part demain (qui hérite, qui intérime, délai pour recruter). Préparer Alec sans nommer Cédric pour qu'il prenne conscience du risque structurel.
+  **🔴 Double condition Sine Qua Non** (révélée 30/4) :
+  > *"Même avec 10 heures par semaine avec l'atmosphère qu'il y a actuellement, je sais pas si ça me ferait kiffer."*
   
-  **Test** : si Cédric ouvre spontanément au 1-to-1 S1, signal de confiance + opportunité de stabiliser. S'il reste verrouillé, le risque de départ dans les 60 jours est haut.
+  Le levier IA seul **ne sauve pas**. Même un délestage parfait à 10-15h/sem ne suffira pas si l'atmosphère ne change pas. **Implication** : Boris doit aussi incarner le **buffer Alec** silencieusement — c'est-à-dire absorber et filtrer les scuds Alec qui touchent Cédric (et plus largement les heads). Cf. **HO29 cordon sanitaire**.
   
-  **Horizon** : J+30 (premier signal post-1-to-1 S1) / J+60-90 (validation ou résolution).
+  **🔴 Lecture Cédric d'Alec (5e source convergente)** :
+  > *"Il dilue ses frustrations sur l'entièreté des pôles."* 
+  > *"Il y a beaucoup de dissonance entre ce qu'il veut, ce qu'il partage et la réalité des choses."*
+  > *"Il y a un management qui est très toxique de sa part [...] on est au summum de ça avec Alec."*
+  > *"C'est un cercle vicieux qui s'auto-alimente. La seule personne qui peut changer ça, c'est Alex."*
+  
+  Et **verbatim unique** dans toutes nos sources : Cédric a renvoyé le miroir à Alec en personne il y a 3-4 semaines :
+  > *"Est-ce que tu es heureux dans ton quotidien ? [...] J'ai l'impression que tu bosses pour les autres au lieu de bosser pour toi. Tu détestes les gens avec qui tu bosses, tu bosses parce que tu dois payer ces gens, et du coup tu es pas content et tu es encore plus frustré."*
+  
+  → **Aucune autre source dans le vault n'a osé ça frontalement**. Cédric a la légitimité frérot + n'a plus rien à perdre. Implication : Alec a déjà entendu ce diagnostic. S'il continue à brûler les gens en mai, **c'est un choix conscient, pas une ignorance**.
+  
+  **🔴 Pattern HO15 répliqué sur Cédric (épisode conditions 2026)** : Cas concret à ajouter à la série HO15. Décembre 2025 : Cédric pose conditions, Alec accepte chaud (*"oui let's go"*), 1 mois après Alec re-négocie (*"houlà-houps pour ajuster"*). Cédric cède mais le verdict est : *"mettre un pansement sur une hémorragie, même s'il y a une rémunération supérieure, les core values sont pas alignés"*. Cédric anticipe le même pattern sur le délestage IA actuel — d'où son stop loss clair. **Alerte rouge Boris** : si Alec re-négocie le délestage en mai, intervention immédiate via la règle du revirement écrit.
+  
+  **🟢 Engagement coopératif authentique de Cédric** :
+  > *"Compte sur moi aussi pour être à dispo pour tout implémenter. Si j'étais égoïste, je serais déjà parti depuis longtemps. Le but, c'est de faire une transition de la meilleure des manières."*
+  
+  Cédric coopérera totalement, qu'il reste ou parte. **À ne pas trahir cette confiance**.
+  
+  **🟢 Plan d'action Boris consolidé (S1-S6)** — 3 leviers à délivrer en parallèle sur 4-6 semaines :
+  | Levier | Calendrier | Mesure de succès |
+  |---|---|---|
+  | **Mithril/Aiko** : 3 recrutements de qualité (DataOps + responsable webinaire + intégrateur) | 30-45 jours | 3 personnes en place et opérationnelles fin mai/mi-juin |
+  | **Projet Cervo** (avec Anisse) : stack marketing IA pour copy + axes + funnels | 8 semaines (juin) | Cédric peut écrire/itérer sans copywriter externe |
+  | **Buffer Alec** silencieux | Tout le mois de mai | Diminution du ratio "scuds Alec qui touchent Cédric" |
+  
+  → Si 3/3 tient à fin mai = Cédric peut basculer sur "rester avec autonomie". Si 2/3 = possiblement (le buffer est probablement le plus critique). Si 1/3 ou moins = départ juin/juillet, transition coopérative.
+  
+  **⛔ Posture call Alec 1er mai — confidentialité absolue** : ne JAMAIS relayer les verbatims Cédric (dépression, stop loss, management toxique, scepticisme IA). Si Alec amène le sujet, formuler en termes structurels uniquement (3 leviers Boris). Cf. [[Cédric De Saint Jean]] section confidentialité absolue + [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]].
+  
+  **Horizon** : **fin mai (J+30)** = signal clair sur les 3 leviers / **début juin (J+30)** = décision Cédric reste/part.
 
 - **HO33** — **Dégradation structurelle du profil client — trou stratégique de fond non-porté**. Apparu au Core du 27/4 par triangulation publique de **4 sources convergentes** :
   - **Anisse** : *"Avec les nouveaux profils qu'on a, attention. Ça marchait avant, mais je ne suis pas sûr qu'on puisse continuer à tenir le même discours."*

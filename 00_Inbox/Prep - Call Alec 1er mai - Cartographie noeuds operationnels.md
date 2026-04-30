@@ -19,6 +19,71 @@ tags: [call-prep, alec-henry, noeuds-operationnels, 1er-mai, HO29, cartographie,
 
 ---
 
+## ⛔ MAJ 2026-04-30 SOIR (post 1-to-1 Cédric) — CONFIDENTIALITÉ ABSOLUE sur le sujet Cédric
+
+> Cf. [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]] pour le replay complet (33 min, 14h08-14h41) + [[Cédric De Saint Jean]] section MAJ 30/4.
+
+### ⚠️ Ce que Cédric a livré ne doit JAMAIS remonter à Alec
+
+Le 1-to-1 anticipé du 30/4 (J-1) a livré une matière très sensible. Boris a tenu sa posture (cadrage *"tout reste entre toi et moi"*) et Cédric s'est ouvert. **À protéger absolument**.
+
+**Verbatims qui ne doivent JAMAIS remonter à Alec** :
+- *"Il y a un mois j'étais en full dépression"*
+- *"J'ai un stop loss clair et net, si en juin la situation n'a pas changé, c'est ciao"*
+- *"Management toxique"* / *"on est au summum de ça avec Alec"*
+- *"J'ai très peu de confiance dans le fait que ça peut être fait dans les 2-3 prochains mois"* (sur le délestage IA promis)
+- *"Si je suis tout seul ou avec ma propre agence, je peux faire 10 fois plus"*
+- L'épisode des conditions 2026 re-négociées (Alec accepte chaud, re-négocie un mois après)
+- Le miroir renvoyé à Alec en personne (*"est-ce que tu es heureux ?"*) — même si Alec sait, ne pas l'évoquer
+
+### Si Alec amène le sujet Cédric au call 1er mai
+
+**Posture** : écouter, hocher la tête. Ne PAS révéler le contenu du 1-to-1. Ne PAS commenter le diagnostic Alec. Si Alec demande l'opinion Boris :
+
+> *"J'ai eu un 1-to-1 avec Cédric hier. Il est à fond engagé sur la partie qualité du marketing — events Kelly, Tapie, etc. Il pose des conditions claires sur ce qu'il a besoin pour que ça tourne dans la durée. Mon plan c'est de lui livrer concrètement les 3 recrutements via Mithril et de capitaliser sur le projet Cervo pour le délestage IA. À 30-45 jours on aura un signal clair."*
+
+**Posture structurelle, pas relationnelle**. Pas un mot sur la dépression, le stop loss, le management toxique, la défiance IA. Juste un cadrage opérationnel.
+
+### Si Alec n'amène PAS le sujet Cédric
+
+Boris ne l'amène pas non plus. Le sujet Cédric n'a aucun intérêt à émerger publiquement avant que Boris ait livré (ou pas) sur les 30-45 prochains jours. **Plutôt écoute d'opportunité que sujet à amener**.
+
+### Le mandat implicite Boris (à NE PAS verbaliser)
+
+Le 1-to-1 a révélé que Boris a 4-6 semaines pour faire basculer la situation Cédric. 3 leviers parallèles :
+
+| Levier | Calendrier | Cohérence avec mandats Alec déjà actés |
+|---|---|---|
+| **Mithril/Aiko** : 3 recrutements (DataOps + responsable webinaire + intégrateur) | 30-45 jours | ✅ Mandat 29/4 PM (workshop COMEX 6/7/8 mai = vitrine) |
+| **Projet Cervo** (avec Anisse) : stack marketing IA pour copy + axes + funnels | 8 semaines (juin) | ✅ Cohérent vision Alec "équipe Automation IA élargie" (sujet du 5 mai) |
+| **Buffer Alec** silencieux | Tout le mois de mai | ✅ Cohérent règle du revirement écrit + cordon sanitaire HO29 |
+
+→ **Important** : ces 3 leviers sont déjà actés par Alec sous d'autres formes (mandat Mithril 29/4 + projet Cervo Anisse + règle du revirement). Boris n'a **pas à amener** le sujet Cédric pour les exécuter — ils sont déjà dans le mandat. Il s'agit juste de les orchestrer **avec en tête l'enjeu Cédric** (qui n'est pas verbalisé).
+
+### Pattern HO15 anticipé sur le délestage Cédric — alerte rouge
+
+**Épisode révélé par Cédric** : en décembre 2025, Alec a accepté chaud les conditions 2026 de Cédric (*"oui let's go"*), puis re-négocié 1 mois après (*"houlà-houps pour ajuster"*). Pattern HO15 classique.
+
+**Réplique attendue sur le délestage IA actuel** (10-15h/sem promis pour juin). Si Alec commence à re-négocier en mai (revenir sur le commit, ajouter des contraintes, demander "un peu plus"), **alerte immédiate Boris** : ramener la conversation sur le commit initial, utiliser la **règle du revirement écrit**.
+
+**À garder en tête au call 1er mai** : si Alec parle du delestage Cedric en s'écartant du commit initial — ne pas laisser passer, demander un point structuré dans la semaine.
+
+### COMEX trou noir — 3e source convergente
+
+Cédric a confirmé indépendamment ce que Fabrice (28/4) et Boris (observation Core 27/4) avaient déjà vu : *"Le lundi je parle 5 minutes sur les events marketing et tout le reste c'est du delivery, ça me concerne pas pratiquement."* + Boris : *"Tu perds 55 minutes de ton temps."* + Cédric : *"Ouais, exact."*
+
+→ **3 sources convergentes maintenant** sur le format COMEX inadapté. **Sujet déjà dans la prep** (cf. MAJ 27/4 + 28/4 SOIR). Cette confirmation supplémentaire renforce l'argumentaire si Alec est réticent.
+
+### Marrakech 20-25 mai — ajout possible à l'agenda
+
+Cédric a mentionné être à Marrakech : *"Je crois qu'on est dans la même chambre."* (à confirmer avec Alec ou Sabrina).
+
+**Si confirmé** : Boris peut caser un 1-to-1 informel Cédric × Boris pour faire un point d'étape sur le délestage IA après 3 semaines de mai. Cohérent avec mandat Marrakech déjà cadré (Sabrina + Aziz + Boris pour discours sales/delivery).
+
+**À demander discrètement** à Alec au call : *"Pour Marrakech, tu peux me confirmer la liste des participants et le hosting ? J'aimerais bien comprendre l'agenda."* Pas de mention Cédric.
+
+---
+
 ## 🔴 MAJ 2026-04-29 PM (post call Recrutement Ops Marketing) — 2e mandat direct du jour
 
 > Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]] pour le replay complet (31 min, Alec + Cédric + Anisse + Boris).

@@ -42,6 +42,175 @@ Il a aussi taquiné Anisse sur Marcus (*"Laurent, c'est un gros morceau à gére
 
 **Convergence quadruple-source** : 4 signaux indépendants concordants. **Confiance ≈ certitude.**
 
+## 🔴 MAJ 2026-04-30 — 1-to-1 Boris×Cédric anticipé (J-1) : HO32 PASSE DE HYPOTHÈSE À FAIT ACTIONNABLE
+
+> Cf. [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]] pour le replay complet (33 min, 14h08-14h41).
+
+### ⚠️ Le 1-to-1 a livré plus que prévu — Boris a tenu sa posture
+
+Le 1-to-1 a été fait à J-1 prise de poste (vs S1 originellement). Boris a tenu la posture trame 1-to-1 S1 à 100% : pas révélé sources Océane/Axel, cadrage explicite *"tout reste entre toi et moi"*, question pivot posée sans pression. Cédric s'est ouvert très largement — signal majeur de confiance + désespoir mêlés.
+
+### 🔴 HO32 confirmée à 100% — calendrier court
+
+Verbatim Cédric :
+> *"En toute transparence, il y a un mois j'étais en full dépression. Du coup, vraiment la première fois de ma life que le taf me rend comme ça. Même quand j'ai vécu une faillite, que mon associé m'a trahi, etc., j'étais pas dans ces états-là."*
+
+> *"J'ai un stop loss clair et net, pas comme d'autres personnes dans la boîte qui restent très longtemps, où si en juin la situation n'a pas changé, c'est ciao, c'est bye."*
+
+**Calendrier Cédric** :
+| Date | État |
+|---|---|
+| Avril 2026 (maintenant) | Full saturation, plan de délestage négocié |
+| Mai 2026 | Déploiement IA (Cervo + Mithril/Aiko) censé alléger |
+| **Début juin 2026** | **Moment de vérité** — 10-15h/sem atteint OU départ |
+| Juillet/août 2026 | Si départ, transition clean (cf. engagement coopératif) |
+
+→ **Boris a 4-6 semaines, pas 3-6 mois**.
+
+### 🟠 Plan de délestage actif négocié avec Alec
+
+Verbatim Cédric :
+> *"On a mis en place un plan de — pas de sortie, mais déjà de délestage au niveau du volume de travail via justement ces outils d'IA pour que d'ici, moi mon objectif c'est que d'ici début juin, je sois à 10-15 heures par semaine maximum sur entrepreneurs.com."*
+
+> *"Évidemment, Alec, avec ses belles paroles et ses négociations, on pivotait sur un modèle comme ça."*
+
+**3 briques de recrutement actées** (cohérence parfaite avec call 29/4 PM Recrutement Ops Marketing) :
+1. **Chef de projet / assistant webinaire** (spécialisé webi) — 30 jours
+2. **Intégrateur efficace** (lead sur les setups, déjà partagé en DM avec Boris)
+3. **Apport Cédric uniquement sur sa valeur ajoutée** : big IDs, gros events, review, conseil, consulting
+
+→ **Boris devient le délivreur structurel du plan de délestage Cédric**. Si les 3 recrutements via Mithril sont en place + qualité d'ici fin mai, Cédric atteint son objectif 10-15h/sem.
+
+### 🟠 Scepticisme Cédric sur la solution IA
+
+Verbatim :
+> *"J'ai très peu de confiance dans le fait que ça peut être fait dans les 2 à 3 prochains mois à un niveau de qualité qui permette d'avoir 10 à 15 heures de travail par semaine. En tout cas c'est mon opinion et je demande qu'à être, qu'à ce que j'ai tort."*
+
+> *"Je suis très rationnel, donc tant que je n'ai pas vu l'outil ou concrètement un truc qui fonctionne, je ne m'enjaille pas. C'est comme Alec, il est tout le temps en mode 't'es excité machin' et en fait tant que le truc il n'est pas devant moi, que ça fonctionne et qu'il y a les résultats, je suis très très pragmatique sur ça."*
+
+> *"Je l'ai vu chez aucun de nos concurrents. Je connais tout le monde dans le marché qui fait des webinars, des challenges à un autre niveau, ils ont 36 copywriters, ils ont 36 machins."*
+
+→ **Cédric n'est pas pessimiste, il est pragmatique**. Il *"demande à voir"*. À prendre comme invitation à délivrer concrètement. Aucune autre boutique n'a réussi = barre haute.
+
+### 🔵 Double condition : délestage + atmosphère
+
+Verbatim clé :
+> *"À voir si, je sais pas si même avec 10 heures par semaine avec l'atmosphère qu'il y a actuellement, ça me ferait kiffer. Donc je pense qu'il faut qu'il y ait aussi un peu un retournement sur ça au niveau de l'atmosphère."*
+
+→ **Le levier IA seul ne sauve pas**. Même un délestage parfait à 10-15h/sem **ne suffira pas** si l'atmosphère ne change pas. Double condition. Implication : Boris doit aussi incarner le **buffer Alec** silencieusement.
+
+### 🔴 Le miroir renvoyé à Alec en personne (verbatim unique)
+
+Il y a 3-4 semaines, Cédric a dit à Alec :
+> *"Est-ce que tu es heureux dans ton quotidien ? [...] Est-ce que c'est faire une boîte à 50 millions, à 100 millions, à 300 millions et avoir ce quotidien pendant 5-10 ans encore et pas kiffer ta life et avoir des frustrations toutes les heures ?"*
+
+> *"J'ai l'impression que tu bosses pour les autres au lieu de bosser pour toi. C'est-à-dire que tu détestes les gens avec qui tu bosses, tu bosses parce que tu dois payer ces gens avec qui tu bosses, et du coup tu es pas content et tu es encore plus frustré."*
+
+> *"La seule personne qui peut changer ça, c'est Alex, c'est lui qui doit prendre cette décision-là."*
+
+→ **Aucune autre source dans le vault n'a osé ça frontalement avec Alec**. Cédric a la légitimité du frérot + n'a plus rien à perdre. À garder en tête : Alec a déjà entendu ce diagnostic. S'il continue à brûler les gens, c'est un choix conscient, pas une ignorance.
+
+### 🟠 Pattern HO15 documenté en direct — épisode des conditions 2026
+
+Cédric raconte la séquence précise (décembre 2025 → février 2026) :
+1. Team building décembre : Cédric exprime ras-le-bol à Alec
+2. Cédric pose ses conditions 2026 (rémunération supérieure + organisation)
+3. **Alec accepte chaud** : *"il a accepté mes conditions dans un premier temps sur un premier call en mode oui, let's go"*
+4. **1 mois après, Alec re-négocie** : *"il y a eu des houlà-houps pour ajuster ces conditions"*
+5. Cédric cède pour préserver la relation
+6. Verdict Cédric : *"mettre un pansement sur une hémorragie, même s'il y a une rémunération qui est supérieure, les core values sont pas alignés, du coup ça pète"*
+
+→ **Réplique attendue sur le délestage IA actuel**. Alec a promis 10-15h/sem d'ici juin. Cédric anticipe probablement le même pattern (acceptation chaud, re-négociation à froid). **C'est exactement pour ça qu'il a son stop loss clair**.
+
+→ **Mandat implicite Boris** : empêcher la re-négociation à froid. Si Alec commence à re-négocier le délestage en mai, Boris doit pouvoir s'interposer ou à minima documenter pour que la conversation revienne sur le commit initial. Cohérent avec [[Règle du revirement écrit avec Alec]].
+
+### 🟢 Buffer Alec inexistant — opportunité silencieuse Boris
+
+Verbatim Cédric :
+> *"Il faut trouver une personne assez solide pour être ce buffer. Parce qu'il a essayé plusieurs fois avec Fabrice, avec d'autres gens, de mettre ce buffer justement qui retransmet les informations, mais personne n'a eu les épaules pour être ce buffer."*
+
+→ **Opportunité Boris** : peut-être ce buffer. **Mais NE PAS le revendiquer ni le formaliser** — l'incarner silencieusement sur les 4-6 semaines à venir. Si Boris arrive à filtrer/désamorcer 1-2 scuds Alec avant qu'ils touchent Cédric, signal silencieux que ça change.
+
+### 🟣 Nuance importante — Cédric pas cible directe de la toxicité
+
+> *"Avec moi, il arrive à avoir un tact et une manière de dire les choses qui sont normales. Mais quand je vois comment il parle avec Fabrice ou avec d'autres personnes, je comprends pas comment ces gens sont encore dans l'entreprise. Si tu me parlais comme ça ne serait-ce qu'une fois ou une semaine, ben ça ferait déjà des mois que je serais plus là."*
+
+→ **Ironî** : Alec préserve Cédric (relation frérot) mais brûle Fabrice et d'autres. Cédric n'est PAS la cible directe — il est usé par **l'observation** de la toxicité ambiante + par les frustrations diluées. C'est une **lassitude environnementale, pas relationnelle**.
+
+→ **Implication** : améliorer l'atmosphère globale (cf. cordon sanitaire HO29 + règle du revirement écrit) bénéficie indirectement à Cédric, même s'il n'est pas la cible.
+
+### 🔴 Projet de vie post-départ déjà construit
+
+> *"Je pense que moi je suis voué à, en tout cas sur les prochaines années, à être un digital nomade solopreneur ou avec quelques petits freelances à côté de moi. 15-20K par mois de bénef tranquille et c'est ça qui me rendra le plus heureux et de voyager, de kiffer et de bosser 4 heures par jour."*
+
+→ **Pas un fantasme abstrait**. Cédric a fait le calcul, scénarisé le mode de vie, projeté la rémunération. Mature et réfléchi, pas réactif.
+
+→ **Implication politique** : la rétention Cédric ne passe pas par une augmentation ni un titre. Elle passe par soit (a) un délestage radical permettant une autonomie quasi-solopreneur **dans** Entrepreneurs.com, soit (b) une transition propre. Il n'y a pas d'option intermédiaire.
+
+### 🟢 Engagement coopératif authentique (validation hypothèse B + D du 29/4)
+
+Verbatim final :
+> *"Compte sur moi aussi pour être à dispo pour tout implémenter. Si j'étais égoïste, je serais déjà parti depuis longtemps. Et le but, c'est de faire une transition de la meilleure des manières pour que ça continue de fonctionner, que ça fonctionne encore mieux surtout."*
+
+→ **Validation des hypothèses B + D** posées au 29/4 PM (structure pour partir proprement + posture publique vs état privé distincts). Cédric coopérera totalement sur la transition. **Ne pas trahir cette confiance**.
+
+### 🟠 COMEX trou noir de productivité — convergence indépendante
+
+> *"Le lundi je parle 5 minutes sur les events marketing et tout le reste c'est du delivery, ça me concerne pas pratiquement."*
+
+Réaction Boris constat partagé : *"Tu perds 55 minutes de ton temps on va dire globalement."* Réponse Cédric : *"Ouais, exact."*
+
+→ **3 sources convergentes maintenant** sur le format COMEX inadapté (Fabrice, Cédric, observation Boris au Core 27/4). **Sujet à amener au call Alec 1er mai** avec encore plus de poids.
+
+### 🟢 Conflit sales/marketing dans la lecture Cédric (HO35)
+
+> *"Il y a aussi une dualité sur la partie sales qui est inavouée où je sais que eux sont tout le temps en mode c'est toujours la faute du marketing, moi je suis en mode je prends le plus d'initiatives d'insights possibles. Mais je pense qu'il y a aussi beaucoup d'opti à faire côté sales."*
+
+→ **Convergence indépendante avec Aziz** (1-to-1 28/4) : Aziz aussi pointait des frictions tech sales/marketing. Cédric pointe l'autre côté du miroir. **Posture Boris** : neutre, capter les inputs des deux côtés, attendre Marrakech 20-25 mai pour rapprocher dans une session structurée.
+
+### 🔵 Marrakech 20-25 mai — moment-clé
+
+> *"Je crois qu'on est dans la même chambre. Donc je crois qu'Alec m'a dit, ou je sais pas, bref, peu importe."*
+
+À confirmer (avec Alec ou Sabrina). Si confirmé = espace privilégié de creusement.
+
+→ **Ajout possible à l'agenda Marrakech** : 1-to-1 informel Cédric × Boris pour faire un point d'étape sur le délestage IA après 3 semaines de mai. Cohérent avec mandat Marrakech déjà cadré (Sabrina + Aziz + Boris pour discours sales/delivery).
+
+## 🟢 Plan d'action Boris consolidé (S1-S6)
+
+3 leviers à délivrer en parallèle sur 4-6 semaines :
+
+| Levier | Calendrier | Mesure de succès |
+|---|---|---|
+| **Mithril/Aiko** : 3 recrutements de qualité (DataOps + responsable webinaire + intégrateur) | 30-45 jours | 3 personnes en place et opérationnelles fin mai/mi-juin |
+| **Projet Cervo** (avec Anisse) : stack marketing IA pour copy + axes + funnels | 8 semaines (juin) | Cédric peut écrire/itérer sans copywriter externe |
+| **Buffer Alec** silencieux | Tout le mois de mai | Diminution du ratio "scuds Alec qui touchent Cédric" |
+
+→ **Si 3/3 tient à fin mai** : Cédric peut basculer sur "rester avec autonomie".
+→ **Si 2/3** : possiblement aussi (selon poids relatif — le buffer est probablement le plus critique).
+→ **Si 1/3 ou moins** : départ juin/juillet, transition coopérative.
+
+## ⛔ Posture pour le call Alec 1er mai — confidentialité absolue
+
+### Verbatims qui ne doivent JAMAIS remonter à Alec
+- *"Il y a un mois j'étais en full dépression"*
+- *"J'ai un stop loss clair et net, si en juin la situation n'a pas changé, c'est ciao"*
+- *"Management toxique"* / *"on est au summum de ça avec Alec"*
+- *"J'ai très peu de confiance dans le fait que ça peut être fait dans les 2-3 prochains mois"*
+- *"Si je suis tout seul ou avec ma propre agence, je peux faire 10 fois plus"*
+- L'épisode des conditions 2026 re-négociées
+
+### Si Alec amène le sujet Cédric
+
+Formulation Boris (structurelle, pas relationnelle) :
+> *"J'ai eu un 1-to-1 avec Cédric hier. Il est à fond engagé sur la partie qualité du marketing — events Kelly, Tapie, etc. Il pose des conditions claires sur ce qu'il a besoin pour que ça tourne dans la durée. Mon plan c'est de lui livrer concrètement les 3 recrutements via Mithril et de capitaliser sur le projet Cervo pour le délestage IA. À 30-45 jours on aura un signal clair."*
+
+Pas un mot sur la dépression, le stop loss, le management toxique. Cadrage opérationnel uniquement.
+
+### Si Alec n'amène PAS le sujet Cédric
+
+Boris ne l'amène pas non plus. Le sujet n'a aucun intérêt à émerger publiquement avant que Boris ait livré (ou pas) sur les 30-45 prochains jours.
+
 ## 🆕 MAJ 2026-04-29 PM — Posture coopérative au call Recrutement Ops Marketing (à observer)
 
 > Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]] pour le replay complet (31 min, Alec + Cédric + Anisse + Boris).

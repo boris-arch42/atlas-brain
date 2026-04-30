@@ -46,6 +46,49 @@ Aziz au Core du 27/4 :
   3. **Sales calls analyse Plateforme** : Quentin a annoncé que la Plateforme analyse maintenant les sales calls automatiquement pour optimiser l'attribution coach — sujet de coordination avec Aziz
 - **Pression cash 1.5M€ cette semaine** : ne PAS rajouter de friction opérationnelle pendant la semaine du 28/4. Mon 1-to-1 doit attendre la semaine du 5 mai.
 
+## 🆕 MAJ 2026-04-30 — Convergence indépendante avec Cédric sur le conflit sales/marketing (HO35)
+
+> Cf. [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]] pour le contexte (33 min, 14h08-14h41).
+
+Au 1-to-1 Boris×Cédric du 30/4, Cédric a livré sa lecture du conflit sales/marketing **sans qu'on ait évoqué le sujet** (émergence spontanée à la question Boris sur sa relation avec les autres pôles) :
+
+> *"Il y a aussi une dualité sur la partie sales qui est inavouée où je sais que eux sont tout le temps en mode c'est toujours la faute du marketing, moi je suis en mode je prends le plus d'initiatives d'insights possibles pour améliorer le plus possible. Mais je pense qu'il y a aussi beaucoup d'opti à faire côté sales."*
+
+### 🔍 Convergence avec ce qu'Aziz avait livré (28/4)
+
+C'est l'autre face du même miroir :
+
+| Source | Lecture |
+|---|---|
+| **Aziz (28/4)** | *"Sur 10 questions qui me reviennent, t'as 8 sur la partie technique et 2 sur la partie commerciale."* + frictions tech bloquantes (cas Yoan, bug Mike) imputées au marketing/Cedric |
+| **Cédric (30/4)** | *"Eux sont tout le temps en mode c'est toujours la faute du marketing"* + *"il y a beaucoup d'opti à faire côté sales"* |
+
+→ **Pattern classique d'inter-dépendance non-résolue** : chaque côté voit l'autre comme la cause de ses propres frustrations. **Ni l'un ni l'autre n'a tort objectivement** — il y a probablement des optimisations à faire des deux côtés. Problème : pas de cadre commun de discussion structuré.
+
+### 🟠 Implication HO35 (zone grise tech sales sous Cédric)
+
+Ce diagnostic croisé confirme indirectement HO35 : la **structure organisationnelle force la dualité** (Yoan/Wassim sous Cédric, Aziz qui n'a pas escalation directe). Émerge à même intensité chez les deux heads sans qu'ils aient parlé entre eux du sujet.
+
+### 🔵 Marrakech 20-25 mai — moment d'arbitrage commun
+
+Sabrina a déjà posé Marrakech comme le moment de re-arbitrer le discours sales/delivery unifié (cf. [[Sabrina Dahel]] + [[Ressource - Replay Sabrina 28 avril 2026]]). 
+
+**Possibilité d'élargir le format** à inclure l'angle marketing/sales :
+- Session 90 min Sabrina + Aziz + (Cédric si présent ?) + Boris
+- Discours sales unifié vs delivery
+- Coordination tech sales/marketing
+- Posture client (insight Sabrina 60% upsell veulent + pushy)
+
+À confirmer présence Cédric à Marrakech avec Alec ou Sabrina (verbatim Cédric indécis : *"Je crois qu'on est dans la même chambre"*).
+
+### Posture Boris
+
+- **Neutre** sur le sujet sales/marketing en S1
+- **Capter les inputs des deux côtés** sans les confronter
+- **Rapprocher les deux à Marrakech** dans une session structurée (Sabrina catalyseur)
+- **NE PAS relayer** les verbatims Cédric à Aziz (et inversement)
+- **NE PAS arbitrer** unilatéralement — c'est une question d'organisation que ni l'un ni l'autre ne peut résoudre seul
+
 ## ✅ POST-CALL 2026-04-28 (1-to-1 Boris × Aziz) — Call exécuté en pré-prise de poste
 
 **Format** : visio, ~45 min. Échange ouvert, qualité d'écoute mutuelle élevée. Aziz parle ~70%, Boris ~30%. Ton détendu, alliance immédiatement perceptible. Aziz a accueilli positivement le cadrage "Boris = pas de hiérarchie, complément, pas dans le closing". Confirmation forte : Aziz est l'un des heads les plus alignés et matures rencontrés en pré-prise de poste.

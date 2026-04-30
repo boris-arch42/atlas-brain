@@ -266,6 +266,78 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
+### 🔴 MAJ 2026-04-30 — 5e source convergente sur diagnostic Alec (1-to-1 Boris×Cédric)
+
+**Source** : 1-to-1 Boris×Cédric du 30/4 (33 min, J-1 prise de poste). Cf. [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]].
+
+#### Cédric = 5e source indépendante convergente sur le diagnostic
+
+Après Fabrice (24/4 + 28/4), Axel (24/4), Anisse (26/4) et Océane (23/4), Cédric devient la 5e source indépendante à livrer le même diagnostic structurel sur Alec. Verbatims canoniques :
+
+> *"Il dilue ses frustrations sur l'entièreté des pôles et l'entièreté des équipes."*
+
+> *"Il y a beaucoup de dissonance entre lui, entre ce qu'il veut, ce qu'il partage et des fois la réalité des choses. Donc il y a beaucoup d'incohérences de temps en temps."*
+
+> *"Il y a un management qui est très toxique de sa part [...] on est au summum de ça avec Alec parce qu'en fait c'est dans ses tripes Entreprenance.com et c'est son bijou."*
+
+> *"C'est un cercle vicieux qui s'auto-alimente."*
+
+→ **5 sources concordantes maintenant**. Plus une hypothèse, c'est une **lecture canonique** du fonctionnement Alec partagée par tout le top management. Implication : aucun doute, c'est le mécanisme central à traiter en S1.
+
+#### 🔴 Verbatim UNIQUE — le miroir renvoyé à Alec en personne
+
+C'est le verbatim **unique** dans toutes nos sources — **aucune autre personne n'a fait ça**. Il y a 3-4 semaines, Cédric a dit à Alec en personne :
+
+> *"Mec, ça fait 2 ans que tu es sur Entreprenance.com, alors oui, tu as tout pété au niveau des scores, mais fondamentalement, est-ce que tu es heureux dans ton quotidien ? Et il est pas heureux."*
+
+> *"Est-ce que c'est faire une boîte à 50 millions, à 100 millions, à 300 millions et avoir ce quotidien pendant 5-10 ans encore et pas kiffer ta life et avoir des frustrations toutes les heures à tous les niveaux plus ou moins intenses ?"*
+
+> *"J'ai l'impression que tu bosses pour les autres au lieu de bosser pour toi. C'est-à-dire que tu détestes les gens avec qui tu bosses, tu bosses parce que tu dois payer ces gens avec qui tu bosses, et du coup tu es pas content et tu es encore plus frustré."*
+
+> *"La seule personne qui peut changer ça, qui peut changer l'ambiance et toute la boîte, c'est Alex, c'est lui qui doit prendre cette décision-là."*
+
+→ **Cédric a la légitimité frérot + n'a plus rien à perdre** (cf. son stop loss juin) = il a parlé vrai. **À garder en tête de façon critique** : Alec a déjà entendu ce diagnostic en personne. S'il continue à brûler les gens en mai-juin, **c'est un choix conscient, pas une ignorance**. Implication pour Boris : la situation peut s'améliorer (Alec change) ou perdurer malgré l'avertissement (Alec n'a pas la capacité / l'envie). Boris ne peut pas faire le travail à la place d'Alec.
+
+→ **À NE PAS relayer** à Alec ni à quiconque. Cédric a partagé cette information en confiance.
+
+#### 🟠 Pattern HO15 documenté en direct — épisode des conditions 2026 de Cédric
+
+Nouveau cas concret à ajouter à la série HO15 :
+
+1. **Décembre 2025** : Cédric exprime ras-le-bol au team building, pose ses conditions 2026 (rémunération supérieure + organisation)
+2. **1er call** : Alec accepte chaud — *"il a accepté mes conditions dans un premier temps en mode oui, let's go"*
+3. **1 mois après** : Alec re-négocie — *"il y a eu des houlà-houps pour ajuster ces conditions"*
+4. **Cédric cède** pour préserver la relation
+5. **Verdict Cédric** : *"mettre un pansement sur une hémorragie, même s'il y a une rémunération qui est supérieure, les core values sont pas alignés, du coup ça pète"*
+
+→ **Séquence diagnostique HO15** :
+- (1) Alec accepte chaud → validation émotionnelle / ne pas perdre la personne sur le moment
+- (2) Alec re-négocie à froid → résistance à la délégation effective + impulsivité décisionnelle
+- (3) Préservation par compensation financière → *"pansement sur hémorragie"* selon Cédric (ne résout pas le problème de fond)
+- (4) Confiance cassée durablement
+
+→ **Réplique attendue sur le délestage IA actuel** (10-15h/sem promis pour juin). Cédric a son stop loss clair précisément parce qu'il anticipe le même pattern. **Alerte rouge à garder pour Boris** : si Alec commence à re-négocier le délestage en mai (revenir sur le commit, ajouter des contraintes, demander "un peu plus"), il faut s'interposer ou à minima ramener la conversation sur le commit initial. C'est exactement le cas d'usage de la **règle du revirement écrit**.
+
+#### 🟢 Nuance importante — modulation Alec selon les personnes
+
+> *"Avec moi, il arrive à avoir un tact et une manière de dire les choses qui sont normales. Mais quand je vois comment il parle avec Fabrice ou avec d'autres personnes, je comprends pas comment ces gens sont encore dans l'entreprise. Si tu me parlais comme ça ne serait-ce qu'une fois ou une semaine, ben ça ferait déjà des mois que je serais plus là."*
+
+→ **Alec module selon la relation affective**. Préserve Cédric (frérot), brûle Fabrice (relation plus distante / contestation autorité). Pattern cohérent avec déjà documenté (cas Alexis : *"tu as raison frérot"*).
+
+→ **Implication posture Boris** : Boris est dans la catégorie "associé / proche" comme Cédric — protection relative. Mais cette protection n'est pas un blanc-seing. Si Boris s'oppose frontalement sur des sujets sensibles, la modulation peut basculer.
+
+#### 🟢 Buffer Alec inexistant — lecture Cédric
+
+> *"Il faut trouver une personne assez solide pour être ce buffer. Parce qu'il a essayé plusieurs fois avec Fabrice, avec d'autres gens, de mettre ce buffer justement qui retransmet les informations, mais personne n'a eu les épaules pour être ce buffer."*
+
+→ **Confirmation que la fonction de buffer est attendue par les top de la boîte** — pas seulement par Boris en interne. Cédric le formule en "il faut trouver". Implication : si Boris incarne ce rôle silencieusement et avec succès, le COMEX (au moins Cédric, Fabrice, probablement Anisse) le verra. Capital de légitimité silencieux à capter.
+
+→ **Mais NE PAS le revendiquer**. Si Boris dit "je vais être votre buffer" — échec quasi garanti. À incarner par les actes (filtrer les scuds, protéger les heads des frustrations diluées Alec) sans le dire.
+
+#### Pour le call Alec 1er mai
+
+**Ne PAS amener** le sujet Cédric. Si Alec amene, formuler en termes structurels uniquement (3 leviers Boris) sans relayer aucun verbatim Cédric. Cf. [[Cédric De Saint Jean]] section confidentialité absolue.
+
 ### 🔴 MAJ 2026-04-29 PM — 2e mandat direct du jour : vitrine Mithril/Aiko + workshop COMEX (à 6/7/8 mai)
 
 **Source** : call Recrutement Ops Marketing (Alec + Cédric + Anisse + Boris, 31 min, 13h35-14h06). Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]].
