@@ -16,7 +16,90 @@ tags: [risque-depart-imminent, HO34, noyau-solide, stakeholder-prioritaire]
 
 > 🚨 **CONFIDENTIEL MAX** — Risque départ imminent identifié au 27/4 par Alec en privé. **Ne jamais relayer cette info**, ni à Abdel, ni à un tiers. Le 1-to-1 doit faire émerger ce que je sais déjà, pas le révéler.
 
-## ⚡ Synthèse en 30 secondes
+## 🔴 MAJ 2026-05-01 J0 — HO34 actionnable : Abdel veut déménager Dubaï + augmentation
+
+> Cf. [[Ressource - Replay Nœuds opérationnels Alec 1er mai 2026]] pour le contexte (54 min, 1er call officiel "en fonction").
+
+### 🔴 Révélations Alec au call J0
+
+Alec a fait un replay 30 min Alec×Abdel hier (30/4). Ce que Boris en a appris :
+
+- *"Il veut même déménager à Dubaï"* (Alec)
+- *"Bon, après il y a une variable, c'est qu'il veut une augmentation par rapport à ça, mais c'est normal parce que tu peux pas vivre avec le salaire qu'il a à Dubaï"* (Alec)
+- Posture Alec : *"Le problème c'est pas de te payer plus, c'est que tu crées plus de valeur"*
+- Sabrina prévue comme manager direct mais pas encore fait la passation
+- Sur Anisse en attendant — *"on a laissé sur Anis parce qu'ils ont une super relation"*
+- Diagnostic Alec : *"Il est pas managé, il est pas cadré"* + *"il est au *** du rouleau et quand il multitask, son cerveau fume"*
+
+### 🔴 Recadrage majeur HO34 — sujet d'investissement, pas de rétention classique
+
+HO34 était jusqu'à hier formulée comme un **risque de départ imminent à neutraliser**. Avec le call J0, on bascule :
+
+| Avant (27/4) | Après (1er mai J0) |
+|---|---|
+| Risque départ imminent (2 semaines) | **Sujet d'investissement — Abdel veut s'engager plus fort** |
+| Profil qui décroche | Profil qui demande **augmentation + déménagement Dubaï** |
+| Frictions techniques cumulées | Frictions techniques + **manque de cadre/management** |
+| Action S1 "désamorcer" | Action S1 "structurer cadre + roadmap Dubaï" |
+
+→ **Le déménagement Dubaï = signal d'engagement fort**. Pas une menace de départ. Abdel veut **basculer dans le noyau structurel** (proximité Alec/Anisse) avec compensation salariale.
+
+→ **Levier de retournement plus rapide que prévu** : si Boris peut débloquer (1) cadre + management + (2) roadmap Dubaï + (3) accompagnement négo salariale avec Alec/Anisse à 30 jours, Abdel devient un atout structurel et plus un risque.
+
+### 🔴 Action S1 immédiate — récupérer le replay Alec×Abdel
+
+Alec a envoyé le replay (30 min en accéléré) à **Anisse**. Boris doit demander à Anisse pour le visionner avant le 1-to-1 Abdel S1.
+
+> Verbatim Alec : *"Je viens de te faire envoyer le message que j'ai envoyé hier à Anis, comme ça tu pourras check le replay, ça dure 30 minutes en accéléré, tu auras vraiment toute la data."*
+
+**Action concrète** :
+1. Demander à Anisse le lien replay Alec×Abdel (Slack ou WhatsApp)
+2. Visionner avant le 1-to-1 Abdel S1
+3. Capter (a) les frustrations exactes d'Abdel, (b) la posture Alec sur l'augmentation, (c) le cadre temporel déménagement Dubaï
+4. Préparer 1-to-1 avec angle structuration + roadmap, pas découverte
+
+### 🟢 Trame 1-to-1 S1 — révisitée (semaine du 5 mai)
+
+**Posture revue** : pas "j'écoute", pas "je découvre". **"Je structure ton cadre + ta roadmap Dubaï"**.
+
+**Cadrage d'ouverture** :
+> *"Hello Abdel, j'ai vu avec Alec ton souhait de déménager à Dubaï. Je trouve que c'est un excellent move, et je voudrais qu'on cale ensemble : (1) ce qu'il faut que tu délivres pour que la transition soit clean, (2) le cadre management qu'il te faut pour bien bosser, (3) la roadmap concrète (timing, périmètre Dubaï, qui devient ton manager direct)."*
+
+**Sujets à couvrir** :
+1. **Frictions techniques actuelles** — accès HubSpot, BigQuery promis non livré (Boris peut débloquer en S1-S2 avec Anisse)
+2. **Cadre management** — qui devient son manager direct (Sabrina prévue mais passation pas faite, Anisse en transition) + cadence 1-to-1 à caler
+3. **Roadmap Dubaï** — timing souhaité, conditions, contrepartie en valeur créée
+4. **Coordination avec Anisse** — Boris peut faire un trio Boris+Anisse+Abdel pour caler la phase de transition (cf. "super relation" Anisse/Abdel)
+
+**À NE PAS faire** :
+- ❌ Révéler que Boris a vu le replay Alec×Abdel (sauf si Abdel le mentionne lui-même)
+- ❌ Révéler la formulation Alec *"il risque de démissionner d'ici 2 semaines"* (verbatim 27/4 confidentiel)
+- ❌ S'engager sur le montant de l'augmentation (sujet Alec, pas Boris)
+- ❌ Critiquer la non-passation Sabrina (sujet structurel Alec/Sabrina)
+
+### 🟢 Coordination Anisse — trio possible Boris+Anisse+Abdel
+
+Vu la "super relation" Anisse/Abdel mentionnée par Alec, et vu qu'Anisse est l'interlocuteur informel actuel d'Abdel, **un trio Boris+Anisse+Abdel** serait probablement le format le plus efficace en S1 :
+- Boris cadre la roadmap structurelle
+- Anisse maintient la relation de confiance existante
+- Abdel a un espace stable pour exprimer ses besoins
+
+À valider avec Anisse au 1-to-1 Anisse S1 (probablement même semaine).
+
+### 🟠 Question structurelle — manager direct à débloquer
+
+Verbatim Alec : *"Normalement c'est Sabrina, mais on n'a pas encore fait la passation pour libérer Sabrina justement et la laisser investir sur le reste. On a laissé sur Anis parce qu'ils ont une super relation."*
+
+→ **Sabrina déjà sous l'eau** (cf. replay Sabrina 28/4). Lui ajouter Abdel sans soulagement = surcharge.
+
+→ **Hypothèses possibles à évaluer** :
+- (a) Anisse devient officiellement le manager d'Abdel (cohérent avec extension équipe Automation IA "Ops toute entreprise" — cf. [[Anisse Rbibe]] MAJ 29/4 PM)
+- (b) Boris devient le manager d'Abdel transitoirement le temps de la roadmap Dubaï
+- (c) Sabrina prend Abdel mais avec allègement de scope ailleurs
+
+→ **À arbitrer avec Alec en S1-S2**. Probablement (a) le plus cohérent vu la réalité opérationnelle.
+
+## ⚡ Synthèse en 30 secondes (mise à jour 1er mai)
 
 - 🚨 **Risque départ d'ici 2 semaines** identifié par Alec (verbatim privé du 27/4 partagé à Boris)
 - Profil **dans le noyau solide** identifié par Alec au cadrage du 23/4

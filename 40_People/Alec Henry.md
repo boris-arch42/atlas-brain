@@ -266,6 +266,93 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
+### 🔴 MAJ 2026-05-01 J0 — Premier call officiel "en fonction" (54 min)
+
+**Source** : call Nœuds opérationnels Alec×Boris du 1er mai 9h03-9h57. Cf. [[Ressource - Replay Nœuds opérationnels Alec 1er mai 2026]].
+
+#### 🟢 4 réussites tactiques majeures de J0
+
+1. **Cordon sanitaire HO29 explicitement posé et accepté** : Boris a obtenu qu'Alec ne tape plus en direct sur les N-2/N-3. Verbatim Alec en réponse (acceptation reformulée dans sa propre question) : *"Comment je peux t'aider à ça, mis à part le fait de passer par toi quand j'ai envie d'enculer quelqu'un ?"*
+
+2. **Cadre "dette de confiance"** posé par Boris + complété spontanément par Alec (cf. [[Cadre - Dette de confiance]]). Nouvelle grammaire commune au même titre que catamaran/paquebot, cycle vicieux, nourrir la bête.
+
+3. **Posture Boris validée à 100%** : verbatim Alec *"je suis vraiment aligné, il y a pas de fausses notes"*.
+
+4. **Boris reconnu publiquement par Alec comme "vrai directeur des opérations"** : verbatim *"Boris n'a jamais été remplacé. Cela fait depuis janvier 2025 que nous n'avons jamais plus eu de directeur des opérations réel."* ⚠️ **À NE PAS remettre dans le narratif public** — trahirait Fabrice avant l'annonce 1er juin.
+
+#### 🔴 Bombe politique sur Fabrice (lecture Alec interne plus dure que documentée jusqu'ici)
+
+Alec rapporte ce qu'Alexis lui a dit la veille de son départ (30/4 soir) :
+> *"Si Fabrice avait eu la même posture, la même dynamique, la même énergie depuis septembre dernier qu'il a eue sur ces 3 dernières semaines, 3-4 dernières semaines, la boîte n'en serait pas là. **J'aurais gardé mon job certainement.** On n'aurait pas viré 9 personnes qu'il y a eu dans les bureaux et perdu 200 000 là-dessus."*
+
+→ **Alec considère que Fabrice est responsable du fait qu'il a perdu son job de CEO** (rétrogradé directeur produit). Position interne politique très lourde non-documentée jusqu'ici.
+
+**Tension Alec — ne veut pas le virer mais doute** :
+> *"S'il n'a pas cette casquette-là [opérationnel], et qu'il est mauvais en management ou qu'il se fait pas respecter, c'est quand même un vrai sujet, tu vois. **Qu'est-ce qu'on fait de lui ? Qu'est-ce qu'on fait de lui ? Sachant que moi je veux le garder, tu vois.**"*
+
+→ **Conflit interne Alec** non-résolu. Co-COO acté au 27/4 reste l'orientation officielle (annonce 1er juin) mais le **socle politique est plus fragile que ce qu'on pensait**.
+
+→ Boris confirme à Alec : *"C'est aujourd'hui mon plus gros point d'interrogation dans la boîte, vraiment."* Alec valide : *"C'est celui aussi d'énormément de gens."*
+
+→ **Implication mandat Boris** : délivrer impeccablement les 3 leviers Fabrice à fin mai (top 10 process + audit IT + matrice jurisprudence) pour stabiliser le positionnement Co-COO 1er juin.
+
+#### 🟠 Idée folle Alec — "IA general manager" (signal HO15 fuite humaine)
+
+Verbatim Alec :
+> *"Est-ce qu'on pourrait pas créer un poste, une sorte de general manager, mais c'est une IA, c'est un employé IA. [...] **Moi, j'aime bien me faire frapper par une IA, tu vois. Pourquoi les humains sont si compliqués ?**"*
+
+Boris a recadré : *"Le management c'est de l'humain. Une IA est adaptée à ta manière d'être mais pas à chacune des personnes. S'il y a un blocage humain, elle sera pas en mesure de le débloquer parce que le mec, son chien, il est mort, parce que sa femme lui a cassé les *** ce matin."*
+
+Alec : *"OK, OK, je vois."* (Recadrage accepté en surface).
+
+→ **À tracer** : si l'idée revient en conversation (notamment sur Cervo, Pepper, Marcus avec connotation "remplacer le management humain"), intervenir à nouveau. Pattern HO15 "vitesse + ubiquité + foi en l'IA" appliqué au management — fuite face au travail humain.
+
+#### 🔴 HO34 (Abdel) actionnable — Alec révèle des éléments structurants
+
+- *"Il veut même déménager à Dubaï"* + *"il veut une augmentation"*
+- *"Le problème c'est pas de te payer plus, c'est que tu crées plus de valeur"* (posture Alec)
+- Alec a fait un replay 30 min Alec×Abdel hier (30/4) — **envoyé à Anisse**, à demander à Anisse pour Boris
+- Sabrina prévue comme manager direct mais pas encore fait la passation. Sur Anisse en attendant (*"super relation"*).
+
+→ **HO34 n'est plus seulement un risque à neutraliser — c'est un sujet d'investissement** (déménagement Dubaï = signal d'engagement, pas de départ).
+
+#### 🔴 Cas concret HO8 frais — Alice/Angèle (recouvrement)
+
+Alec rapporte ce qu'Alice/Angèle a dit à Alexis hier (30/4) :
+> *"Je préfère faire perdre des centaines de milliers d'euros à entrepreneurs.com [...] plutôt que de spotter le problème, de l'annoncer parce que sinon mon poste est en danger. [...] **Si j'ouvre ma gueule, je risque d'être virée. La preuve, c'est ton dernier jour. Tu fais partie de ceux qui ont osé parler.**"*
+
+→ Cas-test HO8 frais. Alec auto-critique : *"Je préfère encore avoir un mauvais manager que pas de manager."*
+
+#### 🆕 Nouveau jalon S1 — call Alec+Aziz+Boris mardi
+
+Verbatim Alec :
+> *"Avec Aziz, j'ai un call mardi où il va me restituer objectivement plein de choses. Je vais lui proposer s'il est OK que tu participes à ce call. [...] Certainement que tu pourras aider là-dessus."*
+
+→ Probablement mardi 5 mai. Boris en posture co-arbitre. À cadrer avec Aziz en amont (pas effet de surprise).
+
+#### Convergence Alec/Boris sur la cartographie des "rincés"
+
+Boris a posé 4 personnes rincées. Alec a complété et précisé :
+- **Aziz** : frustré pas rincé, ping-pong sales/marketing → call mardi
+- **Cédric** : motivation + stimulation + fit + *"pas fait le deuil de Numadeo"* → modèle 10-15h/sem (cohérent avec ce que Cédric a dit à Boris le 30/4 PM — Alec sait)
+- **Fabrice** : *"au mauvais endroit, isolé, perd le contrôle, n'utilise pas ses skills, les gens n'ont plus confiance"* → sujet co-COO 1er juin
+- **Abdel** : pas managé pas cadré → cadre + augmentation + Dubaï
+
+Anisse, Sabrina, Océane exclus de la liste rincés. Convergence parfaite avec ce qu'on savait par ailleurs.
+
+#### Pédagogie Boris — argument économique pour faire passer la règle
+
+Boris a illustré la règle du cordon sanitaire avec un argument économique qui parle à Alec :
+> *"Tu perds quoi, une demi-heure de ton temps là-dessus, mais gros ton temps il vaut quoi, 10 000 de l'heure ? Tu as perdu 5 000 sur un truc comme ça."*
+
+→ Argument économique (temps Alec = 10K€/h) qui parle. **À réutiliser** sur d'autres règles à poser.
+
+#### Position Alec sur le team building (idée évoquée)
+
+> *"Ça peut être un sujet, profiter, je me rends pas compte, mais aussi du team building. Pour essayer de recréer ce truc-là, entre autres."*
+
+→ Alec ouvert à un team building structurant. À garder en tête comme levier S2-S3 si dette de confiance traîne.
+
 ### 🔴 MAJ 2026-04-30 — 5e source convergente sur diagnostic Alec (1-to-1 Boris×Cédric)
 
 **Source** : 1-to-1 Boris×Cédric du 30/4 (33 min, J-1 prise de poste). Cf. [[Ressource - Replay 1-to-1 Cédric 30 avril 2026]].

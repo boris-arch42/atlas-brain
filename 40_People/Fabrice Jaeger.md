@@ -13,6 +13,96 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 
 # Fabrice Jaeger
 
+## 🔴 MAJ 2026-05-01 J0 — Lecture Alec interne plus dure que documentée + 3 leviers à délivrer pour stabiliser le co-COO
+
+> Cf. [[Ressource - Replay Nœuds opérationnels Alec 1er mai 2026]] pour le replay complet (54 min, premier call officiel "en fonction").
+
+### 🔴 Bombe politique révélée par Alec — non documentée jusqu'ici
+
+Au call J0, Alec a livré une lecture interne sur Fabrice plus dure que tout ce qu'on avait. Reconstitution :
+
+Alec rapporte ce qu'Alexis lui a dit la veille de son départ (30/4 soir), en lui souhaitant bon départ :
+> *"Si Fabrice avait eu la même posture, la même dynamique, la même énergie depuis septembre dernier qu'il a eue sur ces 3 dernières semaines, 3-4 dernières semaines, la boîte n'en serait pas là. Il n'y aurait pas ces nœuds opérationnels. **J'aurais gardé mon job certainement.** On n'aurait pas viré 9 personnes qu'il y a eu dans les bureaux et perdu 200 000 là-dessus parce que ça se serait passé différemment."*
+
+→ **Alec endosse cette lecture** : il considère que Fabrice est responsable du fait qu'il a perdu son job de CEO (rétrogradé directeur produit). Position interne très lourde non-documentée jusqu'ici.
+
+### 🔴 Alec valide explicitement que Fabrice n'a jamais été COO réel
+
+> *"Boris n'a jamais été remplacé. Cela fait depuis janvier 2025 que nous n'avons jamais plus eu de directeur des opérations réel."*
+
+→ **Alec endosse la lecture Axel** posée pendant la phase pré-prise de poste. Boris est désormais reconnu publiquement par Alec comme "vrai directeur des opérations". ⚠️ **À NE PAS remettre dans le narratif public** — trahirait Fabrice avant l'annonce 1er juin.
+
+### 🔴 Tension Alec — ne veut pas le virer mais doute
+
+Verbatim Alec qui synthétise le conflit interne :
+> *"S'il n'a pas cette casquette-là [opérationnel], et qu'il est mauvais en management ou qu'il se fait pas respecter, c'est quand même un vrai sujet, tu vois. **Qu'est-ce qu'on fait de lui ? Qu'est-ce qu'on fait de lui ? Sachant que moi je veux le garder, tu vois.**"*
+
+> *"Le pauvre Fabrice, tu vois, il bosse, on peut pas lui enlever, il est engagé, c'est un soldat. Mais est-ce que c'est un problème de compétence ? Est-ce que c'est un problème de réflexion ?"*
+
+→ **Conflit interne Alec non-résolu**. Veut garder + ne sait plus où le placer. Co-COO acté au 27/4 reste l'orientation officielle (annonce 1er juin) mais le **socle politique est plus fragile que ce qu'on pensait**.
+
+→ Boris confirme à Alec : *"C'est aujourd'hui mon plus gros point d'interrogation dans la boîte, vraiment."* Alec valide : *"C'est celui aussi d'énormément de gens."*
+
+### 🔴 Pattern Fabrice révélé par Alec — sabote ceux qu'il perçoit comme menaces
+
+Alec raconte (en rapportant le cas Alexis) :
+> *"Quand Alexis était en poste, jamais il [Fabrice] lui a ouvert les accès, jamais il a voulu bosser avec lui correctement. À chaque fois qu'il était en mode sortant [Alexis], ça switchait et il passait de aucun accès, aucun truc à 'Hey, comment tu vas pote ?'. Au point même où, preuve, hier j'étais choqué. Spontanément, Fabrice a fait un call avec moi [avec Alexis] pour me souhaiter bon départ."*
+
+→ **Pattern interne Fabrice documenté** : sabote en interne ceux qu'il perçoit comme menaces (jamais ouvert les accès, refuse de collaborer), redevient cordial une fois qu'ils sont sortants.
+
+### 🟢 Boris pas dans cette catégorie aujourd'hui (alliance opérationnelle tient)
+
+Le replay 28/4 (call Boris↔Fabrice 1h07) a explicitement validé :
+- Posture spec/architecte (*"moi je spec, toi tu es l'architecte"*)
+- Pas d'overlap (*"je vois plutôt beaucoup de complémentarité"*)
+- Charte V1 acceptée
+- Fabrice envoie les 3 conditions (specs + délais + budget) sans réserve
+- BigQuery accès ouvert immédiatement à Boris
+
+→ **Tant que Boris ne menace pas Fabrice, alliance tient**. Mais à surveiller si dynamique change :
+- Si l'audit IT mai 2026 ou la cartographie top 10 process commencent à bouffer du périmètre Fabrice perçu
+- Si Alec commence à comparer publiquement Boris/Fabrice (signal HO15 — "vous êtes des couillons" version Fabrice)
+- Si Sophia entrante juillet capte le scope que Fabrice voulait garder
+
+→ **Signal d'alerte précoce à observer** : Fabrice qui retient des accès / docs / informations sur un projet Boris-piloté = répétition du pattern Alexis. Action immédiate si détecté.
+
+### 🔴 3 leviers à délivrer impeccablement à fin mai pour stabiliser le co-COO 1er juin
+
+Vu le doute Alec interne, Boris doit livrer concrètement sur les 3 chantiers Fabrice pour que le co-COO 1er juin tienne politiquement :
+
+| Levier | Calendrier | Mesure de succès | Cohérence vault |
+|---|---|---|---|
+| **Top 10 process avec head owner par process** | Livrable J+30 | 10 process cartographiés + head owner identifié + décisions distribuées | Co-construction Boris+Fabrice (cf. replay 28/4 — *"c'est à nous de les cartographier ensemble"*) |
+| **Audit IT mai 2026 (passation Mohamed)** | Livrable 31 mai | Boris owner permanent IT/cybersec → Fabrice ne porte plus ce sujet | Mandat Alec direct vocal 29/4 (cf. [[Mohamed]]) |
+| **Matrice jurisprudence financière (sortie Sabrina ↔ Fabrice)** | Livrable J+45 | Cas type traités par CSM/CFO sans remontée Fabrice | HO38 — proxy parfait HO8 (cf. replay Sabrina 28/4 + cas mise en demeure 6500€) |
+
+→ **Si 3/3 délivré à fin mai** : doute Alec se résorbe, co-COO 1er juin tient politiquement.
+→ **Si 2/3** : position fragile mais tenable (avec ajustement narratif sur le 3e).
+→ **Si 1/3 ou moins** : co-COO tient nominalement (Alec ne veut pas virer Fabrice) mais Alec recherchera activement une issue alternative (GM Dubai accéléré ? Sophia élargie ?).
+
+### 🟠 Tension Alec à monitor sans alerter Fabrice
+
+**À surveiller dans les semaines qui viennent** :
+- Comportement d'Alec en COMEX vis-à-vis de Fabrice (scuds publics ? marginalisation ?)
+- Si Alec demande à Boris des chantiers normalement Fabrice (bypass)
+- Si Alec accélère la roadmap GM Dubai (signal de vouloir libérer le scope COO)
+- Si Alec ralentit la roadmap GM Dubai (signal de doute sur la capacité Fabrice à exécuter même là)
+- Si Alec amplifie sa lecture critique avec d'autres sources (Anisse, Cédric)
+
+→ **NE PAS alerter Fabrice** sur cette lecture Alec — créerait une crise inutile. Boris doit incarner le buffer (cordon sanitaire HO29 posé J0) en filtrant les éventuels scuds Alec→Fabrice.
+
+### 🔴 Boris reconnu par Alec comme "vrai directeur des opérations" — à incarner silencieusement
+
+La reconnaissance Alec (*"Boris n'a jamais été remplacé"*) est un capital politique majeur. **Mais à incarner par les actes, pas par le narratif** :
+- ✅ Cartographier top 10 process avec Fabrice (co-construction visible)
+- ✅ Décharger Fabrice opérationnellement sur des chantiers structurants
+- ✅ Restaurer la cadence transverse (HO30 mode catamaran/paquebot)
+- ❌ Ne PAS revendiquer la position en public
+- ❌ Ne PAS accepter de titre supérieur à Fabrice avant l'annonce 1er juin
+- ❌ Ne PAS accepter d'instructions Alec qui marginalisent explicitement Fabrice
+
+---
+
 ## Rôle actuel et transition
 - **Poste actuel** : COO Entrepreneurs.com (devient **Co-COO avec Boris** au 1er mai 2026, transition Co-COO simultanée)
 - **Roadmap** : transition vers **General Manager Dubai** (validée par Alec au 27/4, à valider à Marrakech mi-mai)

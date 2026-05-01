@@ -23,28 +23,37 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 - **HO2** — Le blocage BNP (siège Émirats) est le vrai goulot bancaire, pas le dossier BPI.
 - **HO3** — Le pôle recouvrement en reconstruction (Jade, Jordan) peut récupérer 30-50% des 2-3M€ d'impayés sur 6 mois si bien outillé.
 
-- **HO34** — **Risque imminent de départ d'Abdel El Mahi d'ici 2 semaines**. Source unique mais haute confiance : Alec en privé à Fabrice au call du 27/4 (replay partagé volontairement à Boris).
+- **HO34** — ~~**Risque imminent de départ d'Abdel El Mahi d'ici 2 semaines**~~ → **RECADRÉE le 2026-05-01** : sujet d'investissement, pas de rétention classique. Source unique étendue (replay 30 min Alec×Abdel du 30/4 partagé à Anisse, à récupérer pour Boris).
   
-  Verbatim Alec :
-  > *"Ensuite Abdel, j'ai un point one-one avec lui parce qu'il décroche un peu et vraisemblablement il risque de démissionner d'ici 2 semaines maximum si ça continue."*
+  **Évolution majeure J0** : Alec a livré au call Nœuds opérationnels (1er mai) qu'Abdel **veut déménager à Dubaï** + demande une augmentation. Verbatim Alec :
+  > *"Il veut même déménager à Dubaï. Bon, après il y a une variable, c'est qu'il veut une augmentation, mais c'est normal parce que tu peux pas vivre avec le salaire qu'il a à Dubaï."*
   
-  **Pourquoi c'est critique** :
+  Posture Alec sur la négo : *"Le problème c'est pas de te payer plus, c'est que tu crées plus de valeur."*
+  
+  **Recadrage de l'hypothèse** :
+  | Avant (27/4) | Après (1er mai J0) |
+  |---|---|
+  | Risque départ imminent (2 semaines) | **Sujet d'investissement — Abdel veut s'engager plus fort** |
+  | Profil qui décroche | Profil qui demande **augmentation + déménagement Dubaï** |
+  | Frictions techniques cumulées | Frictions techniques + **manque de cadre/management** (verbatim Alec : *"il est pas managé, il est pas cadré"*) |
+  | Action S1 "désamorcer" | Action S1 "structurer cadre + roadmap Dubaï" |
+  
+  → **Le déménagement Dubaï = signal d'engagement fort**, pas de menace de départ. Abdel veut basculer dans le noyau structurel (proximité Alec/Anisse) avec compensation salariale. **Levier de retournement plus rapide que prévu**.
+  
+  **Pourquoi c'était critique à sortir de zone rouge** :
   - **Abdel est dans le noyau solide** identifié par Alec au cadrage du 23/4 (Q3 : *"Sabrina, Aziz, Océane, Thomas/Nicolas, Ouassim, Claire, **Abdel**, Jordan"*)
-  - **6e mouvement top en 22 mois** si départ confirmé (post Tang, Fabrice rétrogradé, Alexis sortant, Axel sortant juin, Cédric en risque)
-  - Probable **7e mouvement** si Cédric se confirme aussi (HO32) → hémorragie systémique au top
   - Sa charge actuelle (mailings post-events, com clients, coordination experts) tombe sur **Sabrina** (déjà sous l'eau) et le **marketing** (Cédric en sous-effectif)
+  - Question structurelle non résolue : **manager direct** — Sabrina prévue mais passation pas faite (Sabrina déjà sous l'eau), Anisse en transition ("super relation")
   
-  **Pattern probable Alec** (HO15) : Alec a dit à Fabrice qu'il prend un 1-to-1 avec Abdel. C'est la même pattern que sur Alexis et Mélissa — alerte tardive, action curative plutôt que préventive. Risque : trop tard.
+  **Action S1 immédiate révisitée** :
+  1. **Récupérer le replay** Alec×Abdel (30 min en accéléré) auprès d'Anisse — visionner avant le 1-to-1
+  2. **1-to-1 Abdel S1** avec angle structuration + roadmap (pas découverte) : cf. [[Abdel El Mahi]] trame révisitée
+  3. **Trio possible Boris+Anisse+Abdel** vu la "super relation" Anisse/Abdel, format probablement le plus efficace
+  4. **Arbitrer manager direct** avec Alec en S1-S2 — hypothèse (a) Anisse manager officiel (cohérent extension Automation IA) > (b) Boris transitoire > (c) Sabrina avec allégement
   
-  **Source de la friction probable** : opportunité d'Abdel sur des frictions opérationnelles (accès HubSpot retirés régulièrement, dépendance à Wassim pour les extractions, BigQuery promis non livré). Friction technique cumulée — pas politique. → **Très grosse opportunité de retournement rapide** si je peux débloquer 1-2 sujets concrets en S1.
+  **Horizon révisé** : J+14 (cadre + roadmap posés avec Abdel) / J+30 (manager direct arbitré + roadmap Dubaï actée avec Alec) / J+60 (premiers livrables Abdel mesurables sur valeur créée).
   
-  **Action S1 (semaine du 5 mai)** : 1-to-1 prioritaire avec Abdel (cf. [[Abdel El Mahi]]). Posture : ne pas révéler ce que je sais d'Alec, faire émerger les frictions concrètes, livrer 1-2 déblocages en 10 jours pour créer une boucle de re-engagement.
-  
-  **Action structurelle S2-S3** : aligner avec Anisse sur l'automatisation mailing post-events + débloquer accès BigQuery (promesse Fabrice non tenue).
-  
-  **Test** : si Abdel ouvre spontanément au 1-to-1 S1, signal de confiance + opportunité de stabiliser via déblocages techniques. S'il reste verrouillé, le risque départ dans les 14 jours est haut. À escalader à Alec dans les 24-48h sans citer.
-  
-  **Horizon** : J+14 (premier signal post-1-to-1 S1) / J+30 (validation ou résolution).
+  _Statut au J+14 : à compléter_
 
 _Statut au J+14 : à compléter_
 
@@ -60,6 +69,18 @@ _Statut au J+14 : à compléter_
 ## Hypothèses sur le management
 
 - **HO8** — L'équation "tout remonte à Alec + Fabrice" est factuelle, pas juste une perception (cf. H6 du DR). **[CONFIRMÉE par Alec verbatim le 2026-04-23]** — Alec lui-même pose le red flag #2 "qu'on te prenne pour assistant/exécutant" comme le piège à éviter. **[AGGRAVÉE par Océane le 2026-04-23 soir]** : Océane ajoute une 3e cause (au-delà de "pas confiance en middle" et "Alec seul décideur") : **culture de peur + culture du héros**. **[MÉCANISME COMPLÉTÉ par Fabrice le 2026-04-24]** : 4e cause découverte = **les gens évitent la flamme** et **se défaussent vers Alec ou Fabrice** pour pouvoir dire *"j'ai vu avec untel, donc si ça marche pas, j'ai protégé mon dos"*. Verbatim Fabrice : *"Personne ne veut prendre de responsabilité, de décision. Donc 'j'ai vu avec Fabrice', donc au pire si ça marche pas, je pourrais toujours dire que j'ai vu avec Fabrice."* **[ULTRA-CONFIRMÉE 2026-04-28 par Sabrina]** : verbatim système Sabrina *"300 process, mais aucun décisionnaire."* + *"Personne ne sait qui fait quoi, encore moins qui prend la décision sous délai imparti."* La cause racine n'est plus seulement la culture de peur — c'est l'**absence structurelle de pouvoir de décision distribué** matérialisée par 300 process Mélissa où aucun nom n'est jamais identifié comme décisionnaire final. **[CAS CONCRET 2026-04-28 (Boris↔Fabrice)]** : cas Alexis "éléphant dans la pièce" — Alexis avait l'onboarding RH comme mandat depuis 3-4 mois (avec recrutement d'une talent acquisition + mandats à 85 points), et au matin du 28/4 il répond à Fabrice par un pavé "il y a pas de owner de ci, pas de owner de ça". Verbatim Fabrice : *"Tu as l'éléphant dans la pièce et le mec te dit 'ouais bah là je vois une petite commode'."* Cas frais qui matérialise HO8 ET HO29. HO8 est maintenant un **diagnostic partagé multi-sources avec mécanisme documenté précisément** (Alec auto-diag + Océane + Fabrice + Sabrina). Le cycle complet : (1) personne ne décide → (2) tout remonte → (3) Alec ou Fabrice tranche → (4) personne n'a appris à décider → retour (1). **Levier d'action** : restaurer un mode transverse où les heads ont l'autorité réelle (pas juste fictive) sur leur périmètre. Cf. mode opératoire 2024-S1 détruit par Tang (HO30). **Cf. HO38 — la matrice jurisprudence financière demandée à Fabrice est un proxy parfait de cet enjeu**.
+
+  **⚡ CAS D'ÉCOLE 2026-05-01 (call Nœuds opérationnels Alec×Boris) — verbatim Alice/Angèle (recouvrement)** : Alec rapporte ce qu'une des deux (il ne se rappelle pas laquelle) a dit à Alexis hier (jour de son départ 30/4). Alexis l'a motivée à parler franchement à Alec. Réponse :
+  > *"Je préfère faire perdre des centaines de milliers d'euros à entrepreneurs.com, par des actes de quelqu'un qui est supérieur hiérarchiquement à moi parce qu'il y a des erreurs et de la négligence, plutôt que de spotter le problème, de l'annoncer parce que sinon mon poste est en danger."*
+  > 
+  > *"Si j'ouvre ma gueule, je risque d'être virée. Alors que je touche 3-4000 balles par mois pour ça. **La preuve, c'est ton dernier jour. Tu fais partie de ceux qui ont osé parler, c'est ton dernier jour.**"*
+  
+  → **Matérialisation parfaite HO8** vue en direct le 30/4. Mécanisme : préfère laisser perdre des centaines de milliers d'euros plutôt que signaler un problème, par peur de représailles. **Justification empirique** : observation directe que ceux qui parlent partent (cas Alexis pris comme preuve).
+  
+  Auto-critique Alec en réponse à Boris : *"Je préfère encore avoir un mauvais manager que pas de manager."* → reconnaissance que l'absence de management crée plus de dégâts que la toxicité elle-même.
+  
+  **Action possible S1-S2** : Boris peut prendre un call avec Alice/Angèle (Alec a proposé) sans nommer Alec dans la friction. Levier symbolique fort si Boris arrive à débloquer ce type de profil (recouvrement, niveau N-3) — matérialisation visible que le cordon sanitaire posé J0 produit ses effets.
+
 - **HO9** — Il existe 1-2 leads potentiels niveau -1 dans l'équipe actuelle, juste pas identifiés / pas empowered.
 - **HO10** — La culture de "tâches déléguées sans responsabilités associées" est le levier de transformation n°1.
 
@@ -93,6 +114,17 @@ _Statut au J+14 : à compléter_
   Verbatim Fabrice qui synthétise le bug HO15 : *"Tout ça c'est parti de 'vous êtes des couillons'. Sans tenir compte de la spec derrière. Je sais pas ce qu'Amine met comme vidéos — temporaire ? À vie ? On fait pas la même chose."*
   
   → **Mécanisme HO15 reproductible** sur tous les sujets techniques où Alec balance des scuds après benchmark externe sans creuser. Levier S1-S2 : sur ce type de sujet, intercepter en demandant à Alec une revue spec en 30 min avant qu'il transmette aux équipes. Cas d'usage parfait pour la règle du revirement.
+
+  **⚡ SIGNAL FRESH 2026-05-01 (call Nœuds opérationnels Alec×Boris) — idée "IA general manager"** : nouveau pattern HO15 à surveiller. Verbatim Alec :
+  > *"Est-ce qu'on pourrait pas créer un poste, une sorte de general manager ou je sais pas quoi, mais c'est une IA, c'est un employé IA. Parce qu'en vrai, c'est juste— **Moi, j'aime bien me faire frapper par une IA, tu vois. Pourquoi les humains sont si compliqués ?**"*
+  
+  Boris a recadré fermement (*"le management c'est de l'humain, une IA ne peut pas comprendre que le mec, son chien est mort"*). Alec a accepté en surface (*"OK, OK, je vois"*). 
+  
+  → **Lecture HO15 étendue** : pattern "vitesse + ubiquité + foi en l'IA" appliqué cette fois au **management humain**. C'est une fuite face au travail humain de management. Cohérent avec son enthousiasme pour Mithril/Aiko (29/4 PM) — sauf que là c'était du recrutement (légitime) ; ici c'est le management humain (problématique).
+  
+  → **À tracer** : si l'idée revient en conversation (notamment sur Cervo, Pepper, Marcus avec connotation "remplacer le management humain par IA"), **intervenir à nouveau**. Pattern à surveiller à chaque itération produit IA dans la boîte.
+  
+  → **Convergence avec posture Anisse** : *"L'humain reste de l'humain"* est aligné avec ce qu'Anisse a posé sur les agents IA (adoption > création, support pas remplacement). Si l'idée revient, Boris peut s'appuyer sur Anisse pour faire front commun.
 
 - **HO16** — **Sophia (co-COO externe juillet)** : son contrat n'est pas encore signé définitivement. Si j'avance vite entre mai et juin, la question "a-t-on vraiment besoin de Sophia ?" va se poser côté Alec. Hypothèse : une clarification explicite du scope Sophia vs. Boris est possible avant fin juin. **[ENRICHI 2026-04-28 par Fabrice]** : Fabrice a fait un call 30-45 min avec Sophia. Verdict : *"très assez plat"*, pas d'exemples concrets, *"c'est toujours un peu au cas par cas"*. Fabrice lui a demandé de retravailler son sales pitch — pas fait. Mais Alec et Anisse emballés, donc Fabrice reste ouvert. **Réserve interne Fabrice ≠ enthousiasme Alec/Anisse → terrain pour clarifier le scope avec Alec en S2-S3 si l'audit Sophia ne livre pas concret**.
 - **HO17** — **Axél (CRO) pilote un pôle hermétique** selon le Diag, mais Alec l'invite à la transparence totale avec moi. Hypothèse : Axel va s'ouvrir en 1-to-1 une fois qu'il comprend que je ne viens pas auditer son pôle. Test en semaine 1.
