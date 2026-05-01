@@ -269,6 +269,82 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
+### 🔴 MAJ 2026-05-01 J0 PM — Replay Alec×Abdel récupéré : posture humaine forte + 1ère application cordon sanitaire
+
+**Source** : replay 1-to-1 Alec×Abdel du 30/4 soir 18h03-18h31 (28 min), envoyé par Alec à Anisse, récupéré par Boris au cours du J0 PM. Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]].
+
+#### 🟢 Posture humaine forte d'Alec — verbatim canonique à mémoriser
+
+Quand Abdel envisage le scénario *"on pourrait remettre en question la collaboration"*, Alec coupe :
+> *"Si c'était mon idée [virer Abdel] on n'aurait pas cet appel. J'ai pas le temps. Ça veut vraiment dire que moi je veux pas en arriver là. Les gens que je remercie, j'ai pas cet appel et je prends même pas le temps de les remercier."*
+
+→ **Règle Alec implicite** : un 1-to-1 d'écoute = signal de **rétention**, pas de sortie. Si Alec prend le temps, c'est qu'il veut garder. Inversement, l'absence de prise de temps = signal de sortie probable.
+
+→ **À mémoriser pour la trame des autres profils** : si Alec demande à Boris de prendre un call avec X, c'est un signal de rétention. Si Alec laisse partir sans rencontre, c'est l'inverse.
+
+#### 🔴 Première application réelle du cordon sanitaire HO29 — dès la veille du J0
+
+Dans le même call (30/4 soir), Alec applique pour la première fois la règle posée par Boris au call J0 du matin (1er mai) — ce qui veut dire qu'**Alec avait déjà cette règle à l'esprit avant que Boris la formalise**.
+
+Contexte : Abdel raconte que Léa a *"presque flop"* sur la présentation modules avatar aux clients, qu'il a dû rattraper en lead intégral.
+
+Réaction Alec :
+> *"Il faut s'il te plaît que tu le remontes à Fabrice, tu lui fais un petit message ce soir, mais c'est important. **Parce que moi je vais pas le faire, je vais pas rentrer là-dedans, je vais pas rapporter le truc.** Mais toi c'est important que tu le dises à Fabrice en transparence, en one-on-one."*
+
+→ **Alec auto-applique le cordon sanitaire** : ne tape pas en direct sur Léa, ne scude pas Fabrice, demande à Abdel (N-2) de remonter directement à Fabrice (N-1) en transparence.
+
+→ **Marqueur très positif J0** : la règle a non seulement été acceptée (call J0 matin) mais **déjà incarnée dans une situation réelle la veille**. Boris peut s'en servir comme preuve de capacité d'auto-régulation Alec quand le sujet revient.
+
+#### 🔴 Critique frontale Léa — 1er signal négatif explicite
+
+> *"Si la personne qui présente le présente mal, pas avec l'enthousiasme qu'il faut, pas avec le truc qu'il faut, bah tout de suite, tu vois."*
+
+→ **Premier signal négatif explicite sur Léa** dans le vault. Cohérent avec sa position fragile dans le mandat verticale (1.5K€/mois support tech, zone à évaluer). À garder en tête au call mardi 5 mai si le sujet Léa émerge.
+
+#### 🔴 Sujet "ETI" en mouvement — révélation
+
+Verbatim Alec à Abdel :
+> *"En plus de ça, j'ai des surprises pour toi parce que même le côté ETI, tu me challenges avec ça, il y a des choses qui bougent là-dessus."*
+
+→ **"ETI"** = probablement Entreprise de Taille Intermédiaire (produit nouveau B2B/corporate ?). Sujet sur lequel Abdel a interpellé Alec dans le passé. **Bouge actuellement**.
+
+→ **Information politique** : Alec a un projet en cours dont Boris n'est pas informé. **À questionner explicitement à Alec** au prochain bilatéral *"j'ai entendu parler d'ETI dans le replay Abdel, qu'est-ce qui bouge là-dessus ?"*.
+
+→ **Lien avec restructuration produit (HO18)** : ce projet ETI rentre probablement dans la restructuration produit en cours mentionnée par Alec au cadrage 23/4. À vérifier.
+
+#### 🟢 Trajectoire sortie pédagogie progressive pour Abdel envisagée
+
+> *"La discussion qu'on a eue il y a de ça quelques semaines, quelques mois, où je t'ai dit peut-être que tu n'es pas voué à être toute ta vie en pédagogie, c'est toujours d'actualité."*
+
+→ Alec voit Abdel **évoluer progressivement vers autre chose que la pédagogie**. Cohérent avec la trajectoire ETI (si ETI = produit B2B/corporate).
+
+→ **À articuler avec roadmap Abdel S1-S2** : si l'ETI est le scope cible, il faut le clarifier avec Alec **avant** d'arbitrer manager direct + augmentation.
+
+#### 🟢 Alignement Alec + Fabrice sur augmentation Abdel — Fabrice déjà dans la boucle
+
+Verbatim Alec :
+> *"Ça c'est déjà des sujets qui ont été évoqués aussi par Fabrice parce qu'il est lucide, il devrait y avoir une reconsidération salariale. Ça c'est évident, à la hausse."*
+
+→ **Boris peut discuter du sujet augmentation Abdel avec Fabrice** sans devoir révéler comment il sait. Fabrice est déjà aligné en privé avec Alec. Aucune surprise à créer.
+
+→ **Posture Alec ferme** : *"L'enjeu, c'est pas combien vous êtes payé, c'est la valeur que vous créez."* Augmentation suit la valeur démontrée, pas l'inverse.
+
+#### 🟢 Cadrage "visibilité vs qualité" appliqué à Abdel
+
+Quand Abdel s'auto-flagelle sur la qualité, Alec recadre :
+> *"Le sujet chez toi, c'est pas du tout la qualité. [...] Le sujet, c'est la productivité, ou en tout cas le respect de certaines deadlines, ou la visibilité, la communication sur certains sujets."*
+
+→ **Pattern Alec utile** : capacité à distinguer précisément ce qu'il valorise vs ce qui dérange. À répliquer dans les autres 1-to-1 — Alec ne juge pas globalement, il juge dans des dimensions spécifiques.
+
+#### 🔵 Sabrina pas en capacité de tenir le rôle manager Abdel
+
+Verbatim Alec :
+> *"Je lui ai demandé [à Sabrina] sur quoi il est aujourd'hui, Abdel. Et toi, même elle, elle était pas en capacité de me répondre."*
+
+→ **Sabrina ne sait pas ce que fait Abdel**. Confirmation que la passation Sabrina pour Abdel ne se fait pas. **Hypothèse (a) Anisse manager officiel = réalité opérationnelle déjà** (cf. [[Anisse Rbibe]]).
+
+→ **Sujet à arbitrer avec Alec en S1-S2** : officialiser Anisse comme manager Abdel ou maintenir Sabrina avec allégement de scope.
+
 ### 🔴 MAJ 2026-05-01 J0 SOIR — Slack tripartite : reprise en main verticale Data/IA/Tech/Ops
 
 **Source** : 2 messages Slack Alec → Anisse + Fabrice + Boris envoyés dans la foulée du call J0 du matin. Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]].

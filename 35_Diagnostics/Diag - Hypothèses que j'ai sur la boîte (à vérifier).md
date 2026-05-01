@@ -53,6 +53,26 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
   
   **Horizon révisé** : J+14 (cadre + roadmap posés avec Abdel) / J+30 (manager direct arbitré + roadmap Dubaï actée avec Alec) / J+60 (premiers livrables Abdel mesurables sur valeur créée).
   
+  **⚡ RECADRAGE 3e FOIS 2026-05-01 J0 PM (replay Alec×Abdel récupéré)** : cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]]. Le replay révèle **un état beaucoup plus grave que l'image "pas managé / pas cadré"** que Alec a livrée au call J0 matin :
+  
+  - **Burnout aigu en cours** : 13-14h/jour toute la semaine, *"j'ai déjeuné à 17h"*, dégradation hygiène de vie + vie familiale
+  - **Pause / arrêt envisagés avec Anis lundi 27/4** : *"Est-ce qu'une pause, est-ce qu'un arrêt, est-ce que quelque chose serait la solution"*
+  - **Verbatim Abdel canonique** : *"Une dette de dégoût envers toi-même, envers tes valeurs et envers pas mal de choses"* (convergence linguistique avec [[Cadre - Dette de confiance]])
+  - **Anisse pilote le désamorçage** : kick-offs quotidiens depuis lundi 27/4. **Hypothèse (a) manager officiel Abdel = Anisse confirmée par les faits**. Sabrina ne tient pas (Alec verbatim : *"même elle, elle était pas en capacité de me répondre"*)
+  - **Augmentation chiffrée ~8K€/mois net alignée Alec ET Fabrice** (référence Dubaï passé d'Abdel + 3 enfants à charge)
+  - **Sujet "ETI"** en mouvement — trajectoire sortie pédagogie progressive envisagée par Alec
+  - **Trio Alec+Anisse+Abdel à Marrakech** déjà cadré entre eux
+  
+  **HO34 a 4 dimensions désormais** :
+  1. **Burnout aigu actuel** — désamorçage en cours par Anisse
+  2. **Roadmap Dubaï + augmentation** — aligné Alec + Fabrice
+  3. **Sortie pédagogie progressive** — sujet ETI à creuser
+  4. **Cadre management direct** — Anisse officiel à acter
+  
+  **Trame 1-to-1 Boris S1 revisée 3e fois** : pas "découverte" ni "écoute psychologique" (Anisse + Alec ont déjà fait ce taf). **Boris vient avec leviers structurels concrets** : (1) automatisation réaffectations clients (cas applicatif HO39 frais — Abdel le fait week-end et vacances) en S1-S2 avec Anisse, (2) cadrage roadmap Dubaï avec timing + scope ETI + manager direct. Cf. [[Abdel El Mahi]] section trame revisée.
+  
+  **Horizon révisé (post-1er mai PM)** : J+7 (1-to-1 Abdel + démarrage automation réaffectations) / J+14 (manager direct officialisé + scope ETI cadré) / J+30 (roadmap Dubaï actée + augmentation discutée avec Alec) / Marrakech 20-25 mai (point trio Alec+Anisse+Abdel + association Boris)
+  
   _Statut au J+14 : à compléter_
 
 _Statut au J+14 : à compléter_
@@ -80,6 +100,15 @@ _Statut au J+14 : à compléter_
   Auto-critique Alec en réponse à Boris : *"Je préfère encore avoir un mauvais manager que pas de manager."* → reconnaissance que l'absence de management crée plus de dégâts que la toxicité elle-même.
   
   **Action possible S1-S2** : Boris peut prendre un call avec Alice/Angèle (Alec a proposé) sans nommer Alec dans la friction. Levier symbolique fort si Boris arrive à débloquer ce type de profil (recouvrement, niveau N-3) — matérialisation visible que le cordon sanitaire posé J0 produit ses effets.
+
+  **⚡ PREMIÈRE APPLICATION RÉELLE DU CORDON SANITAIRE 2026-04-30 SOIR (replay Alec×Abdel)** : cas modules avatar / Léa. Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]]. Contexte : Abdel raconte à Alec que Léa, supposée driver la présentation des modules avatar aux clients, a *"presque flop"* — Abdel a rattrapé en lead intégral.
+  
+  Réaction Alec qui auto-applique le cordon sanitaire :
+  > *"Il faut s'il te plaît que tu le remontes à Fabrice, tu lui fais un petit message ce soir. Parce que **moi je vais pas le faire, je vais pas rentrer là-dedans, je vais pas rapporter le truc**. Mais toi c'est important que tu le dises à Fabrice en transparence, en one-on-one."*
+  
+  → **Marqueur très positif J0** : la règle a non seulement été acceptée (call J0 matin) mais **déjà incarnée dans une situation réelle la veille au soir** (30/4 18h31). Alec avait déjà cette règle à l'esprit avant que Boris la formalise au call J0 matin. **Capacité d'auto-régulation Alec confirmée**.
+  
+  → **Premier signal négatif explicite Léa** dans le vault. Cohérent avec sa position fragile dans le mandat verticale Data/IA/Tech/Ops (1.5K€/mois support tech, zone d'évaluation).
 
   **⚡ ENRICHISSEMENT 2026-05-01 SOIR (Slack tripartite Alec)** : la **dispersion des sources de vérité data** (Looker, Data Studio, COMEX, HubSpot) empêche structurellement les heads d'arbitrer dans leur scope. Verbatim Aziz rapporté par Alec : *"La seule source fiable reste HubSpot. Tout le reste est dégradé."* + Fabrice n'a pas d'accès propre à HubSpot, donc pilote sur des supports qui ne sont pas la source de vérité.
   

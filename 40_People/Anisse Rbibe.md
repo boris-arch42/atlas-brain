@@ -13,6 +13,85 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 
 # Anisse Rbibe
 
+## 🔴 MAJ 2026-05-01 J0 PM — Replay Alec×Abdel récupéré : pilier de désamorçage confirmé + hypothèse (a) manager confirmée par les faits
+
+> Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]] pour le replay complet (28 min, 30/4 soir).
+>
+> Boris a récupéré le replay (envoyé par Alec à Anisse le 30/4 soir) au cours du J0 PM — Anisse était donc déjà informé du contenu hier soir.
+
+### 🟢 Anisse pilier opérationnel de désamorçage d'Abdel — confirmé par les faits
+
+Verbatim Abdel dans le replay :
+> *"On a commencé un *** de boulot avec Anis et c'est top."*
+> *"On kick-off tous les matins et c'est des bonnes sessions, c'est des belles sessions."*
+
+→ **Anisse fait des kick-offs quotidiens avec Abdel depuis lundi 27 avril** (jour du Core Meeting).
+
+→ **Plans d'action structurés** : *"Toute la semaine, on a mené des plans d'action sur les to-do, sur ce qui est en cours, sur ce qu'il y a à faire et comment résoudre et amener plus de confort sur tout ce que je fais."*
+
+→ **Écoute + soutien actif** : Anisse a reçu Abdel quand il a "vidé son sac" lundi 27/4. Verbatim Abdel : *"Depuis que je lui ai dit ça, ça m'a fait du bien déjà de juste vider mon sac parce que extrioriser et se sentir aussi considéré, écouté, soutenu."*
+
+### 🔴 Hypothèse (a) manager direct Abdel = Anisse officiel : CONFIRMÉE par les faits
+
+Les 3 hypothèses posées au J0 matin sur le manager direct d'Abdel :
+- **(a) Anisse manager officiel** — cohérent extension Automation IA
+- (b) Boris transitoire
+- (c) Sabrina avec allégement
+
+**Le replay tranche en faveur de (a)** :
+- Sabrina ne tient pas le rôle (verbatim Alec : *"même elle, elle était pas en capacité de me répondre"* sur ce qu'Abdel fait)
+- Abdel et Anisse fonctionnent déjà en mode manager-managed (kick-offs quotidiens, plans d'action, écoute, soutien)
+- Verbatim Alec : *"On a laissé sur Anis parce qu'ils ont une super relation"* (call J0 matin)
+- Alec a proposé spontanément **trio Alec+Anisse+Abdel à Marrakech** = format dur établi
+
+→ **À officialiser avec Alec en S1-S2** — mais c'est déjà la réalité opérationnelle. La décision est de **dire ce qui est** plutôt que de créer quelque chose de nouveau.
+
+### 🟠 Charge Anisse à surveiller — il porte beaucoup
+
+Anisse a actuellement **plusieurs rôles structurants** :
+- Mandat consolidation ressources + structuration data/IA (Slack 1er mai officialisé)
+- Manager officieux Abdel (kick-offs quotidiens depuis 27/4)
+- Stack IA déployée (Marcus, Pepper, Cervo en cours, Aiko, Naïma)
+- Workshop COMEX Mithril 6/7/8 mai (à caler)
+- Projet Cervo (POC rétention Cédric)
+- Replay Alec×Abdel à partager + suite à piloter
+
+→ **Risque de surcharge Anisse** : Boris doit **alléger Anisse là où c'est possible**, pas l'alourdir. Notamment :
+- Boris peut prendre la **partie cadrage roadmap Dubaï** (timing + augmentation + scope ETI) — Anisse reste sur la partie désamorçage émotionnel + manager opérationnel
+- Boris peut prendre la **partie automation réaffectations clients** sur l'angle audit / spécification — Anisse implémente avec son équipe IA
+- Boris peut **prendre la coordination Mithril/Aiko + workshop COMEX** — Anisse y participe sans en être l'orchestrateur
+
+### 🟢 Quick win automation réaffectations à proposer au call mardi 5 mai
+
+Verbatim Abdel dans le replay :
+> *"Tous les jours j'ai 1 ou 2 clients qui n'a pas été affecté et donc je dois être alerte. Je le fais même pendant les vacances, même le week-end."*
+
+→ **Cas applicatif parfait du problème #4 du Slack 1er mai** (pas d'automation cycle de vie lead).
+
+→ **Quick win Anisse** : automation des réaffectations clients via IA en S1-S2. **Boris peut proposer ce chantier spécifique** au call mardi comme exemple concret de la verticale Data/IA — sans verbaliser Abdel personnellement (juste *"il y a aujourd'hui quelqu'un dans la boîte qui passe ses week-ends à réaffecter des clients à la main"*).
+
+→ **Cohérence avec mandat Anisse Slack** *"consolidation des ressources + structuration data/IA"* — ce chantier en est l'archetype.
+
+### 🟢 Bilateral Boris×Anisse à caler en amont du call mardi
+
+**Sujets prioritaires à aligner** lundi 4 mai (30 min suffisent) :
+1. **Replay Alec×Abdel** : ce qu'Anisse en retire + plan désamorçage déjà lancé
+2. **Manager direct Abdel** : valider hypothèse (a) avant call mardi
+3. **Quick win automation réaffectations** : faisabilité + timing
+4. **Cartographie stack IA pour mardi** : Marcus + Pepper + Cervo + Aiko + Naïma
+5. **Workshop COMEX Mithril 6/7/8 mai** : présence Anisse
+6. **Sujet ETI** : ce qu'Anisse en sait, est-ce que c'est dans son scope
+7. **Coordination call mardi** : qui parle de quoi pour ne pas se recouvrir avec Boris
+
+### 🆕 Convergence linguistique Abdel/Boris sur "dette" — utile pour Anisse aussi
+
+Abdel utilise spontanément :
+> *"Tu commences à cumuler une dette de dégoût envers toi-même."*
+
+Qui converge avec **"dette de confiance"** posé par Boris au call J0 matin (cf. [[Cadre - Dette de confiance]]).
+
+→ **Anisse peut s'approprier cette grammaire commune** dans ses kick-offs avec Abdel et au-delà. La métaphore de la dette = **outil partagé équipe Boris/Anisse** pour caractériser les frictions systémiques.
+
 ## 🔴 MAJ 2026-05-01 J0 SOIR — Mandat consolidation ressources + structuration data/IA officialisé
 
 > Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]] pour le contexte (2 messages Slack envoyés par Alec dans la foulée du call J0 du matin).

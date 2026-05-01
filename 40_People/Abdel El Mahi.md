@@ -16,6 +16,150 @@ tags: [risque-depart-imminent, HO34, noyau-solide, stakeholder-prioritaire]
 
 > 🚨 **CONFIDENTIEL MAX** — Risque départ imminent identifié au 27/4 par Alec en privé. **Ne jamais relayer cette info**, ni à Abdel, ni à un tiers. Le 1-to-1 doit faire émerger ce que je sais déjà, pas le révéler.
 
+## 🔴 MAJ 2026-05-01 J0 PM — Replay Alec × Abdel récupéré : burnout aigu en cours + roadmap chiffrée
+
+> Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]] pour le replay complet (28 min, 30/4 soir 18h03-18h31).
+>
+> Boris a récupéré le replay auprès d'Anisse au cours du J0 PM. **3e recadrage HO34 en moins d'une semaine**.
+
+### 🔴 État réel : burnout aigu en cours, pas seulement "pas managé / pas cadré"
+
+Alec avait simplifié la situation au call J0 matin (*"il est pas managé, il est pas cadré"*). Le replay révèle un état beaucoup plus grave :
+
+- *"Je me sens tellement en friction avec moi-même"* (Abdel à Anis lundi 27/4)
+- *"Je suis vraiment extrêmement épuisé"*
+- **13-14h/jour toute la semaine** (verbatim Abdel)
+- *"J'ai déjeuné aujourd'hui à 17h"* (mercredi 30/4)
+- *"Une dette de dégoût envers toi-même, envers tes valeurs et envers pas mal de choses"*
+- Mon fonctionnement *"dévotion ce 'je veux bien faire les choses' perfectionniste fait que je me brûle"*
+- Dégradation hygiène de vie (sport négligé), repas manqués, vie familiale dégradée (3 enfants, dont 1 qui a eu varicelle + 1 gastro "vacances" Tunisie qui n'en étaient pas)
+
+→ **Burnout préchronique en cours** : surcharge structurelle + perfectionnisme + multitasking permanent + dégradation hygiène de vie. Pattern bien documenté.
+
+→ **Important** : Abdel est conscient (*"c'est pas la première fois que je le vis, ce sera peut-être pas la dernière"*). Pas un déni, une **lassitude lucide**.
+
+### 🔴 Pause / arrêt envisagés avec Anis lundi 27/4
+
+Verbatim Abdel :
+> *"Lundi je dis à Anis : écoute, je me sens tellement en friction avec moi-même. [...] Commencer à me dire est-ce qu'une pause, est-ce qu'un arrêt, est-ce que quelque chose serait la solution pour moi."*
+
+→ **Plus radical que documenté** : pas seulement déménagement Dubaï, **"pause / arrêt"** explicitement envisagés. Anis a désamorcé en partie.
+
+### 🟢 Anis pilier de désamorçage — kick-offs quotidiens depuis lundi 27/4
+
+Verbatim Abdel :
+> *"On a commencé un *** de boulot avec Anis et c'est top."*
+> *"On kick-off tous les matins et c'est des bonnes sessions, c'est des belles sessions."*
+
+→ **Anis fait des kick-offs quotidiens avec Abdel depuis lundi 27/4** (Core Meeting jour). Plans d'action sur to-do, en cours, à faire. Écoute + soutien.
+
+→ **Hypothèse (a) manager direct = Anisse officiel CONFIRMÉE par les faits** (cf. [[Anisse Rbibe]] MAJ J0 SOIR). Sabrina ne tient pas le rôle (Alec verbatim : *"même elle, elle était pas en capacité de me répondre"* sur ce qu'Abdel fait).
+
+→ **Boris ne doit PAS dupliquer le rôle Anisse** — Boris vient en complément structurel (roadmap Dubaï + scope + arbitrage), pas en duplicata émotionnel.
+
+### 🟢 Augmentation salariale chiffrée et alignée Alec + Fabrice
+
+**Cible salariale ~8K€/mois net pour Dubaï** confirmée par l'expérience passée d'Abdel :
+> *"J'étais à 8500 dollars, donc 8000 euros net par mois quand j'étais à Dubaï pendant les 6 mois, et je mettais zéro de côté."*
+
+Contexte Abdel : 3 enfants à charge à scolariser + logement 3 bedroom à 2500€/mois (Dubaï passé).
+
+**Alignement explicite Alec + Fabrice** :
+> *"Ça c'est déjà des sujets qui ont été évoqués aussi par Fabrice parce qu'il est lucide, il devrait y avoir une reconsidération salariale. Ça c'est évident, à la hausse."* (Alec)
+
+→ **Fabrice est dans la boucle**. Boris peut discuter du sujet avec Fabrice sans devoir révéler comment il sait (Alec en a parlé à Fabrice avant).
+
+→ **Posture Alec ferme sur la séquence** : pas d'augmentation avant la valeur démontrée. Abdel doit livrer + Boris/Anisse doivent décharger pour permettre à la valeur d'apparaître. **Augmentation suivra naturellement**.
+
+### 🆕 Sujet "ETI" en mouvement — sortie pédagogie progressive
+
+Verbatim Alec :
+> *"En plus de ça, j'ai des surprises pour toi parce que même le côté ETI, tu me challenges avec ça, il y a des choses qui bougent là-dessus."*
+
+> *"La discussion qu'on a eue il y a de ça quelques semaines, quelques mois, où je t'ai dit peut-être que tu n'es pas voué à être toute ta vie en pédagogie, c'est toujours d'actualité."*
+
+→ **Trajectoire de sortie progressive de la pédagogie** envisagée par Alec pour Abdel. Pas seulement géographique (Dubaï), **aussi fonctionnelle**.
+
+→ **"ETI"** = probablement Entreprise de Taille Intermédiaire (produit nouveau B2B/corporate ?). Abdel a interpellé Alec dessus dans le passé. Bouge actuellement.
+
+→ **Sujet à creuser au 1-to-1 S1** : qu'est-ce que c'est exactement ? Quelle est la position d'Abdel souhaitée ? Quel timing ?
+
+### 🟢 Cadrage Alec — visibilité ≠ qualité
+
+Quand Abdel répète "qualité" 3 fois en se remettant en question, Alec recadre :
+> *"Le sujet chez toi, c'est pas du tout la qualité. [...] Le sujet, c'est la productivité, ou en tout cas le respect de certaines deadlines, ou la visibilité, la communication sur certains sujets."*
+
+→ **Cadrage essentiel** : Abdel se sous-estime sur sa qualité (excellente) et se sur-évalue sur sa productivité.
+
+→ **Levier de décharge** = **mieux communiquer + déléguer le bas-niveau, PAS faire moins de qualité**. À acter dans la trame 1-to-1 S1.
+
+### 🟢 Trio Alec+Anis+Abdel à Marrakech déjà cadré
+
+> Verbatim Alec : *"Tu seras là à Marrakech ? Ouais. Ah bah, prenons un moment tous les trois avec Anis pour discuter de certains sujets. C'est important."*
+
+→ **Trio acté entre eux**. Boris peut s'y associer (en présence ou être briefé) **sans créer un quatrième format** (ne pas multiplier).
+
+→ **Sabrina+Abdel à Marrakech** = aussi à caser (Alec demande *"rapproche-toi un petit peu de Sabrina"*).
+
+### 🔴 Cas applicatif HO39 frais — réaffectations clients à la main
+
+Verbatim Abdel :
+> *"Tous les jours j'ai 1 ou 2 clients qui n'a pas été affecté et donc je dois être alerte. Je le fais même pendant les vacances, même le week-end."*
+
+→ **Cas applicatif parfait du problème #4 du Slack 1er mai** (pas d'automation cycle de vie lead). Abdel travaille week-end et vacances pour combler le gap.
+
+→ **Levier décharge immédiate** : si Anisse automatise les réaffectations en S1-S2 via IA, Abdel récupère **plusieurs heures/semaine + reprend ses week-ends**. **Quick win à proposer au call mardi 5 mai**.
+
+→ Boris peut utiliser ce cas comme **exemple concret applicatif** au call mardi sans verbaliser Abdel personnellement.
+
+### 🔴 Cas concret HO29 frais — modules avatar / Léa
+
+Abdel a rattrapé un kick-off client où Léa devait driver mais a *"presque flop"*. Abdel a co-animé en lead intégral. **Premier signal négatif explicite sur Léa** dans le vault.
+
+Verbatim Alec :
+> *"Si la personne qui présente le présente mal, pas avec l'enthousiasme qu'il faut, pas avec le truc qu'il faut, bah tout de suite, tu vois."*
+
+→ **Première application réelle du cordon sanitaire HO29** par Alec : *"Moi je vais pas le faire, je vais pas rentrer là-dedans. Mais toi c'est important que tu le dises à Fabrice."* — Alec applique la règle posée par Boris au call J0 du matin **dès la veille au soir**. Marqueur très positif.
+
+### 🟢 Trame 1-to-1 Abdel S1 — revisée 3e fois (semaine du 5 mai)
+
+**Boris ne doit PAS** :
+- ❌ Refaire le call de "vidage de sac" qu'Abdel a déjà fait avec Anis (lundi 27/4) puis Alec (mercredi 30/4)
+- ❌ Refaire le diagnostic émotionnel — Abdel l'a déjà posé clairement
+- ❌ Découvrir l'état Abdel — ça serait déjà ancien et redondant
+- ❌ Apparaître comme un 3e niveau d'écoute psychologique
+
+**Boris DOIT** :
+- ✅ **Apporter des leviers structurels concrets** : automatisation réaffectations + cadre roadmap Dubaï + arbitrage manager direct
+- ✅ **Position en complément de Anisse**, pas en duplicata
+- ✅ **Victoires rapides immédiates** identifiées AVANT le 1-to-1 (1-2 chantiers Boris peut débloquer en S1)
+- ✅ **Cadrer la roadmap moyen terme** : timing déménagement Dubaï + scope ETI + manager direct + augmentation principale
+
+**Cadrage d'ouverture revu** :
+> *"Hello Abdel, j'ai vu avec Alec et Anis le contexte. Je viens pas refaire un point d'écoute — Anis a fait ce taf, et bien. Moi je viens avec 2 chantiers concrets : (1) automatisation des réaffectations clients qu'on lance avec Anis dans la semaine, (2) cadrage roadmap Dubaï avec timing + augmentation + scope. Tu me dis ce qui te débloque le plus vite et on attaque."*
+
+### 🟢 Roadmap Abdel consolidée
+
+| Élément | Statut | Levier Boris S1-S2 |
+|---|---|---|
+| **Burnout aigu en cours** | 🔴 Critique | Anisse pilote (kick-offs quotidiens) — Boris en complément |
+| **Déménagement Dubaï** | ✅ Aligné Alec + Fabrice | Anisse démarre logistique (loyers bas 3 mois) |
+| **Augmentation salariale** | ✅ Aligné Alec + Fabrice | Cible ~8K€/mois net (référence Dubaï passé d'Abdel) |
+| **Sortie pédagogie progressive** | 🟡 Sujet ETI en mouvement | À creuser au 1-to-1 S1 — qu'est-ce que ETI ? Position souhaitée ? Timing ? |
+| **Manager direct** | ⚠️ Sabrina ne tient pas | Anisse officiel (hypothèse a confirmée par les faits) — à arbitrer avec Alec |
+| **Décharge bas-niveau** | 🟢 Anisse + IA | Quick win automation réaffectations en S1-S2 |
+| **Marrakech 20-25 mai** | ✅ Trio Alec+Anisse+Abdel cadré | Boris peut s'y associer ou être briefé (ne pas créer format 4) |
+| **Cas Sabrina** | 🟠 Zéro échange depuis prise de poste | Verbatim Abdel coopératif — Boris peut faciliter rapprochement |
+
+### 🆕 Convergence linguistique spontanée "dette"
+
+Abdel utilise spontanément :
+> *"Tu commences à cumuler une dette de dégoût envers toi-même, envers tes valeurs."*
+
+→ **Convergence avec [[Cadre - Dette de confiance]]** posé par Boris au call J0 matin (le lendemain). Marqueur que la grammaire collective converge — la **dette comme métaphore de la friction systémique** (confiance, dégoût, énergie, sens).
+
+→ **Angle commun S1** : Boris peut utiliser le vocabulaire de la dette avec Abdel naturellement.
+
 ## 🔴 MAJ 2026-05-01 J0 — HO34 actionnable : Abdel veut déménager Dubaï + augmentation
 
 > Cf. [[Ressource - Replay Nœuds opérationnels Alec 1er mai 2026]] pour le contexte (54 min, 1er call officiel "en fonction").
