@@ -146,6 +146,30 @@ Avant de lancer la refonte stack, **passer 2h à 4 (Boris+Fabrice+Anisse+Aziz)**
 **Verbatim possible Boris au call** :
 > *"Pour ne pas qu'on perde 3 semaines à débattre, je propose un workshop spec data 1h+1h dès cette semaine avec Aziz qui est demandeur. À la fin de la semaine, on a la cartographie des sources de vérité et le plan d'action priorisé."*
 
+### 🆕 Quick win automation réaffectations clients — exemple concret applicatif (NOUVEAU 2026-05-01 J0 PM)
+
+**À utiliser au call comme illustration parfaite du problème #4** ("pas d'automation cycle de vie lead") **sans verbaliser Abdel personnellement**.
+
+**Cas réel découvert au replay Alec×Abdel du 30/4** (cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]]) : un membre de l'équipe **fait les réaffectations clients à la main tous les jours, week-ends et vacances inclus**, parce que l'automation HubSpot ne couvre pas les cas de réaffectation de clients déjà affectés.
+
+**Verbatim Abdel** :
+> *"Tous les jours j'ai 1 ou 2 clients qui n'a pas été affecté et donc je dois être alerte. Je le fais même pendant les vacances, même le week-end."*
+
+**Formulation à utiliser au call (anonyme)** :
+> *"Pour rendre concret ce problème #4 : aujourd'hui dans la boîte, il y a quelqu'un qui passe ses week-ends et même ses vacances à réaffecter des clients à la main. Tous les jours, 1-2 clients restent non affectés parce que l'automation cycle de vie ne couvre pas le cas réaffectation. C'est exactement le coût humain non visible qu'on ne peut pas continuer à supporter à 52K€/mois."*
+
+**Pourquoi c'est un quick win parfait** :
+- **Faisable rapidement** : Anisse a la stack IA, le sujet est connu côté Aziz/Boris (cf. replay 28/4 sur le blocage Aircall ↔ HubSpot)
+- **Mesurable** : nombre de réaffectations manuelles avant/après + heures sauvées par semaine
+- **Visible immédiatement** : le membre concerné récupère plusieurs heures/semaine dès S1-S2
+- **Symbolique** : casse le pattern "week-ends sacrifiés pour combler le gap data" qui matérialise HO39
+- **Cohérent avec mandat Anisse** : *"consolidation des ressources + structuration data/IA"*
+
+**Proposition concrète au call** :
+> *"Anisse peut prototyper l'automation réaffectations cycle de vie lead en 5-7 jours. C'est l'archetype de ce que la verticale doit livrer : pas d'investissement nouveau, juste une orchestration IA + HubSpot + Aircall. Si on le livre en S1-S2, c'est le 1er signal visible que la verticale produit du résultat."*
+
+→ **Avantage politique** : c'est une victoire **livrable en S1-S2** (avant l'annonce co-COO 1er juin) qui matérialise le mandat Fabrice + le mandat Anisse + le mandat Boris en un seul chantier. Renforce le co-COO sans le mentionner.
+
 ### Proposition 3 — Exploiter Mithril/Aiko pour les recrutements offshore Ops + IA
 
 Cohérence avec mandat Alec 29/4 PM (Mithril/Aiko = vitrine workshop COMEX 6/7/8 mai). **Élargir le sourcing** pour couvrir les besoins identifiés au Slack 1er mai :

@@ -519,6 +519,13 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+30 (cadre + plan) / J+60 (livraisons partielles) / J+90 (modèle effectif au 1er août).
 
+  **⚡ CAS APPLICATIF FRAIS 2026-05-01 J0 PM (replay Alec×Abdel)** : Abdel raconte qu'il fait les **réaffectations clients à la main tous les jours, week-ends et vacances inclus**. Verbatim Abdel :
+  > *"Tous les jours j'ai 1 ou 2 clients qui n'a pas été affecté et donc je dois être alerte. Je le fais même pendant les vacances, même le week-end."*
+  
+  → **Cas applicatif parfait du problème #4** identifié par Alec au Slack 1er mai ("pas d'automation cycle de vie lead"). Matérialise concrètement le coût humain de la défaillance stack data — quelqu'un sacrifie ses week-ends et ses vacances pour combler le gap.
+  
+  → **Quick win Anisse** à proposer en S1-S2 : automation des réaffectations via IA. Restaure immédiatement plusieurs heures/semaine à Abdel + casse le pattern de dépendance week-end. **À amener au call mardi 5 mai** comme exemple concret applicatif sans verbaliser Abdel personnellement (formulation : *"il y a aujourd'hui quelqu'un dans la boîte qui passe ses week-ends à réaffecter des clients à la main"*).
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -552,7 +559,7 @@ _Statut au J+14 : à compléter_
 | HO31bis (toxicité mot OKR) | Renommer document du 1er mai en "Plan trimestriel" | J+1 |
 | HO32 (départ Cédric Q2-Q3) | 🔴 **MAJ 27/4** : 4e source publique (verbatim au Core) — quasi-certitude. 1-to-1 priorité 1 début S1 + cartographie succession + prépa Alec sans nommer | J+30 (signal) / J+60-90 (résolution) |
 | HO33 (stagnation profil client) | 🔄 **MAJ 28/4** : nuancée par insight Sabrina (60% upsells veulent coach + pushy = posture sous-calibrée, pas seulement profil dégradé). Marrakech 20-25 mai = co-arbitrage avec Sabrina + Aziz | J+30 / J+90 |
-| HO34 (départ Abdel 2 semaines) | 🔴 **NOUVELLE 27/4** : source Alec privé. 1-to-1 prioritaire S1 + déblocages techniques en 10 jours pour boucle re-engagement | J+14 / J+30 |
+| HO34 (Abdel — d'abord risque départ, maintenant 4 dimensions) | 🔴 **MAJ 1er mai PM (3e recadrage)** : replay Alec×Abdel récupéré — burnout aigu en cours, augmentation ~8K€ alignée Alec+Fabrice, sujet ETI en mouvement, hypothèse (a) Anisse manager confirmée par faits. Trame 1-to-1 Boris revisée 3e fois (leviers structurels, pas écoute) | J+7 / J+14 / J+30 / Marrakech |
 | HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4 (Aziz)** : observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
 | HO37 (risque réputationnel ticketing 3 mois) | 🆕 **NOUVELLE 28/4 (Sabrina)** : observation Sabrina pilotage. Mesure du délai moyen de traitement à J+30 et J+60 | J+30 / J+60 |
 | HO38 (matrice jurisprudence financière = proxy HO8) | 🔄 **MAJ 28/4** : confirmation directe Boris↔Fabrice (cas mise en demeure 6500€). Suivre avancement Fabrice. Si pas démarré à J+21, proposer co-construction | J+21 / J+45 |
