@@ -13,12 +13,76 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 
 # Anisse Rbibe
 
-## Rôle actuel
-- **Poste (interne)** : Responsable de la performance
-- **Titre client-facing** : "Mastercoach" — utilisé dans les plaquettes commerciales (cf. [[Accélérateur]]). À ce titre, anime les **sessions Q&A mensuelles de 90 min** avec les clients de l'Accélérateur.
-- **Manager** : _(à confirmer — Fabrice ? Alec direct ?)_
-- **Projet transverse connu** : plateforme `work.entrepreneurs.com`
-- **Piste de promotion** : pressenti CTO (malgré le fait qu'il n'est pas développeur)
+## 🔴 MAJ 2026-05-01 J0 SOIR — Mandat consolidation ressources + structuration data/IA officialisé
+
+> Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]] pour le contexte (2 messages Slack envoyés par Alec dans la foulée du call J0 du matin).
+
+### 🔴 Mandat explicite Alec officialisé publiquement devant Fabrice + Boris
+
+Verbatim Alec dans le Slack :
+> *"Anisse : consolidation des ressources + structuration data / IA."*
+
+→ **Mandat fort et cohérent avec ce qui se construit depuis 1 semaine** : Anisse devient le **garant opérationnel de la transformation IA** dans la foulée du mandat 29/4 PM (équipe Automation IA élargie au sujet du 5 mai) + de la nouvelle réalité verticale Data/IA/Tech/Ops.
+
+→ **Posture co-pilote avec Boris** : Boris challenge / regard neuf / exigence sur les choix structurants ; Anisse consolide les ressources + structure data/IA. Pas de recouvrement, compétences distinctes.
+
+### 🟢 Cohérence avec extension équipe Automation IA déjà documentée
+
+Le mandat 1er mai s'inscrit dans la continuité directe de :
+- **Vision Alec 29/4 PM** : *"Ops toute entreprise (admin/RH/finance/connexions) s'intègre dans l'équipe Automation IA d'Anisse"*
+- **Sujet du 5 mai** déjà mentionné par Alec au call Recrutement Ops Marketing 29/4 PM — c'est ce même call qui s'élargit en "call Ops/IT/Tech/Data/IA"
+- **Cohérence avec décision CTO du vocal 25/4** : Anisse reste sur Produit/Innovation/IA (pas tech), MAIS son scope structurel s'élargit
+
+→ **Aucune contradiction**. Le mandat 1er mai consolide et officialise ce qui se construisait depuis le 25 avril.
+
+### 🟢 Naïma confirmée comme référence positive Alec — levier pour les futurs profils
+
+Verbatim Alec sur Naïma :
+> *"Pôle IA (Anisse + Naïma) : ~1 000€ (Naïma, très bon rapport qualité/prix)."*
+
+Et la vision pour les futurs profils IA :
+> *"Continuer à structurer : profils type Naïma (il en faut 1 à 2 de plus comme elle), potentiellement 1 profil gestion de projet IA. Important d'avoir nos 'AI employees' qui délivrent."*
+
+→ **Naïma = template** pour les futurs recrutements IA. Anisse est mandaté pour identifier 1-2 profils similaires + 1 PM IA.
+
+→ **Cohérence avec Mithril/Aiko** : si la vitrine du workshop COMEX 6/7/8 mai réussit, Mithril/Aiko peut sourcer ces profils IA en parallèle des 2 profils Ops marketing (cf. mandat 29/4 PM). **Synergie forte à capter**.
+
+### 🔴 Opportunité stratégique pour Anisse au call mardi
+
+**Position Anisse au call** : Anisse est le seul à avoir une stack IA déjà déployée (Marcus, Pepper, Cervo en cours, Aiko, future équipe élargie). C'est un capital opérationnel à valoriser publiquement.
+
+**À préparer avec Boris en amont** :
+1. **Cartographie de la stack IA actuelle** : Marcus (priorisation/OKR) + Pepper (?) + Aiko (recrutement) + Cervo (marketing) + Naïma (opérationnel)
+2. **Plan de structuration sur 3 mois** : qui pilote chaque agent, qui mesure l'adoption, comment les agents alimentent la verticale Data
+3. **Synergie avec l'IA dans la verticale Data** : automation cycle de vie lead (problème #4 du Slack), boucle data → feedback marketing (problème #6), segmentation 3 niveaux deals perdus (problème #3)
+
+→ **Boris peut s'appuyer sur Anisse** pour proposer un plan concret IA en 30 min mardi sans empiéter sur la spec Fabrice.
+
+### 🟢 Coordination Boris+Anisse en S1 — sujets multiples
+
+Les sujets actifs Boris+Anisse en S1 sont nombreux et cohérents :
+
+| Sujet | Levier |
+|---|---|
+| **Replay 30 min Alec×Abdel** | Anisse a le replay (envoyé par Alec hier 30/4), Boris doit le demander |
+| **Manager direct d'Abdel** | Anisse manager officiel (hypothèse a) cohérent extension Automation IA — trio Boris+Anisse+Abdel possible |
+| **Verticale Data/IA/Tech/Ops** | Mandat tripartite officialisé (Slack 1er mai) |
+| **Cervo (POC rétention Cédric)** | Spécée avec Anisse 30/4 matin |
+| **Mithril/Aiko vitrine** | Workshop COMEX 6/7/8 mai — Anisse présent ? À caler |
+| **Audit IT mai 2026** | Boris owner mais coordonne avec Anisse sur la stack |
+| **Cadre IA general manager (alerte HO15)** | Si l'idée revient chez Alec, Boris peut s'appuyer sur Anisse pour faire front commun |
+
+→ **1-to-1 prioritaire Anisse en S1** (semaine du 5 mai) pour aligner sur ces 7 sujets.
+
+### 🟠 Signal Thomas Baumelin — implication potentielle pour Anisse
+
+Alec a posé *"Avec Thomas ou sans → peu importe"* sur Thomas Baumelin (Data, 5K€/mois). Si Thomas part, **Anisse pourrait hériter d'une partie de la fonction Data** (conséquence directe de "structuration data / IA").
+
+→ **À anticiper au 1-to-1 Anisse S1** : poser la question de la position d'Anisse sur Thomas Baumelin (relation actuelle, perception qualité, opinion sur le scenario "sans Thomas").
+
+→ **Si Anisse reprend Data** : alourdit son scope, peut nécessiter le PM IA mentionné par Alec (1 profil gestion projet IA) en priorité.
+
+---
 
 ## 🆕 MAJ 2026-04-29 PM — Confirmation équipe Automation IA élargie (call Recrutement Ops Marketing)
 

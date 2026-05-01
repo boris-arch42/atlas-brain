@@ -147,6 +147,9 @@ Déjà documenté. Règles en place :
 | **Faire couper les cartes** | révoquer accès / cartes Wayo | Action déjà faite il y a 5 mois (replay 28/4) |
 | **Gros orteil de [référence]** | profil sous-calibré / dépendant d'une référence senior | *"Nicolas n'est que le gros orteil de Thomas Rodier"* (call 29/4 PM — verbatim Cédric repris par Alec) |
 | **Banger** | profil top niveau / fiable | *"T'es un banger ?"* (vocal 29/4 sur Boris) |
+| **Les 4 variables qui comptent** | cadre canonique de pilotage Alec | (1) max résultats / ressources, (2) panier moyen, (3) délai d'attribution, (4) revenu par lead. *"Tout le reste est secondaire."* (Slack 1er mai) |
+| **Cleaner le pôle** | refondre une verticale dégradée | *"Point fixé le 5 mai pour cleaner le pôle."* (Slack 1er mai) |
+| **Carte sur table** | call de décision exigeant clarté + plan + base de vision | *"Mettre carte sur table"* (Slack 1er mai cadrage) |
 
 → Glossaire à enrichir au fur et à mesure si d'autres codenames émergent.
 
@@ -265,6 +268,92 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 - _(à compléter à l'observation)_
 
 ## Interactions clés avec Boris — chronologie
+
+### 🔴 MAJ 2026-05-01 J0 SOIR — Slack tripartite : reprise en main verticale Data/IA/Tech/Ops
+
+**Source** : 2 messages Slack Alec → Anisse + Fabrice + Boris envoyés dans la foulée du call J0 du matin. Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]].
+
+#### 🔴 Bascule majeure — Alec reprend la main publiquement
+
+Alec a synthétisé pour Anisse+Fabrice+Boris un call CRO récent où la **crise data systémique** a été révélée publiquement à 4 heads (Océane, Cédric, Axel, Aziz). Verbatim Alec rapporté dans le Slack :
+> *"Il n'y a pas un meeting où on a les bonnes infos."*
+> *"Tu reconnais avoir 'fait confiance trop longtemps' et tu reprends la main personnellement."*
+
+→ **Cohérence parfaite avec call J0 du matin** : Alec passe du doute interne (*"qu'est-ce qu'on fait de Fabrice ?"*) à l'action publique (*"je reprends la main"*). Cohérent avec pattern HO15 (vitesse + ubiquité) appliqué cette fois sous forme de reprise de contrôle.
+
+#### 🔴 4 variables canoniques posées par Alec — grammaire à mémoriser
+
+Au call CRO, Alec a posé son cadre de pilotage :
+> *"Les 4 variables qui comptent sont :*
+> *(1) maximisation des résultats sur les ressources mobilisées,*
+> *(2) augmentation du panier moyen,*
+> *(3) réduction du délai d'attribution,*
+> *(4) élévation du revenu par lead.*
+> *Tout le reste est secondaire."*
+
+→ **Nouvelle grammaire canonique Alec** à intégrer dans tous les cadrages futurs. Tout KR proposé doit s'aligner sur ces 4 variables. **À ajouter au glossaire jargon Alec** (cf. ci-dessous).
+
+#### 🔴 Mandat tripartite explicite pour le call mardi 5 mai
+
+| Personne | Mandat |
+|---|---|
+| **Fabrice** | *"Responsable de cette verticale → maximiser la rentabilité et la performance des investissements actuels"* |
+| **Anisse** | *"Consolidation des ressources + structuration data / IA"* |
+| **Boris** | *"Rôle clé de challenge / regard neuf / retour d'expérience / exigence sur les choix structurants"* |
+
+→ **Posture Boris officialisée publiquement** par Alec devant Fabrice + Anisse comme **co-pilote critique** (pas exécutant). Capital politique majeur.
+
+→ ⚠️ **Tension à gérer** : *"exigence sur les choix structurants"* = Alec demande à Boris de **trancher publiquement** si nécessaire, mais en présence de Fabrice qui est responsable. **Cordon sanitaire HO29 + posture spec/architecte à incarner ensemble**.
+
+#### 🔴 Critique frontale Fabrice (cohérence avec doute J0)
+
+Deux verbatims durs sur Fabrice dans le message Slack :
+> *"Le Data Studio de Fabrice n'a pas été conçu par quelqu'un qui a mis de la réflexion marketing dessus."*
+> *"Fabrice t'a annoncé 71 ventes la veille, alors qu'on en est à 105 — décalage de 34 ventes en 24h, ce qui ne reflète aucune réalité opérationnelle."*
+
+→ **Cohérence parfaite avec doute Alec révélé J0** (*"qu'est-ce qu'on fait de lui ?"*). Le call mardi 5 mai = **épreuve de vérité co-COO 1er juin** pour Fabrice.
+
+#### 🟠 Signal Thomas Baumelin — zone d'évaluation
+
+Verbatim Alec :
+> *"Avec Thomas ou sans → peu importe, mais avec une vraie vision derrière."*
+
+→ **Désengagement Alec** explicite. Si la stack ne se redresse pas avec lui, Thomas Baumelin part. **Coût 5K€/mois** confirmé.
+
+#### 🟢 Cohérences confirmées avec les mandats antérieurs
+
+| Mandat antérieur | Confirmation Slack 1er mai |
+|---|---|
+| **IT** : Boris owner permanent post-mai (vocal 29/4) | ✅ *"Pas besoin d'un IT Manager dédié. Pilotage interne, notamment via Boris."* |
+| **Mohamed** : sortie 31 mai à 2K€/mois | ✅ Coût 2K€/mois confirmé explicitement |
+| **Ops** : 2 profils distincts à terme (call 29/4 PM) | ✅ *"1 Ops Marketing, 1 Ops Entreprise"* |
+| **Ops** : Maroc/Madagascar via Mithril/Aiko | ✅ *"Possibilité forte de passer offshore"* |
+| **CTO** : externe Dubaï avec équipes anglais (vocal 25/4) | ✅ *"1 CTO salarié à Dubaï (30K AED ≈ 7-8k€) + équipe dev (≈12k€)"* |
+| **IA** : extension équipe Automation IA (call 29/4 PM) | ✅ *"1 à 2 profils comme Naïma + 1 PM IA"* |
+| **Naïma** : très bon profil IA | ✅ *"Très bon rapport qualité/prix"* |
+
+→ **Aucune contradiction**. Les mandats antérieurs sont **réaffirmés et structurés en plan global**. Boris doit garder cette cohérence en tête au call mardi.
+
+#### 🆕 Détail des coûts mensuels (52K€+) explicité
+
+| Poste | Coût mensuel |
+|---|---|
+| Plateforme (dev) | ~20 000€ |
+| Data (Thomas Baumelin) | +5 000€ |
+| Ops (2 profils) | +10 000€ |
+| IT Manager (Mohamed) | 2 000€ |
+| Pôle IA (Anisse + Naïma) | ~1 000€ (Naïma) |
+| Boris/Fabrice/Anisse temps alloué | ≥ 12 000€ (estimation conservatrice) |
+| Support Léa (tech) | ~1 500€ |
+| **TOTAL** | **> 50 000€/mois** |
+
+→ **Information politique** : Alec compte Boris dans les 12K€ de "temps alloué Boris/Fabrice/Anisse". Reconnaissance économique implicite du temps Boris **ET** mise en équation politique (Boris fait partie du coût à optimiser).
+
+#### Action Boris avant mardi
+
+*"D'ici à notre appel, merci de commencer à réfléchir et récolter de votre côté des éléments."*
+
+→ Cf. [[Prep - Call Ops IT Tech Data IA 5 mai]] pour la prep détaillée.
 
 ### 🔴 MAJ 2026-05-01 J0 — Premier call officiel "en fonction" (54 min)
 

@@ -81,6 +81,12 @@ _Statut au J+14 : à compléter_
   
   **Action possible S1-S2** : Boris peut prendre un call avec Alice/Angèle (Alec a proposé) sans nommer Alec dans la friction. Levier symbolique fort si Boris arrive à débloquer ce type de profil (recouvrement, niveau N-3) — matérialisation visible que le cordon sanitaire posé J0 produit ses effets.
 
+  **⚡ ENRICHISSEMENT 2026-05-01 SOIR (Slack tripartite Alec)** : la **dispersion des sources de vérité data** (Looker, Data Studio, COMEX, HubSpot) empêche structurellement les heads d'arbitrer dans leur scope. Verbatim Aziz rapporté par Alec : *"La seule source fiable reste HubSpot. Tout le reste est dégradé."* + Fabrice n'a pas d'accès propre à HubSpot, donc pilote sur des supports qui ne sont pas la source de vérité.
+  
+  → **Conséquence directe HO8** : si les heads n'ont pas accès à une source unique fiable, ils ne peuvent pas arbitrer dans leur scope avec légitimité → tout remonte à Alec/Fabrice (qui eux-mêmes pilotent sur des données fausses).
+  
+  → **Levier d'action de HO8 via la verticale Data** : restaurer une source unique de vérité (HubSpot) avec dashboards fiables = condition nécessaire à la décentralisation du pouvoir de décision. C'est exactement ce que demande le mandat verticale Data/IA/Tech/Ops.
+
 - **HO9** — Il existe 1-2 leads potentiels niveau -1 dans l'équipe actuelle, juste pas identifiés / pas empowered.
 - **HO10** — La culture de "tâches déléguées sans responsabilités associées" est le levier de transformation n°1.
 
@@ -232,6 +238,18 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+90 (preuves comportementales).
 
+  **⚡ ENRICHISSEMENT 2026-05-01 SOIR (Slack tripartite Alec)** : la verticale Data/IA/Tech/Ops est révélée comme **le terrain où le cycle vicieux s'exprime le plus visiblement**. Symptomatologie complète documentée par Alec :
+  - Looker faux (75 ventes affichées vs 105 réelles)
+  - COMEX Thomas faux (8 closings sur 1400 calls vs 100-120 réels)
+  - Fabrice annonce 71 ventes à Alec vs 105 réelles (décalage 34 en 24h)
+  - 979 deals perdus remontés vs 712 après requalification
+  - Pas d'automation cycle de vie lead (saisie humaine de 25-30 commerciaux qui dégrade mécaniquement la qualité chaque jour)
+  - Boucle data → feedback marketing défaillante (cas Atelier Dubaï)
+  
+  → **Le cycle vicieux HO29 prend ici une dimension data spécifique** : (1) chiffres faux remontent au COMEX → (2) personne ne conteste au niveau des heads (HO8 — pas décisionnaire) → (3) Alec reçoit des chiffres faux → (4) Alec décide sur des chiffres faux → (5) les décisions ne s'exécutent pas comme attendu (parce qu'elles étaient basées sur du faux) → (6) Alec "pète un câble" → retour (1) avec encore plus de pression sur la production de chiffres rapides (et donc encore plus faux).
+  
+  → **C'est la version data du cycle vicieux**. Casser ce cycle = casser une partie significative de HO29.
+
 ## Hypothèses apparues au 1-to-1 Axel du 24 avril (soir)
 
 - **HO31** — **Trou de compétence management au top — personne n'est manager dans la chaine de commandement actuelle**. Révélé par Axel le 24/4 :
@@ -263,6 +281,16 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   **Test** : si en 60 jours Boris a un rituel hebdo stable avec chaque head + une matrice KPI partagée + une cadence de revue mensuelle, HO31 est en voie de résolution. Sinon, c'est que la culture résiste.
   
   **Horizon** : J+60 (rituels en place) / J+90 (efficacité mesurable).
+
+  **⚡ ENRICHISSEMENT 2026-05-01 SOIR (Slack tripartite Alec)** : Alec a révélé publiquement à Anisse+Fabrice+Boris la **matérialisation la plus claire de HO31** à ce jour : la verticale Data/IA/Tech/Ops mobilise 52K€/mois sans qu'aucun head ne pilote sa propre data sales/marketing avec fiabilité. Verbatim Alec :
+  > *"Il n'y a pas un meeting où on a les bonnes infos."*
+  > *"Tu reconnais avoir 'fait confiance trop longtemps' et tu reprends la main personnellement."*
+  
+  → **Bascule HO31 : du trou de management vers prise en main directe Alec**. Alec ne délègue plus le pilotage de cette verticale, il **reprend personnellement**. Cohérent avec auto-diagnostic Alec J0 matin (*"je préfère encore avoir un mauvais manager que pas de manager"*) appliqué à lui-même.
+  
+  → **Cohérence avec diagnostic Fabrice 28/4 (bug data analyst vs engineer)** : aucun head n'analyse sa propre data sales/marketing (Fabrice était supposé le faire mais c'est data engineer, pas analyst). Le diagnostic est officiellement public depuis le 1er mai.
+  
+  → **Test HO31 accéléré** : si la prise en main directe Alec + le mandat tripartite Boris/Anisse/Fabrice produit un **cadre de pilotage data au COMEX d'ici 1er juin** (1 mois), HO31 est en voie de résolution rapide. Sinon, signal que même la prise en main personnelle Alec ne suffit pas — zone d'alerte rouge.
 
 - **HO31bis** — **Le mot "OKR" est toxique chez Entrepreneurs.com**. Sous-hypothèse technique mais critique pour mes livrables. Verbatim Axel 24/4 :
   > *"Tang me dit 'j'ai pas d'OKR, je déteste les OKR.' Et Alec me dit 'j'ai pas d'OKR.'"*
@@ -430,6 +458,38 @@ Suite à l'analyse des plaquettes [[Accélérateur]], [[Incubateur]], [[Incubate
   
   **Horizon** : J+21 (premier point d'avancement) / J+45 (matrice opérationnelle ou besoin de co-construction Boris).
 
+- **HO39** — **La stack data Entrepreneurs.com est structurellement défaillante depuis le sabotage Tang (HO30) — 52K€/mois mobilisés sans ROI proportionnel**. Apparue au Slack tripartite Alec du 1er mai 2026 (cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]]).
+  
+  **Diagnostic** : Alec a publiquement reconnu (au call CRO et dans le Slack tripartite) que **Looker, Data Studio, COMEX produisent des chiffres incohérents non corrigés depuis ~12 mois**. La stack data n'a pas évolué depuis l'ére Tang qui a brouillé les rapports hebdo/mensuels du S1 2025 (cf. HO30).
+  
+  **Éléments structurants** :
+  - **52K€/mois** mobilisés sur Data/IA/Tech/Ops sans pilotage fiable (détail : 20K Plateforme + 5K Thomas Baumelin + 10K Ops + 2K Mohamed + 1K Naïma + 12K Boris/Fabrice/Anisse + 1.5K Léa)
+  - **6 problèmes data structurels** identifiés : chiffres faux, sources non synchronisées, pas de granularité deals perdus, pas d'automation cycle de vie lead, Data Studio Marketing mal conçu, Atelier Dubaï à l'aveugle
+  - **Prise en main personnelle Alec** — Alec ne délègue plus, il pilote directement
+  - **Mandat tripartite officialisé** : Fabrice responsable verticale + Anisse consolidation + Boris challenge
+  - **Échéance dure** : nouveau modèle effectif **1er août au plus tard**
+  
+  **Levier de retournement** : refonte complète de la stack data à 3 mois autour de :
+  1. Source unique de vérité (HubSpot) avec dashboards Looker/Data Studio fiables
+  2. Automation passage R1→R2→R3→R4→engagé/fermé sans saisie commerciale
+  3. Segmentation 3 niveaux deals perdus (rouge/jaune/vert) avec analyse réactivation
+  4. Data Studio Marketing repensé avec vraie logique pilotage (CPL, CPA, ROAS, panier moyen, délai d'attribution, revenu par lead par funnel)
+  5. Boucle data → feedback marketing fonctionnelle
+  
+  **Lien direct avec autres hypothèses** :
+  - **HO30** (sabotage Tang) : la stack data est l'héritage le plus toxique de l'ère Tang (rapports hebdo détruits, silos créés)
+  - **HO31** (trou management top) : aucun head ne pilote sa propre data analyst
+  - **HO29** (cycle vicieux) : la data est le terrain le plus visible où le cycle s'exprime
+  - **HO8** (décision distribuée) : sans source unique fiable, pas de délégation possible
+  - **HO15** (impulsivité Alec) : Alec balance des scuds sur des chiffres faux, ce qui amplifie le pattern
+  
+  **Test diagnostic** :
+  - **À J+30** : la verticale Data a-t-elle un plan exécutable + une source unique de vérité déclarée ? Si oui, HO39 en voie de résolution. Si non, alerte rouge.
+  - **À J+60** : la segmentation 3 niveaux + l'automation cycle de vie lead sont-elles opérationnelles ? Si oui, mid-resolved. Sinon, prise en main directe Alec n'a pas suffi — escalade.
+  - **À J+90 (1er août)** : nouveau modèle Data/IA/Tech/Ops effectif. Si non, **épreuve de vérité co-COO 1er juin invalidée a posteriori** (cf. fiche Fabrice).
+  
+  **Horizon** : J+30 (cadre + plan) / J+60 (livraisons partielles) / J+90 (modèle effectif au 1er août).
+
 _Statut au J+14 : à compléter_
 
 ---
@@ -467,6 +527,7 @@ _Statut au J+14 : à compléter_
 | HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4 (Aziz)** : observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
 | HO37 (risque réputationnel ticketing 3 mois) | 🆕 **NOUVELLE 28/4 (Sabrina)** : observation Sabrina pilotage. Mesure du délai moyen de traitement à J+30 et J+60 | J+30 / J+60 |
 | HO38 (matrice jurisprudence financière = proxy HO8) | 🔄 **MAJ 28/4** : confirmation directe Boris↔Fabrice (cas mise en demeure 6500€). Suivre avancement Fabrice. Si pas démarré à J+21, proposer co-construction | J+21 / J+45 |
+| HO39 (stack data structurellement défaillante — 52K€/mois sans ROI) | 🔴 **NOUVELLE 1er mai** : Slack tripartite Alec officialise la crise data + mandat tripartite verticale. Plan + source unique à J+30, livraisons partielles à J+60, modèle effectif à J+90 (1er août) | J+30 / J+60 / J+90 |
 
 ## Revue prévue
 

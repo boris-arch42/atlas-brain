@@ -13,6 +13,95 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 
 # Fabrice Jaeger
 
+## 🔴 MAJ 2026-05-01 J0 SOIR — Mandat verticale Data/IA/Tech/Ops officialisé = épreuve de vérité co-COO
+
+> Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]] pour le contexte (2 messages Slack envoyés par Alec dans la foulée du call J0 du matin).
+
+### 🔴 Mandat explicite Alec officialisé publiquement devant Anisse + Boris
+
+Verbatim Alec dans le Slack (responsabilités posées noir sur blanc) :
+> *"Fabrice : responsable de cette verticale → objectif maximiser la rentabilité et la performance des investissements actuels."*
+
+→ **Mandat élargi mais piégé** : Fabrice est nommé responsable d'une verticale qu'Alec considère défaillante (52K€/mois sans ROI proportionnel, *"il n'y a pas un meeting où on a les bonnes infos"*). **Si la verticale ne se redresse pas en 3 mois, Fabrice paye politiquement**.
+
+### 🔴 Crise data = mise en accusation publique partielle de Fabrice
+
+Dans le même message Slack, Alec liste publiquement (devant Anisse + Boris) deux critiques frontales sur Fabrice :
+
+**Critique 1 — chiffres faux donnés à Alec** :
+> *"Fabrice t'a annoncé 71 ventes la veille, alors qu'on en est à 105 — décalage de 34 ventes en 24h, ce qui ne reflète aucune réalité opérationnelle."*
+
+**Critique 2 — Data Studio Marketing mal conçu** :
+> *"Le Data Studio de Fabrice n'a pas été conçu par quelqu'un qui a mis de la réflexion marketing dessus. Il sort des chiffres, mais pas les bons KPI pour piloter granulairement le marketing."*
+
+→ **Cohérence parfaite avec doute Alec interne révélé J0 matin** (*"qu'est-ce qu'on fait de lui ?"*). Le doute est maintenant **partiellement public** (chiffres faux + Data Studio mal conçu sont des faits objectifs partagés aux 3 destinataires Slack).
+
+→ ⚠️ **Fabrice ne sait pas que Boris sait**. Le doute Alec interne reste confidentiel pour Fabrice. Mais la critique Data Studio est connue de Fabrice (même Slack). Boris doit agir comme si la lecture interne Alec était neutre.
+
+### 🔴 3 leviers consolidés en 1 livrable Data/IA/Tech/Ops
+
+Les 3 leviers déjà documentés (top 10 process + audit IT + matrice jurisprudence) sont désormais **englobés** dans le mandat verticale Data/IA/Tech/Ops :
+
+| Levier antérieur | Intégration au mandat verticale | Calendrier |
+|---|---|---|
+| **Top 10 process** | Inclus dans "plan clair sur 3 mois" + cadence transverse | J+30 |
+| **Audit IT mai 2026** | Inclus dans "IT — process clairs / sécurité / pilotage Boris" | 31 mai |
+| **Matrice jurisprudence financière** | Inclus dans "décisions concrètes à court terme" + sortie Sabrina | J+45 |
+
+→ **Fabrice est jugé sur un seul livrable consolidé** : le **plan verticale Data/IA/Tech/Ops** délivré mardi 5 mai + exécuté jusqu'au 1er août.
+
+→ **Si ce livrable tient** : doute Alec se résorbe, co-COO 1er juin solide.
+→ **Si ce livrable est médiocre** : Alec recherchera une issue alternative (GM Dubaï accéléré ou Sophia élargie).
+
+### 🟠 Boris en co-pilote silencieux — éviter le crash politique Fabrice
+
+La posture officielle Boris au mandat tripartite Slack est *"challenge / regard neuf / exigence sur les choix structurants"*. C'est un **mandat fort** mais **à manier prudemment** vis-à-vis de Fabrice :
+
+**À faire au call mardi** :
+- ✅ Renforcer le plan Fabrice avec des propositions structurantes (Mithril/Aiko + Cervo + audit IT)
+- ✅ Apporter le regard neuf sur les 6 problèmes data (segmentation 3 niveaux + automation cycle de vie lead)
+- ✅ Soutenir publiquement la spec Fabrice si elle est juste, même si elle a des angles morts
+- ✅ Articuler les 3 leviers déjà documentés avec le mandat verticale
+
+**À ÉVITER au call mardi** :
+- ❌ Challenger frontalement Fabrice devant Alec (cordon sanitaire HO29 + posture spec/architecte)
+- ❌ Proposer une alternative au plan Fabrice (apporter des améliorations, pas un autre plan)
+- ❌ Mentionner le Data Studio Marketing comme zone Boris (rester chez Fabrice)
+- ❌ Tirer la couverture sur les 3 leviers déjà actés (les présenter comme **co-construction**)
+
+### 🟢 Alliance opérationnelle : Boris doit informer Fabrice avant mardi
+
+**Action recommandée** : un point Boris↔Fabrice 30 min lundi 4 mai ou en bilatéral dimanche/lundi pour :
+1. Aligner la lecture commune des 6 problèmes data (avant que Boris arrive avec son angle au call mardi)
+2. Caler la répartition spec/architecte sur la verticale (Fabrice spec la cible, Boris architecte la transformation)
+3. Éviter le "trio improvisé" où Boris découvre devant Alec ce que Fabrice a préparé
+4. Identifier les 2-3 zones où Boris peut apporter de la valeur sans recouvrir Fabrice
+
+→ **Préserver l'alliance Boris/Fabrice** (replay 28/4) tout en honorant le mandat Boris (challenge). C'est l'incarnation concrète de la posture spec/architecte sous pression.
+
+### 🟠 Signal d'alerte fragile — Fabrice peut percevoir Boris comme menace
+
+Vu le pattern documenté J0 (Fabrice sabote ceux qu'il perçoit comme menaces, redevient cordial une fois sortants), **le mandat verticale + le mandat Boris challenge crée une zone de friction potentielle**.
+
+**Signaux précoces à surveiller** :
+- Fabrice qui retient des accès data / docs sur la verticale (replay du pattern Alexis)
+- Fabrice qui prépare seul son plan sans informer Boris (court-circuitage)
+- Fabrice qui devient froid en bilatéral
+- Fabrice qui amplifie le scope du mandat verticale pour absorber des sujets Boris
+
+→ **Si signal détecté** : Boris pose explicitement la question (*"Fab, on a pas aligné sur X, est-ce qu'il y a une raison ?"*) sans accusation. Résolution rapide ou escalade au call Alec si bloqué.
+
+### 🔴 Boris compté dans le coût verticale — information politique
+
+Dans le détail des coûts du Slack, Alec compte :
+> *"Temps alloué Boris/Fabrice/Anisse : estimation conservatrice ≥ 12 000€ / mois."*
+
+→ **Boris est donc partiellement évalué sur la performance de la verticale**, même s'il n'en est pas le responsable. Implication : si la verticale échoue, Boris paye aussi un peu (même si moins que Fabrice).
+
+→ **Alignement objectif** : Boris a un intérêt structurel à ce que Fabrice réussisse sur cette verticale. **Pas un sujet d'opposition, un sujet de co-réussite**.
+
+---
+
 ## 🔴 MAJ 2026-05-01 J0 — Lecture Alec interne plus dure que documentée + 3 leviers à délivrer pour stabiliser le co-COO
 
 > Cf. [[Ressource - Replay Nœuds opérationnels Alec 1er mai 2026]] pour le replay complet (54 min, premier call officiel "en fonction").
