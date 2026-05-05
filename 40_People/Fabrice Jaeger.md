@@ -13,6 +13,145 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 
 # Fabrice Jaeger
 
+## 🟢 MAJ 2026-05-04 J3 — Bilatéral préparatoire 30 min : posture restructurée, dimension politique non vue
+
+> Cf. [[Ressource - Replay Boris × Fabrice 4 mai 2026 (bilatéral préparatoire)]] pour le replay complet (34 min, 4 mai 10h01-10h35).
+>
+> Boris a calé ce bilatéral comme priorité 1 dans la prep call 5 mai pour éviter que Fabrice arrive en posture défensive technique sur les 7 points Slack 13h19.
+
+### 🔴 Information critique : Fabrice n'a pas lu le recadrage public Alec du 2 mai
+
+Verbatim Fabrice 05:20 :
+> *"J'avais même pas lu son truc tu vois, on était dans une colère ici en Ambassade quoi."*
+
+→ Fabrice arrive demain **sans le poids politique** de sa désignation comme "principal responsable" + menace de fureur Alec.
+
+→ **3 lectures possibles** :
+- (a) Protection volontaire de bande passante mentale (sain)
+- (b) Évitement (problématique)
+- (c) Occupation perso/familiale ("Ambassade" suggère un contexte tendu hors travail)
+
+→ **Implication majeure** : Boris est **seul à porter la dimension politique** en séance demain. Fabrice pense que c'est un sujet opérationnel, pas politique. La protection Fabrice pèse intégralement sur Boris.
+
+→ **Risque demain** : si Alec fait référence à son recadrage 2 mai en séance, Fabrice peut être pris au dépourvu. Boris doit absorber sans révéler que Fabrice n'a pas lu.
+
+### 🟢 Structure 3 phases solide — base du call demain
+
+Fabrice arrive avec une vision structurée :
+
+| Phase | Status | Composantes |
+|---|---|---|
+| **1 — Consolidation data** | ✅ **Fait** | Propriétaire de la data, sauvegardée BigQuery, cleanée |
+| **2 — Dashboarding statique** | 🟠 **Opérationnel** | Looker Studio existe, **besoin retour métier** (validation/consolidation par Cédric/Aziz/heads) |
+| **3 — Couche dynamique IA** | 🟡 **À construire** | Agents IA, signaux faibles, alertes — avec Anisse + Wassim |
+
+→ **Cette structure devient probablement le squelette de la séance demain** (vs structure 3 axes initialement prévue dans la fiche prep).
+
+→ **Distribution probable** : Fabrice porte phases 1+2, Anisse porte phase 3, Boris orchestre + cadre owners/deadlines.
+
+→ Cette structure marche parce qu'elle valorise le travail accompli (phase 1) + reconnaît la zone à consolider (phase 2) + projette une vision (phase 3). C'est ce qu'attend Alec.
+
+### 🟠 Pattern défensif persistant sur les 7 points
+
+Malgré le bilatéral constructif, Fabrice répond aux 7 points Alec en pointant "les autres" :
+
+| Point | Verbatim Fabrice |
+|---|---|
+| Problème 1 (chiffres faux) | *"Vous savez pas lire les chiffres."* (20:16) |
+| Problème 2 (sources non sync) | *"On n'a pas été formé sur le sujet."* (20:23) |
+| Problème 3 (granularité deals perdus) | *"C'est à lui [Thomas] de faire un partage d'écran avec notre ami Aziz."* (23:50) |
+| Problème 4 (automation cycle de vie) | *"Ça n'a rien à voir avec la partie data. C'est à Aziz et Boris."* (24:03) |
+| Problème 6 (atelier Dubaï) | *"Faut demander à leur manager ce qui branle."* (24:48) |
+
+→ **Pattern Slack 13h19 qui revient**. Boris a réussi à désamorcer le débat technique en bilatéral, mais **n'a pas fait shifter la posture défensive** sur les 7 points.
+
+→ **Risque demain** : si Alec attaque sur un de ces points, Fabrice peut répondre en défense → Alec peut exploser.
+
+→ **Absorption Boris prévue** : si Fabrice repart en défense, Boris coupe avec *"L'angle qu'on peut ajouter c'est de proposer le rituel de formation/réconciliation hebdo qu'on a évoqué"*.
+
+### 🔴 Sujet plateforme/Quentin = pavé dans la mare à canaliser
+
+Fabrice veut **acter en séance demain** une décision structurelle :
+- Réduction scope plateforme (20K → 8K mensuel)
+- Changement implicite du rôle de Quentin (passe de dev product à maintenance)
+- Critique implicite de l'ambition produit Quentin
+
+Verbatim Fabrice 08:39 + 07:36 :
+> *"Ce 20 000 balles, il peut redescendre à 8 000 avec un mec qui va nous faire de la maintenance, donc Quentin."*
+> *"Mon concern depuis le début c'est de dire une plateforme SaaS ça se développe pas en 3 mois."*
+
+**3 problèmes politiques** :
+1. Quentin pas dans la boucle
+2. Décision RH non préparée
+3. Boris n'a pas eu le temps de creuser le dossier avant la séance
+
+→ **Boris a semblé en accord en bilatéral** (verbatim 08:52 *"Le principe du SaaS, c'est quand même que tu vas optimiser à partir de tes feedbacks clients"*). **Risque** : si Fabrice cite cet accord en séance, Alec peut acter à chaud.
+
+→ **Action critique ce soir** : DM Fabrice pour cadrer explicitement par écrit *"Sur Quentin et la plateforme, on n'évoque pas demain comme décision actée. C'est un point dédié toi/moi/Quentin cette semaine."*
+
+### 🟢 Aziz calé jeudi avec Thomas — convergence spontanée
+
+Verbatim Fabrice 17:31 :
+> *"C'est marrant parce que j'allais lui envoyer, c'était dans ma to-do aujourd'hui, de lui dire book un meeting avec Thomas."*
+
+→ **Boris et Fabrice avaient prévu le même point** Aziz × Thomas jeudi. Convergence opérationnelle saine.
+
+→ **À valoriser en séance demain** : preuve que la coordination métier-data est cadrée sans intervention Alec. Boris peut mentionner pour valoriser Fabrice indirectement.
+
+### 🟠 Sujet Wassim — Fabrice en mode "j'attends"
+
+Verbatim Fabrice 11:03 :
+> *"Anis m'a dit bah oui, première semaine, bah le mec il a onboardé l'équipe [...]. Donc j'attends encore un peu pour voir si ça avance bien ou pas."*
+
+→ Fabrice a **remonté ses doutes sur Wassim à Alec**. Anisse a défendu Wassim. Fabrice est en mode "wait and see".
+
+→ **Information utile pour Boris** : Fabrice n'est pas aligné sur le mandat IA d'Anisse. **Posture délicate à gérer en séance** — éviter de mettre Wassim en exemple positif si Fabrice est sceptique.
+
+### 🔴 Aucune mention RGPD / data sensibles — angle aveugle
+
+Tout le bilatéral parle BigQuery, Looker, dashboards — **aucune mention** de :
+- Conformité RGPD
+- Protection données personnelles
+- Anonymisation/pseudonymisation
+- Stockage zone EU vs hors EU
+
+→ **Risque demain** : si Anisse aborde le sujet RGPD pour la spec IA Marketing (cf. message Boris à Anisse + spec Cervo), ou si Alec pose la question, Fabrice peut être pris au dépourvu.
+
+→ Boris doit être prêt à porter ce sujet seul si nécessaire.
+
+### 🟢 Format 30 min validé en bilatéral
+
+Boris a posé la structure (verbatim 26:39) et Fabrice a validé :
+- 2 min ouverture Alec
+- 8 min alignement diagnostic
+- 15 min plan d'action (3 phases avec owners + deadlines)
+- 5 min engagement + cadence hebdo jusqu'au 1er août
+
+→ **Acquis solide** pour la séance demain.
+
+### 🟢 Mini-sheet owners/deadlines à co-construire
+
+Verbatim Fabrice 31:23 :
+> *"Je vais faire un petit vocal dans la journée et puis on peut, tu peux le compléter derrière si tu veux."*
+
+→ **Action Boris ce soir/lundi PM** : préparer template structuré pour intégrer le vocal Fabrice.
+
+### 🎯 Évaluation du bilatéral — critères de succès atteints
+
+Dans la prep, on avait posé 5 critères de succès. Bilan :
+
+| Critère | Atteint ? |
+|---|---|
+| Fabrice a verbalisé qu'il a vu la gravité de la séquence Slack | ❌ Non — il n'a pas lu le recadrage Alec |
+| Fabrice a accepté de ne pas défendre les 7 points en séance mardi | 🟠 Partiellement — il accepte le format mais répète encore les arguments défensifs |
+| Fabrice a validé l'axe 1 (audit Looker) avec un délai | 🟢 Oui (transformé en "phase 2 retour métier" + audit en cours) |
+| Vous avez aligné la répartition de parole en séance | 🟢 Oui (3 phases / 30 min validés) |
+| La relation Boris↔Fabrice est restée stable, idéalement renforcée | 🟢 Oui — bilatéral constructif, ouverture, complicité |
+
+→ **Score 3/5 sur les critères durs**, mais **bilatéral globalement constructif**. Le manque sur les 2 critères politiques (gravité Slack + arrêt défense 7 points) est compensé par la solidité de la structure 3 phases qui sert de squelette demain.
+
+→ **Pas besoin d'un 2e point téléphone mardi matin** — Boris peut absorber les risques en séance.
+
 ## 🔴 MAJ 2026-05-01 J0 SOIR — Mandat verticale Data/IA/Tech/Ops officialisé = épreuve de vérité co-COO
 
 > Cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]] pour le contexte (2 messages Slack envoyés par Alec dans la foulée du call J0 du matin).

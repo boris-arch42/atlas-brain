@@ -6,12 +6,132 @@ duration: "30 min"
 format: "trio Alec+Fabrice+Anisse+Boris — Thomas refusé par Alec"
 source: entrepreneurs-com
 sensitivity: confidential-max
-last-updated: 2026-05-02 (post séquence Slack tendue)
-tags: [call-prep, alec-henry, fabrice-jaeger, anisse-rbibe, ops-it-tech-data-ia, J5, mardi-5-mai, verticale-52K, fabrice-epreuve-de-verite, post-recadrage-public-fabrice, doute-alec-public]
+last-updated: 2026-05-04 (post-bilatéral Boris×Fabrice)
+tags: [call-prep, alec-henry, fabrice-jaeger, anisse-rbibe, ops-it-tech-data-ia, J5, mardi-5-mai, verticale-52K, fabrice-epreuve-de-verite, post-recadrage-public-fabrice, doute-alec-public, structure-3-phases-fabrice]
 related-resources: "[[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]], [[Ressource - Nœuds opérationnels Alec 1er mai 2026]], [[Ressource - Replay Alec × Abdel 30 avril 2026]]"
 ---
 
 # 🎙️ Prep call Ops/IT/Tech/Data/IA — mardi 5 mai (30 min)
+
+> **⚡ MAJ MAJEURE 4 MAI POST-BILATÉRAL FABRICE** : la structure du call a évolué. Fabrice arrive avec une **vision en 3 phases** (consolidation faite / dashboarding statique opérationnel / couche dynamique IA) qui devient le **squelette de la séance**. Cf. [[Ressource - Replay Boris × Fabrice 4 mai 2026 (bilatéral préparatoire)]].
+>
+> **Information critique** : **Fabrice n'a pas lu le recadrage public Alec du 2 mai**. Il arrive demain sans le poids politique de sa désignation "principal responsable" + menace de fureur. **Boris est seul à porter la dimension politique en séance**.
+
+## 🔥 Acquis du bilatéral 4 mai (à lire AVANT tout le reste)
+
+### ✅ Acquis solides pour la séance demain
+
+1. **Structure 30 min validée** par Fabrice : 2 min ouverture / 8 min diagnostic / 15 min plan / 5 min engagement
+2. **Vision 3 phases Fabrice** comme squelette du plan :
+   - Phase 1 — Consolidation data ✅ fait
+   - Phase 2 — Dashboarding statique 🟠 opérationnel + besoin retour métier
+   - Phase 3 — Couche dynamique IA 🟡 à construire avec Anisse + Wassim
+3. **Aziz calé jeudi avec Thomas** — convergence spontanée Boris/Fabrice, à valoriser en séance
+4. **Mini-sheet owners/deadlines** : Fabrice fait un vocal dans la journée, Boris complète
+5. **Relation Boris↔Fabrice constructive** — capital politique préservé
+
+### ⚠️ Risques persistants à absorber en séance
+
+1. **Fabrice n'a pas lu le recadrage Alec 2 mai** → il ignore la dimension politique → Boris seul porte la protection
+2. **Fabrice répète le pattern défensif Slack 13h19** sur 4-5 des 7 points ("vous savez pas lire", "à leur manager")
+3. **Fabrice veut acter en séance la décision plateforme/Quentin** (20K → 8K mensuel) — à canaliser hors séance par DM ce soir
+4. **Aucune mention RGPD / data sensibles** — angle aveugle Fabrice si Anisse aborde le sujet
+5. **Sujet Wassim** — Fabrice en mode "j'attends", scepticisme sur le mandat IA d'Anisse
+
+---
+
+## 📦 Action critique ce soir (avant la séance demain)
+
+### 🟢 Priorité 1 — DM Fabrice pour cadrer le sujet Quentin hors séance
+
+**Format proposé** :
+```
+Hey Fab, super utile notre call de ce matin. Pour mémo de 
+ce qu'on a aligné pour demain :
+
+1. Structure 30 min : 2 min ouverture / 8 min diagnostic / 
+15 min plan
+2. Tu présentes la vue en 3 phases : data consolidée (✅ fait) / 
+dashboarding statique (opérationnel + besoin retour métier) / 
+couche dynamique IA (à construire avec Anisse)
+3. Owners et deadlines pour chaque phase, en mappant sur les 
+7 points d'Alec  
+4. Pour les retours métier sur phase 2 : tu actes le point 
+jeudi avec Aziz + Thomas, on installe un rituel hebdo de 
+réconciliation
+5. Pour le sujet plateforme/Quentin : on l'évoque pas demain 
+comme décision actée — c'est un sujet dédié toi/moi/Quentin 
+cette semaine
+
+Tu fais ton vocal dans la journée, je complète avec un mini 
+sheet owners/deadlines pour qu'on arrive carré demain.
+
+A demain
+```
+
+→ **Pourquoi critique** : verrouille par écrit ce que Fabrice a accepté oralement + écarte explicitement le sujet Quentin de la séance + référence si Fabrice dérape demain.
+
+### 🟠 Priorité 2 — DM Alec pour cadrer le format de la séance
+
+**Format proposé** :
+```
+Alec, j'ai eu 30 min avec Fabrice ce matin pour caler la 
+séance de demain. Je voulais que tu aies le format en amont 
+pour qu'on soit alignés.
+
+Structure proposée 30 min :
+- 2 min ouverture (toi)
+- 8 min alignement de diagnostic
+- 15 min plan d'action en 3 phases avec owners + deadlines
+- 5 min engagement et cadence hebdo jusqu'au 1er août
+
+Fabrice présentera la verticale en 3 phases (consolidation 
+data → dashboarding statique → couche dynamique IA), 
+articulée avec les 7 points que tu as soulevés. Anisse 
+présentera la couche dynamique. Je clôturerai sur les owners 
+et deadlines.
+
+Objectif : sortir avec un plan exécutable + rituel hebdo de 
+suivi installé.
+
+Tu me dis si tu veux ajuster.
+```
+
+→ Tu ne révèles **rien** de ce que Fabrice a dit en bilatéral. Tu poses juste le format. Si Alec valide, tu as son aval implicite avant la séance.
+
+### 🟡 Priorité 3 — Mini-sheet owners/deadlines
+
+Quand Fabrice envoie son vocal dans la journée, Boris complète avec un tableau structuré :
+
+| Phase | Status | Owner | Livrable 14 jours | Livrable 30 jours | Livrable 90 jours |
+|---|---|---|---|---|---|
+| **1 — Data consolidée** | ✅ Fait | Thomas | Audit Looker (KPI/sources/fraîcheur/libellés) | — | — |
+| **2 — Dashboarding statique + adoption métier** | 🟠 Opérationnel | Thomas + Boris (orchestration) | Rituel hebdo réconciliation Aziz/Cédric/Thomas + formation initiale | Adoption mesurée par les heads | Maturité métier |
+| **3 — Couche dynamique IA** | 🟡 À construire | Anisse + Wassim | Spec dynamique + premiers POC alertes | 3-5 alertes opérationnelles | Système complet |
+
+→ Inclure colonne budget global (sans acter Quentin).
+
+---
+
+## 🚨 4 absorptions Boris à mémoriser (vu post-bilatéral)
+
+### Absorption 1 — Fabrice repart en "vous savez pas lire" / "à leur manager"
+**Phrase pivot Boris** :
+> *"L'angle qu'on peut ajouter, c'est de proposer le rituel de formation/réconciliation hebdo qu'on a évoqué. C'est pas un sujet de qui a tort ou raison, c'est un sujet de protocole à installer."*
+
+### Absorption 2 — Alec demande "qui est le principal responsable"
+**Phrase pivot Boris** :
+> *"Alec, l'angle plus utile c'est qui est responsable de la sortie de cette situation. C'est ce que Fabrice et Anisse présentent sur la phase 2 et 3. Et c'est là qu'on a un plan exécutable."*
+
+### Absorption 3 — Fabrice tente d'acter Quentin/plateforme (20K → 8K)
+**Phrase pivot Boris** :
+> *"Ça mérite une vraie discussion dédiée — pas en séance ops/IT/data/IA. Je propose qu'on bloque un point Quentin/Fabrice/moi cette semaine. Aujourd'hui on cale le plan verticale."*
+
+### Absorption 4 — Alec mentionne le co-COO 1er juin
+**Phrase pivot Boris** :
+> *"Sur le co-COO on en parlera spécifiquement le 1er juin, là on est sur l'exécution opérationnelle."*
+
+---
 
 > **⚠️ MAJ MAJEURE 2 MAI (POST-SLACK TENDUE)** : la dynamique du call a basculé. Le doute Alec sur Fabrice est passé de privé à **semi-public** dans le canal Slack. Alec a écrit textuellement *"Fabrice est le principal responsable de cette situation"* + menacé d'une *"colère et fureur que personne ne pourra calmer"* si le call rate. **L'épreuve de vérité co-COO 1er juin se joue mardi 5 mai, pas après**.
 

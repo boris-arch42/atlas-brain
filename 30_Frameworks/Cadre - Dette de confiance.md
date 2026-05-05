@@ -122,6 +122,42 @@ Boris est en posture **caméléon** — peut faire collaborer un profil rouge av
 4. **Plan de délestage Cédric** (juin) — restaure la confiance Cédric → boîte (engagement tenu) + Boris → Cédric (livraison effective)
 5. **Roadmap Abdel Dubaï** (J+30) — restaure la confiance Abdel → Alec (cadre + augmentation = engagement) + Anisse → Abdel (management formel)
 
+### 🆕 Cas concret de remboursement — Bilatéral Boris×Fabrice 4 mai 2026
+
+Le bilatéral préparatoire au call data du 5 mai (cf. [[Ressource - Replay Boris × Fabrice 4 mai 2026 (bilatéral préparatoire)]]) est un **cas concret de remboursement de la dette Boris ↔ Fabrice**.
+
+**Contexte de départ** :
+- Séquence Slack tendue 2 mai (Fabrice désignation "principal responsable" par Alec)
+- Doute Alec interne sur Fabrice (privé, J0 1er mai)
+- Risque que Fabrice arrive en posture défensive technique à la séance du 5 mai
+
+**Ce que Boris a fait** :
+- Calé le bilatéral en amont (priorité 1 fiche prep)
+- Posé le sujet politique sans accusation (*"la séquence Slack du week-end fait que ça a été chargé"*)
+- Validé la technique Fabrice (*"sur la partie technique, je suis complètement OK avec toi"*)
+- Basculé sur le futur (*"comment on fait pour que ça arrive plus"*)
+- Laissé Fabrice construire la structure 3 phases sans imposer son plan
+- Ne pas révélé le doute Alec interne (confidentialité absolue)
+
+**Ce que Fabrice a fait** :
+- Apporté une vision structurée en 3 phases (consolidation faite / dashboarding opérationnel / dynamique IA)
+- Accepté le format 30 min calé
+- Reconnu spontanément qu'Aziz était dans sa to-do (convergence avec Boris)
+- Proposé un vocal + co-construction du mini-sheet (geste de confiance opérationnelle)
+
+**Résultat mesurable** :
+- Relation Boris↔Fabrice **renforcée** (vs risque de dégradation post-Slack 2 mai)
+- Boris a un partenaire opérationnel pour la séance du 5 mai (vs adversaire potentiel)
+- Fabrice a un allié silencieux pour l'épreuve de vérité co-COO (vs défaut de soutien)
+- **Premier remboursement concret de la dette Boris ↔ Fabrice** — incarne le cadre dans une situation tendue
+
+**Limites du remboursement** :
+- Fabrice n'a pas vu la dimension politique (n'a pas lu le recadrage Alec) — dette Alec↔Fabrice intacte
+- Pattern défensif sur les 7 points persiste (Boris n'a pas pu shifter complètement)
+- Sujet plateforme/Quentin reste à traiter — risque de tension future
+
+→ **Le 1er remboursement appelle le 2e** : la séance du 5 mai sera l'occasion de rembourser une partie de la dette Alec↔Fabrice (si Fabrice livre la structure 3 phases proprement).
+
 ### Indicateurs de progression (qualitatifs)
 - Diminution des messages WhatsApp Alec → N-2/N-3 (cordon sanitaire HO29 effectif)
 - Diminution des remontées spontanées Alec/Fabrice (heads décident dans leur scope)
