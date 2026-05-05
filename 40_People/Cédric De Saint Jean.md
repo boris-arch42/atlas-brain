@@ -24,6 +24,62 @@ tags: [cmo, marketing, risque-depart-imminent, rupture-latente, stakeholder-prio
 - **A déjà essayé d'alerter** depuis 6 mois sans que ça change → sujet **mature** côté Cédric, peut décider à tout moment
 - **Mon rôle au 1-to-1** : créer un espace, écouter, ne pas révéler ce que je sais, ne pas auditer, ne pas tenter de le retenir directement
 
+## 🟢 MAJ 2026-05-05 J4 SOIR — Mithril matérialisé publiquement comme stack Cédric
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] (call verticale 11h33-12h19, Alec + Fabrice + Anisse + Boris).
+
+### 🟢 Cédric a déjà transmis la fiche de poste Nicolas à Boris via Mithril — action en cours
+
+Verbatim Alec 31:24 (en plein call verticale, devant Fabrice + Anisse) :
+> *"Cédric t'a envoyé la fiche de poste Boris pour Mithril pour déjà commencer à faire tourner ?"*
+
+→ **Cédric n'a PAS attendu le call du 5 mai pour matérialiser le plan de délestage** : la fiche de poste pour le remplaçant Nicolas (DataOps automation marketing — l'une des 3 briques actées le 29/4 PM) a déjà été transmise à Boris **avant** la séance verticale. C'est une **première mise en mouvement concrète** sur le plan de délestage négocié au 1-to-1 du 30/4.
+
+→ **Lecture** : Cédric exécute coopérativement comme il l'avait promis (verbatim 30/4 *"Compte sur moi aussi pour être à dispo pour tout implémenter"*). Le rythme tient pour l'instant — 5 jours après le 1-to-1, la première brique est déjà en sourcing.
+
+### 🟢 Mithril officialisé publiquement comme stack de référence ENT
+
+Le fait qu'Alec mentionne **Mithril nominativement** devant Fabrice + Anisse en réunion verticale est la **première matérialisation publique** de Mithril comme outil de recrutement de référence pour Entrepreneurs.com. Le cas Nicolas devient le **premier projet client documenté** Mithril × ENT.
+
+→ **Implication pour Cédric** : la légitimité du plan de délestage IA + Mithril/Aiko est désormais **acquise publiquement**. Cédric ne porte plus seul l'argumentaire sur Mithril — c'est intégré dans le discours interne.
+
+→ **Implication pour Boris** : récupérer la fiche de poste, la formaliser, lancer le sourcing via la procédure standard Mithril cette semaine. Cf. [[80_Sides/Mithril/README]].
+
+### 🟠 Cédric pas directement présent au call — mais signaux indirects positifs
+
+Cédric n'était pas dans la salle (call verticale Ops/IT/Tech/Data/IA). Mais le call a produit des signaux positifs indirects qui le concernent :
+- **Sortie Nicolas confirmée et opérationnellement actionnée** → délestage Cédric en marche
+- **Vision Anisse pour la verticale opérationnelle** validée → le projet Cervo (POC rétention Cédric) reste cohérent dans cette architecture
+- **Cadre reporting hebdo verticale** à installer → Cédric pourra avoir visibilité sur l'avancement de SES recrutements sans avoir à relancer
+
+### 🚨 Confidentialité absolue préservée
+
+Le call du 5 mai n'a **rien révélé** sur la situation personnelle Cédric (HO32, plan de délestage, stop loss juin). Boris a tenu strictement la zone confidentielle. **Cédric reste protégé** comme convenu au 1-to-1 du 30/4.
+
+→ **Aucun risque** que la séquence call du 5 mai re-exposite Cédric. Le sujet Cédric n'a pas émergé. Boris ne l'a pas amené. Alec ne l'a pas amené.
+
+### 🟢 Calendrier de délivrabilité — mis à jour
+
+| Brique | Date 30/4 | Date 5/5 | Avance |
+|---|---|---|---|
+| **DataOps marketing (remplaçant Nicolas)** | À sourcer | **Fiche de poste transmise + sourcing à lancer Mithril** | 5 jours d'avance |
+| **Responsable webinaire** | À sourcer (sourcing 30 jours) | À démarrer cette semaine | Conforme calendrier |
+| **Intégrateur** | Partagé en DM | À démarrer | Conforme calendrier |
+| **Projet Cervo** (Anisse) | 8 semaines | À cadrer en bilatéral Anisse cette semaine | À surveiller |
+| **Buffer Alec silencieux** | En cours | Premier test au call 5/5 — 🟢 réussi (Boris a contredit Fabrice + Alec sans casser la dynamique) | Démontré |
+
+→ **Lecture finale** : Cédric n'a pas vu le call — mais Boris a fait passer 1 livrable concret en 5 jours. **C'est exactement le standard que Cédric attend** (cf. verbatim 30/4 *"Tant que je n'ai pas vu l'outil, je m'enjaille pas"*). Boris doit capitaliser à moindre signal de retour de Cédric pour démontrer que les 30-45 jours sont opérationnellement tenus.
+
+### Actions Boris immédiates spécifiques Cédric
+
+1. **Sous 24h** : récupérer la fiche de poste DataOps transmise par Cédric. Si non reçue, DM Cédric léger.
+2. **Sous 48h** : briefing sourcing Mithril — lancement annonce + screening initial
+3. **Sous 7 jours** : DM Cédric mini-update ("j'ai lancé le sourcing, premiers profils sous 10 jours, je te tiens informé") — **pas plus**, juste démontrer la cadence
+4. **Sous 14 jours** : premiers profils qualifiés à présenter à Cédric
+5. **Surveillance HO15** : si Alec re-négocie le plan de délestage à froid (verbatim risque Cédric *"il y a eu des houlà-houps pour ajuster ces conditions"*), intervention Boris silencieuse
+
+---
+
 ## 🚨 Sources de l'alerte
 
 **Source 1** : [[Océane De Queiros]] (1-to-1 du 23/4 soir) — Cédric s'est confié à Océane sur ses doutes.

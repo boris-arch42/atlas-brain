@@ -13,6 +13,16 @@ tags: [side, mithril, aiko, recrutement, cas-client-entrepreneurs-com, produit-b
 > **Ce que ce hub fait** : capter feedback, frictions, features manquantes, insights produit issus du d\u00e9ploiement ENT.
 > **Ce que ce hub ne fait pas** : g\u00e9rer la roadmap globale Mithril, le pilotage \u00e9quipe Mithril (Venu, Aman), les sprints Linear, le GTM Facebook, etc.
 
+## ⚡ Statut au 5/5 — matérialisation publique en réunion verticale
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] (call 11h33-12h19, Alec + Fabrice + Anisse + Boris).
+
+- **🟢 1ère matérialisation publique de Mithril** comme outil de recrutement de référence ENT. Verbatim Alec 31:24 (devant Fabrice + Anisse) : *"Cédric t'a envoyé la fiche de poste Boris pour Mithril pour déjà commencer à faire tourner ?"*
+- **🟢 Cas Nicolas = premier projet client documenté Mithril × ENT**. Cédric a transmis la fiche de poste DataOps marketing **avant** le call du 5/5 — 5 jours d'avance sur le calendrier 30/4.
+- **🟢 Cible profil consolidée en séance** : automation maîtrisée (Twilio, Mailchimp, Zapier, lancements), accepter horaires nocturnes/weekend, offshore Maroc, cible coût ~50% Nicolas. Verbatim Anisse 27:47 *"On peut aller chercher comme ils recrutent, Hamid ou d'autres agences au Maroc qui font de l'automatisation."*
+- **🟢 Mandat élargi confirmé** : Mithril sourcing pour la transition Quentin (1 lead + 2 dévs offshore plateforme), PMO local (1 200-1 500€/mois francophone), futur CTO Dubaï (horizon Q3-Q4). **3 à 4 mandats clients ENT en parallèle sur 90 jours**.
+- **🟠 Risque capacité à anticiper** : si 3-4 sourcings ENT lancés simultanément, charge cumulée potentielle ~2-3 j/sem côté Boris si Mithril (Venu/Aman) n'absorbe pas la charge opérationnelle. À cadrer en bilatéral Mithril cette semaine.
+
 ## ⚡ Statut au 29/4
 
 - **Bascule majeure 29/4** : Alec acte le d\u00e9ploiement Mithril/Aiko comme stack de **r\u00e9f\u00e9rence pour TOUS les recrutements** d'Entrepreneurs.com (coachs, sales, RH, partenaires annuaire, marketing). Cf. [[Ressource - Replay Recrutement Ops Marketing 29 avril 2026]].
