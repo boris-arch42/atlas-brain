@@ -126,6 +126,126 @@ Le sujet IT n'est **pas qu'un audit ponctuel** — c'est une **passation d'exper
 
 → **Mohamed lui-même a verbalisé ce risque** — verbatim 03:10 : *"Souvent chez Entrepreneurs, les gens arrivent, font des trucs, ils partent, ils documentent rien."* (le pattern qu'il faut casser pour Mohamed).
 
+## 🟢 MAJ 2026-05-05 J4 SOIR — Décisions actées au call verticale + supervision transférée Fabrice → Boris
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet (46 min, 5 mai 11h33-12h19).
+>
+> **Le moment pivot du call s'est joué sur Mohamed** (12:01-13:35). Boris a contredit publiquement la position de Fabrice (qui voulait que Boris absorbe le périmètre Mohamed) et a gagné. Capital politique consolidé sans humiliation Fabrice.
+
+### 🔴 Boris contredit Fabrice publiquement et gagne
+
+Fabrice avait préparé en bilatéral 4 mai *"on remplace Mohamed et Boris peut batcher"*. Boris a explicitement contredit cette position en séance.
+
+Verbatim Boris 12:01 :
+> *"Je suis, on va dire, contre la vision qui a été potentiellement donnée de remettre le périmètre qu'il a aujourd'hui sur moi. [...] Je n'ai absolument pas le côté cybersécurité et anticipation des risques qu'il peut y avoir à ce sujet-là."*
+
+Verbatim Boris 12:31 :
+> *"Il y a quand même des énormes points rouges, rouges, rouges, rouges, rouges, rouges au niveau de la sécurité [...] pour le coût qu'il a aujourd'hui, qui est un coût de 2 000, les risques mis en face sont 1 000 fois plus importants."*
+
+Réaction Alec immédiate (13:35) :
+> *"Dans ce cas, moi je suis raccord parce qu'au moins je sais qu'avec toi il sera supervisé, il sera managé."*
+
+→ **3 acquis en une intervention** :
+1. **Mohamed sauvé** pour 2 mois minimum + transition propre vers forfait 1 500€/mois
+2. **Mandat IT permanent Boris consolidé** publiquement devant Alec et Fabrice
+3. **Slot jeudi 17h Fabrice libéré** — Boris reprend la supervision (verbatim Alec 16:35 *"Boris prend le relais comme ça, ça te fait libérer 30 minutes ou 1 heure chaque semaine"*)
+
+→ **HO34 navigué proprement** — la divergence latente Alec/Fabrice sur Mohamed s'est exprimée en séance sans nommer la divergence. Boris a tranché par compétence (cybersec) plutôt que par opinion sur Mohamed. Alec a eu son angle (Mohamed sera supervisé sérieusement), Fabrice a eu son soulagement (déchargé du sujet sans perdre la face).
+
+### 🔴 Décision actée — séquencement précis
+
+| Phase | Période | Coût | Mode |
+|---|---|---|---|
+| **Phase audit + plan d'action** | 5 mai → 4 juillet (~60 jours) | 4 000€/mois ("2 fois 4 000") | Engagement complet, supervision Boris hebdo (jeudi 17h) |
+| **Phase post-audit / forfait** | 5 juillet → permanent | 1 500€/mois | Forfait carré, supervisé, cadré |
+| **Process attendu** | À installer dès Phase audit | — | Check global tous les 3 mois + sujet mensuel licences/fichiers |
+| **Total annualisé cible** | À horizon Q3-Q4 2026 | ~15 000€/an | -85% vs coût actuel projeté annuel |
+
+Verbatim Alec 14:35-14:57 (clarification sur les chiffres) :
+> *"On va, tu sais quoi, on va même être généreux, on va dire 60 jours, 2 mois, donc 2 fois 4 000. Et par contre, je veux que ce soit solide. Et ensuite, on retourne sur un forfait avec lui peut-être à 1 000 par mois, comme ça on n'est pas à zéro, on est un peu moins et c'est carré."*
+
+Puis Alec affine 15:04 :
+> *"On lui dit qu'on doit diminuer nos coûts, on sera à 15 000 par an [...] avec un protocole clair, sécurisé, sécurisant. Chaque mois, avec par exemple tous les 3 mois on lui demande un check global de tous nos outils."*
+
+→ **Lecture** : Alec hésite entre 1 000€ et 1 500€/mois sur la phase forfait. **Cible 1 500€/mois retenue** comme compromis (cohérent avec verbatim final 15:04 *"15 000 par an"* qui correspond à 1 250€/mois — arrondi à 1 500€/mois pour avoir de la marge).
+
+### 🔴 Supervision transférée Fabrice → Boris
+
+Verbatim Alec 16:35 :
+> *"Continue les points sans même à la rigueur ces points-là, arrête-les Fabrice tous les jeudis. Boris prend le relais comme ça, ça te fait libérer 30 minutes ou 1 heure chaque semaine sur d'autres sujets où tu peux créer plus de valeur et où t'es plus tranquille."*
+
+Verbatim Boris 17:04 :
+> *"Si tu vas le faire Fabrice, moi c'est ok, je peux prendre la responsabilité avec moi, m'aider, je te décharge du sujet si ça te va."*
+
+Verbatim Alec 17:09 :
+> *"Parfait, top, trop bien."*
+
+→ **Slot jeudi 17h** : Fabrice avait un point hebdo Mohamed dans son agenda. **Ce slot bascule sur Boris**.
+
+### 🟠 Réponse Fabrice 15:41 — point factuel important
+
+Quand Alec interroge Fabrice sur l'absence de plan d'action sur les 6 mois écoulés, Fabrice répond factuellement :
+
+Verbatim Fabrice 15:41 :
+> *"Tout ce que je fais tous les jeudis, je lui parle tous les jeudis à 17h avec Mohamed, c'est là où il me remonte s'il découvre s'il y a eu des attaques ou non, s'il y a des problèmes, etc. Il est en veille en permanence. Tous les jeudis, je lui parle à 17h, c'est dans mon agenda, tu peux aller vérifier."*
+
+Verbatim Fabrice 16:05 :
+> *"Donc est-ce qu'il y a encore des leaks ? Oui. Pourquoi il y a encore des leaks ? Parce qu'effectivement, on on board 20 nouveaux closeurs d'un coup. Le mois d'après, on s'en sépare de 10. On n'a pas forcément l'information."*
+
+Réaction Alec 16:35 :
+> *"Alors autant pour moi, si c'est le cas, c'est top."*
+
+→ **Désamorçage politique par Alec** : il accepte la réponse factuelle de Fabrice sans surenchérir. **C'est l'amorce du désamorçage qui culminera 17 minutes plus tard avec les excuses Alec à Fabrice (33:36)**.
+
+→ **À retenir pour la fiche [[Fabrice Jaeger]]** : Fabrice a démontré qu'il fait factuellement le job (point hebdo Mohamed depuis 6 mois). Le sujet n'était pas le travail, c'était la **visibilité vers Alec**.
+
+### 🟢 Mandat IT permanent Boris consolidé publiquement
+
+Avant le call : mandat IT confidentiel (vocal Alec 29/4) + transition Mohamed officiellement temporaire.
+
+Après le call : Boris est **explicitement désigné** comme owner permanent IT/Cybersec **devant Alec, Fabrice et Anisse**. Slot jeudi 17h Fabrice transféré à Boris. Cadence à installer.
+
+→ **C'est la première matérialisation publique** du mandat IT permanent qu'Alec avait posé en privé le 29/4 (*"tu centralises sous ton scope"*).
+
+### 📝 Actions Boris immédiates
+
+#### 🔴 Sous 24h (mardi 5 mai - mercredi 6 mai)
+1. **Caler le slot jeudi 17h Mohamed × Boris** dans le calendrier (à partir de jeudi 7 mai)
+2. **Mail conjoint Fabrice + Boris à Mohamed** annonçant le transfert de supervision (Fabrice porte l'annonce, Boris en CC)
+3. **DM Mohamed informel** (le 5 mai au soir) pour valider la dynamique sans formalisation : *"On continue notre travail comme convenu ce matin. Le point hebdo se fait désormais avec moi, on cale jeudi 17h. À jeudi."*
+4. **MAJ vault** ✅ ce replay
+
+#### 🟠 Sous 48-72h
+5. **Inclure la séquence Mohamed dans le livrable 48-72h Alec** :
+   - Phase 1 (45 jours = 5 mai → 20 juin) : audit consolidé + plan d'action + déploiement 6 vulnérabilités cybersec + cleanage accès / mots de passe / APIs
+   - Phase 2 (90 jours = 5 mai → 5 août) : forfait 1 500€/mois opérationnel post-4 juillet + check global trimestriel
+   - Phase 3 (4-5 mois = octobre 2026) : stabilisation cadence + intégration au reporting standard
+
+#### 🟡 Sous 7 jours
+6. **Premier point hebdo Boris × Mohamed** (jeudi 7 mai 17h) :
+   - Réception du plan d'action sécurité avec deadlines (livrable Mohamed)
+   - Récupération audit SaaS partiel + audit sécurité + doc onboarding/offboarding (déjà demandés au point matin)
+   - Cadrage des 4 semaines restantes avant fin du contrat audit (5 mai → 4 juillet)
+7. **Pinger Cédric et Océane** pour qu'ils donnent à Mohamed la liste exhaustive des SaaS qu'ils gèrent + accès admin (cohérent avec replay matin)
+
+#### 🔵 Sur le 60-90 jours
+8. **Sortie phase audit** (4 juillet) avec passation complète à Boris
+9. **Bascule forfait 1 500€/mois** opérationnelle
+10. **Process IT-SaaS-Cybersec stabilisé** dans [[Cadre - Process IT-SaaS-Cybersec]]
+
+### 🔗 Cohérence avec le replay matin
+
+Le call du matin (10h34-11h05, audit IT) et le call de l'après-midi (11h33-12h19, verticale) ont été parfaitement articulés :
+
+| Replay matin | Call verticale 12h | Cohérence |
+|---|---|---|
+| Boris pose la distribution des rôles (politique vs technique) | Boris défend Mohamed sur cette base | ✅ Cohérent |
+| Mohamed identifie 6 vulnérabilités critiques | Boris cite *"des énormes points rouges"* en séance | ✅ Le replay matin a directement nourri la prise de position |
+| Mohamed accepte la supervision Boris post-31 mai | Alec officialise le transfert public | ✅ Aligné |
+| 2K€/mois actuel + cible forfait | Décision : 4K€/mois pendant audit puis 1 500€/mois forfait | ✅ Modèle ajusté à la hausse pendant la période critique |
+
+→ **Sans le briefing matin avec Mohamed, Boris aurait pu suivre la vision de Fabrice par défaut**. Le replay matin a directement nourri la prise de position en séance.
+
 ## ⚡ Synthèse en 30 secondes
 
 - **Profil** : IT externe / sécurité & infrastructure d'Entrepreneurs.com depuis avant 2024

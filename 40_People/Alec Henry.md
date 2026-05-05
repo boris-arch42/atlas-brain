@@ -269,6 +269,128 @@ _Préférences de travail, contraintes, modes de communication qui marchent._
 
 ## Interactions clés avec Boris — chronologie
 
+### 🟢 MAJ 2026-05-05 J4 SOIR — Call verticale Ops/IT/Tech/Data/IA : excuses publiques à Fabrice + colère structurelle révélée
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet (46 min, 5 mai 11h33-12h19).
+>
+> **Trois éléments majeurs sur Alec** à mémoriser de cette séance : (1) il a présenté ses excuses publiquement à Fabrice — désamorçage politique acquis ; (2) sa colère sur l'opacité prestataires est **structurelle**, pas conjoncturelle ; (3) le vrai sujet d'Alec est le **reporting / la visibilité**, pas le travail. Ces 3 lectures changent durablement la posture Boris.
+
+#### 🟢 Excuses publiques à Fabrice (33:36) — désamorçage politique
+
+Après un Slack du 2 mai 13h19 désignant Fabrice comme *"principal responsable de cette situation"* + menaçant *"d'une colère et fureur que personne ne pourra calmer"*, Alec a ouvertement reconnu en séance :
+
+> *"Je te présente mes excuses, Fabrice, il y a plein de choses qui sont déjà faites mais que je n'ai pas connaissance et que j'ai le sentiment que ça n'avance pas."*
+
+→ **Lecture politique** :
+- Le doute Alec sur Fabrice est **mis en pause** (pas effacé, mis en pause)
+- L'épreuve de vérité 1er juin co-COO **est passée pour cette séance**
+- La fenêtre prochaine de doute s'ouvrira au prochain meeting mensuel ou si Fabrice ne livre pas le plan 48-72h
+
+→ **Pattern Alec confirmé** : il **est capable de reconnaître publiquement** ses propres erreurs de jugement quand il a les faits sous les yeux (Fabrice 15:41 *"je lui parle tous les jeudis à 17h avec Mohamed, c'est dans mon agenda, tu peux aller vérifier"*). Cohérent avec sa réponse à la règle du revirement écrit le 23/4 (*"l'observation est correct"*). **Capital majeur** — la capacité d'auto-critique d'Alec n'est pas un mythe, elle se matérialise quand on lui amène du factuel.
+
+#### 🔴 Colère structurelle sur l'opacité prestataires (24:07-25:09 + 33:44 + 44:01)
+
+Verbatim cru, à mémoriser tel quel pour analyse politique :
+
+> 24:07 : *"J'ai vraiment l'impression qu'on se fait fortement * mais sodomisé à sec avec des graviers par, enfin, depuis un certain temps, tu vois, même par Thomas Rodier et tout, parce qu'on y comprend rien, parce qu'on fait confiance, tu vois. Moi, tout ce bullshit finaliser l'architecture 2.0, documenter les flux de machin, pour moi c'est du gros bullshit, c'est la grosse *."*
+
+> 25:01 : *"Comment on fait pour s'assurer que les mecs vraiment ils bossent plutôt qu'ils nous *** ?"*
+
+> 33:44 : *"Ça fait 2 semaines que je l'encule [Quentin] pour lui demander au moins un peu de visibilité."*
+
+> 34:25 : *"Donc je suis ouvert au fait qu'on me dise oui oui tu es un gros *, ouais tu es un gros *, mais au moins tu vois qu'on me le dise face à face, droit dans les yeux, en transparence."*
+
+Confirmation 44:01 (après qu'Anisse tente de désamorcer en blague) :
+> *"Ça, c'était vers la fin du call et je le pense à 100 et sans vaseline, mon pote."*
+
+→ **Lecture clinique** :
+- Alec exprime de la **rage accumulée** sur l'opacité technique des prestataires
+- Le ressenti est *"on me prend pour un *"* (verbatim 34:25)
+- Cette colère est venue **du fond** (pas un effet de manche), Alec l'a réaffirmée en clôture
+- **Cible désignée** : Thomas Rodier ; **cible secondaire** : Quentin
+
+→ **Implication pour Boris** : la colère Alec sur les prestataires opaques est **structurelle**, pas conjoncturelle. Tout prestataire qui ne fournit pas de **reporting régulier et lisible** entre dans la zone rouge — quel que soit son talent technique. **Boris doit installer un standard de reporting** pour tous les prestataires de la verticale.
+
+→ **Risque latent majeur** : la posture *"on se fait *"* peut être projetée sur n'importe quel acteur perçu comme opaque. **Boris doit éviter à tout prix de devenir cet acteur** — transparence par excès sur sa propre activité, surtout dans les 48-72h post-call.
+
+#### 🟡 Le vrai sujet d'Alec = visibilité, pas travail (33:30)
+
+Verbatim Alec 33:30 :
+> *"Comment on fait pour mieux communiquer sur ces points, pour avoir de la visibilité."*
+
+→ **C'est l'énoncé du vrai problème Alec en une phrase**. Le travail est fait (Fabrice fait factuellement le job, Mohamed fait factuellement son audit, Anisse a livré un plan structuré). **Le manque, c'est que rien ne remonte à Alec de manière lisible**.
+
+→ **Action structurelle Boris** : **installer un rituel de reporting hebdo** sur la verticale, dès J+7. C'est probablement le plus haut levier de création de valeur perceptible par Alec. Format proposé :
+- 1 bullet par pôle (IT / Data / IA / Tech / Ops)
+- Status (vert/orange/rouge)
+- Livrables réalisés cette semaine
+- Livrables prévus la semaine prochaine
+- Risques et arbitrages requis
+- Diffusion : Alec + Fabrice + Anisse + Boris
+
+→ Ce rituel peut absorber la cadence hebdo verticale jusqu'au 1er août envisagée dans le prep.
+
+#### 🔴 Décisions actives prises par Alec en séance
+
+Alec a démontré sa capacité de décision rapide en séance :
+
+| Décision | Verbatim clé | Implication |
+|---|---|---|
+| **Mohamed** : 2 mois 4K + forfait 1 500€/mois | *"On va dire 2 fois 4 000. Ensuite forfait à 1 000 par mois"* (14:35) | Cible -85% coût annuel |
+| **Quentin** : transition déjà actée avant le call | *"L'intention elle est même pas à valider, la décision elle est déjà prise"* (35:32) | Anisse + Boris découvrent la décision actée |
+| **Nicolas** : remplacé via Mithril, action déjà prise | *"Cédric t'a envoyé la fiche de poste Boris pour Mithril"* (31:24) | Première matérialisation publique Mithril |
+| **PMO local** : validé en transitoire (après résistance) | *"Oui, en transitoire, pour éviter qu'on fasse comme à chaque fois où on perd les process"* (40:13) | Boris a tenu face à Alec |
+| **CTO Dubai** : sal- arié sous Fabrice | *"En salarié à Dubai, supervisé par le general manager"* (29:57) | Cohérent vocal 25/4 |
+| **Wassim** : non tranché, doute exprimé | *"Valider si on garde ou pas Wassim"* (17:09) | Zone d'arbitrage 60-90j |
+
+→ **Pattern décisionnel Alec** : il prend les décisions structurelles **avant** les calls et utilise les calls pour **caler le comment** — pas pour valider. Cohérent avec son auto-diagnostic 23/4 *"souvent les choses sont décidées mais n'avancent pas"*. **Le call sert à ancrer collectivement la décision et à cadrer l'exécution**.
+
+→ **Implication majeure** : Boris doit récupérer **avant les calls** les décisions déjà prises par Alec. Sinon Boris arrive à froid sur des débats qui ne sont plus débats. **DM Alec proactifs** indispensables avant chaque call structurant.
+
+#### 🟡 Boris contredit Alec deux fois en séance et gagne deux fois
+
+**Première fois** : sur Mohamed (12:01-13:35). Boris pousse contre la position Fabrice/Alec (qui voulait que Boris absorbe le périmètre Mohamed) en arguant la cybersécurité. Alec bascule : *"Dans ce cas, moi je suis raccord"*.
+
+**Deuxième fois** : sur le PMO local (37:29-40:46). Alec doute (*"ça c'est Fabrice qui devrait le faire"*). Boris pousse l'argument du manager local + de l'économie d'échelle. Alec bascule : *"Oui, en transitoire"*.
+
+→ **Lecture politique** : Boris a **deux fois** dans le même call contredit la position du tandem Alec-Fabrice et gagné. C'est **rare** dans la dynamique boîte. Capital politique consolidé.
+
+→ **Mais aussi — risque** : Boris commence à porter publiquement l'expertise opérationnelle que Fabrice est censé porter (management équipe distante). À surveiller : ne pas devenir le porteur officieux du leadership opérationnel de Fabrice. **Calibrage requis** : sur les 14 prochains jours, Boris devrait laisser Fabrice porter au moins une fois publiquement une position structurelle pour rééquilibrer.
+
+#### 🟢 Clôture sociale en sucre — pattern Alec
+
+Après la colère verbale (24:07-25:09), Alec a clos la séance par un moment de chaleur sociale (chocolatier Jacques Jeunin, mention de Sabrina, blague sur les initiales JJ).
+
+→ **Pattern Alec** : décompression collective après une tension qu'il a lui-même générée. **À mémoriser comme signe que la séance s'est bien clôturée sur le plan relationnel**. Si Alec reste froid en clôture, c'est qu'il n'a pas évacué — la fenêtre de colère reste ouverte. Si Alec passe au registre social/familial/anecdotique, il a évacué — la fenêtre est refermée.
+
+→ **Pattern cohérent avec décompression Alec déjà observée** : c'est la même mécanique que le *"tu es un banger"* après les vocaux durs.
+
+#### 🔴 Glossaire Alec enrichi par cette séance
+
+À ajouter au glossaire jargon Alec :
+
+| Terme Alec | Signification |
+|---|---|
+| *"Sodomisé à sec avec des graviers"* | Forme extrême de l'expression de la rage Alec sur l'opacité prestataires — à ne JAMAIS relayer à quiconque |
+| *"Sans vaseline, mon pote"* | Confirmation qu'une expression crue est intentionnelle, pas un effet de manche — indicateur de rage de fond |
+| *"On se fait *"* | Pattern d'opacité prestataire ; cible quiconque ne fournit pas de visibilité régulière |
+| *"3 phases (45j / 90j / 4-5 mois)"* | Format de plan attendu par Alec pour les sujets structurels — à répéter dans le livrable 48-72h |
+| *"Faire plus avec moins"* (vs *"faire moins avec moins"*) | Cadrage de l'attente économique : réduction des coûts ne doit JAMAIS s'accompagner de ralentissement |
+
+#### 🔗 Articulation avec mandats antérieurs
+
+| Mandat antérieur | Matérialisation 5 mai |
+|---|---|
+| Mandat IT permanent Boris (vocal 29/4) | ✅ Officialisé publiquement devant Fabrice + Anisse |
+| Règle du revirement écrit (23/4) | ✅ Pattern observé — Alec accepte les corrections quand factuelles |
+| Cordon sanitaire HO29 (J0 matin) | ✅ Tenu — Boris n'a relayé aucun verbatim Casédric/Anisse/Fabrice privé |
+| 4 variables canoniques (Slack 2 mai) | ⏭️ Non mobilisées en séance — sujet ressources, pas KPIs |
+| Stack Mithril/Aiko = référence (29/4 PM) | ✅ 1ère matérialisation publique (Nicolas via Mithril) |
+| Audit IT Mohamed (vocal 29/4) | ✅ Décision actée + supervision Boris officialisée |
+| Co-COO Boris 1er juin (replay 27/4) | ✅ Épreuve de vérité 5 mai passée — fenêtre 1er juin maintenue |
+
+→ **Cohérence parfaite** : tous les mandats antérieurs sont réaffirmés ou matérialisés en séance. Aucune contradiction.
+
 ### 🔴 MAJ 2026-05-01 J0 PM — Replay Alec×Abdel récupéré : posture humaine forte + 1ère application cordon sanitaire
 
 **Source** : replay 1-to-1 Alec×Abdel du 30/4 soir 18h03-18h31 (28 min), envoyé par Alec à Anisse, récupéré par Boris au cours du J0 PM. Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]].

@@ -34,6 +34,100 @@ related-resources: "[[Draft OKR Q1 Boris]] (historique avant J0), [[Prep - Call 
 
 ---
 
+## 🟢 MAJ 2026-05-05 J4 SOIR — Call verticale Ops/IT/Tech/Data/IA : décisions actées + timeline RH consolidée
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet.
+>
+> **Le call du 5 mai a transformé plusieurs hypothèses Q1 en décisions actées**. L'objectif 3 (verticale Data/IA/Tech/Ops) bascule de "à cadrer" à "plan d'exécution avec décisions actées".
+
+### 🟢 Décisions actées au call 5 mai
+
+| Sujet | Décision | Owner | Échéance |
+|---|---|---|---|
+| **Mohamed IT** | 2 mois à 4K€ (audit + plan) puis forfait 1 500€/mois | Boris (supervision) | 4 juillet bascule forfait |
+| **Quentin plateforme** | Transition vers offshore actée (3 mois max) | Boris + Fabrice (co-pilotage) | Juillet 2026 |
+| **Nicolas ops auto** | Remplacement via Mithril — fiche de poste Cédric déjà transmise | Boris (sourcing Mithril) | Cette semaine (lancement) |
+| **PMO local** | Validé en transitoire (1 200-1 500€/mois, francophone) | Anisse + Boris | Mai-juin (recrutement) |
+| **CTO Dubai** | Salarié à Dubai sous Fabrice (futur GM Dubai) | Alec (sourcing) | Q3-Q4 2026 |
+| **Wassim** | Non tranché — doute Alec exprimé publiquement | Anisse + Boris (silence stratégique) | Arbitrage 60-90j |
+| **Thomas data** | Conservé conditionnellement — plan Fabrice attendu | Fabrice + Boris (filet) | Plan sous 7-14j |
+| **Livrable 48-72h** | Message Slack 3 phases (45j/90j/4-5 mois) | Anisse + Boris (co-construction) + Fabrice (validation) | Mercredi 6 mai max |
+
+### 🟡 Cible budgétaire précisée
+
+- **Aujourd'hui** : 52K€/mois (verticale Ops/IT/Tech/Data/IA)
+- **Cible Alec à J+90** : 30K€/mois (-40%)
+- **Cible Anisse à J+90** : 10K€/mois (-80%, fourchette basse)
+- **Cadrage Alec en clôture** : *"Faire plus avec moins, pas faire moins avec moins"* — réduction sans ralentissement de cadence
+
+### 🔴 Timeline RH consolidée — 6-8 mouvements simultanés sur 45-90 jours
+
+**Risque turnover synchrone identifié par Boris en séance 32:14** : la verticale va vivre plusieurs rotations en parallèle. À gérer pour limiter déstabilisation.
+
+| Phase | Sortie | Entrée | Risque |
+|---|---|---|---|
+| **Mai (J+4 à J+30)** | — | Sourcing 2-3 dévs offshore Maroc + Ops auto Maroc + PMO local | Charge sourcing Boris |
+| **Juin (J+30 à J+60)** | Mohamed (31 mai bascule forfait) | 1er dév offshore opérationnel + remplaçant Nicolas | Décalage transmission Mohamed → Boris |
+| **Juillet (J+60 à J+90)** | Quentin (transition fin) | 2e + 3e dévs offshore + PMO local opérationnel | Risque coupe sèche si Quentin non-coopératif |
+| **Août-Octobre** | Possiblement Wassim | CTO Dubai salarié | Stabilisation phase 3 IA |
+
+**Cadre transverse** : verbatim Boris en séance 32:14 :
+> *"Faut vraiment faire attention au turnover. [...] À chaque fois qu'on fait tourner quelqu'un, à ce qu'on limite la déstabilisation que ça peut entraîner."*
+
+→ **À surveiller en revue J+30 et J+60** : cadence des rotations vs capacité d'absorption équipe.
+
+### 🟢 Matérialisation publique de Mithril
+
+Le call du 5 mai a matérialisé publiquement Mithril comme stack de recrutement de référence pour Entrepreneurs.com :
+
+- **Verbatim Alec 31:24** : *"Cédric t'a envoyé la fiche de poste Boris pour Mithril pour déjà commencer à faire tourner ?"*
+- **Premier projet client** : remplacement Nicolas (ops auto)
+- **Projets futurs probables** : 2-3 dévs offshore plateforme + PMO local + possiblement substitut Wassim
+
+→ **Cohérence avec mandat 29/4 PM** (cf. [[Alec Henry]] section MAJ 29/4 PM). Mithril devient l'outil de référence opérationnel.
+
+### 🔴 Nouveau livrable critique : message Slack 3 phases (J+1 à J+3)
+
+Alec demande sous 48-72h un message structuré dans le canal Slack partagé avec :
+- **Phase 1 (45 jours = 5 mai → 20 juin)** : annonces + sourcing + premier dévs offshore + audit consolidé
+- **Phase 2 (90 jours = 5 mai → 5 août)** : transition opérationnelle + 3 dévs offshore + PMO local + Mohamed forfait
+- **Phase 3 (4-5 mois = septembre-octobre)** : stabilisation + CTO Dubai + 5 piliers IT-SaaS-Cybersec V1 + couche dynamique IA
+
+Décomposition par pôle : **IT** / **Data** / **IA** / **Tech (Plateforme)** / **Ops (automations)**.
+
+**Owners explicites** par pôle et par phase. **Objectifs chiffrés** : humains, recrutement, budget.
+
+**Co-construction** : Anisse (qui a porté la structure en séance) + Boris (cadre owners/deadlines/budgets), validation Fabrice avant publication.
+
+→ **Inclure dans le KR3.3** comme livrable déclenchant début de Phase 1.
+
+### 🟢 Capital politique Boris consolidé en séance
+
+- **2 fois Boris contredit le tandem Alec-Fabrice et gagne** (Mohamed cybersec + PMO local)
+- **Mandat IT permanent officialisé publiquement** devant Fabrice + Anisse
+- **Slot jeudi 17h Mohamed transféré Fabrice → Boris** (libère 30-60 min/sem à Fabrice)
+- **Excuses Alec à Fabrice obtenues** — épreuve 1er juin passée pour cette séance
+
+→ **À cadrer dans KR4.2** (3 leviers Fabrice → support stabilisation) + **KR1.1** (cordon sanitaire en cours de matérialisation).
+
+### 🔴 Nouvelle hypothèse à intégrer dans tous les KR : HO41 (visibilité, pas travail)
+
+Le vrai problème d'Alec est l'**absence de visibilité** sur ce qui est fait, pas la qualité du travail. Cf. [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] HO41.
+
+**Implication transverse Q1** : **installer un rituel de reporting hebdo verticale** comme priorité structurelle d'ici J+7. C'est probablement le plus haut levier de création de valeur Boris.
+
+**Format proposé** :
+- 1 bullet par pôle (IT / Data / IA / Tech / Ops)
+- Status (vert/orange/rouge)
+- Livrables réalisés cette semaine
+- Livrables prévus la semaine prochaine
+- Risques et arbitrages requis
+- Diffusion : Alec + Fabrice + Anisse + Boris
+
+→ **À ajouter comme KR3.X** ou comme rituel transverse dans la cadence Q1.
+
+---
+
 ## 🧭 Cadre de pilotage — 4 variables canoniques Alec
 
 Cadre posé par Alec au call CRO du 30/4 (cf. [[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 5 mai]]). **Tout KR doit s'aligner sur au moins une de ces 4 variables — sinon, il sort du périmètre Q1.**
@@ -67,6 +161,9 @@ Cadre posé par Alec au call CRO du 30/4 (cf. [[Ressource - Slack Alec - Cadrage
 |---|---|---|
 | **1er mai (J0)** | Prise de poste + cordon sanitaire posé + dette de confiance | KR1.1 actif |
 | **5 mai (J+4)** | Call Ops/IT/Tech/Data/IA + démarrage audit IT (Mohamed) + workshop spec data | KR3.1 actif |
+| **5 mai SOIR (J+4)** | ✅ Call verticale tenu — décisions actées (Mohamed/Quentin/Nicolas/PMO/CTO), excuses Alec à Fabrice, mandat IT Boris officialisé | KR3.1 + KR3.3 + KR4.2 enclenchés |
+| **6-7 mai (J+5/J+6)** | ⏰ **Livrable 48-72h** : message Slack 3 phases (45j/90j/4-5 mois) co-construit Anisse + Boris | KR3.3 critique |
+| **7 mai jeudi 17h (J+6)** | Premier point hebdo Boris × Mohamed (slot transféré Fabrice → Boris) | KR3.1 |
 | **6/7/8 mai** | Workshop COMEX Mithril (vitrine sourcing) | KR3.3 actif |
 | **18 mai (J+17)** | Jordan reprend recouvrement | KR2.1 actif |
 | **20-25 mai** | Marrakech (Sabrina + Boris + Aziz à confirmer + trio Alec/Anisse/Abdel cadré) | KR1.3 + KR2.2 |

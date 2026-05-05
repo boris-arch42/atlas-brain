@@ -13,6 +13,128 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 
 # Fabrice Jaeger
 
+## 🟢 MAJ 2026-05-05 J4 SOIR — Épreuve de vérité 5 mai passée + slot jeudi 17h Mohamed transféré à Boris
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet (46 min, 5 mai 11h33-12h19).
+>
+> **L'épreuve de vérité co-COO 1er juin pour Fabrice est passée pour cette séance**. Alec a présenté ses excuses publiquement (33:36). Slot jeudi 17h Mohamed transféré à Boris (libère 30-60 min/semaine à Fabrice). Mais doute Alec **mis en pause**, pas effacé — fenêtre se rouvre si Fabrice ne livre pas le plan 48-72h + plan Thomas.
+
+### 🟢 Désamorçage politique acquis — mais conditionnel
+
+Après la séquence Slack du 2 mai (Fabrice désigné *"principal responsable"* + menace *"colère et fureur"*), Alec a explicitement reconnu en séance :
+
+> 33:36 : *"Je te présente mes excuses, Fabrice, il y a plein de choses qui sont déjà faites mais que je n'ai pas connaissance et que j'ai le sentiment que ça n'avance pas."*
+
+→ **Trois éléments qui ont permis le revirement Alec** :
+1. **Fabrice a répondu factuellement** sur Mohamed (15:41 *"je lui parle tous les jeudis à 17h, c'est dans mon agenda, tu peux aller vérifier"*) — le factuel a désamorcé le doute spéculatif
+2. **Fabrice a expliqué** pourquoi des leaks persistent (16:05 *"on on board 20 nouveaux closeurs d'un coup, le mois d'après on s'en sépare de 10"*) — contextualisation de la réalité opérationnelle
+3. **Anisse a livré une structure chiffrée** — a satisfait l'attente plan d'Alec sans que Fabrice ait à la porter
+
+→ **Lecture cruciale pour Fabrice** : la défense factuelle marche **quand elle est appuyée par des éléments vérifiables**. Pattern Slack 13h19 (*"vous savez pas lire les chiffres"*) ne marchait pas parce que c'était abstrait. *"Tu peux aller vérifier dans mon agenda"* a marché.
+
+→ **Implication structurelle** : Fabrice doit **construire un système de traçabilité** qui permette à Alec de vérifier ce qu'il fait sans avoir à demander. C'est l'enjeu central de sa stabilisation.
+
+### 🟡 Slot jeudi 17h Mohamed transféré à Boris
+
+Verbatim Alec 16:35 :
+> *"Continue les points sans même à la rigueur ces points-là, arrête-les Fabrice tous les jeudis. Boris prend le relais comme ça, ça te fait libérer 30 minutes ou 1 heure chaque semaine sur d'autres sujets où tu peux créer plus de valeur et où t'es plus tranquille."*
+
+Verbatim Boris 17:04 :
+> *"Si tu vas le faire Fabrice, moi c'est ok, je peux prendre la responsabilité avec moi, m'aider, je te décharge du sujet si ça te va."*
+
+Verbatim Alec 17:09 :
+> *"Parfait, top, trop bien."*
+
+→ **Acquis** : Fabrice est officiellement déchargé du suivi Mohamed. Boris reprend le slot jeudi 17h.
+
+→ **À surveiller** : Fabrice a accepté le transfert sans résistance. Cohérent avec sa charge mentale actuelle. Mais aussi possible signal de **départ progressif de scope opérationnel** vers GM Dubai. À questionner avec lui en bilatéral.
+
+### 🔴 Boris a contredit Fabrice publiquement sur Mohamed — sans humiliation
+
+**Le moment pivot du call** (12:01-13:35). Fabrice avait préparé en bilatéral 4 mai *"on remplace Mohamed et Boris peut batcher"*. Boris a explicitement contredit cette position en séance.
+
+→ **Fabrice a accepté le revers sans friction** — verbatim 14:21 *"Parce qu'on a plusieurs problèmes. Déjà, on a beaucoup, beaucoup de plateformes SaaS"* puis 17:04 acceptation du transfert. **Aucun signe de tension visible avec Boris**.
+
+→ **Lecture politique** : Fabrice est **plus pragmatique que protecteur de territoire**. Si Boris a une meilleure lecture sur un sujet, Fabrice accepte. C'est un acquis majeur pour la dynamique Co-COO 1er juin.
+
+→ **À surveiller dans les 14 jours** : si Fabrice devient froid avec Boris en bilatéral, c'est un signal d'alerte (sabote sourd). Si la relation reste constructive, c'est validation que Fabrice peut tenir une dynamique de challenge constructif.
+
+### 🟡 Diagnostic Fabrice sur la plateforme — pas qu'un sujet de coût
+
+Fabrice a livré en séance un diagnostic critique sur la plateforme :
+
+Verbatim Fabrice 08:27-09:42 :
+> *"En fait, il y a un autre forme d'approche. La plateforme aujourd'hui, elle est développée, nous on n'utilise pas ce qui est développé sur la plateforme. En revanche, on développe des trucs sur entreprenance.work que l'on va nous utiliser, mais que du coup nos clients n'utilisent pas. Pour moi, on a un disconnect qu'on doit justement patcher par une vision globale du produit, une roadmap globale du produit, à savoir pour moi tout ce que nous on utilise en interne, on doit le déployer pour nos clients."*
+
+→ **C'est un diagnostic produit majeur** : la plateforme et entrepreneurs.work sont en disconnect avec les usages réels. La transition Quentin n'est PAS qu'un sujet de coût — c'est un sujet d'**alignement produit**.
+
+→ **Implication** : Fabrice porte une vision produit qui dépasse le simple sujet coût. À valoriser publiquement — c'est un angle structurel qui justifie son rôle de COO actuel et de GM Dubai futur.
+
+### 🟡 Pattern défensif sur les 7 points — partiellement absorbé
+
+Dans le bilatéral 4 mai, Fabrice avait répondu aux 7 points Alec en pointant *"les autres"* (vous savez pas lire / faut demander à leur manager / c'est à Aziz et Boris). En séance 5 mai, ce pattern est apparu **moins** que craint :
+
+- Pas de retour direct sur les 7 points (Alec a ouvert sur le diagnostic structurel, pas sur les 7 points)
+- Fabrice a structuré par lignes de coût (Mohamed/Quentin/Thomas/Nicolas/Wassim) au lieu de la vue 3 phases qu'il avait préparée
+- **Réponse factuelle Mohamed** (15:41) a été efficace là où *"vous savez pas lire"* aurait échoué
+
+→ **L'absorption du pattern défensif a marché** — mais partiellement par hasard (Alec n'a pas attaqué sur les 7 points).
+
+→ **À surveiller** : si Alec re-soulève les 7 points en bilatéral ultérieur, Fabrice doit **répondre factuellement** (comme sur Mohamed) plutôt qu'en pointant les heads.
+
+### 🟢 Confirmation — Fabrice fait factuellement le job
+
+**Information critique pour la réévaluation Alec** : Fabrice a établi en séance qu'il fait factuellement plusieurs jobs structurants :
+- Point hebdo Mohamed depuis 6 mois (jeudi 17h)
+- Point dev hebdo avec Quentin (cf. référence à *"on a un point demain après-midi pour discuter de la suite"* 07:58)
+- Point Aziz × Thomas calage hebdo (mentionné indirectement)
+
+→ **Le sujet n'était pas le travail — c'était la visibilité vers Alec**. Fabrice fait son boulot mais ne le fait pas remonter de manière lisible. **C'est exactement ce qu'Alec a verbalisé explicitement** : *"Comment on fait pour mieux communiquer sur ces points, pour avoir de la visibilité"* (33:30).
+
+→ **Action critique pour Fabrice** : installer un système de reporting hebdo lisible vers Alec. Boris peut l'aider à cadrer le format — c'est exactement le type de sujet "librer Fabrice par systèmes" que Alec attend de Boris.
+
+### 🟡 Plan Thomas reste attendu — fenêtre de doute Alec se rouvrira si pas livré
+
+Verbatim Alec 19:53 :
+> *"J'attends toujours justement un point clair de Fabrice sur les prochaines semaines ainsi que les 2 précédentes où j'attends ce point, parce qu'en 2 semaines j'ai pas eu de retour pour savoir ce qu'on fait de Thomas."*
+
+Verbatim Alec 30:28 :
+> *"J'attends toujours le plan, mais je suis OK de le garder si le plan est clair et que tout comme pour Mohamed on a un plan clair, pour Thomas on a un plan clair."*
+
+→ **Le plan Thomas est en retard de 2 semaines**. Cohérent avec doute Alec qui a explosé le 2 mai. Si pas livré sous 7-14 jours après ce call, **la fenêtre de doute Alec se rouvre**.
+
+→ **Action critique cette semaine** : Boris doit **aider Fabrice à livrer le plan Thomas** sans se substituer à lui. Format proposé : Fabrice draft + Boris en filet de revue.
+
+### 🟢 Roadmap GM Dubai cohérente avec ce call
+
+Le call a confirmé plusieurs fois la trajectoire GM Dubai pour Fabrice :
+
+- Boris (17:04) : *"je te décharge du sujet [Mohamed]"* — libération progressive
+- Anisse (28:28) : *"Alex t'avais proposé un CTO à Dubai"* — cadrage CTO Dubai sous Fabrice
+- Alec (29:57) : *"En salarié à Dubai, supervisé par le general manager qu'on aura à Dubai, qui j'espère sera Fabrice"* — réaffirmation publique du rôle GM
+
+→ **Trajectoire GM Dubai réaffirmée en séance** — Alec n'a pas remis en cause ce cap. Cohérent avec replay 27/4 + décision Marrakech mi-mai.
+
+→ **À caler avec Fabrice** : la séquence Marrakech 21-24 mai reste critique pour valider le timing GM Dubai. La famille (homeschooling fils) reste le principal facteur bloquant.
+
+### 📝 Actions Boris pour aider Fabrice cette semaine
+
+#### 🔴 Sous 24h
+1. **DM Fabrice** pour aligner sur :
+   - Co-pilotage cadrage Quentin (semaine cette semaine)
+   - Plan Thomas (Fabrice prioritaire, Boris en filet)
+   - Co-construction du livrable 48-72h Alec
+2. **Mail conjoint Fabrice + Boris à Mohamed** pour annoncer le transfert de supervision
+
+#### 🟠 Sous 7 jours
+3. **Plan Thomas livré** — Boris en revue mais pas owner
+4. **Discussion franche Quentin** (Fabrice + Boris + Quentin)
+5. **Format reporting hebdo** — Boris cadre, Fabrice valide, lancement S2
+
+#### 🟡 Sous 14 jours
+6. **Premier hebdo verticale** installé — Fabrice y figure en propriétaire de la livraison
+7. **Bilatéral Boris × Fabrice** sur la trajectoire GM Dubai (timing, conditions, scope)
+
 ## 🟢 MAJ 2026-05-04 J3 — Bilatéral préparatoire 30 min : posture restructurée, dimension politique non vue
 
 > Cf. [[Ressource - Replay Boris × Fabrice 4 mai 2026 (bilatéral préparatoire)]] pour le replay complet (34 min, 4 mai 10h01-10h35).

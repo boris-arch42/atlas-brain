@@ -15,6 +15,14 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 >
 > **Mise à jour 2026-04-23** après le cadrage avec Alec (cf. [[2026-04-23 - Cadrage pré-prise de poste - Réponses Alec (CEO)]]). Statut pré-J1 indiqué entre crochets.
 
+**Mise à jour 2026-05-05 J4 SOIR** après call verticale Ops/IT/Tech/Data/IA (cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]]) :
+- **HO34 (Abdel)** : sans changement direct — Abdel pas mentionné en séance
+- **HO39 (stack data 52K€/mois)** : **résolution amorcée** — plan structuré livré par Anisse, décisions actées (Quentin transition / Nicolas remplacé / Mohamed forfait), cible 30K€/mois à octobre 2026
+- **HO40 (sécurité IT)** : **matérialisation publique** — mandat IT permanent Boris officialisé devant Fabrice + Anisse, supervision Mohamed transférée
+- **HO34bis (latent divergence Alec/Fabrice sur Mohamed)** : **navigué proprement en séance** — Boris a tranché par compétence (cybersec) sans nommer la divergence. Alec et Fabrice ont chacun été servis. Hypothèse documentation "flagged for Boris's navigation only" honorée.
+- **HO41** (NOUVELLE) : *"Le vrai problème d'Alec n'est pas le travail mais la visibilité"* — cf. fin du fichier.
+- **HO42** (NOUVELLE) : *"Alec décide AVANT les calls structurels et utilise les calls pour caler le comment"* — cf. fin du fichier.
+
 ---
 
 ## Hypothèses sur la situation financière
@@ -576,6 +584,84 @@ _Statut au J+14 : à compléter_
 
 ## Comment je saurai que l'hypothèse est confirmée / invalidée
 
+### 🟢 HO41 — Le vrai problème d'Alec n'est pas le travail mais la visibilité (5 mai 2026)
+
+**🆕 Hypothèse nouvelle ajoutée le 5 mai 2026** après call verticale Ops/IT/Tech/Data/IA. Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]].
+
+**Hypothèse** : Alec ne se plaint pas du *travail* qui est fait par les prestataires et l'équipe — il se plaint de **l'absence de visibilité** sur ce qui est fait. Le *problème Alec* perceptible (colère, scuds, doute Fabrice) est un **symptôme** d'un sous-jacent : le manque de reporting structuré régulier vers lui.
+
+**Verbatim canonique** :
+> Alec 33:30 : *"Comment on fait pour mieux communiquer sur ces points, pour avoir de la visibilité."*
+
+> Alec 33:36 : *"Je te présente mes excuses, Fabrice, il y a plein de choses qui sont déjà faites mais que je n'ai pas connaissance et que j'ai le sentiment que ça n'avance pas."*
+
+> Alec 34:25 : *"Au moins tu vois qu'on me le dise face à face, droit dans les yeux, en transparence."*
+
+**Preuve par le contre-exemple Fabrice** : Fabrice fait factuellement le job (point hebdo Mohamed depuis 6 mois, point dev hebdo Quentin, calage Aziz×Thomas) **mais ne le fait pas remonter de manière lisible**. Résultat : Alec désigne Fabrice *"principal responsable"* dans le Slack 2 mai. **C'est l'opacité du reporting** que Alec a sanctionné, pas la qualité du travail.
+
+**Preuve par l'inversé Anisse** : Anisse a livré en séance un plan structuré chiffré (vision 1er octobre, 52K→10K). Résultat : Alec valide explicitement (*"j'apprécie ton plan, c'est cool"*). **Le travail Anisse n'était pas plus avancé que celui de Fabrice** — mais il était **lisible** et **présenté à Alec en mode visibilité**.
+
+**Implications structurelles** :
+1. **Le plus haut levier de création de valeur Boris** = installer un standard de reporting hebdo lisible vers Alec (pas faire le travail à la place de l'équipe)
+2. **Tout prestataire ou employé sans reporting structuré** entre en zone rouge à court terme — quel que soit son talent technique
+3. **Boris doit éviter à tout prix de devenir prestataire opaque** — transparence par excès sur sa propre activité
+
+**Liens directs avec autres hypothèses** :
+- **HO8** (décisions distribuées) : sans visibilité lisible, Alec ne peut pas déléguer durablement
+- **HO15** (impulsivité) : sans visibilité, Alec compense par scuds + impulsions "je reprends la main"
+- **HO29** (cycle vicieux exécution) : sans reporting, les commits oraux ne s'ancrent pas
+- **HO39** (stack data) : la stack data est l'expression la plus visible de HO41 — c'est là que le manque de visibilité est le plus crité par Alec
+- **HO40** (sécurité IT) : Mohamed remonte les vulnérabilités à Fabrice mais pas à Alec → zone rouge
+
+**Tests de confirmation** :
+- **À J+7** : Boris installe le rituel de reporting hebdo verticale (Slack ou DM Alec). Si Alec accuse réception positive, HO41 confirmée
+- **À J+30** : la fréquence des scuds Alec sur les sujets verticale a-t-elle baissé ? Si oui, HO41 ultra-confirmée
+- **À J+60** : Fabrice a-t-il intériorisé le standard de reporting ? S'il livre lui-même des hebdo Alec, HO41 résolue durablement
+- **Test contre-factuel** : si Boris arrête le reporting hebdo une semaine, observe-t-on une résurgence des scuds Alec ?
+
+_Statut au J+14 : à compléter_
+
+---
+
+### 🟡 HO42 — Alec décide AVANT les calls structurels et utilise les calls pour caler le comment (5 mai 2026)
+
+**🆕 Hypothèse nouvelle ajoutée le 5 mai 2026** après call verticale Ops/IT/Tech/Data/IA.
+
+**Hypothèse** : Alec prend les décisions structurelles **avant** les calls collectifs et utilise les calls pour **ancrer collectivement la décision et cadrer l'exécution** — pas pour valider l'intention. Cohérent avec son auto-diagnostic 23/4 *"souvent les choses sont décidées mais n'avancent pas"*.
+
+**Verbatim canonique** (sur la décision Quentin) :
+> Alec 35:32 : *"Pour moi l'intention elle est même pas à valider, moi la décision elle est déjà prise. Je l'ai déjà communiqué il y a plusieurs semaines."*
+
+**Cas concrets** :
+- **Quentin** : transition déjà décidée *"plusieurs semaines avant le call"*. Boris et Anisse découvrent la décision actée en séance.
+- **Nicolas** : action déjà prise (fiche de poste Cédric → Mithril) avant le call — Alec le mentionne incidemment 31:24.
+- **CTO Dubai salarié** : décidé (vocal 25/4) puis réaffirmé en séance.
+- **Audit IT Mohamed** : mandaté (vocal 29/4) puis officialisé publiquement.
+- **Mohamed forfait 1 500€/mois** : décidé par Alec en moins de 30 secondes en séance, mais avec une logique pré-cadrée.
+
+**Implications structurelles** :
+1. **Boris doit récupérer avant les calls les décisions déjà prises par Alec** via DM ou bilatéraux, sinon il arrive à froid sur des débats qui ne sont plus débats
+2. **Les calls structurels Alec ne sont pas des arènes de décision** — ce sont des arènes d'**ancrage et d'exécution**
+3. **Toute participation Boris à un call structurel doit être préparée par un DM Alec en amont** : *"Je voudrais m'aligner avec toi avant le call, qu'est-ce qui est déjà cadré ?"*
+
+**Liens directs avec autres hypothèses** :
+- **HO8** (décisions distribuées) : Alec court-circuite la délibération collective parce qu'il n'a pas de garde-fou pour ralentir
+- **HO15** (impulsivité) : Alec décide vite mais seul, puis impose au collectif
+- **Règle du revirement écrit (23/4)** : la réponse d'Alec *"l'observation est correct"* est un acquis qui peut être mobilisé si Alec décide en amont sans alignement Boris préalable
+
+**Implication majeure pour la posture Boris** : passer de la posture *"réagir au call"* à la posture *"préparer le call avec Alec en bilatéral"*. **DM Alec proactifs** indispensables avant chaque call structurant.
+
+**Tests de confirmation** :
+- **À J+30** : compter le nombre de décisions structurelles découvertes en séance vs anticipées par DM Alec en amont. Si Boris a anticipé ≥0% des décisions structurelles, posture acquise
+- **À J+60** : Boris a-t-il installé un rituel de DM Alec en pré-call structurel ? Si oui, HO42 résolue durablement
+- **Test contre-factuel** : si Boris arrive à un call sans DM Alec pré-call, observe-t-on un décalage entre la décision en amont et le débat en séance ?
+
+_Statut au J+14 : à compléter_
+
+---
+
+## Synthèse : Comment je saurai que l'hypothèse est confirmée / invalidée
+
 | Hypothèse | Test | Horizon |
 |---|---|---|
 | HO5 (départ Aziz) | 🟢 **MAJ 28/4** : **DÉSAMORCÉE** post 1-to-1 Boris×Aziz — alliance forte, rituel acquis, projet 2026 confirmé, pas de signal départ. Risque résiduel uniquement. | J+90 (revérifier au prochain rituel) |
@@ -607,8 +693,10 @@ _Statut au J+14 : à compléter_
 | HO35 (tech sales rattachée au marketing) | 🆕 **NOUVELLE 28/4 (Aziz)** : observer en S1-S2, ne pas toucher tant que HO32 (Cédric) n'est pas résolue | J+30 / J+90 |
 | HO37 (risque réputationnel ticketing 3 mois) | 🆕 **NOUVELLE 28/4 (Sabrina)** : observation Sabrina pilotage. Mesure du délai moyen de traitement à J+30 et J+60 | J+30 / J+60 |
 | HO38 (matrice jurisprudence financière = proxy HO8) | 🔄 **MAJ 28/4** : confirmation directe Boris↔Fabrice (cas mise en demeure 6500€). Suivre avancement Fabrice. Si pas démarré à J+21, proposer co-construction | J+21 / J+45 |
-| HO39 (stack data structurellement défaillante — 52K€/mois sans ROI) | 🔴 **NOUVELLE 1er mai** : Slack tripartite Alec officialise la crise data + mandat tripartite verticale. Plan + source unique à J+30, livraisons partielles à J+60, modèle effectif à J+90 (1er août) | J+30 / J+60 / J+90 |
-| HO40 (sécurité IT en mode catastrophe — risque existentiel sous-estimé) | 🔴 **NOUVELLE 5 mai** : Replay Mohamed identifie 6 vulnérabilités critiques (12 leaks Apollo non changés, pas de 2FA, accès ex-collab non révoqués démontré par cas Boris, APIs orphelines, comptes partagés, prélèvements SaaS continus). Confirmation = audit Mohamed + mots de passe réellement changés + 2FA activée + accès Boris révoqué à J+30 | J+7 (audits livrés) / J+30 (résolution priorité 1) / J+60 (5 piliers V1) |
+| HO39 (stack data structurellement défaillante — 52K€/mois sans ROI) | 🟢 **MAJ 5 mai SOIR** : RéSOLUTION AMORCÉE. Plan structuré livré par Anisse en séance (vision 1er octobre, 52K→30K€/mois cible Alec, 10K€ fourchette basse Anisse). Décisions actées : Quentin transition 3 mois, Nicolas remplacé via Mithril, Mohamed forfait 1 500€/mois post-4 juillet, PMO local 1 200-1 500€/mois. Livrable 48-72h à publier dans canal Slack | J+30 / J+60 / J+90 |
+| HO40 (sécurité IT en mode catastrophe — risque existentiel sous-estimé) | 🔴 **NOUVELLE 5 mai** + **MAJ 5 mai SOIR** : mandat IT permanent Boris officialisé publiquement au call verticale, supervision Mohamed transférée Fabrice→Boris (slot jeudi 17h), Mohamed sécurisé 2 mois à 4K€ + forfait 1 500€/mois post-4 juillet. Confirmation = audit Mohamed + mots de passe réellement changés + 2FA activée + accès Boris révoqué à J+30 | J+7 (audits livrés) / J+30 (résolution priorité 1) / J+60 (5 piliers V1) |
+| HO41 (vrai problème Alec = visibilité, pas travail) | 🆕 **NOUVELLE 5 mai SOIR** : Boris installe rituel reporting hebdo verticale d'ici J+7. Confirmation = Alec accuse réception positive + fréquence scuds Alec sur verticale baisse à J+30 | J+7 / J+30 / J+60 |
+| HO42 (Alec décide AVANT les calls, utilise les calls pour caler le comment) | 🆕 **NOUVELLE 5 mai SOIR** : Boris installe rituel DM Alec pré-call structurel. Confirmation = Boris anticipe ≥0% des décisions structurelles à J+30 | J+30 / J+60 |
 
 ## Revue prévue
 

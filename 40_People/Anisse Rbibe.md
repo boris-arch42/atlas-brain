@@ -13,6 +13,140 @@ tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
 
 # Anisse Rbibe
 
+## 🟢 MAJ 2026-05-05 J4 SOIR — Mandat consolidation opérationnellement validé + position non-CTO actée
+
+> Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet (46 min, 5 mai 11h33-12h19).
+>
+> **Anisse est sorti renforcé du call** : il a porté la présentation structurée que Fabrice n'a pas osé porter. Sa vision 1er octobre + projection chiffrée (52K → 10K) a satisfait Alec. Position non-CTO actée en séance par Anisse lui-même — il pilote la verticale opérationnelle, le CTO Dubai sera au-dessus.
+
+### 🟢 Anisse a porté la structure que Fabrice n'a pas portée (18:09-29:57)
+
+Dans le bilatéral 4 mai, Fabrice avait préparé une vue 3 phases (consolidation faite / dashboarding statique / couche dynamique IA). En séance, Fabrice a structuré par lignes de coût, pas par phases.
+
+**À 18:09, Anisse a partagé son écran** avec un doc préparé contenant :
+- **Vision 1er octobre** : pôle 100% offshore Maroc, scalable, piloté par standards
+- **Équipe plateforme** : 1 lead dev + 2 dévs offshore (~6K€/mois en remplacement Quentin)
+- **Data engineer mi-temps** (Maroc, monitoring + astreinte)
+- **Ops automation** : profil expérimenté Maroc en remplacement Nicolas (~moitié coût Nicolas)
+- **PMO local** (1 200-1 500€/mois, francophone, daily stand-ups)
+- **CTO senior** comme superviseur transverse
+
+Verbatim Anisse 18:44 :
+> *"D'arriver à avoir un pôle 100% offshore au Maroc, scalable et piloté par des standards."*
+
+Verbatim Anisse 19:53 :
+> *"Une équipe, un lead dev et 2 développeurs full offshore [...] Pourquoi à temps partiel ? Parce que, avec ce qu'on a déjà fait comme travail [...] maintenant pour la monitorer, c'est suffisant d'avoir quelqu'un à temps partiel."*
+
+→ **Lecture politique** : Anisse a fait ce que Fabrice **aurait dû** faire. Conséquences :
+- Alec valide explicitement le plan Anisse (verbatim 31:31 *"j'apprécie ton plan, c'est cool, ça me fait plaisir de voir qu'on passe de 52 000 par mois à 10 000"*)
+- Mandat consolidation Anisse (Slack 2 mai) **matérialisé pour la première fois publiquement**
+- Anisse devient **leader fonctionnel de la verticale opérationnelle** (lancements + IA + automations)
+
+→ **Capital opérationnel Anisse consolidé** — il a démontré capacité à structurer + chiffrer + projeter une cible.
+
+### 🟢 Position non-CTO actée par Anisse lui-même (29:02)
+
+Anisse a explicitement renoncé à la position CTO en séance :
+
+Verbatim Anisse 29:02 :
+> *"La vraie question à se poser c'est est-ce qu'à Anis vraiment c'est la bonne personne pour faire ça ? La réponse c'est non. Pas parce que je veux pas, mais parce que si on parle de réduction de coûts et on parle d'optimisation de compétences et vraiment de performance de ces gens-là, ben un CTO il est capable de dire si le dev X il lui raconte n'importe quoi ou s'il a mal fait un truc ou s'il a mal estimé le temps. Et ce CTO ça peut être le lead senior, alors qu'Anis il sera pas capable de gérer ça."*
+
+Validation Alec 29:57 :
+> *"Ouais, je suis raccord avec le fait que ce n'est pas toi la bonne personne. Le CTO ou autre personne, je l'aimerais en salarié à Dubai."*
+
+→ **Acquis structurant** :
+- **Anisse écarte lui-même** la position CTO — zero ego, zero friction
+- Position cohérente avec **vocal Alec 25/4** (*"Anisse n'a pas les compétences techniques, il a pas les compétences globales, ça l'intéresse pas"*)
+- Anisse pilote **la verticale opérationnelle** (lancements + IA + automations + dashboards)
+- CTO Dubai sera **au-dessus** d'Anisse sur la dimension technique pure
+
+→ **Hiérarchie acceptée en séance sans friction** — c'est rare et structurant.
+
+### 🟡 PMO local défendu par Anisse + Boris contre résistance Alec (37:07-40:46)
+
+Anisse a proposé un PMO local francophone (1 200-1 500€/mois) pour les daily stand-ups dévs offshore. Alec a résisté (*"ça c'est Fabrice qui devrait le faire"*).
+
+Verbatim Anisse 22:28 :
+> *"On n'a jamais eu autant besoin ici sur la partie produit et ce qu'on développe d'un PMO. Autant à l'époque quand on avait une Olivia, beaucoup de choses ont été améliorées mais on n'avait pas autant, autant, autant de choses qui sortent sur la partie tech."*
+
+Verbatim Anisse 38:33 (après pushback Alec) :
+> *"On lui met pas [à Quentin], c'est pour la transition parce que dans tous les cas lui il sort et on mettra 3 devs à la place. C'est le seul poste supplémentaire qui est indispensable, qui aujourd'hui vient patcher quelque chose qui a tellement évolué qu'on s'est pas rendu compte que ça a tellement évolué."*
+
+→ **Boris a appuyé Anisse** publiquement (verbatim Boris 37:29 *"je suis obligé d'avoir un manager local qui comprend les situations locales"*) — et le tandem Boris+Anisse a fait céder Alec.
+
+→ **Lecture politique** : Anisse + Boris se renforcent mutuellement quand ils convergent sur un sujet structurel. **À capitaliser** — dynamique constructive à cultiver dans les bilatéraux.
+
+### 🟡 Posture sur Wassim — défense non explicite
+
+Quand Alec a exprimé publiquement son doute sur Wassim (17:09 *"valider si on garde ou pas Wassim"*), Anisse **n'a pas pris position** défensive.
+
+Verbatim Anisse 28:11 (sur les profils ops Maroc) :
+> *"On peut aller chercher comme ils recrutent, Hamid ou d'autres agences au Maroc qui font de l'automatisation [...] Faut peut-être bosser des fois jusqu'à minuit et le soir sur des lancements et avoir peut-être des bonus."*
+
+→ **Anisse a implémenté le modèle offshore Maroc dans son plan global** — ce modèle pourrait s'étendre à Wassim.
+
+→ **Lecture** : Anisse n'est pas en train de saboter Wassim. Mais il **n'a pas non plus pris position publique** pour le défendre face au doute Alec. **Wassim est en zone tampon** — personne ne le pousse vers la sortie, personne ne le défend non plus.
+
+→ **À creuser en bilatéral Boris × Anisse** : trajectoire visée pour Wassim ? Scénario subsitution offshore ou conservation sur périmètre réduit ?
+
+### 🟡 Anisse a tenté de désamorcer la colère Alec en blague (44:13)
+
+Après la colère Alec sur Thomas/Nicolas (24:07-25:09), Anisse a tenté de désamorcer en clôture :
+
+Verbatim Anisse 44:13 :
+> *"Dans ton script, il faut juste changer le 10 000, mais le call a commencé comme ça. Non. Tu remplaces juste le chiffre."*
+
+Réponse Alec 44:01 :
+> *"Ça, c'était vers la fin du call et je le pense à 100 et sans vaseline, mon pote."*
+
+→ **Anisse a essayé mais Alec a doublé la posture** — la colère est venue du fond, pas un effet de manche.
+
+→ **Lecture utile** : Anisse a la confiance + l'audace pour tenter de désamorcer Alec en séance — c'est un signal de **capital relationnel solide** avec Alec. **Boris peut s'appuyer sur ce capital** quand nécessaire (Anisse comme tiers désamorceur quand Alec dérape).
+
+### 🟢 Propose une cible CTO Maroc (rejetée par Alec) — mais position structurante
+
+Verbatim Anisse 28:28 :
+> *"Le vrai point pour moi, Alex t'avais proposé un CTO à Dubai, moi ma proposition c'est d'avoir un CTO plutôt au Maroc qui supervise tout ça."*
+
+Verbatim Alec 29:57 :
+> *"Le CTO ou autre personne, je l'aimerais en salarié à Dubai, sur place avec les autres salariés et supervisé par le general manager qu'on aura à Dubai, qui j'espère sera Fabrice. Déjà un, parce que j'ai besoin de cette proximité, je veux voir le mec bosser ou pouvoir voir s'il nous *** discuter avec lui, challenger, faire des points."*
+
+→ **Anisse a proposé une alternative économique** (CTO Maroc moins cher que Dubai). Alec a refusé pour des raisons de **proximité + supervision Fabrice** — pas pour des raisons de compétence.
+
+→ **Lecture politique** : Anisse continue à challenger Alec sur les arbitrages structurels, même quand Alec décide. **Posture saine** d'équipe — propose, encaisse le "non", continue à exécuter.
+
+### 🔗 Articulation avec mandat consolidation (Slack 2 mai)
+
+Le Slack 2 mai d'Alec mandatait Anisse sur *"consolidation des ressources + structuration data / IA"*. Le call 5 mai a **matérialisé ce mandat** :
+
+| Mandat Slack 2 mai | Matérialisation 5 mai |
+|---|---|
+| Consolidation ressources | ✅ Plan structuré livré (vision 1er octobre, projection 52K→10K) |
+| Structuration data / IA | ✅ Architecture 3 équipes (plateforme + data + ops) proposée |
+| Pas de CTO Anisse | ✅ Anisse écarte lui-même la position CTO |
+| Recrutement profils Naima | ✅ Modèle offshore Maroc intégré dans le plan global |
+
+→ **Mandat consolidation officiellement opérationnel** — plus une vision, une réalité.
+
+### 📝 Actions Boris pour articuler avec Anisse cette semaine
+
+#### 🔴 Sous 24-48h
+1. **DM Anisse** pour saluer la qualité de la présentation et caler bilatéral cette semaine
+2. **Inclure Anisse dans la co-construction du livrable 48-72h Alec** — c'est lui qui a la structure la plus aboutie
+
+#### 🟠 Sous 7 jours
+3. **Bilatéral Boris × Anisse** (30 min) pour aligner sur :
+   - Co-pilotage opérationnel/structurel (Anisse opérationnel / Boris structurel et politique)
+   - Scénario Wassim (sans prendre position publique)
+   - Détail des 3 équipes (plateforme + data + ops) ciblées
+   - POC réaffectations clients (HO39 — encore en attente)
+4. **Lancement sourcing Mithril** pour les profils que Anisse a chiffrés (lead dev + 2 dévs + Ops Maroc + PMO local)
+5. **Articulation manager direct Abdel** — confirmer hypothèse (a) Anisse manager officiel
+
+#### 🟡 Sous 14 jours
+6. **Spec détaillée couche dynamique IA** (phase 3 plan verticale) — ce qui doit être construit
+7. **Premier hebdo verticale** — Anisse y figure comme owner phase 3 (couche dynamique IA + automation)
+
 ## 🔴 MAJ 2026-05-01 J0 PM — Replay Alec×Abdel récupéré : pilier de désamorçage confirmé + hypothèse (a) manager confirmée par les faits
 
 > Cf. [[Ressource - Replay Alec × Abdel 30 avril 2026]] pour le replay complet (28 min, 30/4 soir).
