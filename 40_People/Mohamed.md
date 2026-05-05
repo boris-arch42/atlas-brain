@@ -19,6 +19,113 @@ tags: [it, cybersec, infrastructure, presta-externe, departure-acted, fin-mai-20
 >
 > 🔑 **Codename Alec** : dans le jargon Alec, *"Haïti"* = IT. Donc *"audit Haïti"* = audit IT, *"Mohamed Haïti"* = Mohamed-IT (sa fonction). Pas une référence géographique. Cf. [[Alec Henry]] glossaire jargon.
 
+## 🟢 MAJ 2026-05-05 J4 — Audit IT démarré : 6 vulnérabilités critiques + plan transmission cadré
+
+> Cf. [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]] pour le replay complet (31 min, 5 mai 10h34-11h05).
+>
+> **Premier point Boris↔Mohamed depuis le mandat 29/4**. Ce qui devait être un kick-off d'audit SaaS s'est révélé être un **diagnostic cybersécurité d'urgence**.
+
+### 🟢 Mohamed beaucoup plus mature et lucide que prévu
+
+Le replay révèle un acteur **lucide, structuré, en attente d'un interlocuteur sérieux** — vs la lecture initiale ("pirate" Alec / Mohamed pas 100% confiance) qui suggérait un acteur opportuniste.
+
+Verbatim clôture Mohamed 18:47 :
+> *"Parfait, c'est magnifique. C'est ce que j'attendais, c'était de l'action."*
+
+→ **Capital relationnel acquis dès ce 1er point**. Mohamed va utiliser Boris comme levier de déblocage sur les 27 jours qui restent.
+
+→ **Implication** : la lecture Alec ("pirate") n'invalide pas la collaboration, mais **doit être tempérée par la réalité opérationnelle observée**. Mohamed fait son boulot consciencieusement et **bute sur des blocages structurels** (direction qui ne va pas dans la même direction sur la sécurité).
+
+### 🟢 Audit SaaS partiel déjà livré — mais non remonté à Alec
+
+Verbatim Mohamed 01:23 :
+> *"Fabrice, qui m'avait demandé l'audit de tous les SaaS il y a 2 semaines [...] j'ai sorti déjà sur Slack, j'ai sorti une audit complète de qui utilise, combien de jours c'est ouvert, combien de jours il a utilisé, combien de messages il a envoyé, combien de messages il a reçu."*
+
+→ L'audit Slack existe depuis ~2 semaines. **Non synthétisé, non remonté à Alec**. Boris doit le récupérer + faire monter politiquement.
+
+→ Mohamed manque les accès aux outils non-Slack pour compléter (chasse les infos auprès de Cédric, Océane).
+
+### 🔴 6 vulnérabilités cybersécurité critiques identifiées
+
+C'est le vrai contenu du replay — le sujet IT n'est **pas qu'un problème de coût** (70-100K€/an), c'est un **risque opérationnel grave + existentiel**.
+
+| # | Vulnérabilité | Statut |
+|---|---|---|
+| 1 | **Pas de 2FA** sur les comptes critiques — Mohamed a essayé de l'activer, on lui a demandé de la désactiver | 🔴 Critique |
+| 2 | **Boîtes mail critiques partagées** entre 4-5 personnes (Revenu, Drive, etc.) | 🔴 Critique |
+| 3 | **12 leaks de mots de passe** sur le domaine entrepreneurs.com (récents 2026) probablement non changés | 🔴 Critique |
+| 4 | **Accès non révoqués ex-collaborateurs** — cas démontré par Boris : il accède encore à alec@entrepreneurs.com 18 mois après son départ | 🔴 Critique |
+| 5 | **APIs orphelines** d'ex-collaborateurs jamais désactivées | 🔴 Critique |
+| 6 | **Prélèvements SaaS continus** sur outils désactivés depuis 2024 (ex. ScoreUp) | 🟠 Élevé |
+
+→ **Détail complet** dans [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]] section "6 vulnérabilités critiques".
+
+### 🟠 Pattern de gouvernance IT défaillante (au-delà du sujet IT)
+
+Verbatim Mohamed 12:51 (pivot critique) :
+> *"Pour que ça marche, il faut que le socle, tu vois, la direction, elle va dans la même direction. Parce que si on a des failles, ça lui dit A, l'autre il dit B, l'autre il dit C, l'audit ça va jamais marcher."*
+
+→ **Même diagnostic qu'Alec** dans son Slack tripartite (1er mai) : décisions distribuées qui ne convergent pas. Mohamed est victime du même système que la verticale Data/IA/Tech/Ops doit résoudre.
+
+→ Verbatim Mohamed 06:00 (sur Keeper) : *"On a mis en place Keeper. Je me bats à chaque fois, je me bats à chaque fois."*
+
+### 🎯 Distribution des rôles posée en séance
+
+Verbatim Boris 11:07 :
+> *"Moi, comme ça, on collabore ensemble là-dessus pour que moi je fasse la partie, on va dire, politique, pour m'assurer que tu es bien tout ce qu'il te faut, les accès, les machins, les trucs."*
+
+Verbatim Boris 11:52 :
+> *"Et toi, tu peux gérer la partie sécurité, accès, machin, ce qui fait ta force et ta spécialité aujourd'hui."*
+
+Validation Mohamed 11:58 : *"Ouais, c'est parfait."*
+
+→ **Distribution acquise sans friction** : Boris = orchestration politique + déblocage / Mohamed = expertise technique + livraison.
+
+→ Mohamed accepte que Boris devienne owner permanent post-31 mai sans perdre la main sur les 27 jours qui restent.
+
+### 📦 Plan de transmission Mohamed → Boris (4 semaines)
+
+Mohamed va envoyer (à archiver dans `15_Resources/IT-Audit-Mohamed/`) :
+
+| Document | Délai | Action |
+|---|---|---|
+| Audit SaaS partiel (sur Slack) | Aujourd'hui ou demain | À demander explicitement |
+| Audit sécurité fait à l'arrivée Boris | Aujourd'hui ou demain | À demander explicitement |
+| Plan d'action sécurité avec deadlines | Quelques jours | 🟢 Demande Boris explicite — base de travail |
+| Doc onboarding/offboarding scripting Google | Aujourd'hui ou demain | À demander explicitement |
+| Cartographie SaaS complète (post-déblocage Cédric/Océane) | 2-3 semaines | En cours |
+
+→ **Cadence proposée** : point hebdo Boris↔Mohamed sur les 4 semaines (5/5 → 31/5) — 30 min/semaine.
+
+### 🟡 Bonus : infos nouvelles tirées du replay
+
+**Wassim plus impliqué que prévu sur les sujets transverses** — verbatim Mohamed 16:38 : *"J'ai bossé avec Wassim sur toute la partie onboarding [...] scripting pour Google [...] N8N qui fonctionne aujourd'hui."*
+
+→ Cohabitation Mohamed-Wassim observée. Wassim porte plus que de l'IA pure. Cf. [[Wassim]] pour MAJ.
+
+**Audit APIs en cours côté Wassim** — demandé par Mohamed, en cours.
+
+**Campagne phishing interne proposée à Fabrice** — refusée/ignorée — Boris a validé en séance (incarne le mandat de challenge constructif).
+
+**Convention nommage adresses mail non posée** — verbatim Mohamed 13:04 sur les prénoms vs prenom.nom — à intégrer dans le plan.
+
+### 🎯 Actions Boris cette semaine (5-9 mai)
+
+1. **Récupérer les 4 documents** que Mohamed va envoyer (audit SaaS partiel + audit sécurité + plan d'action + doc onboarding)
+2. **Pinger Cédric et Océane** pour qu'ils donnent à Mohamed la liste exhaustive des SaaS qu'ils gèrent + accès admin
+3. **Caler point hebdo Boris↔Mohamed** (30 min/semaine jusqu'au 31 mai)
+4. **Valider la campagne phishing interne** que Mohamed avait proposée à Fabrice (après avoir l'audit sécurité)
+5. **Remonter à Alec en 1 message** la dimension sécurité critique du sujet IT (pas juste coût)
+
+### ⚠️ Implication critique : transmission de connaissance prioritaire
+
+Le sujet IT n'est **pas qu'un audit ponctuel** — c'est une **passation d'expertise sur 4 semaines**. Si Boris ne capte pas la matière avant le 31 mai :
+- Le savoir-faire technique disparaît (Mohamed est le seul à comprendre la cartographie SaaS actuelle)
+- Les 6 vulnérabilités identifiées restent ouvertes
+- Boris hérite du sujet sans matière
+
+→ **Mohamed lui-même a verbalisé ce risque** — verbatim 03:10 : *"Souvent chez Entrepreneurs, les gens arrivent, font des trucs, ils partent, ils documentent rien."* (le pattern qu'il faut casser pour Mohamed).
+
 ## ⚡ Synthèse en 30 secondes
 
 - **Profil** : IT externe / sécurité & infrastructure d'Entrepreneurs.com depuis avant 2024

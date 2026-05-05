@@ -38,6 +38,18 @@ related-resources: "[[Ressource - Slack Alec - Cadrage call Ops IT Tech Data IA 
 4. **Aucune mention RGPD / data sensibles** — angle aveugle Fabrice si Anisse aborde le sujet
 5. **Sujet Wassim** — Fabrice en mode "j'attends", scepticisme sur le mandat IA d'Anisse
 
+### 🆕 Angle IT prêt à mobiliser si Alec demande (post-replay Mohamed 5 mai matin)
+
+Boris a eu un point Mohamed ce matin (10h34-11h05). Cf. [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]].
+
+**Si Alec ou Fabrice évoque l'IT/SaaS en séance**, Boris peut répondre en 30 secondes max :
+
+> *"J'ai eu un point avec Mohamed ce matin. L'audit SaaS partiel est déjà fait depuis 2 semaines (livré à Fabrice sur Slack). Au-delà du sujet coût (70-100K€/an), il a identifié 6 vulnérabilités sécuritaires critiques — leaks de mots de passe Apollo récents non changés, pas de 2FA, accès non révoqués sur ex-collaborateurs (cas vérifié par moi-même), APIs orphelines, prélèvements continus sur SaaS désactivés. Mohamed me livre un plan d'action sous quelques jours. Je porte la coordination politique pour qu'il ait les accès et arbitrages dont il a besoin. Échéance : tout consolidé avant son départ le 31 mai."*
+
+→ **Cet angle est factuel, structurant, justifie le mandat IT permanent Boris**, et c'est un signal positif pour Fabrice (Mohamed a bossé) + un signal d'alerte pour Alec (situation grave).
+
+→ **Mais à mentionner en 30 secondes max** demain. Pas le sujet principal du call. Si Alec rebondit avec intérêt, Boris décale : *"Je te fais un point dédié sécurité sur la semaine 12-16 mai si nécessaire."*
+
 ---
 
 ## 📦 Action critique ce soir (avant la séance demain)

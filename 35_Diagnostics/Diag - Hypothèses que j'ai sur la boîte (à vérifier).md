@@ -530,6 +530,50 @@ _Statut au J+14 : à compléter_
 
 ---
 
+### 🔴 HO40 — La sécurité IT d'Entrepreneurs.com est en mode catastrophe (risque existentiel sous-estimé)
+
+**🆕 Hypothèse nouvelle ajoutée le 5 mai 2026** après replay Mohamed×Boris du même jour (cf. [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]]).
+
+**Hypothèse** : la sécurité IT d'Entrepreneurs.com présente des vulnérabilités critiques structurelles qui exposent la boîte à un **risque existentiel** sous-estimé. Le sujet IT n'est pas qu'un problème de coût (70-100K€/an d'économies SaaS) — c'est un sujet de **risque opérationnel grave**.
+
+**Diagnostic en 6 points** (issus du replay Mohamed 5 mai) :
+1. **Pas de 2FA** sur les comptes critiques — Mohamed a essayé de l'activer, on lui a demandé de la désactiver
+2. **Boîtes mail critiques partagées** entre 4-5 personnes (Revenu, Drive)
+3. **12 leaks de mots de passe** sur le domaine entrepreneurs.com (récents 2026, brèche Apollo 2024) — probablement non changés
+4. **Accès non révoqués ex-collaborateurs** — cas démontré par Boris : il accède encore à alec@entrepreneurs.com 18 mois après son départ initial
+5. **APIs orphelines** d'ex-collaborateurs jamais désactivées (audit en cours côté Wassim)
+6. **Prélèvements SaaS continus** sur outils désactivés depuis 2024 (ex. ScoreUp)
+
+**Pourquoi c'est sous-estimé** :
+- Mohamed a remonté plusieurs fois ces sujets à Fabrice et Alec, sans traction (Keeper a été mis en place mais 2FA Google désactivée à la demande)
+- L'audit SaaS partiel existe depuis 2 semaines (sur Slack) **non synthétisé, non remonté à Alec**
+- Campagne phishing interne proposée à Fabrice par Mohamed — refusée/ignorée
+- Pattern de gouvernance : *"ça lui dit A, l'autre il dit B, l'autre il dit C, l'audit ça va jamais marcher"* (verbatim Mohamed) = **même diagnostic qu'HO29 (cycle vicieux d'exécution)** appliqué à l'IT
+
+**Pourquoi c'est existentiel** :
+- Fuite de données clients possible (transcripts coaching, sales, données financières)
+- Vol propriété intellectuelle (assets marketing, scripts, base de leads)
+- Risque insider (cas Boris démontré — ex-collaborateur fâché = accès 18 mois après)
+- Risque conformité RGPD (relayer la spec IA Marketing Anisse + Deepseek V4 chinois)
+- Risque facturation invisible (APIs orphelines + SaaS désactivés)
+
+**Tests de confirmation / invalidation** :
+- Mohamed livre l'audit complet d'ici fin de semaine (5-9 mai) → confirmation
+- Mots de passe Apollo réellement changés d'ici J+15 → confirmation résolution
+- 2FA activée systématiquement d'ici J+30 → confirmation résolution priorité 1
+- Accès Boris ex-collaborateur révoqué d'ici J+15 → confirmation résolution systémique
+- Si Mohamed ne livre pas → hypothèse reste mais Boris doit absorber l'audit lui-même avant 31 mai
+
+**Action** :
+- **Cf. [[Cadre - Process IT-SaaS-Cybersec]]** pour le cadre de structuration en 5 piliers
+- **Cf. [[IT-Audit-Mohamed]]** pour le dossier de transmission Mohamed → Boris
+- **Remontée à Alec** : 1 message dédié cette semaine cadrant le sujet IT comme "coût **+** risque", pas juste coût
+- **Articulation verticale Data/IA/Tech/Ops** : la sécurité IT est transverse aux 3 phases Fabrice (consolidation / dashboarding / IA dynamique)
+
+_Statut au J+14 : à compléter_
+
+---
+
 ## Comment je saurai que l'hypothèse est confirmée / invalidée
 
 | Hypothèse | Test | Horizon |
@@ -564,6 +608,7 @@ _Statut au J+14 : à compléter_
 | HO37 (risque réputationnel ticketing 3 mois) | 🆕 **NOUVELLE 28/4 (Sabrina)** : observation Sabrina pilotage. Mesure du délai moyen de traitement à J+30 et J+60 | J+30 / J+60 |
 | HO38 (matrice jurisprudence financière = proxy HO8) | 🔄 **MAJ 28/4** : confirmation directe Boris↔Fabrice (cas mise en demeure 6500€). Suivre avancement Fabrice. Si pas démarré à J+21, proposer co-construction | J+21 / J+45 |
 | HO39 (stack data structurellement défaillante — 52K€/mois sans ROI) | 🔴 **NOUVELLE 1er mai** : Slack tripartite Alec officialise la crise data + mandat tripartite verticale. Plan + source unique à J+30, livraisons partielles à J+60, modèle effectif à J+90 (1er août) | J+30 / J+60 / J+90 |
+| HO40 (sécurité IT en mode catastrophe — risque existentiel sous-estimé) | 🔴 **NOUVELLE 5 mai** : Replay Mohamed identifie 6 vulnérabilités critiques (12 leaks Apollo non changés, pas de 2FA, accès ex-collab non révoqués démontré par cas Boris, APIs orphelines, comptes partagés, prélèvements SaaS continus). Confirmation = audit Mohamed + mots de passe réellement changés + 2FA activée + accès Boris révoqué à J+30 | J+7 (audits livrés) / J+30 (résolution priorité 1) / J+60 (5 piliers V1) |
 
 ## Revue prévue
 
