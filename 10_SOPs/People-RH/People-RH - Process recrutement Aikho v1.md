@@ -2,11 +2,12 @@
 type: sop
 domain: People-RH
 owner: "[[Boris Arduy]]"
-status: draft
+status: active
 last-reviewed: 2026-05-06
 frequency: par-recrutement
 related-decisions:
   - "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
+linked-retro: "[[2026-05-06 - Retro Call Heads Process recrutement Aikho]]"
 tags: [recrutement, hiring, aikho, process, heads, entrepreneurs-com]
 source: entrepreneurs-com
 sensitivity: internal
@@ -87,6 +88,33 @@ Ce process consolide **tout le cycle dans Aikho** et **rend la fiche de poste au
 - **Validation traitée comme une formalité** → Boris doit *vraiment* lire et challenger. Si la fiche passe en automatique, le process devient théâtral.
 - **Sourcing qui démarre avant validation** → coûte des candidats grillés sur une fiche qui change. Pas de publication tant que J+2 n'est pas validé.
 - **Aikho utilisé comme un wizard sans réflexion** → l'IA produit ce qu'on lui donne. Si l'input du head est pauvre, l'output sera pauvre. Le business case en étape 1 n'est pas optionnel.
+- **Course à la complétude 100%** → à partir de 40% la fiche est déjà très exploitable. Au-delà de 80%, les filtres deviennent contre-productifs (peu de candidats, top 0,01% inaccessible). Sweet spot : 50-70%.
+
+## Exercices techniques (étape 5 enrichie)
+
+Pour les recrutements nécessitant un test pratique (intervient après l'interview IA, sur le top 3% des candidats) :
+
+1. **Pré-requis** : exercice standardisé par type de poste (expert, coach, intégrateur, sales, SDR, CM, etc.) — réutilisable
+2. **Envoi** : via la fonction email d'Aikho avec Loom d'instructions du head + lien vers formulaire de retour
+3. **Analyse** : automation IA (Claude ou équivalent) qui scoree le retour
+4. **Intégration** : score remonté dans les notes du candidat dans Aikho → corrélation avec score interview
+5. **Décision** : entretien final humain sur la base interview + exercice + culture fit
+
+**Règle d'or** : standardiser à 100% pour les recrutements récurrents. L'intervention humaine ne doit se concentrer que sur le top 3%.
+
+## Cas particuliers et gouvernance
+
+### Heads absents lors d'un onboarding outil ou d'une mise à jour de process
+Visionnage du replay obligatoire dans les 48h + 1-1 court avec Boris pour valider la compréhension et récupérer leurs engagements (mêmes deadlines que les présents). Pas de tolérance prolongée — risque de créer un système à deux vitesses.
+
+### Aikho source unique de vérité
+Mandaté explicitement par Alec le 6 mai 2026 : *"100% de tous les entretiens, de tous les recrutements, de toutes les fiches de poste à partir du 7 mai 2026 doivent passer via ce process et via cette plateforme."* Pas de fiche publiée ailleurs, pas de pipeline tracké hors Aikho, pas de double saisie.
+
+### Branding asset central
+Les formulations de mise en avant entrepreneurs.com (valeurs, culture, what you get) sont configurées dans le cerveau central d'Aikho par Boris. Les heads héritent automatiquement de ces éléments quand ils créent une fiche — ils n'ont pas à les ré-écrire et ne doivent pas les contredire dans leurs propres formulations.
+
+### Calibrage avec profils internes performants (à tester)
+Idée issue du call (Sabrina) : faire passer un CV de collaborateur historiquement performant dans Aikho pour mesurer son score sur la fiche cible → sert soit à valider la fiche, soit à révéler des skills implicites à ajouter. À instruire dès les premiers recrutements post-7 mai.
 
 ## Ressources liées
 
@@ -101,3 +129,5 @@ Ce process consolide **tout le cycle dans Aikho** et **rend la fiche de poste au
 ## Historique
 
 - 2026-05-06 — Création v1, présentation aux heads en call de 1h ([[2026-05-06 - Call Heads — Process recrutement Aikho]])
+- 2026-05-06 — Passé en `active` après call. Ajouts post-call : section Exercices techniques, section Cas particuliers et gouvernance, piège "course à la complétude" ([[2026-05-06 - Retro Call Heads Process recrutement Aikho]])
+- Prochaine révision prévue : 20 mai 2026 (après retours Loom des heads et point Marrakech)

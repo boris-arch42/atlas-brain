@@ -5,8 +5,9 @@ duration: 60min
 audience: Heads Entrepreneurs.com
 driver: "[[Boris Arduy]]"
 linked-sop: "[[People-RH - Process recrutement Aikho v1]]"
+linked-retro: "[[2026-05-06 - Retro Call Heads Process recrutement Aikho]]"
 tags: [call-prep, recrutement, aikho, heads, entrepreneurs-com]
-status: ready
+status: completed
 ---
 
 # Call Heads — Process recrutement Aikho
@@ -171,16 +172,31 @@ _« Vous repartez avec votre accès, deux choses à m'envoyer cette semaine, et 
 - Décision liée : [[2026-04-30 - Operating Partner chez Entrepreneurs.com]]
 - Diagramme : `process_recrutement_aikho_5_etapes` (à exporter pour la slide)
 
-## Post-call (à compléter après)
+## Post-call (complété le 2026-05-06)
+
+→ Rétro complète : [[2026-05-06 - Retro Call Heads Process recrutement Aikho]]
 
 ### Décisions actées
--
+- Aikho = outil unique de recrutement à partir du 7 mai 2026 (mandaté par Alec en live)
+- Welcome to the Jungle arrêté (mai/juin) → bascule LinkedIn + page dédiée entrepreneurs.com/recrutement
+- Démarrage push annonces vendredi 8 mai pour tous les heads
+- Point de contrôle au retour Marrakech (20 mai)
 
 ### Heads présents
--
+Alec, Fabrice, Sabrina, Océane, Anis, Boris
+
+### Heads absents (à ne pas négliger)
+Aziz et Claire — visionnage replay obligatoire + 1-1 de validation
 
 ### Engagements pris
--
+- Tous : accès actif + fiches en brouillon d'ici vendredi
+- Tous : audio 15 sec (J+5) + listing recrutements 6 mois (J+7)
+- Tous : Loom retour 5-15 min d'ici 13-14 mai
+- Boris : upgrade licences Aikho d'ici vendredi + récap aux heads sous 24h
 
 ### Retours à intégrer dans v2 du SOP
--
+- Section Exercices techniques (workflow Aikho → Loom → formulaire → analyse IA)
+- Renforcer "Aikho source unique"
+- Process heads absents lors d'onboarding outil
+- Asset branding central pour mise en avant entrepreneurs.com
+- À tester : calibrage Aikho via profils internes performants (idée Sabrina)
