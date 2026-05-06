@@ -27,14 +27,14 @@ Tous les heads d'Entrepreneurs.com (à confirmer la liste exacte avec [[Alec Hen
 
 ## Agenda (60 min)
 
-| Timing | Bloc | Objectif |
-|---|---|---|
-| 00–05 | Contexte & pourquoi on change | Aligner sur les pain points actuels |
-| 05–15 | Nouveau process — vue d'ensemble | Vendre la logique des 5 étapes |
-| 15–35 | **Démo Aikho live** | Montrer que c'est faisable en 10 min |
-| 35–43 | Gouvernance, SLA, règles d'usage Aikho | Cadrer les règles du jeu |
-| 43–55 | **Q&A élargi** | Laisser les heads challenger le process et le SOP partagé |
-| 55–60 | **Accès Aikho + demandes aux heads** | Clore avec accès actif + 2 actions concrètes |
+| Timing | Bloc                                   | Objectif                                                  |
+| ------ | -------------------------------------- | --------------------------------------------------------- |
+| 00–05  | Contexte & pourquoi on change          | Aligner sur les pain points actuels                       |
+| 05–15  | Nouveau process — vue d'ensemble       | Vendre la logique des 5 étapes                            |
+| 15–35  | **Démo Aikho live**                    | Montrer que c'est faisable en 10 min                      |
+| 35–43  | Gouvernance, SLA, règles d'usage Aikho | Cadrer les règles du jeu                                  |
+| 43–55  | **Q&A élargi**                         | Laisser les heads challenger le process et le SOP partagé |
+| 55–60  | **Accès Aikho + demandes aux heads**   | Clore avec accès actif + 2 actions concrètes              |
 
 ## Le process en 5 étapes (rappel pour la slide)
 
@@ -136,10 +136,10 @@ _« Vous repartez avec votre accès, deux choses à m'envoyer cette semaine, et 
 
 ## Checklist avant le call
 
-- [ ] **SOP provisoire (`People-RH - Process recrutement Aikho v1`) envoyé aux heads en amont** — pour qu'ils arrivent au call avec leurs questions / objections déjà formées
-- [ ] Comptes Aikho prêts à être activés en fin de call (1 par head)
-- [ ] **Une fiche de poste déjà générée par moi** comme « before/after » comparatif
-- [ ] Un rôle réel d'un head pour la démo live (à demander 1h avant)
+- [x] **SOP provisoire (`People-RH - Process recrutement Aikho v1`) envoyé aux heads en amont** — pour qu'ils arrivent au call avec leurs questions / objections déjà formées
+- [x] Comptes Aikho prêts à être activés en fin de call (1 par head)
+- [x] **Une fiche de poste déjà générée par moi** comme « before/after » comparatif
+- [x] Un rôle réel d'un head pour la démo live (à demander 1h avant)
 - [ ] Slide ou schéma simple du flow Aikho de bout en bout (cf. `process_recrutement_aikho_5_etapes`)
 - [ ] SLA imprimés ou affichés pendant le call
 - [ ] Template `Business-Case-Recrutement.md` partagé en amont aux heads
