@@ -4,7 +4,7 @@ status: active
 phase: cadrage-technique-et-partenariats
 owner: "[[Boris Arduy]]"
 created: 2026-05-07
-last-updated: 2026-05-07
+last-updated: 2026-05-09
 deadline-go-live: 2026-05-17
 event-dates: "17 mai (3 days + jour bonus + 2 jours plus tard, ~8 jours d'absorption des calls)"
 event-location: Marrakech (Alec présent du 15 au 24 mai)
@@ -54,7 +54,9 @@ Décision business : **externaliser le traitement de ces ~20 000 prospects** ver
 ## Documents du projet
 
 ### Cadrage technique
-- [[Architecture - Funnel parallèle closers externes]] — architecture technique complète + plan de déploiement (à mettre à jour avec Short.io)
+- [[Architecture - Funnel parallèle closers externes]] — architecture technique complète + plan de déploiement
+- [[Infrastructure - Setup en cours]] — log de setup avec statuts à jour, décisions prises, IDs critiques
+- [[Scenario A2 - iClosed vers Zoho]] — spec complète du scenario Make A2 (production-ready depuis le 9 mai)
 
 ### Partenariats
 - [[Partenaires - Vue d'ensemble 3 agences]] — vue agrégée + comparatifs + écart commission
@@ -213,3 +215,7 @@ Décision business : **externaliser le traitement de ces ~20 000 prospects** ver
 - 2026-05-07 — Call de cadrage Alec/Aziz/Lucas/Hélène (Momentum), GO partenariat Momentum confirmé
 - 2026-05-07 — Création de la fiche Momentum, mise à jour vue d'ensemble avec comparatif et écart commission documenté confidentiellement, archivage transcript Momentum
 - 2026-05-07 — Mise à jour de l'index avec volume confirmé 2500-3000 calls, 40 closers, coaching mardi 11h, Hélène comme contact technique
+- 2026-05-08 — Setup Zoho CRM (Profiles, Roles, Data Sharing) + Short.io Splitter 25/50/25 + Google Sheet de tracking. [[Infrastructure - Setup en cours]] créé.
+- 2026-05-09 — Build du scenario Make A2 (booking iClosed → Zoho) en pair-programming. 11 modules en prod, owner dynamique, dédup. Cf. [[Scenario A2 - iClosed vers Zoho]].
+- 2026-05-09 — Setup iClosed events (3) + ClickFunnels embed + branchement Short.io vers les pages CF définitives (remplaçant les httpbin.org temporaires). UTMs validés end-to-end.
+- 2026-05-09 — Renommage `Axel` → `Next Sales` partout (slug iClosed `kelly-nextsales`, page CF `closer-equipe-no-activity-next-sales`, UTM `nextsales`). Axel reste le nom du closer/contact, Next Sales est le nom commercial de son agence.

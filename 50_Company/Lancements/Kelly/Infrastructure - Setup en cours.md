@@ -3,7 +3,7 @@ type: technical-setup-log
 project: "[[_Index|Lancement Kelly]]"
 owner: "[[Boris Arduy]]"
 created: 2026-05-08
-last-updated: 2026-05-08
+last-updated: 2026-05-09
 status: en-cours
 tags: [lancement, kelly, infrastructure, technical-setup, zoho, short-io, tally, make]
 sensitivity: confidential
@@ -13,24 +13,34 @@ sensitivity: confidential
 
 > Document de suivi du build de l'infrastructure technique du funnel parallèle Kelly. Mise à jour au fur et à mesure de la construction des briques.
 
-## État global au 8 mai 2026
+## État global au 9 mai 2026
 
 | Brique | Statut | Notes |
 |---|---|---|
-| Tally → Google Sheets (Make) | ✅ Fonctionnel | Scenario Make en place, données stockées dans Sheet de tracking |
-| Google Sheet de tracking | ✅ Créé | ID : `1XTVJvuabrKtScKaLNFl9bBo3n-75Gz7O2C3WyU0H0aI` |
+| Tally → Google Sheets (Make A1) | ✅ Fonctionnel | Scenario Make en place, données stockées dans Sheet de tracking |
+| Google Sheet de tracking | ✅ Créé | ID : `1XTVJvuabrKtScKaLNFl9bBo3n-75Gz7O2C3WyU0H0aI` — onglet `Kelly Bookings` ajouté le 9 mai |
 | Zoho CRM — compte | ✅ Créé | Plan Professional Trial 30 jours, expire ~7 juin 2026 |
 | Zoho CRM — Profiles (4) | ✅ Créés | Administrator, Manager, Team Leader, Sales External |
 | Zoho CRM — Roles (7) | ✅ Créés | Hiérarchie 4 niveaux, étanchéité par agence |
 | Zoho CRM — Data Sharing | ✅ Configuré | Tous modules critiques en mode Privé |
-| Zoho CRM — Custom fields | 🟡 En attente | Bloqué tant que pas d'accès admin HubSpot |
-| Zoho CRM — Pipeline Deal | 🟡 En attente | Idem, à reproduire à l'identique de HubSpot |
+| Zoho CRM — Custom fields Contacts | ✅ Créés (9 mai) | Email_Domain, LinkedIn_URL, Agence_Assignee |
+| Zoho CRM — Custom fields Accounts | ✅ Créés (9 mai) | Plage_revenus, Secteur_activite, Problematiques (multi), Accompagnement_existant, LinkedIn_entreprise |
+| Zoho CRM — Custom fields Deals | ✅ Créés (9 mai) | Agence_Assignee, Origine_du_lead, Format, Code_Produit, Modalites_paiement, Duree_prestation, Nb_mensualites, Date_demarrage, Statut_contrat, Etat_paiements |
+| Zoho CRM — Pipeline Deal | ✅ Créé (9 mai) | `Kelly Launch — Agences Externes` avec 6 stages : Appel Réservé → R1 → R2 → R3 → Engagé → Fermé Gagné |
+| Zoho CRM — User boris@ | ✅ Créé (9 mai) | 2e user Pro, User ID `983392000000615324`, distinct de l'admin `drive@entrepreneurs.com` |
 | Short.io — compte | ✅ Créé | Plan Free, domaine `kelly-ec.short.gy` |
 | Short.io — Splitter | ✅ Créé et testé | Lien `kelly-ec.short.gy/kelly-route`, routing 25/50/25 |
-| Short.io — Forward parameters | ✅ Validé | Fonctionne par défaut, pas d'activation manuelle nécessaire |
-| iCloseit — calendriers (3) | 🔴 À faire | Chantier suivant |
-| Make scenario A2 (booking → Zoho) | 🔴 À faire | Dépend de iCloseit + Zoho custom fields |
-| Make scenario A5 (Zoho → HubSpot) | 🔴 À faire | Dépend de HubSpot |
+| Short.io — URLs cibles définitives | ✅ Mises à jour (9 mai) | Pointent vers les 3 pages ClickFunnels avec embed iClosed (cf. ci-dessous) |
+| Short.io — Forward parameters | ✅ Validé | UTMs préservés end-to-end (Tally → Short.io → CF → iClosed → Zoho) |
+| iClosed — events Kelly (3) | ✅ Créés (9 mai) | `kelly-tiptalent`, `kelly-momentum`, `kelly-nextsales` (NB: Axel renommé Next Sales) |
+| iClosed — embed sur ClickFunnels | ✅ Live | 3 pages CF entrepreneurs.com avec embed iClosed correspondant |
+| **Make scenario A2 (booking → Zoho)** | ✅ **Production-ready (9 mai)** | Cf. [[Scenario A2 - iClosed vers Zoho]] — 11 modules, dédup, owner dynamique |
+| Make scenario A2bis (cancellations) | 🔴 À faire | Roadmap V2 |
+| Make scenario A2ter (reschedule) | 🔴 À faire | Roadmap V2 |
+| Make scenario A3 (notif Slack closer) | 🔴 À faire | Dépend des canaux Slack par agence |
+| Make scenario A5 (Zoho → HubSpot) | 🔴 À faire | Dépend de l'audit HubSpot et de l'intégration DocuSign |
+| Brief Tally au créateur | ⏳ En attente | Diagramme prêt + URL `kelly-route` ; manque les 3 URLs Calendly (Incubateur / Accélérateur / Scaling) |
+| Stratégie users Zoho closers externes | ⏳ Décision à prendre | Licences Pro 30€/user/mois vs Portal Users vs autre |
 | Adresses mail dédiées (~70) | 🔴 À faire | Sujet IT, à cadrer cette semaine |
 
 ## Détail Zoho CRM
@@ -101,13 +111,15 @@ Entrepreneurs.com
   - Variante 1 (Momentum) : 50%
   - Variante 2 (Axel) : 25%
 
-### URLs cibles actuelles (temporaires pour tests)
+### URLs cibles actuelles (live au 9 mai 2026)
 
-| Destination | URL temporaire | URL définitive prévue |
-|---|---|---|
-| Tip Talent | `https://httpbin.org/get?destination=tiptalent` | URL iCloseit Tip Talent (à créer) |
-| Momentum | `https://httpbin.org/get?destination=momentum` | URL iCloseit Momentum (à créer) |
-| Axel | `https://httpbin.org/get?destination=axel` | URL iCloseit Axel (à créer) |
+| Destination | URL Short.io variant | URL ClickFunnels cible | Event iClosed embarqué |
+|---|---|---|---|
+| Tip Talent (25%) | Page d'origine | `https://www.entrepreneurs.com/closer-equipe-no-activity-tiptalent` | `kelly-tiptalent` |
+| Momentum (50%) | Variante 1 | `https://www.entrepreneurs.com/closer-equipe-no-activity-momentum` | `kelly-momentum` |
+| Next Sales (25%) | Variante 2 | `https://www.entrepreneurs.com/closer-equipe-no-activity-next-sales` | `kelly-nextsales` |
+
+**UTMs propagés** : `utm_source=tally`, `utm_medium=routing`, `utm_campaign=kelly_launch`, `utm_content={agence}`. Validés end-to-end Tally → Short.io → CF → iClosed → fiche contact iClosed (capture des UTMs sur les 7 contacts test du 9 mai).
 
 ### Tests effectués
 
@@ -135,28 +147,40 @@ Entrepreneurs.com
 | 8 mai | Désactivation des sync Google Contacts + Microsoft Contact sur tous profiles externes | Éviter fuite de données client dans les outils persos des sales partenaires |
 | 8 mai | Sales External : pas de droit de suppression, ni d'export, ni de mass actions, ni de sync agenda perso | Sécurité maximale sur le profile le plus diffusé |
 | 8 mai | Short.io plan Gratuit pour setup et tests, upgrade Team avant 14 mai | Pas de besoin Team avant les tests à blanc et le go-live |
+| 9 mai | Scope MVP custom fields (10 Deal + 5 Account + 3 Contact) plutôt que duplication exhaustive HubSpot | Évite la complexité de répliquer 50+ propriétés dont la moitié sont liées à de l'intégration interne (Pennylane, OneFlow, Skool, Platform learning). Phase 2 si besoin. |
+| 9 mai | Account placeholder `[À compléter] - {Nom}` à la création | iClosed ne donne pas le nom d'entreprise. Le closer enrichit après le call. Signal visuel clair dans la liste Accounts. |
+| 9 mai | Création d'un 2e user Zoho `boris@entrepreneurs.com` (distinct de l'admin `drive@`) | Permet le matching dynamique entre l'email iClosed du closer et le user Zoho. Coût : ~30€/mois. |
+| 9 mai | Owner dynamique via API Call `/v3/users` + Iterator + Filter sur `closerEmail` (Solution B) plutôt que Switch hardcoded (Solution A) | Aucune modification du scenario quand un closer arrive/part — il suffit de créer/supprimer le user Zoho. |
+| 9 mai | Dédup par `callPreviewId` via Sheets Search Rows | Bloque les retries iClosed (observation : iClosed a renvoyé 2 webhooks à la même seconde sur 1 booking). |
+| 9 mai | Renommage `Axel` → `Next Sales` partout (page CF, UTM, slug iClosed) | Cohérence avec le nom commercial de l'agence d'Axel. |
 
 ## Points en attente
 
-### Bloqué par l'accès HubSpot (attendu aujourd'hui 8 mai)
+### Sujets ouverts (au 9 mai 2026)
 
-1. Audit complet des custom fields HubSpot (Contact / Deal / Company)
-2. Cartographie dans un Sheet de référence
-3. Reproduction à l'identique dans Zoho
-4. Reproduction du pipeline Deal (stages + probabilités + validation rules)
-5. Reproduction des picklists et leurs valeurs
+1. **Brief Tally au créateur** — diagramme de routing + URL `kelly-route` prêts ; manque les 3 URLs Calendly (Incubateur / Accélérateur / Scaling) à fournir avant transmission
+2. **Stratégie users Zoho closers externes** — décision à prendre : licences Pro à 30€/user/mois pour les ~40 closers, ou Portal Users (moins chers mais accès limité), ou autre mécanisme
+3. **Setup ~70 adresses mail dédiées** (40 closers + 20 setters + 3 head of sales + 3 managers + ~5 admin)
+4. **Configuration domaine custom Short.io** via DNS entrepreneurs.com (transmettre les valeurs DNS à la personne qui gère le domaine)
+5. **Audit HubSpot** plus complet pour V2 du custom fields Zoho (Phase 2 — pas urgent vu que MVP fonctionne)
+6. **Activation numéro de téléphone Short.io** (warning affiché, non bloquant pour l'instant)
 
-### Indépendant de HubSpot (chantiers suivants)
+### Roadmap V2 scenarios Make
 
-6. Création des 3 calendriers iCloseit (un par agence)
-7. Récupération des URLs iCloseit pour les injecter dans Short.io (remplacement des httpbin.org temporaires)
-8. Setup ~70 adresses mail dédiées (40 closers + 20 setters + 3 head of sales + 3 managers + ~5 admin)
-9. Configuration domaine custom Short.io via DNS entrepreneurs.com (transmettre les valeurs DNS à la personne qui gère le domaine)
-10. Activation numéro de téléphone Short.io (warning affiché, non bloquant pour l'instant)
+- Branche A enrichie du A2 (lead existant → create deal seulement)
+- A2bis (cancellations → update Deal stage Closed Lost)
+- A2ter (reschedule → update Deal closing date)
+- A3 (notif Slack closer assigné, par canal d'agence)
+- A4 (update Deal post-call via Supersales ou autre)
+- A5 (push Zoho → HubSpot quand Deal won + DocuSign signé)
 
 ## Prochaine étape immédiate
 
-**Configuration iCloseit** (si pas encore d'accès HubSpot) ou **audit HubSpot** (si accès reçu).
+**Le scenario A2 V1 est en prod.** Les chantiers suivants prioritaires :
+
+1. Transmettre le brief Tally au créateur (besoin des 3 URLs Calendly avant)
+2. Trancher la stratégie users Zoho closers externes (impact direct sur le matching dynamique du Deal Owner)
+3. Construire le scenario A3 (notif Slack closer) une fois les canaux Slack par agence créés
 
 ## Liens
 
