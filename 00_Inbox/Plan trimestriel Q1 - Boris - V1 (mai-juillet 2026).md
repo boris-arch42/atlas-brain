@@ -53,6 +53,8 @@ related-resources: "[[Draft OKR Q1 Boris]] (historique avant J0), [[Prep - Call 
 | **Thomas data** | Conservé conditionnellement — plan Fabrice attendu | Fabrice + Boris (filet) | Plan sous 7-14j |
 | **Livrable 48-72h** | Message Slack 3 phases (45j/90j/4-5 mois) | Anisse + Boris (co-construction) + Fabrice (validation) | Mercredi 6 mai max |
 
+> 🔄 **Note de badge ajoutée 2026-05-10** : le carnet Boris du 10/5 mentionne *"trouver un gars spécialiste en automatisation pour le niveau macro de la boîte, surement inde ou maroc"*. Après clarification : **même profil que "Nicolas ops auto / Ops auto Maroc" ci-dessus**, simplement rebadgé dans les notes terrain. Pas un 2e poste à créer. Cf. [[Nicolas Farolfi]] pour la fiche personne et le plan de passation. Le KR3.3 reste donc inchangé sur ce point.
+
 ### 🟡 Cible budgétaire précisée
 
 - **Aujourd'hui** : 52K€/mois (verticale Ops/IT/Tech/Data/IA)

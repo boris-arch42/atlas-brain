@@ -19,6 +19,18 @@ tags: [it, cybersec, infrastructure, presta-externe, departure-acted, fin-mai-20
 >
 > 🔑 **Codename Alec** : dans le jargon Alec, *"Haïti"* = IT. Donc *"audit Haïti"* = audit IT, *"Mohamed Haïti"* = Mohamed-IT (sa fonction). Pas une référence géographique. Cf. [[Alec Henry]] glossaire jargon.
 
+## 🔴 MAJ 2026-05-10 — Déblocage accès aux outils activé (priorité S2)
+
+> **Origine** : réflexion carnet Boris 2026-05-10 — *"Permettre à Mohamed d'obtenir tous les accès aux outils pour actionner le plan de sécurité"*.
+
+L'item *"Pinger Cédric et Océane"* (action #2 du 5/5) **bascule en priorité absolue S2 mai**. Sans les accès, Mohamed ne peut pas livrer la cartographie SaaS complète ni dérouler le plan de sécurité dans la fenêtre du mois de mai.
+
+Périmètre étendu : pas seulement Cédric/Océane, mais aussi Aziz, Quentin, Thomas, Anisse à vérifier. Détail dans [[15_Resources/IT-Audit-Mohamed/README]] section MAJ 2026-05-10.
+
+**Action Boris cette semaine** : DM individuels J+0, escalade COMEX si non-réponse à J+2, reporting au point hebdo Boris×Mohamed jeudi 14 mai 17h.
+
+**Articulation structurelle** : ce déblocage est tactique (problème actuel) ; le pattern doit être institutionnalisé par le [[Tech - Process création-transmission accès]] (créé 10/5) pour ne plus se reproduire post-31 mai.
+
 ## 🟢 MAJ 2026-05-05 J4 — Audit IT démarré : 6 vulnérabilités critiques + plan transmission cadré
 
 > Cf. [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]] pour le replay complet (31 min, 5 mai 10h34-11h05).

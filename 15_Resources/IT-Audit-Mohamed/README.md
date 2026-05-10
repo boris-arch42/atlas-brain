@@ -2,7 +2,7 @@
 type: dossier-readme
 status: actif
 priority: critique (transmission Mohamed → Boris avant 31 mai)
-last-updated: 2026-05-05
+last-updated: 2026-05-10
 sensitivity: confidential-max
 tags: [it-audit, mohamed, transmission, cybersecurite, saas, transmission-knowledge]
 ---
@@ -66,6 +66,41 @@ Boris accède encore à `alec@entrepreneurs.com` 18 mois après son départ init
 3. **Caler point hebdo Boris↔Mohamed** (jeudi 30 min, jusqu'au 31/5)
 4. **Valider la campagne phishing interne** que Mohamed avait proposée à Fabrice
 5. **Remonter à Alec en 1 message** la dimension sécurité critique du sujet IT (pas juste coût)
+
+## 🔴 MAJ 2026-05-10 — Action prioritaire activée : déblocage accès Mohamed
+
+> **Origine** : réflexion carnet 2026-05-10 — *"Permettre à Mohamed d'obtenir tous les accès aux outils pour actionner le plan de sécurité"*.
+>
+> Cette action existait déjà comme item #2 ci-dessus (Pinger Cédric et Océane) mais n'était ni datée ni traquée. **Elle bascule en priorité absolue** car sans les accès, Mohamed bute sur l'audit SaaS complet et le plan de sécurité ne peut pas s'exécuter dans la fenêtre du mois de mai.
+
+### Périmètre des accès à débloquer
+
+| Pôle | Owner | Outils concernés | Statut accès Mohamed |
+|---|---|---|---|
+| Marketing | [[Cédric De Saint Jean]] | HubSpot admin, Data Studio, outils créa, outils acquisition (Apollo, autres) | ❌ À débloquer |
+| Communication / BRO | [[Océane De Queiros]] | Outils com, médias, partenariats | ❌ À débloquer |
+| Sales | [[Aziz Sfaihi]] | Aircall admin, HubSpot Sales admin | ❓ À vérifier |
+| CS | [[Sabrina Dahel]] | Zendesk admin (déjà en cours via restructuration) | 🟡 Partiel |
+| Plateforme | [[Quentin]] | BigQuery, infra, scripts | ❓ À vérifier |
+| Data | Thomas Baumelin | Data Studio, BigQuery | ❓ À vérifier |
+| IA / Auto | [[Anisse Rbibe]] / [[Wassim]] | n8n, OpenAI/Claude APIs, Supabase | 🟡 Partiel via Wassim |
+
+### Action Boris (cette semaine — S2 mai)
+
+1. **DM individuels** à Cédric + Océane pour validation des accès admin à donner à Mohamed (avec deadline explicite : J+3)
+2. **Si pas de réponse en 48h** : escalade en COMEX hebdo (lundi) avec sponsor Alec
+3. **Vérifier avec Aziz, Quentin, Thomas, Anisse** le statut des accès — étendre le déblocage si besoin
+4. **Tracer dans le journal** : qui a donné quoi à Mohamed et à quelle date — alimente la cartographie SaaS finale
+
+### Pourquoi le blocage actuel
+
+Verbatim Mohamed 5 mai (replay) : audit Slack fait depuis 2 semaines, mais pour les outils **non-Slack**, il chasse les infos auprès de Cédric/Océane qui ne répondent pas (ou tardivement). Le pattern est cohérent avec le diagnostic HO29 (cycle vicieux d'exécution) : pas de cadre, pas de SLA, pas de priorisation venue d'un échelon transverse → l'IT externe attend.
+
+→ Boris est l'échelon transverse manquant. Le déblocage = effet de levier majeur sur le chantier audit IT entier.
+
+### Articulation avec le SOP en cours de construction
+
+Une fois ce blocage levé une bonne fois, le pattern ne doit plus se reproduire. Le [[Tech - Process création-transmission accès]] (créé 10/5) institutionnalise la chose : **plus jamais d'audit IT freiné par des accès qui dorment chez les heads**.
 
 ## 🔗 Notes liées
 
