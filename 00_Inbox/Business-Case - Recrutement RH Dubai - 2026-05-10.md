@@ -3,7 +3,8 @@ type: business-case-recrutement
 domain: People-RH
 linked-sop: "[[People-RH - Process recrutement Aikho v1]]"
 date-created: 2026-05-10
-status: draft
+last-updated: 2026-05-11
+status: validated-alec (verrouillé en weekly Fabrice×Alec 11/5)
 head-owner: "[[Boris Arduy]]"
 target-manager: "[[Jordan]]"
 target-supervision-transitional: "[[Fabrice Jaeger]]"
@@ -14,15 +15,29 @@ sensitivity: confidential
 
 # Business Case — Recrutement RH Dubai
 
-> Première ouverture de poste **Aikho-driven** au sens du SOP [[People-RH - Process recrutement Aikho v1]]. Étape 1 du process. À valider en J+2 par l'Operating Partner (auto-validation Boris dans ce cas particulier où le head qui recrute = Operating Partner — décision conjointe avec Alec + Fabrice + Jordan).
+> **🟢 MAJ 2026-05-11 — Verrouillé par Alec en weekly Fabrice×Alec**. Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]].
+>
+> Décisions actées en séance :
+> - **Budget verrouillé** : 12-16K AED/mois inclus bonus, package global < 200K AED/an (verbatim Alec : *"12 fois 15 ou 16 fois 15 grosso modo et tu as le package global, donc moins de 200 000 AED"*)
+> - **Profil** : bilingue français/anglais — non négociable selon Alec (*"faut que la personne ressemble à quelque chose, parle français, rassure et donne confiance aux gens"*)
+> - **Format** : 2 profils séparés tranché (RH admin + saisie comptable Indien plus tard). Tentative Fabrice de profil unifié rejetée par Alec en séance après recadrage Boris.
+> - **Process entretien** : R1 Aikho → R2 Jordan → R3 Alec en physique entre 25-30 mai à Dubai (préférence Alec : *"je suis physiquement là et au moins on fera pas une Guillaume"* — peur d'écart énergie visio vs présentiel)
+> - **Démarrage cible** : ~10 juin, post-séminaire team building Paris (Alec part début juin pour 10j)
+> - **Posture qualité > vitesse** : verbatim Alec : *"Si on trouve la pépite avec Jordan, ça serait nickel. Si on la trouve pas, par contre, on s'en bat les *. On fait plus les mêmes erreurs qu'on a trop fait ce début d'année."*
+> - **Lancement Aikho confirmé** : *"entre demain et mercredi"* (Boris en séance) — donc mardi 12 ou mercredi 13 mai.
+>
+> Première ouverture de poste **Aikho-driven** au sens du SOP [[People-RH - Process recrutement Aikho v1]]. Étape 1 du process verrouillée par Alec en séance — pas besoin de cycle de validation supplémentaire.
 
 ## Méta
 
 - **Head qui ouvre le poste** : Boris Arduy (Operating Partner)
 - **Sponsors** : Alec Henry (CEO) + Fabrice Jaeger (futur GM Dubai) + Jordan (futur manager direct côté pôle Finance/RH)
 - **Date d'ouverture** : 2026-05-10
-- **Date de prise de poste cible** : juillet-août 2026 (cycle Aikho J+0 → J+20 décision + 30-45j onboarding et délais visa)
-- **Statut** : **draft** — à finaliser après échange Boris × Jordan + validation Alec/Fabrice
+- **Date de validation Alec** : 2026-05-11 (weekly Fabrice×Alec)
+- **Date de lancement Aikho cible** : mardi 12 ou mercredi 13 mai 2026
+- **Date R3 physique Alec cible** : entre 25-30 mai 2026 à Dubai
+- **Date de prise de poste cible** : ~10 juin 2026 (post team building Paris)
+- **Statut** : **validé Alec** — passage en étape 2 SOP Aikho dans les 48h
 - **Localisation** : Dubai (sur place, on-site)
 
 ## 1. Contexte équipe
@@ -67,8 +82,9 @@ Trois missions principales sur les 3 premiers mois :
 
 ## 6. Budget
 
-- **Fourchette salariale** : à cadrer avec Alec + Fabrice (alignement marché Dubai RH confirmé 3-6 ans). Mention dans la fiche selon convention Entrepreneurs.com (ouverte / fourchette / sur demande).
-- **Type de contrat** : CDI local Dubai (ou EOR si pas de structure légale locale immédiate)
+- **Fourchette salariale verrouillée Alec (weekly 11/5)** : 12 000 à 16 000 AED/mois inclus bonus, soit package global < 200 000 AED/an
+- **Convention de mention dans la fiche Aikho** : à arbitrer Boris (ouverte / fourchette / sur demande) — recommandation : sur demande pour ce niveau de poste
+- **Type de contrat** : CDI local Dubai (ou EOR si pas de structure légale locale immédiate — à confirmer avec Fabrice côté setup juridique Dubai)
 - **Localisation** : Dubai, on-site
 
 ## 7. Urgence et impact
@@ -80,15 +96,15 @@ Trois missions principales sur les 3 premiers mois :
   - Le pôle Finance/RH sous Jordan ne peut pas se structurer sans tête de pont RH côté Dubai
   - Pas de présence locale = pas de relais en cas de problème (visa, paie, conflit) → escalade systématique à Boris/Fabrice = goulot
 
-## 8. Process d'entretien envisagé
+## 8. Process d'entretien — verrouillé Alec en weekly 11/5
 
-Cycle Aikho standard avec adaptation rôle senior :
+1. **R1 — Aikho async interview + scoring structuré** (étape standard SOP Aikho)
+2. **R2 — Jordan** (futur manager direct, démarre 18/5 donc dispo pour rencontrer rapidement les premiers profils)
+3. **R3 — Alec en physique à Dubai** entre 25-30 mai (verbatim Alec : *"je suis physiquement là et au moins on fera pas une Guillaume"*)
 
-1. **Aikho async interview + scoring structuré** (étape standard SOP Aikho)
-2. **Exercice technique** : cas pratique "tu hérites de l'onboarding du CTO Dubai dans 2 semaines, comment tu structures ton premier mois ?" — réponse écrite + Loom de 5 min
-3. **Entretien Boris (Operating Partner)** — alignement vision + scope + soft skills
-4. **Entretien Fabrice + Jordan** (en duo) — futur GM Dubai + futur manager direct
-5. **Entretien Alec** (final, rôles seniors structurels) — culture fit + alignement vision long terme
+> Note : l'exercice technique initial (cas pratique CTO Dubai) reste pertinent à intégrer en étape Aikho ou entre R1 et R2 si Jordan veut un signal additionnel. À arbitrer avec Jordan dès son arrivée 18/5.
+
+> Note : Fabrice ne fait **pas** d'entretien dédié (selon décision Alec 11/5). S'il est physiquement présent au moment d'un R3, il peut accompagner Alec sans que ce soit une étape formelle.
 
 ## 9. Red flags / non-négociables
 
@@ -112,9 +128,10 @@ Spécificités à intégrer à la fiche :
 
 ---
 
-**Validation Operating Partner** : ☐ approuvé / ☐ retouches demandées (auto-validation Boris à compléter post-discussions Alec/Fabrice/Jordan)
-**Date validation** :
-**Commentaires** :
+**Validation Operating Partner** : ☑ approuvé (auto-validation Boris) — 2026-05-11
+**Validation CEO** : ☑ approuvé (Alec, weekly Fabrice×Alec) — 2026-05-11
+**Validation futur manager** : ☐ à confirmer avec Jordan (call relationnel 11/5 13h, puis 1-1 d'arrivée 18/5)
+**Commentaires** : Lancement Aikho J+1 à J+2 (mardi 12 ou mercredi 13 mai). R3 physique Alec calé 25-30 mai à Dubai. Démarrage cible 10 juin.
 
 ## Notes liées
 
@@ -122,6 +139,8 @@ Spécificités à intégrer à la fiche :
 - [[People-RH - Onboarding-Offboarding collaborateurs]] — SOP que la personne devra exécuter au quotidien
 - [[Scope - Cartographie contrats prestataires Entrepreneurs.com]] — chantier que la personne portera côté Dubai
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] — KR3.3 (stack équipe verticale) + KR4.1 (transitions top management — Fabrice GM Dubai)
+- [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]] — verrouillage Alec en séance
+- [[Note - Profil Indien saisie comptable pour Jordan (référence Maj)]] — profil complémentaire à creuser plus tard, lié à cette fonction
 - [[Fabrice Jaeger]] — futur GM Dubai, supervision transitoire
-- [[Jordan]] — futur manager direct, pôle Finance/RH (fiche à créer/compléter)
+- [[Jordan]] — futur manager direct, pôle Finance/RH
 - [[Aikho]] — outil unique du process recrutement
