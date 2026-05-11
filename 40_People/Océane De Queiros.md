@@ -8,10 +8,30 @@ started:
 status: active
 source: entrepreneurs-com
 sensitivity: confidential-max
-tags: [head-of-communication, brand-revenue-officer, noyau-solide, tension-alec, protection-equipe]
+tags: [head-of-communication, brand-revenue-officer, noyau-solide, tension-alec, protection-equipe, surcharge-structurelle, signal-alec-2026-05-11]
 ---
 
 # Océane De Queiros
+
+## 🟠 MAJ 2026-05-11 — Signal surcharge structurelle confirmé par Alec en weekly
+
+> Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]] pour le replay complet.
+
+Alec a explicité publiquement le pattern de surcharge d'Océane en weekly Fabrice×Alec, en justification du recrutement RH Dubai :
+
+> *"Aujourd'hui, tu vois, même Océane, elle compense énormément. C'est pour ça qu'elle se tape des journées de 12 à 15 heures tous les jours, y compris le dimanche. C'est parce qu'elle compense énormément sur des choses qui doivent être faites, mais qui pourraient être faites par d'autres."*
+
+**Implications :**
+- Surcharge **structurelle** (pas conjoncturelle) reconnue par le CEO lui-même
+- Le recrutement RH Dubai (cf. [[Business-Case - Recrutement RH Dubai - 2026-05-10]]) est partiellement motivé par décharger Océane
+- Risque RH si pas adressé court terme : burn-out potentiel, perte d'un noyau solide
+- Alec parle aussi de Manour qui *"n'a même pas été capable de gérer un truc en parallèle pour Océane, ce qui fait que peut-être elle ne va même pas venir à Marrakech"* — signal qu'elle pourrait sauter un event majeur à cause de la surcharge
+
+**Posture Boris suite à ce signal :**
+- Ne pas ajouter de scope Océane côté Boris (sa surcharge n'est pas résolue en lui ajoutant des sollicitations)
+- Accélérer le recrutement RH Dubai (effet de décharge indirect d'Océane via meilleure répartition admin)
+- Sur l'action Trustpilot levier perso Boris : passer par Océane pour aligner factuellement **sans créer de charge supplémentaire** — 5 min max, pas une nouvelle responsabilité
+- Sur Marrakech : si Océane est owner com event, vérifier qu'elle a les moyens de tenir sans s'ajouter au cumul (Sabrina/Fabrice pour soutien opé)
 
 ## Rôle actuel
 - **Poste** : Head of Communication

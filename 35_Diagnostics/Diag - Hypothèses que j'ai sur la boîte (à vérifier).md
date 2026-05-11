@@ -23,6 +23,12 @@ related-decisions: "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 - **HO41** (NOUVELLE) : *"Le vrai problème d'Alec n'est pas le travail mais la visibilité"* — cf. fin du fichier.
 - **HO42** (NOUVELLE) : *"Alec décide AVANT les calls structurels et utilise les calls pour caler le comment"* — cf. fin du fichier.
 
+**Mise à jour 2026-05-11** après weekly Fabrice × Alec (cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]]) :
+- **HO43** (NOUVELLE) : *"Le modèle économique d'Entrepreneurs.com est jugé mauvais en l'état par Alec lui-même — réorientation 'cash flow rentable tous les mois' à anticiper comme cadre structurant Q2-Q3"* — cf. fin du fichier.
+- **HO44** (NOUVELLE) : *"Le modèle coachs et sessions experts est en refonte imposée par Alec — chantier sales/CS à venir, hors scope actuel Boris mais à surveiller"* — cf. fin du fichier.
+- **HO12 (Marketing-Communication)** : signal renforcé sur la surcharge Océane (12-15h/jour y compris dimanche, verbatim Alec) — risque RH structurel validé par le CEO lui-même.
+- **HO40 (sécurité IT)** : reste actif, audit en cours via Mohamed, déblocage accès engagé par Boris cette semaine.
+
 ---
 
 ## Hypothèses sur la situation financière
@@ -660,6 +666,98 @@ _Statut au J+14 : à compléter_
 
 ---
 
+### 🟠 HO43 — Le modèle économique d'Entrepreneurs.com est jugé mauvais en l'état par Alec lui-même (11 mai 2026)
+
+**🆕 Hypothèse nouvelle ajoutée le 11 mai 2026** après weekly Fabrice × Alec. Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]].
+
+**Hypothèse** : Alec a publiquement reconnu en weekly que *"notre modèle est juste mauvais en l'état des choses"*, avec une orientation explicite vers un retour à *"un business à cash flow et rentable tous les mois"*. Cette posture va devenir le cadre structurant des arbitrages Q2-Q3 2026, au-delà du seul sujet SaaS (KR2.2).
+
+**Verbatim Alec en séance** :
+
+> *"Faut vraiment qu'on retourne dans un mode business à cash flow. Et rentable tous les mois, tu vois."*
+
+> *"J'en parlais même avec David Gurlay, notre modèle il est juste mauvais en fait dans l'état des choses."*
+
+> *"Quand je vois qu'on paye 5600 comme Rad, il est gentil. Mais ça va pas. Ou quand je vois qu'on paye 5000 balles Lucas, ça va pas non plus."*
+
+> *"On dépense trop d'argent, trop d'argent pour rien, tu vois. Enfin, on pourrait dépenser beaucoup, beaucoup moins, beaucoup moins, beaucoup moins."*
+
+**Implications pour le Plan Q1 et Q2** :
+1. **KR2.2 (audit dépenses 70-100K€ d'économies)** doit être étendu au-delà des SaaS : sessions experts, modèle coachs, prestations externes à fort coût (5K€+) sont désormais à challenger
+2. **Critère d'arbitrage Q2** : toute décision (recrutement, partenariat, investissement) doit être lue à travers le prisme *"impact cash flow mensuel"*
+3. **Cadre pour le sourcing Mithril** : privilégier les profils offshore à fort ROI (cf. référence Indiens 150-500 USD/mois pour exec, jusqu'à 800-1000 USD pour ingénieurs) vs profils on-shore coûteux
+4. **Tension structurelle avec mandat structurer (J+90)** : structurer coûte court terme, rentabiliser tous les mois réduit court terme. Boris doit naviguer ces deux exigences sans les opposer.
+
+**Liens directs avec autres hypothèses** :
+- **HO20** (allocation discrétionnaire S2 2025) : c'est la même logique étendue de "on a dépensé comme des couillons" → "on ne le fera plus"
+- **HO19** (qualité de vente) : si le modèle est mauvais, c'est aussi parce que les ventes ne ramènent pas les bons clients
+- **HO39** (stack data 52K€/mois) : la pression cash flow donne plus d'énergie à la réduction à 30K€
+- **HO44** (refonte modèle coachs/sessions experts) : application concrète de HO43 sur un périmètre spécifique
+
+**Tests de confirmation / invalidation** :
+- **À J+30** : Alec a-t-il répété la posture "cash flow mensuel rentable" dans plusieurs contextes (COMEX, calls heads, Slack) ? Si oui, c'est un cadre structurant officialisé, pas un éclair de mauvaise humeur.
+- **À J+60** : observe-t-on des décisions concrètes alignées (refonte sessions experts, renégociation prestations 5K€+, ajustements modèle coachs) ? Si oui, HO43 confirmée structurellement.
+- **À J+90** : la métrique "rentable mensuellement" est-elle un KPI officiel COMEX ? Si oui, HO43 acquise comme cadre permanent.
+- **Test contre-factuel** : si Alec accepte sans broncher une nouvelle dépense discrétionnaire à 50K€+, signal que le cadre n'est pas encore intériorisé.
+
+_Statut au J+14 : à compléter_
+
+---
+
+### 🟡 HO44 — Le modèle coachs et sessions experts est en refonte imposée par Alec — chantier sales/CS à venir, hors scope actuel Boris mais à surveiller (11 mai 2026)
+
+**🆕 Hypothèse nouvelle ajoutée le 11 mai 2026** après weekly Fabrice × Alec. Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]].
+
+**Hypothèse** : Alec a rendu public en weekly son insatisfaction structurelle envers le modèle coachs (paliers + sessions experts) et a explicitement demandé à Fabrice de l'optimiser. C'est un chantier sales/CS à venir qui touche directement Sabrina et qui va probablement générer des frictions internes (3 coachs déjà remerciés, modèles renégociés sous *"rapport de force"*).
+
+**Verbatim Alec en séance** :
+
+> *"Maintenant que tu auras plus de temps dispo, faut vraiment, vraiment que tu penses à comment on optimise le modèle, tu vois. Sur ces coûts-là."*
+
+> *"Quand je vois qu'on paye 5600 comme Rad, il est gentil. Mais ça va pas. Ou quand je vois qu'on paye 5000 balles Lucas, ça va pas non plus, tu vois."*
+
+> *"Ça, c'est le modèle en fait des sessions experts."* (Fabrice qui contextualise)
+> *"Justement, ça aussi, faut le corriger. On dépense trop d'argent, trop d'argent pour rien, tu vois."* (Alec)
+
+**Verbatim Fabrice sur le statut actuel** :
+
+> *"J'ai pas le, c'est une minorité qui ont signé le paiement [au prorata de session]. Donc les autres ont préféré rester sur l'ancien modèle palier, on va dire. Et on n'a que 3 coachs de mémoire qui pour l'instant voulaient rester sur l'ancien modèle, donc juste au forfait. Et donc c'est ceux-là qu'on va remercier."*
+
+> *"Pour l'instant, c'est juste le rapport de force entre 'Bon bah sinon j'arrête' et puis tu te retrouves avec des portefeuilles clients de 20 clients potentiellement sur les bras."*
+
+**Verbatim Boris en séance** (équilibrage) :
+
+> *"Le problème associé c'est qu'il est très dur à faire varier. Sans tout casser. (...) Dès que tu opères un switch, admettons dans les contrats, dans les machins, dans les trucs, il y a quand même un contrepoids qui s'est installé chez les gens en disant bah ouais mais mec, en gros j'ai 25 clients donc c'est trouver le juste milieu et la juste balance entre le faire trop vite et tout *** ou le faire de manière plus douce et s'assurer qu'il y a une transition de modèle qui soit faite."*
+
+**Pourquoi c'est hors scope direct Boris mais à surveiller** :
+- Le scope coachs / sessions experts est sous **Sabrina** (CS / Coaching) avec arbitrage Fabrice + Alec sur le modèle économique
+- Boris n'a pas vocation à piloter directement la refonte, mais doit la **comprendre dans son timing et son impact**
+- **Risques RH à anticiper** : 3 coachs remerciés = portefeuilles de 20+ clients à réaffecter = charge opérationnelle sur Sabrina et l'équipe coaching
+- **Risque qualité client** : si la transition est trop brutale, qualité de delivery dégradée → boucle négative Trustpilot/upsell (cf. HO37)
+- **Risque cascade Cédric** : tout sujet qui met Sabrina sous pression peut indirectement fragiliser Cédric (cf. HO32 stop loss juin)
+
+**Liens directs avec autres hypothèses** :
+- **HO43** (cash flow rentable mensuel) : HO44 est l'application concrète de HO43 sur un périmètre spécifique (modèle coachs/sessions experts)
+- **HO33** (dégradation profil client) : si la posture coach se durcit (HO33 nuance) **et** que le modèle économique se durcit (HO44), risque que les 2 changements se cumulent et cassent la delivery
+- **HO37** (ticketing 3 mois) : Sabrina est déjà saturée sur le ticketing, ajouter la refonte modèle coachs crée un risque RH
+- **HO5** (alliance Aziz) : Aziz est sur le sales, pas sur les coachs, donc l'impact direct sur lui est limité
+
+**Posture Boris** :
+- **Pas piloter** la refonte (zone Sabrina + Fabrice + Alec)
+- **Capter les signaux** dans les 1-to-1 Sabrina S2 mai : surcharge ? remerciement de coachs en cours ? qualité delivery en baisse ?
+- **Apporter le filet de sécurité sur Sabrina** si elle commence à craquer (cf. signal Océane 12-15h/jour : pattern de compensation des seniors)
+- **Garder le sujet en mémoire** pour le call Sabrina post-Marrakech (probable retex commun avec Aziz)
+
+**Tests de confirmation / invalidation** :
+- **À J+30** : Fabrice a-t-il livré un plan d'optimisation chiffré du modèle coachs/sessions experts ? Si oui, HO44 confirmée comme chantier officiel.
+- **À J+60** : observe-t-on un départ de coachs (volontaire ou pas) ou une grogne collective ? Si oui, HO44 a un impact RH réel.
+- **À J+90** : la qualité de delivery (mesurée via Trustpilot, upsell, retention) est-elle maintenue malgré la refonte ? Si oui, HO44 est exécutée proprement. Sinon, la doctrine cash flow dégrade la valeur client.
+- **Test contre-factuel** : si Sabrina remonte une surcharge spécifique liée à la refonte coachs sans qu'on ait pu l'anticiper, signal que le scope Boris doit s'étendre temporairement.
+
+_Statut au J+14 : à compléter_
+
+---
+
 ## Synthèse : Comment je saurai que l'hypothèse est confirmée / invalidée
 
 | Hypothèse | Test | Horizon |
@@ -697,6 +795,8 @@ _Statut au J+14 : à compléter_
 | HO40 (sécurité IT en mode catastrophe — risque existentiel sous-estimé) | 🔴 **NOUVELLE 5 mai** + **MAJ 5 mai SOIR** : mandat IT permanent Boris officialisé publiquement au call verticale, supervision Mohamed transférée Fabrice→Boris (slot jeudi 17h), Mohamed sécurisé 2 mois à 4K€ + forfait 1 500€/mois post-4 juillet. Confirmation = audit Mohamed + mots de passe réellement changés + 2FA activée + accès Boris révoqué à J+30 | J+7 (audits livrés) / J+30 (résolution priorité 1) / J+60 (5 piliers V1) |
 | HO41 (vrai problème Alec = visibilité, pas travail) | 🆕 **NOUVELLE 5 mai SOIR** : Boris installe rituel reporting hebdo verticale d'ici J+7. Confirmation = Alec accuse réception positive + fréquence scuds Alec sur verticale baisse à J+30 | J+7 / J+30 / J+60 |
 | HO42 (Alec décide AVANT les calls, utilise les calls pour caler le comment) | 🆕 **NOUVELLE 5 mai SOIR** : Boris installe rituel DM Alec pré-call structurel. Confirmation = Boris anticipe ≥0% des décisions structurelles à J+30 | J+30 / J+60 |
+| HO43 (modèle économique mauvais selon Alec — retour cash flow mensuel rentable) | 🆕 **NOUVELLE 11 mai** : observation répétition posture Alec dans plusieurs contextes + décisions concrètes alignées. KR2.2 du Plan Q1 étendu au-delà SaaS | J+30 / J+60 / J+90 |
+| HO44 (refonte modèle coachs/sessions experts — chantier Sabrina/Fabrice à surveiller) | 🆕 **NOUVELLE 11 mai** : Fabrice livre plan d'optimisation à J+30. Capter signaux Sabrina S2 mai. Filet de sécurité si Sabrina craque | J+30 / J+60 / J+90 |
 
 ## Revue prévue
 
