@@ -3,7 +3,7 @@ type: technical-scenario-spec
 project: "[[_Index|Lancement Kelly]]"
 owner: "[[Boris Arduy]]"
 created: 2026-05-09
-last-updated: 2026-05-09
+last-updated: 2026-05-10
 status: production-ready
 version: V1.0
 tags: [lancement, kelly, infrastructure, make, scenario, zoho, iclosed, automation, A2]
@@ -307,12 +307,14 @@ Champs **vides en V1** (le closer remplit après call) :
 - Stage initial : `Appel Réservé`
 - Stages disponibles : Appel Réservé → R1 Réalisé → R2 Réalisé → R3 Réalisé → Engagé → Fermé Gagné (+ Closed Lost variants)
 
-### Users Zoho actifs (au 9 mai 2026)
+### Users Zoho actifs (au 10 mai 2026)
 
 | Email | User ID Zoho | Rôle |
 |---|---|---|
 | drive@entrepreneurs.com | `983392000000542001` | Admin Zoho (compte technique) |
-| boris@entrepreneurs.com | `983392000000615324` | Boris user opérationnel (matché par iClosed) |
+| boris@entrepreneurs.com | `983392000000615324` | Boris user opérationnel (matérialise Operating Partner dans le matching iClosed) |
+
+**Statut au 10 mai 2026** : 38 users closers à importer en masse via CSV (cf. [[Closers - Liste opérationnelle Kelly]]). Convention emails alignée iClosed/Zoho : `prenom.nom@entrepreneurs.com` pour tous les closers Tip Talent / Momentum / Next Sales.
 
 ⚠️ Le compte iClosed Boris utilise `boris@entrepreneurs.com`, qui est volontairement différent de l'admin Zoho `drive@entrepreneurs.com`. Cette séparation permet à l'API Call + Iterator + Filter de matcher le bon user comme Deal Owner.
 
@@ -480,6 +482,7 @@ Estimation conservatrice du cycle de vente Kelly. Ajustable plus tard selon les 
 - [[_Index|Hub projet Kelly]]
 - [[Architecture - Funnel parallèle closers externes]]
 - [[Infrastructure - Setup en cours]]
+- [[Closers - Liste opérationnelle Kelly]]
 - [[Partenaires - Vue d'ensemble 3 agences]]
 
 ## Historique

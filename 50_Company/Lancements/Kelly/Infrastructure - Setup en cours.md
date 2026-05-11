@@ -3,7 +3,7 @@ type: technical-setup-log
 project: "[[_Index|Lancement Kelly]]"
 owner: "[[Boris Arduy]]"
 created: 2026-05-08
-last-updated: 2026-05-09
+last-updated: 2026-05-10
 status: en-cours
 tags: [lancement, kelly, infrastructure, technical-setup, zoho, short-io, tally, make]
 sensitivity: confidential
@@ -13,7 +13,7 @@ sensitivity: confidential
 
 > Document de suivi du build de l'infrastructure technique du funnel parallèle Kelly. Mise à jour au fur et à mesure de la construction des briques.
 
-## État global au 9 mai 2026
+## État global au 10 mai 2026
 
 | Brique | Statut | Notes |
 |---|---|---|
@@ -21,27 +21,30 @@ sensitivity: confidential
 | Google Sheet de tracking | ✅ Créé | ID : `1XTVJvuabrKtScKaLNFl9bBo3n-75Gz7O2C3WyU0H0aI` — onglet `Kelly Bookings` ajouté le 9 mai |
 | Zoho CRM — compte | ✅ Créé | Plan Professional Trial 30 jours, expire ~7 juin 2026 |
 | Zoho CRM — Profiles (4) | ✅ Créés | Administrator, Manager, Team Leader, Sales External |
-| Zoho CRM — Roles (7) | ✅ Créés | Hiérarchie 4 niveaux, étanchéité par agence |
+| Zoho CRM — Roles (7) | ✅ Créés + renommés (10 mai) | Hiérarchie 4 niveaux. Renommage `Sales Axel` → `Sales Next Sales` + `Manager Axel` → `Manager Next Sales` effectué. |
 | Zoho CRM — Data Sharing | ✅ Configuré | Tous modules critiques en mode Privé |
 | Zoho CRM — Custom fields Contacts | ✅ Créés (9 mai) | Email_Domain, LinkedIn_URL, Agence_Assignee |
 | Zoho CRM — Custom fields Accounts | ✅ Créés (9 mai) | Plage_revenus, Secteur_activite, Problematiques (multi), Accompagnement_existant, LinkedIn_entreprise |
 | Zoho CRM — Custom fields Deals | ✅ Créés (9 mai) | Agence_Assignee, Origine_du_lead, Format, Code_Produit, Modalites_paiement, Duree_prestation, Nb_mensualites, Date_demarrage, Statut_contrat, Etat_paiements |
 | Zoho CRM — Pipeline Deal | ✅ Créé (9 mai) | `Kelly Launch — Agences Externes` avec 6 stages : Appel Réservé → R1 → R2 → R3 → Engagé → Fermé Gagné |
 | Zoho CRM — User boris@ | ✅ Créé (9 mai) | 2e user Pro, User ID `983392000000615324`, distinct de l'admin `drive@entrepreneurs.com` |
+| Zoho CRM — Users closers (38) | 🟡 CSV prêt (10 mai) | Import à venir. Cf. [[Closers - Liste opérationnelle Kelly]] |
 | Short.io — compte | ✅ Créé | Plan Free, domaine `kelly-ec.short.gy` |
 | Short.io — Splitter | ✅ Créé et testé | Lien `kelly-ec.short.gy/kelly-route`, routing 25/50/25 |
 | Short.io — URLs cibles définitives | ✅ Mises à jour (9 mai) | Pointent vers les 3 pages ClickFunnels avec embed iClosed (cf. ci-dessous) |
 | Short.io — Forward parameters | ✅ Validé | UTMs préservés end-to-end (Tally → Short.io → CF → iClosed → Zoho) |
 | iClosed — events Kelly (3) | ✅ Créés (9 mai) | `kelly-tiptalent`, `kelly-momentum`, `kelly-nextsales` (NB: Axel renommé Next Sales) |
 | iClosed — embed sur ClickFunnels | ✅ Live | 3 pages CF entrepreneurs.com avec embed iClosed correspondant |
-| **Make scenario A2 (booking → Zoho)** | ✅ **Production-ready (9 mai)** | Cf. [[Scenario A2 - iClosed vers Zoho]] — 11 modules, dédup, owner dynamique |
+| iClosed — hosts closers (38) | ✅ Ajoutés (10 mai) | 10 TT + 21 Momentum + 7 Next Sales, tous configurés en Round Robin sur l'event de leur agence. Cf. [[Closers - Liste opérationnelle Kelly]] |
+| Emails @entrepreneurs.com closers (38) | ✅ Créés (10 mai) | Convention `prenom.nom@entrepreneurs.com`. MDP provisoires distribués aux closers via leurs managers d'agence. |
+| **Make scenario A2 (booking → Zoho)** | ✅ **Production-ready (9 mai)** | Cf. [[Scenario A2 - iClosed vers Zoho]] — 11 modules, dédup, owner dynamique. Toggle OFF en attente du go-live. |
 | Make scenario A2bis (cancellations) | 🔴 À faire | Roadmap V2 |
 | Make scenario A2ter (reschedule) | 🔴 À faire | Roadmap V2 |
 | Make scenario A3 (notif Slack closer) | 🔴 À faire | Dépend des canaux Slack par agence |
 | Make scenario A5 (Zoho → HubSpot) | 🔴 À faire | Dépend de l'audit HubSpot et de l'intégration DocuSign |
 | Brief Tally au créateur | ⏳ En attente | Diagramme prêt + URL `kelly-route` ; manque les 3 URLs Calendly (Incubateur / Accélérateur / Scaling) |
-| Stratégie users Zoho closers externes | ⏳ Décision à prendre | Licences Pro 30€/user/mois vs Portal Users vs autre |
-| Adresses mail dédiées (~70) | 🔴 À faire | Sujet IT, à cadrer cette semaine |
+| Stratégie users Zoho closers externes | ✅ Tranchée (10 mai) | Licences Pro pour les 38 closers. Coordination via emails `@entrepreneurs.com` unifiés iClosed/Zoho. |
+| Adresses mail dédiées (~70) | 🟡 Partiel (10 mai) | 38 emails closers créés. Reste : managers, setters Momentum backup, admin. |
 
 ## Détail Zoho CRM
 
@@ -153,6 +156,10 @@ Entrepreneurs.com
 | 9 mai | Owner dynamique via API Call `/v3/users` + Iterator + Filter sur `closerEmail` (Solution B) plutôt que Switch hardcoded (Solution A) | Aucune modification du scenario quand un closer arrive/part — il suffit de créer/supprimer le user Zoho. |
 | 9 mai | Dédup par `callPreviewId` via Sheets Search Rows | Bloque les retries iClosed (observation : iClosed a renvoyé 2 webhooks à la même seconde sur 1 booking). |
 | 9 mai | Renommage `Axel` → `Next Sales` partout (page CF, UTM, slug iClosed) | Cohérence avec le nom commercial de l'agence d'Axel. |
+| 10 mai | Convention emails closers : `prenom.nom@entrepreneurs.com` unique pour iClosed + Zoho + Google Workspace | Évite le mismatch entre les systèmes et garantit le matching Deal Owner dynamique du scenario A2. Plus simple opérationnellement. |
+| 10 mai | 38 closers ajoutés en host iClosed avant la création des users Zoho | Permet de capter les emails exacts et de tester le Round Robin en amont. Import Zoho préparé en CSV mais pas encore exécuté. |
+| 10 mai | Renommage des roles Zoho `Sales Axel` → `Sales Next Sales` et `Manager Axel` → `Manager Next Sales` | Cohérence avec le rename global Axel → Next Sales. |
+| 10 mai | Pas de users Zoho pour les managers d'agence (Romain, Lucas, Hélène, Axel, Aziz) en V1 | Scope minimal pour le go-live. Focus closers qui prennent les calls. Manager users à ajouter post-event si besoin. |
 
 ## Points en attente
 
@@ -176,14 +183,19 @@ Entrepreneurs.com
 
 ## Prochaine étape immédiate
 
-**Le scenario A2 V1 est en prod.** Les chantiers suivants prioritaires :
+**Le scenario A2 V1 est en prod, les 38 closers sont en host iClosed.** Les chantiers suivants prioritaires :
 
-1. Transmettre le brief Tally au créateur (besoin des 3 URLs Calendly avant)
-2. Trancher la stratégie users Zoho closers externes (impact direct sur le matching dynamique du Deal Owner)
-3. Construire le scenario A3 (notif Slack closer) une fois les canaux Slack par agence créés
+1. **Import CSV des 38 users Zoho** (~5 min, cf. [[Closers - Liste opérationnelle Kelly]] pour le CSV prêt)
+2. **Suivi des activations Zoho** avant dimanche 17 mai 20h (les closers doivent cliquer sur leur invitation et créer leur MDP)
+3. **Calendar sync iClosed** à demander à chaque closer (à inclure dans coaching 12 mai)
+4. **Activer le scenario A2** (toggle ON dans Make) une fois tous les users Zoho créés
+5. **Transmettre le brief Tally au créateur** (besoin des 3 URLs Calendly avant)
+6. **Construire le scenario A3** (notif Slack closer) une fois les canaux Slack par agence créés
 
 ## Liens
 
 - [[_Index|Hub projet Kelly]]
 - [[Architecture - Funnel parallèle closers externes]]
+- [[Scenario A2 - iClosed vers Zoho]]
+- [[Closers - Liste opérationnelle Kelly]]
 - [[Partenaires - Vue d'ensemble 3 agences]]
