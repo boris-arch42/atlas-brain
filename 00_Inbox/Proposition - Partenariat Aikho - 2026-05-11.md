@@ -1,14 +1,14 @@
 ---
 type: proposition-partenariat
-status: en-attente-meeting-hugues
+status: validee-alec-v2-prete-envoi
 date-created: 2026-05-11
+last-updated: 2026-05-11
 owner: "[[Boris Arduy]]"
-sponsor: "[[Alec Henry]]"
-contrepartie-active: ["Le Déclic épisode dédié", "Partenariat séminaire Scaling Dubai 100K AED", "Affiliation 20% perpétuel"]
-livrables: ["Proposition Partenariat Entrepreneurs.com x Aikho - 11 mai 2026.docx"]
-target-meeting-options:
-  - "Visio dès mardi 12/5 (si propal prête + Hugues dispo)"
-  - "Visio entre le 20 et 25 mai pendant l'event Marrakech (Alec sur place avec Boris)"
+sponsor: "[[Alec Henry]]" (validation 11/5 par vocal WhatsApp + présence call confirmée)
+contrepartie-active: ["Le Déclic épisode dédié (~20K€ valeur publicitaire)", "Partenariat séminaire Scaling Dubai septembre 2026 - 100K AED - 1h sur scène 200 entrepreneurs", "Affiliation 20% perpétuel - premier partenariat structurel Aikho"]
+livrables: ["Proposition Partenariat Entrepreneurs.com x Aikho - 11 mai 2026.docx (v1)", "Proposition Partenariat Entrepreneurs.com x Aikho - v2 - 11 mai 2026.docx (v2 validée Alec)"]
+meeting-confirme: "Mardi 12 mai 2026 14h00 (visio, 45 min max) - Hugues Pringault + Alec Henry + Boris Arduy"
+strategie-envoi: "Hybride C - email avec DOCX en PJ envoyé avant le call (option Boris 11/5)"
 related-quote: "AIKHO-QUO-20260508-164800 (18 000 USD/an Enterprise Plan refusé)"
 related-replays: "[[Vocal Alec 11 mai 2026 - Stratégie Aikho partenariat]]"
 tags: [aikho, partenariat, propal, declic, scaling-dubai, affiliation, alec, hugues-pringault, dubai]
@@ -18,9 +18,51 @@ sensitivity: confidential
 
 # Proposition de partenariat Entrepreneurs.com × Aikho
 
-> **🟢 Document one-pager généré 11 mai 2026** — prêt à envoyer à Hugues Pringault (GM Aikho) pour caler un meeting dès mardi 12/5 ou pendant Marrakech 20-25/5.
+> **🟢 MAJ 11 mai 17h — v2 validée par Alec, call cadré demain 14h**.
 >
-> Le fichier final est dans `/mnt/user-data/outputs/Proposition Partenariat Entrepreneurs.com x Aikho - 11 mai 2026.docx`.
+> Vocal WhatsApp Alec reçu et traité : ajustements intégrés en v2, Alec confirme sa présence au call demain mardi 12 mai 14h00 (45 min max). Stratégie d'envoi : hybride C (DOCX en PJ avant le call pour préparation douce + déroulé principal pendant le call).
+>
+> Le fichier final v2 est dans `/mnt/user-data/outputs/Proposition Partenariat Entrepreneurs.com x Aikho - v2 - 11 mai 2026.docx`.
+
+## 🟢 Décisions validées Alec (vocal WhatsApp 11/5 17h)
+
+### Ajustements intégrés en v2
+
+| Point | V1 (envoyée relecture Alec) | V2 (validée) |
+|---|---|---|
+| **Déclic** | "Exposition directe à des milliers de dirigeants" | **~20 000 € — tarif normal pour passer sur le média Le Déclic** (valeur publicitaire équivalente sur tous réseaux + audio) |
+| **Séminaire** | "Scaling Dubai" générique | **Scaling Dubai septembre 2026** (dates connues) |
+| **Format présence Aikho** | "Stand + prise de parole + accès direct" | **1h sur scène devant 200 entrepreneurs au créneau de leur choix** + mise en avant supports event |
+| **Affiliation** | 20% perpétuel | ✅ Inchangé + ajout "premier partenariat affilié structurel pour Aikho" (suite recherche W1) |
+| **Investissement Aikho** | 100K AED | ✅ Inchangé |
+| **Next steps** | 2 options (demain ou Marrakech) | **1 option figure** : mardi 12 mai 14h00 visio 45 min, Hugues + Alec + Boris |
+
+### Verbatim clés Alec
+
+> *"L'épisode dédié [...] sur tous les réseaux qu'on [valorise] 20 000 €"*
+
+> *"Une session complète d'une heure sur scène donc 200 entrepreneurs, le jour de leur choix. On a déjà les dates [du Scaling Dubai] de septembre"*
+
+> *"Si tu veux, c'est plus de leur dire : 'écoute je t'échange les 18 [K USD] contre l'épisode dédié Déclic ainsi que le [séminaire]. Et en [contrepartie], tu peux être partenaire officiel d'un séminaire Scaling et tu en auras largement pour ton argent.'"*
+
+> *"Moi je trouve bien l'approche, je m'en remets à toi qu'on exécute"*
+
+### Stratégie d'envoi tranchée Boris 11/5
+
+**Option hybride C retenue** : email à Hugues avec DOCX en PJ envoyé avant le call, mais **déroulé principal pendant le call**. Combine préparation douce + effet structure.
+
+### Recherche W1 site Aikho — résultats
+
+Web-fetch sur aikho.ai effectuée 11/5 :
+- **Pas de programme d'affiliation public** → confirmation intuition Boris
+- **Pas de "Partners" section** sur le site
+- Aikho est jeune (launch 2024) en phase d'acquisition forte
+- Incubation In5 Tech Dubai + Google Cloud Partner Startup Program (partenariats institutionnels uniquement, pas commerciaux)
+- Plans actuels : Free, Recurring (Pro / Business), Enterprise, Pay-per-use
+- WhatsApp Business : +33 6 64 76 15 05 (numéro français, fondateur francophone)
+- Multilingue EN/AR/FR + focus GCC → alignement parfait avec base EC francophone
+
+→ **Argument structurel à exploiter en call** : nous serions **leur premier partenariat affilié structurel**. Angle "premier" intégré dans le pilier 3 du DOCX v2.
 
 ## Contexte de la propal
 
@@ -55,24 +97,24 @@ Verbatim Alec sur le tarif : *"Mais effectivement, en attendant, on peut le pass
 
 ## Plan d'envoi & d'activation
 
-### Étape 1 — Relire & valider (lundi 11/5 soir, 5 min)
-- Relire le DOCX
-- Valider la formulation française
-- Ajuster si Hugues mérite une approche différente (familiarité, formalité)
+### 🟢 Étape 1 — Envoyer email + DOCX v2 à Hugues (lundi 11/5 soir)
+- Email rédigé avec 3 variantes (cf. tool message_compose_v1 dans le chat 11/5)
+- Recommandation Boris : variante **"Email direct"** (subject : *"Avant notre call demain 14h — proposition Entrepreneurs.com × Aikho"*)
+- DOCX v2 en PJ
+- Alec en CC pour matérialiser le sponsor exécutif
+- Lien Google Meet à générer + envoyer en suivant
 
-### Étape 2 — Envoyer à Hugues (lundi 11/5 soir ou mardi 12/5 matin)
-- Email court avec le DOCX en PJ + lien Calendly pour caler la visio
-- Mettre Alec en CC pour montrer le sponsor exécutif
-- Subject suggéré : *"Au-delà du quote 18K — proposition de partenariat Entrepreneurs.com × Aikho"*
+### 🟢 Étape 2 — Préparer le call mardi 12 mai 14h00 (45 min max)
+- Présents : Hugues Pringault (GM Aikho), Alec Henry (CEO EC), Boris Arduy (Operating Partner)
+- Déroulé cible : présentation des 3 piliers + négo modalités + accord de principe
+- **Argument clé à pousser** : Aikho n'a **pas de programme d'affiliation public** → on serait leur premier partenariat affilié structurel
+- Fallback si Hugues bloque sur le 100K AED : Alec a indiqué 60K AED en marge de négo acceptable
+- Fallback si Hugues bloque sur la gratuité totale Enterprise : Alec a indiqué 500 USD/an comme prix plancher acceptable (vocal 11/5)
 
-### Étape 3 — Meeting visio
-- **Option A** : Visio dès mardi 12/5 ou mercredi 13/5 (semaine pré-Marrakech) — Boris pilote, Alec présent si dispo
-- **Option B** : Visio entre 20-25 mai pendant Marrakech — Alec physiquement avec Boris, peut prendre le call ensemble
-
-### Étape 4 — Négo & signature
-- Aikho a 15 jours pour répondre au quote initial → notre propal doit arriver dans cette fenêtre pour rester dans le timing commercial
-- Si Hugues accepte le principe : passer à un MOU/contrat de partenariat formel (pas le scope de cette propal one-pager)
-- Si Hugues refuse ou contre-propose : Alec a fixé un fallback à 500 USD/an (vocal 11/5)
+### Étape 3 — Suivi post-call
+- Si Hugues accepte le principe : passer à un MOU/contrat de partenariat formel
+- Cadence de suivi : DM Hugues sous 48h post-call avec compte-rendu
+- Si refus ou contre-propal trop loin : revenir vers Alec pour arbitrage
 
 ## Risques / points d'attention
 
@@ -93,6 +135,10 @@ Verbatim Alec sur le tarif : *"Mais effectivement, en attendant, on peut le pass
 
 ## Statut
 
-- **2026-05-11 soir** : Document généré, version 1, prête à envoyer
-- **2026-05-12 matin** : envoi DM/email à Hugues + calage meeting
-- **À mettre à jour** après réponse Hugues
+- **2026-05-11 matin** : Document v1 généré (one-pager, brand EC)
+- **2026-05-11 14h** : Document envoyé à Alec pour validation avant call
+- **2026-05-11 17h** : Retour vocal Alec reçu, **propal validée dans le principe**, ajustements de précision demandés (Déclic 20K€, séminaire septembre, 1h sur scène 200 entrepreneurs)
+- **2026-05-11 17h30** : **V2 générée + recherche W1 site Aikho effectuée + email Hugues rédigé** (3 variantes proposées)
+- **2026-05-11 soir cible** : Envoi email + DOCX v2 + lien Google Meet à Hugues (CC Alec)
+- **2026-05-12 14h00** : Call visio Hugues + Alec + Boris (45 min max)
+- **À mettre à jour** après call — accord de principe / contre-propal / refus
