@@ -9,9 +9,9 @@ related-sops:
   - "[[People-RH - Onboarding-Offboarding collaborateurs]]"
 related-frameworks:
   - "[[Cadre - Process IT-SaaS-Cybersec]]"
-tags: [contrats, prestataires, cartographie, finance, gouvernance, scope, audit]
+tags: [contrats, prestataires, cartographie, finance, gouvernance, scope, audit, cas-maj-confidentiel]
 source: entrepreneurs-com
-sensitivity: confidential
+sensitivity: confidential-max
 ---
 
 # Scope — Cartographie contrats prestataires Entrepreneurs.com
@@ -100,6 +100,10 @@ Tableau maintenu (à choisir : Notion DB sous Atlas Ventures / madetoscale, ou f
 4. **Nicolas Farolfi** — départ en cours, contrat de remplacement à mettre en place via Mithril. Clauses sortie à vérifier (cf. [[Nicolas Farolfi]]).
 5. **Anisse, Naïma, autres prestations IA** — état des contrats à confirmer.
 6. **Prestataires recrutés via Mithril en mai-juin** : 2-3 dévs offshore, Ops auto Maroc, PMO local, RH Dubai → contrats neufs, à cadrer dès l'entrée dans le SOP onboarding.
+7. **🔴 Maj (cabinet expertise-comptable Dubai)** — prestataire actuel d'EC. **Sortie probable post-arrivée Jordan Leroux** (Jordan est actuellement directeur comptable Maj, jusqu'au 15/5). Cf. [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]], verbatim Jordan : *"vous êtes tous clients Maj pour le moment. Je pense que ça sautera si tout se passe comme moi je le veux."*
+   - **⚠️ CONFIDENTIALITÉ MAX** : Maxime (CEO Maj) ne doit pas être informé du recrutement de Jordan chez EC. Toute discussion sur la relation Maj × EC entre le 11/5 et le 15/5 (date sortie Jordan) doit rester côté EC uniquement.
+   - **Posture Boris arrêtée 11/5** : ne pas rouvrir le sujet "prestation Maj" auprès d'Alec cette semaine. **Attendre que Jordan le propose lui-même post-arrivée (18/5+)**.
+   - **Cadre de mission Maj actuel** : panel de services aux expatriés français (compta + fiscalité + conformité). À cartographier proprement avant toute décision de sortie.
 
 ## Articulation avec les autres chantiers
 
@@ -131,3 +135,5 @@ Tableau maintenu (à choisir : Notion DB sous Atlas Ventures / madetoscale, ou f
 - [[Cadre - Process IT-SaaS-Cybersec]]
 - [[Mohamed]]
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]]
+- [[Jordan Leroux]] — target owner permanent post-stabilisation pôle Finance/RH (arrivée 18/5)
+- [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] — contexte cas Maj confidentiel

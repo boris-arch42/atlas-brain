@@ -4,7 +4,7 @@ status: latent
 priority: basse
 date-created: 2026-05-11
 owner: "[[Boris Arduy]]"
-target-decideur: "[[Jordan]] (choix qui doit émaner de lui)"
+target-decideur: "[[Jordan Leroux]] (choix qui doit émaner de lui)"
 related-business-case: "[[Business-Case - Recrutement RH Dubai - 2026-05-10]]"
 tags: [note, profil-indien, saisie-comptable, offshore, jordan, dubai, finance, latent, choix-jordan]
 source: entrepreneurs-com
@@ -20,6 +20,12 @@ sensitivity: internal
 ## L'idée en 30 secondes
 
 Lors du weekly du 11/5, Fabrice a proposé un profil unifié RH admin + saisie comptable pour Dubai. Boris a recadré : 2 profils séparés. Alec a validé le recadrage **et** a planté la graine d'un profil Indien complémentaire pour appuyer Jordan sur la saisie comptable et l'opérationnel financier.
+
+**🟢 Confirmation directe Jordan 11/5 (1-1 relationnel)** : Jordan **manage actuellement 2 personnes dans un cabinet d'expertise-comptable indien** (sous-traitance chez Maj). Connaissance native de la mécanique. Cf. [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]].
+
+Verbatim Jordan : *"Ils sont très bons avec les chiffres pour produire, ils sont très bons. La vraie limite, c'est rien que communiquer. (...) Mais en effet, c'est limité quand on parle de communication."*
+
+→ **Implication forte** : si Jordan active ce sujet post-arrivée, il n'aura pas besoin de tout réinventer — il a déjà la mécanique sourcing + management + limites natives.
 
 L'argument d'Alec :
 - Jordan a constitué et managé des équipes Indiennes chez Maj (entreprise précédente)
@@ -61,7 +67,8 @@ Lien naturel avec [[Business-Case - Recrutement RH Dubai - 2026-05-10]] mais **p
 ## Notes liées
 
 - [[Business-Case - Recrutement RH Dubai - 2026-05-10]] — profil RH Dubai (validé Alec 11/5)
-- [[Jordan]] — futur Head Finance/RH, décideur sur ce sujet
+- [[Jordan Leroux]] — futur Head Finance/RH, décideur sur ce sujet, **expertise management équipe Inde déjà confirmée** (manage 2 personnes chez Maj actuellement)
+- [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] — confirmation directe expertise Jordan
 - [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]] — verbatim Alec source
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] — KR2.2 (audit dépenses) qui pourrait révéler le besoin
 - [[Alec Henry]] — sponsor de l'idée, à relancer si pertinent

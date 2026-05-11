@@ -76,6 +76,14 @@ Alec parle d'un call fait vendredi 9/5 comme "suivi parfait" pour cadrer. **Bori
 - **À ne pas faire** : prendre la main sur l'exécution prep cette semaine alors que la priorité 1 est Sales Bis Kelly jusqu'à dimanche.
 - **À faire** : clarifier rapidement avec Alec/Océane quel est ton rôle attendu, t'aligner sur les workstreams, ne pas être absent du sujet sans pour autant le porter.
 
+### Personnes pressenties / non pressenties
+
+- **Boris** : présent du 20 au 25-26 mai (confirmé au 1-1 Jordan 11/5)
+- **Alec** : présent (le mentionne en weekly)
+- **Océane** : présence incertaine (verbatim Alec : *"peut-être elle ne va même pas venir à Marrakech"* — lié à sa surcharge structurelle, cf. [[Océane De Queiros]])
+- **Sabrina** : probablement présente (Head of CS, équipes + clients sur place)
+- **🔴 Jordan Leroux** : **PAS présent à Marrakech**. Sa première occurrence physique avec l'équipe EC sera le team building Paris début juin (semaine d'onboarding J+0 → J+5, pas de pertinence à l'envoyer en event clientèle)
+
 ## Action plan court terme (S2 mai)
 
 | Jour | Action |
@@ -97,8 +105,10 @@ Alec parle d'un call fait vendredi 9/5 comme "suivi parfait" pour cadrer. **Bori
 ## Notes liées
 
 - [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]] — source verbatim Alec
-- [[Océane De Queiros]] — owner com probable
+- [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] — Boris confirme présence 20-25 mai (à Jordan)
+- [[Océane De Queiros]] — owner com probable, présence incertaine
 - [[Sabrina Dahel]] — owner CS / équipes probable
 - [[Alec Henry]] — sponsor / décideur final
 - [[Fabrice Jaeger]] — co-pilote côté Dubai
+- [[Jordan Leroux]] — pas présent (arrivée 18/5, première occurrence physique = team building Paris début juin)
 - [[Scope - Documentation système Sales Bis - Lancement Kelly]] — priorité concurrente cette semaine

@@ -6,7 +6,7 @@ date-created: 2026-05-10
 last-updated: 2026-05-11
 status: validated-alec (verrouillé en weekly Fabrice×Alec 11/5)
 head-owner: "[[Boris Arduy]]"
-target-manager: "[[Jordan]]"
+target-manager: "[[Jordan Leroux]]"
 target-supervision-transitional: "[[Fabrice Jaeger]]"
 tags: [recrutement, business-case, aikho, dubai, rh, finance, jordan, nouveau-role]
 source: entrepreneurs-com
@@ -21,7 +21,7 @@ sensitivity: confidential
 > - **Budget verrouillé** : 12-16K AED/mois inclus bonus, package global < 200K AED/an (verbatim Alec : *"12 fois 15 ou 16 fois 15 grosso modo et tu as le package global, donc moins de 200 000 AED"*)
 > - **Profil** : bilingue français/anglais — non négociable selon Alec (*"faut que la personne ressemble à quelque chose, parle français, rassure et donne confiance aux gens"*)
 > - **Format** : 2 profils séparés tranché (RH admin + saisie comptable Indien plus tard). Tentative Fabrice de profil unifié rejetée par Alec en séance après recadrage Boris.
-> - **Process entretien** : R1 Aikho → R2 Jordan → R3 Alec en physique entre 25-30 mai à Dubai (préférence Alec : *"je suis physiquement là et au moins on fera pas une Guillaume"* — peur d'écart énergie visio vs présentiel)
+> - **Process entretien** : R1 Aikho → R2 [[Jordan Leroux]] → R3 Alec en physique entre 25-30 mai à Dubai (préférence Alec : *"je suis physiquement là et au moins on fera pas une Guillaume"* — peur d'écart énergie visio vs présentiel). **Note 11/5 post-call relationnel Jordan** : le R2 Jordan est verrouillé côté Boris/Alec mais **pas encore confirmé avec Jordan** — le business case ne lui a pas encore été présenté. À aligner avec lui dès la semaine du 18/5 (post-arrivée).
 > - **Démarrage cible** : ~10 juin, post-séminaire team building Paris (Alec part début juin pour 10j)
 > - **Posture qualité > vitesse** : verbatim Alec : *"Si on trouve la pépite avec Jordan, ça serait nickel. Si on la trouve pas, par contre, on s'en bat les *. On fait plus les mêmes erreurs qu'on a trop fait ce début d'année."*
 > - **Lancement Aikho confirmé** : *"entre demain et mercredi"* (Boris en séance) — donc mardi 12 ou mercredi 13 mai.
@@ -99,10 +99,10 @@ Trois missions principales sur les 3 premiers mois :
 ## 8. Process d'entretien — verrouillé Alec en weekly 11/5
 
 1. **R1 — Aikho async interview + scoring structuré** (étape standard SOP Aikho)
-2. **R2 — Jordan** (futur manager direct, démarre 18/5 donc dispo pour rencontrer rapidement les premiers profils)
+2. **R2 — [[Jordan Leroux]]** (futur manager direct, démarre 18/5 donc dispo pour rencontrer rapidement les premiers profils). **Note 11/5** : le rôle R2 de Jordan dans ce process n'a pas encore été validé avec lui — à figer au 1-1 d'arrivée 18/5.
 3. **R3 — Alec en physique à Dubai** entre 25-30 mai (verbatim Alec : *"je suis physiquement là et au moins on fera pas une Guillaume"*)
 
-> Note : l'exercice technique initial (cas pratique CTO Dubai) reste pertinent à intégrer en étape Aikho ou entre R1 et R2 si Jordan veut un signal additionnel. À arbitrer avec Jordan dès son arrivée 18/5.
+> Note : l'exercice technique initial (cas pratique CTO Dubai) reste pertinent à intégrer en étape Aikho ou entre R1 et R2 si Jordan veut un signal additionnel. À arbitrer avec [[Jordan Leroux]] dès son arrivée 18/5.
 
 > Note : Fabrice ne fait **pas** d'entretien dédié (selon décision Alec 11/5). S'il est physiquement présent au moment d'un R3, il peut accompagner Alec sans que ce soit une étape formelle.
 
@@ -130,7 +130,7 @@ Spécificités à intégrer à la fiche :
 
 **Validation Operating Partner** : ☑ approuvé (auto-validation Boris) — 2026-05-11
 **Validation CEO** : ☑ approuvé (Alec, weekly Fabrice×Alec) — 2026-05-11
-**Validation futur manager** : ☐ à confirmer avec Jordan (call relationnel 11/5 13h, puis 1-1 d'arrivée 18/5)
+**Validation futur manager** : ☐ à confirmer avec [[Jordan Leroux]] dès son arrivée 18/5 (le call 11/5 a été purement relationnel, le business case ne lui a pas été présenté)
 **Commentaires** : Lancement Aikho J+1 à J+2 (mardi 12 ou mercredi 13 mai). R3 physique Alec calé 25-30 mai à Dubai. Démarrage cible 10 juin.
 
 ## Notes liées
@@ -142,5 +142,6 @@ Spécificités à intégrer à la fiche :
 - [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]] — verrouillage Alec en séance
 - [[Note - Profil Indien saisie comptable pour Jordan (référence Maj)]] — profil complémentaire à creuser plus tard, lié à cette fonction
 - [[Fabrice Jaeger]] — futur GM Dubai, supervision transitoire
-- [[Jordan]] — futur manager direct, pôle Finance/RH
+- [[Jordan Leroux]] — futur manager direct, pôle Finance/RH (fiche créée 11/5 post-call relationnel)
+- [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] — 1er call relationnel Boris × Jordan
 - [[Aikho]] — outil unique du process recrutement
