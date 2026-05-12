@@ -57,8 +57,9 @@ Décision business : **externaliser le traitement de ces ~20 000 prospects** ver
 - [[Architecture - Funnel parallèle closers externes]] — architecture technique complète + plan de déploiement
 - [[Infrastructure - Setup en cours]] — log de setup avec statuts à jour, décisions prises, IDs critiques
 - [[Scenario A2 - iClosed vers Zoho]] — spec complète du scenario Make A2 (production-ready depuis le 9 mai)
-- [[Closers - Liste opérationnelle Kelly]] — liste des 38 closers par agence, emails, MDP provisoires, CSV import Zoho
-- [[Produit - Méthode Boss Energy]] — catalogue produit Zoho (6 variantes pricing 1x à 6x), description, procédure d'import
+- [[Closers - Liste opérationnelle Kelly]] — liste des 42 closers par agence, emails, MDP provisoires, CSV import Zoho
+- [[Produit - Méthode Boss Energy]] — catalogue produit Zoho (1 produit unique à 5700€, plans paiement 1à 6 fois gérés en custom fields Deal)
+- [[Scenario A4 - DocuSign Zoho]] — automation DocuSign post-event (scope défini, build prévu semaine du 26 mai)
 
 ### Partenariats
 - [[Partenaires - Vue d'ensemble 3 agences]] — vue agrégée + comparatifs + écart commission
