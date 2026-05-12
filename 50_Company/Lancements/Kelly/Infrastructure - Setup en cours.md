@@ -28,15 +28,15 @@ sensitivity: confidential
 | Zoho CRM — Custom fields Deals | ✅ Créés (9 mai) | Agence_Assignee, Origine_du_lead, Format, Code_Produit, Modalites_paiement, Duree_prestation, Nb_mensualites, Date_demarrage, Statut_contrat, Etat_paiements |
 | Zoho CRM — Pipeline Deal | ✅ Créé (9 mai) | `Kelly Launch — Agences Externes` avec 6 stages : Appel Réservé → R1 → R2 → R3 → Engagé → Fermé Gagné |
 | Zoho CRM — User boris@ | ✅ Créé (9 mai) | 2e user Pro, User ID `983392000000615324`, distinct de l'admin `drive@entrepreneurs.com` |
-| Zoho CRM — Users closers (38) | 🟡 CSV prêt (10 mai) | Import à venir. Cf. [[Closers - Liste opérationnelle Kelly]] |
+| Zoho CRM — Users closers (42) | ✅ Importés (10 mai) | 42/42 importés en 2 batches. Batch 1 = 38 users. Batch 2 = 4 users Next Sales (Nabil, Guilian, Axel SH, Walid) après upgrade licences Zoho. Cf. [[Closers - Liste opérationnelle Kelly]] |
 | Short.io — compte | ✅ Créé | Plan Free, domaine `kelly-ec.short.gy` |
 | Short.io — Splitter | ✅ Créé et testé | Lien `kelly-ec.short.gy/kelly-route`, routing 25/50/25 |
 | Short.io — URLs cibles définitives | ✅ Mises à jour (9 mai) | Pointent vers les 3 pages ClickFunnels avec embed iClosed (cf. ci-dessous) |
 | Short.io — Forward parameters | ✅ Validé | UTMs préservés end-to-end (Tally → Short.io → CF → iClosed → Zoho) |
 | iClosed — events Kelly (3) | ✅ Créés (9 mai) | `kelly-tiptalent`, `kelly-momentum`, `kelly-nextsales` (NB: Axel renommé Next Sales) |
 | iClosed — embed sur ClickFunnels | ✅ Live | 3 pages CF entrepreneurs.com avec embed iClosed correspondant |
-| iClosed — hosts closers (38) | ✅ Ajoutés (10 mai) | 10 TT + 21 Momentum + 7 Next Sales, tous configurés en Round Robin sur l'event de leur agence. Cf. [[Closers - Liste opérationnelle Kelly]] |
-| Emails @entrepreneurs.com closers (38) | ✅ Créés (10 mai) | Convention `prenom.nom@entrepreneurs.com`. MDP provisoires distribués aux closers via leurs managers d'agence. |
+| iClosed — hosts closers (42) | 🟡 Ajoutés (10 mai) | 10 TT + 21 Momentum + 11 Next Sales, configurés en Round Robin sur l'event de leur agence. Walid Mellal (Next Sales) en attente d'activation iClosed. Cf. [[Closers - Liste opérationnelle Kelly]] |
+| Emails @entrepreneurs.com closers (42) | ✅ Créés (10 mai) | Convention `prenom.nom@entrepreneurs.com`. MDP provisoires distribués aux closers via leurs managers d'agence. |
 | **Make scenario A2 (booking → Zoho)** | ✅ **Production-ready (9 mai)** | Cf. [[Scenario A2 - iClosed vers Zoho]] — 11 modules, dédup, owner dynamique. Toggle OFF en attente du go-live. |
 | Make scenario A2bis (cancellations) | 🔴 À faire | Roadmap V2 |
 | Make scenario A2ter (reschedule) | 🔴 À faire | Roadmap V2 |
@@ -160,6 +160,7 @@ Entrepreneurs.com
 | 10 mai | 38 closers ajoutés en host iClosed avant la création des users Zoho | Permet de capter les emails exacts et de tester le Round Robin en amont. Import Zoho préparé en CSV mais pas encore exécuté. |
 | 10 mai | Renommage des roles Zoho `Sales Axel` → `Sales Next Sales` et `Manager Axel` → `Manager Next Sales` | Cohérence avec le rename global Axel → Next Sales. |
 | 10 mai | Pas de users Zoho pour les managers d'agence (Romain, Lucas, Hélène, Axel, Aziz) en V1 | Scope minimal pour le go-live. Focus closers qui prennent les calls. Manager users à ajouter post-event si besoin. |
+| 10 mai | Upgrade Zoho au-dessus du seuil trial (>40 users) | Nécessaire pour importer les 42 closers. Souscription Pro payante anticipée par rapport à l'expiration trial du 7 juin. |
 
 ## Points en attente
 
