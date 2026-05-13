@@ -3,21 +3,23 @@ type: ressource-automation
 source: build session Boris ×Claude — 12-13 mai 2026
 date-build: 2026-05-12 / 2026-05-13
 date-analyzed: 2026-05-13 (J12)
-status: V1.2 — en production (2 scénarios Make, funnel Kelly Launch complet)
+status: V1.3 — en production (2 scénarios Make + dashboard live Vercel)
 participants: "Boris Arduy"
-context: "automatisation génération contrats MÉTHODE BOSS (scénario 1) + log des ventes fermées (scénario 2). Funnel Kelly Launch complet bout-en-bout dans Google Sheets : Tally → RDV → Contrats envoyés → Ventes fermées."
+context: "automatisation complète Kelly Launch — Agences Externes : génération contrats DocuSign sur Engagé, log ventes fermées, funnel Sheets 4 onglets, dashboard React Vercel avec auth + token. Architecture pensée pour 50-200 contrats/mois."
 sensitivity: confidential
-tags: [zoho, docusign, make, automation, contrats, kelly-launch, boss-energy, google-sheets, funnel, ventes, J12, aries-consulting, ops]
+tags: [zoho, docusign, make, automation, contrats, kelly-launch, boss-energy, google-sheets, funnel, ventes, dashboard, vercel, apps-script, J12, aries-consulting, ops]
 related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit IT)"
 ---
 
-# ⚙️ Automation Zoho ↔ Make ↔ DocuSign / Sheets — Funnel Kelly Launch V1.2
+# ⚙️ Automation Zoho ↔ Make ↔ DocuSign / Sheets / Dashboard — Funnel Kelly Launch V1.3
 
-> **Contexte** : construction le 12-13 mai 2026 de **2 pipelines d'automatisation** complémentaires pour le pipeline Kelly Launch — Agences Externes (Entrepreneurs.com / ARIES Consulting FZCO) :
-> 1. **Scénario 1** : génération + envoi automatique des contrats MÉTHODE BOSS quand un Deal passe à `Engagé` dans Zoho
-> 2. **Scénario 2** : log des ventes finalisées quand un Deal passe à `Fermé Gagné` dans Zoho
+> **Contexte** : construction le 12-13 mai 2026 de l'infrastructure complète Kelly Launch :
+> 1. **Scénario 1** : génération + envoi automatique des contrats MÉTHODE BOSS quand un Deal passe à `Engagé`
+> 2. **Scénario 2** : log des ventes finalisées quand un Deal passe à `Fermé Gagné`
+> 3. **Funnel Google Sheets centralisé** à 4 étapes (Tally → Bookings → Contrats → Ventes)
+> 4. **Dashboard analytics React** déployé sur Vercel avec auth + token, data via Apps Script
 >
-> Les deux alimentent un **funnel Google Sheets centralisé** à 4 étapes (Tally → RDV → Contrats → Ventes). Architecture pensée pour 50-200 contrats/mois.
+> Architecture pensée pour 50-200 contrats/mois.
 >
 > **Pourquoi cette note** : référence technique + runbook + journal de debugging. À consulter en cas d'incident, d'évolution V2, ou pour onboarder un dev/admin.
 
@@ -25,16 +27,18 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
 
 ## ⚡ Synthèse en 30 secondes
 
-- 🟢 **Funnel Kelly Launch complet en prod** : Tally → RDV → Contrats envoyés → Ventes fermées (4 onglets Sheets dans le même fichier `Stockage Tally`)
+- 🟢 **Funnel Kelly Launch complet en prod** : Tally → Bookings → Contrats envoyés → Ventes fermées (4 onglets Sheets dans `Stockage Tally`)
 - 🟢 **Scénario 1 — Contrats (5 modules)** : Zoho `Engagé` → Webhook → Get Deal → DocuSign API (envelope from template + tabs pré-remplis + routing client/Alec) → update Zoho `Statut contrat = Envoyé` → log Sheets `Contrats envoyés`
 - 🟢 **Scénario 2 — Ventes fermées (3 modules)** : Zoho `Fermé Gagné` → Webhook → Get Deal → log Sheets `Ventes fermées`
-- 🟢 **0 ligne de Deluge** — tout no-code Make + API calls bruts
-- 🟢 **Tests bout-en-bout validés** : envelope DocuSign (08h34), ligne `Contrats envoyés` (09h12), ligne `Ventes fermées` (11h33) — toutes le 13 mai 2026
+- 🟢 **Dashboard React live** : `https://kelly-dashboard-sigma.vercel.app` — funnel viz, KPI cards, time series 30 jours, breakdowns Format/Agence, tableau détail CA — auto-refresh 60s — fond blanc + accents noir/rouge Entrepreneurs.com
+- 🟢 **3 couches de sécurité dashboard** : Vercel Authentication (Standard Protection) + URL Apps Script secrète + token de vérification
+- 🟢 **0 ligne de Deluge** — tout no-code Make + API calls bruts + Apps Script web app
+- 🟢 **Tests bout-en-bout validés 13 mai** : envelope DocuSign (08h34), ligne `Contrats envoyés` (09h12), ligne `Ventes fermées` (09h33), dashboard live (13h)
 - 🟢 **Garde-fou anti-doublon scénario 1** : condition `Statut contrat ≠ Envoyé`
 - 🟡 **Pas de garde-fou anti-doublon scénario 2** — passage en Fermé Gagné rare, doublon dans le sheet non-critique
-- 🟡 **`Date 1er paiement` en saisie manuelle directe dans le sheet** (Feuille 4) par la compta/admin — pas remontée depuis Zoho car non systématiquement remplie côté CRM
-- 🔴 **Tab "Alec Henry"** dans template DocuSign mis de côté volontairement — utilité non documentée
-- 🔴 **Recipient 2 DocuSign = `sales@entrepreneurs.com` au nom d'Alec** : à transitionner vers l'assistante dédiée
+- 🟡 **`Date 1er paiement` en saisie manuelle** dans le sheet Feuille 4 par compta/admin
+- 🔴 **Tab "Alec Henry"** dans template DocuSign mis de côté volontairement
+- 🔴 **Recipient 2 DocuSign = `sales@entrepreneurs.com` au nom d'Alec** : à transitionner vers assistante dédiée
 
 ---
 
@@ -50,7 +54,7 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
 │  Condition : Statut contrat ≠ "Envoyé"                      │
 │  Action : Webhook POST → Make                               │
 └────────────────────────┬────────────────────────────────────┘
-                         │ payload JSON {deal_id, stage, deal_name}
+                         │ payload {deal_id, stage, deal_name}
                          ▼
 ┌─────────────────────────────────────────────────────────────┐
 │  MAKE — "Zoho → DocuSign — Contrats BOSS-ENERGY" (5 modules)│
@@ -74,38 +78,67 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
 │  ZOHO CRM                                                   │
 │  Affaire passe Stage = "Fermé Gagné"                        │
 │  Workflow Rule "Trigger Log Vente — Fermé Gagné"            │
-│  Condition : aucune (Tous les Affaires)                     │
 │  Action : Webhook POST → Make                               │
 └────────────────────────┬────────────────────────────────────┘
-                         │ payload JSON {deal_id, stage, deal_name}
+                         │ payload {deal_id, stage, deal_name}
                          ▼
 ┌─────────────────────────────────────────────────────────────┐
 │  MAKE — "Zoho → Sheets — Ventes fermées" (3 modules)        │
 │                                                             │
-│  [1] Webhooks Custom — reçoit le payload                    │
-│  [2] Zoho Get an Object — récupère le Deal complet          │
+│  [1] Webhooks Custom                                        │
+│  [2] Zoho Get an Object                                     │
 │  [3] Google Sheets Add a Row — log Feuille 4                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Ordre des modules volontaire (scénario 1)** : le log Sheets vient **après** le succès DocuSign + update Zoho. Si DocuSign échoue, pas de log → on évite les fausses lignes pour des contrats qui ne sont jamais partis.
+### Dashboard live
 
-**Pourquoi 2 scénarios séparés et pas 1 avec Router** : déclencheurs métier distincts (envoi vs closing), garde-fous différents, troubleshooting indépendant. Si un scénario casse, l'autre continue.
+```
+┌─────────────────────────────────────────────────────────────┐
+│  GOOGLE SHEETS "Stockage Tally" (4 onglets)                 │
+│  privé — accès via Apps Script uniquement                   │
+└────────────────────────┬────────────────────────────────────┘
+                         │
+                         ▼
+┌─────────────────────────────────────────────────────────────┐
+│  APPS SCRIPT "Kelly Launch API"                             │
+│  - Web App, accès "Toute personne"                          │
+│  - Exécuté en tant que Boris (accède au sheet privé)        │
+│  - Vérification token avant chaque requête                  │
+│  - Retourne JSON des 4 onglets                              │
+└────────────────────────┬────────────────────────────────────┘
+                         │ HTTPS GET ?token=KL-7f9a2c...
+                         ▼
+┌─────────────────────────────────────────────────────────────┐
+│  DASHBOARD REACT (Vite)                                     │
+│  - Hébergé sur Vercel (kelly-dashboard-sigma.vercel.app)    │
+│  - GitHub repo privé boris961/kelly-dashboard               │
+│  - fetch + credentials: 'omit' (évite cookies Google)       │
+│  - Auto-refresh 60s + bouton manuel                         │
+│  - Vercel Authentication (Standard Protection) active       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Ordre des modules volontaire (scénario 1)** : log Sheets vient **après** DocuSign + Zoho. Si DocuSign échoue, pas de log → pas de fausses lignes.
+
+**Pourquoi 2 scénarios Make séparés et pas 1 avec Router** : déclencheurs métier distincts, troubleshooting indépendant. Si un scénario casse, l'autre continue.
+
+**Pourquoi 3 couches de sécurité dashboard** : Vercel Auth empêche l'accès sauvage à l'URL Vercel · URL Apps Script secrète (100+ caractères random) · Token de vérification empêche quelqu'un qui aurait deviné l'URL d'y accéder direct.
 
 ---
 
 ## 📊 Funnel Kelly Launch dans Google Sheets
 
-Le fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` contient **4 onglets** qui matérialisent les étapes du funnel :
+Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 
-| Étape | Onglet Sheets | Source | Module concerné |
-|---|---|---|---|
-| **1. Qualif inbound** | Feuille 1 — `Tally complétés` | Tally form responses | Scénario Tally → Sheets pré-existant |
-| **2. Closing call planifié** | Feuille 2 — `RDV bookés` | Booking iClosed (ou équivalent) | Scénario pré-existant |
-| **3. Contrat envoyé** | Feuille 3 — `Contrats envoyés` | Make scénario 1, module 5 | Module 5 du scénario 1 |
-| **4. Vente fermée** | Feuille 4 — `Ventes fermées` | Make scénario 2, module 3 | Module 3 du scénario 2 |
+| Étape | Onglet Sheets | Source |
+|---|---|---|
+| **1. Qualif inbound** | `Tally` | Tally form responses (scénario pré-existant) |
+| **2. Closing call planifié** | `Bookings` | iClosed (scénario pré-existant) |
+| **3. Contrat envoyé** | `Contrats envoyés` | Make scénario 1, module 5 |
+| **4. Vente fermée** | `Ventes fermées` | Make scénario 2, module 3 |
 
-→ Permet de mesurer les taux de conversion étape par étape directement dans Sheets, sans dépendance Zoho.
+→ Source unique pour mesurer les taux de conversion étape-par-étape, sans dépendance Zoho.
 
 ---
 
@@ -127,19 +160,32 @@ Le fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` contient **4 ong
 |---|---|
 | **Make webhook URL (scénario 2)** | `https://hook.eu2.make.com/exh9u435l7gcj6bte8e0hfzo74sbkmin` |
 
-### Communs aux 2 scénarios
+### Dashboard
+
+| Élément | Valeur |
+|---|---|
+| **URL Dashboard live** | `https://kelly-dashboard-sigma.vercel.app` |
+| **GitHub repo** | `https://github.com/boris961/kelly-dashboard` (privé) |
+| **Apps Script web app URL** | `https://script.google.com/macros/s/AKfycbzMugJCbnzeOBGL0gjCKWYuAWiwXaTsO58-PYl1vgbDkfszMBYd_uW9vO-4IIfVItK7yw/exec` |
+| **Token d'auth Apps Script** | `KL-7f9a2c4e8b6d1f3a-2026` ⚠️ secret partagé |
+| **Vercel project** | `boris961's projects / kelly-dashboard` (Hobby plan, gratuit) |
+| **Vercel Authentication** | Active — Standard Protection (Require Log In) |
+
+### Communs
 
 | Élément | Valeur |
 |---|---|
 | **Zoho Connection name (Make)** | `Zoho CRM` |
 | **Zoho instance** | `zoho.eu` |
 | **Module Zoho** | `Affaires` (Deals) |
-| **Google Sheets spreadsheet** | `0.01 Projets / 4. Lancement Kelly / Stockage Tally` |
-| **Google Sheets onglet Contrats** | `Contrats envoyés` (Feuille 3) |
-| **Google Sheets onglet Ventes** | `Ventes fermées` (Feuille 4) |
+| **Google Sheets spreadsheet** | `Stockage Tally` (`1XTVJvuabrKtScKaLNFl9bBo3n-75Gz7O2C3WyU0H0aI`) |
+| **Onglets Sheets** | `Tally · Bookings · Contrats envoyés · Ventes fermées` |
 | **Google Sheets connection (Make)** | `Boris (boris@entrepreneurs.com)` |
 
-⚠️ **Toutes ces valeurs sont à protéger** — leur compromission permettrait à un tiers d'envoyer des contrats au nom d'ARIES ou de polluer les sheets. Si exposition suspectée, révoquer l'API key DocuSign + régénérer les webhooks Make.
+⚠️ **Toutes ces valeurs sont sensibles** — leur compromission permettrait à un tiers d'envoyer des contrats au nom d'ARIES, lire les data du funnel, ou polluer le sheet. Si exposition suspectée :
+- Révoquer l'API key DocuSign + régénérer les webhooks Make
+- Régénérer le token Apps Script (changer la constante `SECRET_TOKEN` dans le code Apps Script + dans `App.jsx` du dashboard + push)
+- Régénérer un nouveau déploiement Apps Script (génère une nouvelle URL `/exec`)
 
 ---
 
@@ -171,8 +217,6 @@ Le fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` contient **4 ong
 
 ### Body JSON commun aux 2 webhooks
 
-Les 2 webhooks envoient le même payload minimal — Make refetch le Deal complet ensuite via `Get an Object`.
-
 ```json
 {
   "deal_id": "${Affaires.ID Affaire}",
@@ -181,7 +225,7 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 }
 ```
 
-⚠️ **À INSÉRER via la touche `#`** dans l'éditeur Zoho, pas en copier-coller texte brut — sinon Zoho refuse "Nom de l'Affaire" à cause de l'apostrophe (cf. piège #10 du debugging journal).
+⚠️ **À INSÉRER via la touche `#`** dans l'éditeur Zoho, pas en copier-coller texte brut — sinon Zoho refuse "Nom de l'Affaire" à cause de l'apostrophe (cf. piège #10).
 
 ---
 
@@ -211,7 +255,7 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 | Method | `POST` |
 | Headers | `Content-Type: application/json` |
 
-⚠️ Pas de `/restapi` au début (Make l'ajoute), Account ID à laisser littéral `{accountId}` (Make remplace par la connexion).
+⚠️ Pas de `/restapi` au début (Make l'ajoute), Account ID à laisser littéral `{accountId}`.
 
 **Body JSON complet** :
 
@@ -261,7 +305,7 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 | URL | `/v2/Deals/{{2.Object ID}}` |
 | Method | `PUT` |
 
-⚠️ Pas de `/crm` au début (Make l'ajoute).
+⚠️ Pas de `/crm` au début.
 
 **Body** :
 
@@ -284,20 +328,7 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 | Sheet | **`Contrats envoyés`** (Feuille 3) |
 | Use column headers as IDs | **Yes** |
 
-**Mapping des 10 colonnes** :
-
-| Colonne | Source Make |
-|---|---|
-| Date envoi | `{{now}}` |
-| Deal ID | `{{2.Object ID}}` |
-| Nom Affaire | `{{2.Nom de l'Affaire}}` |
-| Société | `{{2.Nom de l'entreprise}}` |
-| Email signataire | `{{2.Email du signataire}}` |
-| Nom signataire | `{{2.Nom du signataire}}` |
-| Format | `{{2.Format}}` |
-| Modalités | `{{2.Modalites paiement}}` |
-| Montant HT | `{{2.Montant Total HT}}` |
-| DocuSign Envelope ID | `{{3.envelopeId}}` |
+**Mapping des 10 colonnes** : Date envoi (`{{now}}`) · Deal ID · Nom Affaire · Société · Email signataire · Nom signataire · Format · Modalités · Montant HT · DocuSign Envelope ID (`{{3.envelopeId}}`)
 
 ---
 
@@ -305,86 +336,145 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 
 ### Module 1 — Webhooks > Custom webhook
 
-| Champ | Valeur |
-|---|---|
-| Webhook name | `Zoho Deal Fermé Gagné` |
-| Output attendu | `{deal_id, stage, deal_name}` |
+Webhook name : `Zoho Deal Fermé Gagné`
 
 ### Module 2 — Zoho CRM > Get an Object
 
-| Champ | Valeur |
-|---|---|
-| Connection | `Zoho CRM` (réutilise celle du scénario 1) |
-| Module | `Deals` |
-| Object ID | `{{1.deal_id}}` |
+Identique scénario 1 (réutilise la même connection).
 
 ### Module 3 — Google Sheets > Add a Row
 
 | Champ | Valeur |
 |---|---|
-| Connection | `Boris (boris@entrepreneurs.com)` |
-| Spreadsheet | `Stockage Tally` |
 | Sheet | **`Ventes fermées`** (Feuille 4) |
 | Use column headers as IDs | **Yes** |
 
-**Mapping des 13 colonnes** :
-
-| Colonne | Source Make |
-|---|---|
-| Date closing | `{{now}}` |
-| Deal ID | `{{2.Object ID}}` |
-| Nom Affaire | `{{2.Nom de l'Affaire}}` |
-| Société | `{{2.Nom de l'entreprise}}` |
-| Email signataire | `{{2.Email du signataire}}` |
-| Nom signataire | `{{2.Nom du signataire}}` |
-| Format | `{{2.Format}}` |
-| Modalités | `{{2.Modalites paiement}}` |
-| Montant HT | `{{2.Montant Total HT}}` |
-| Mensualités | `{{2.Mensualités}}` |
-| Source / Agence | `{{2.Agence_Assignee}}` |
-| **Date 1er paiement** | **(non mappé)** — saisie manuelle directe dans le sheet par la compta/admin |
-| Closer | `{{2.Gestionnaire de l'Affaire.name}}` ⚠️ avec `.name` (champ Collection) |
-
-**Choix design `Date 1er paiement` saisie manuelle** : ce champ n'est pas systématiquement rempli dans Zoho côté CRM (l'admin a parfois l'info en direct sans passer par Zoho). Saisie manuelle dans le sheet = source unique côté finance, évite de devoir double-saisir Zoho juste pour que Make recopie.
+**Mapping des 13 colonnes** : Date closing (`{{now}}`) · Deal ID · Nom Affaire · Société · Email signataire · Nom signataire · Format · Modalités · Montant HT · Mensualités · Source / Agence · **Date 1er paiement** (non mappé — saisie manuelle compta) · Closer (`{{2.Gestionnaire de l'Affaire.name}}` avec `.name`)
 
 ---
 
-## 📋 Mapping complet Zoho ↔ DocuSign (scénario 1)
+## 🎨 Dashboard React — Configuration complète
 
-| # | Champ Zoho Affaire | Tab DocuSign | Recipient cible |
-|---|---|---|---|
-| 1 | `Nom de l'entreprise` | `Nom de la société` | Client |
-| 2 | `Adresse postale` | `Adresse postale` | Client |
-| 3 | `Ville` | `Ville` | Client |
-| 4 | `Code postal` | `Code postal` | Client |
-| 5 | `Pays` | `Pays` | Client |
-| 6 | `Numéro d'immatriculation` | `Numéro d'immatriculation` | Client |
-| 7 | `Nom du signataire` | `Représenté par` | Client |
-| 8 | `Fonction du signataire` | `Fonction` | Client |
-| 9 | `Email du signataire` | `Adresse mail` + Recipient email | Client |
-| 10 | `Téléphone du signataire` | `Téléphone` | Client |
-| 11 | `Montant Total HT` | `Montant HT` | Client |
-| 12 | `Modalité de paiement (texte)` | `Modalités de paiements` | Client |
+### Stack technique
 
-**Tabs DocuSign non mappés (volontaire)** : `Alec Henry` — utilité non clarifiée.
+- **Framework** : Vite + React 18
+- **Charts** : recharts
+- **Icons** : lucide-react
+- **Hébergement** : Vercel (plan Hobby gratuit, build auto sur push GitHub)
+- **Source** : GitHub repo privé `boris961/kelly-dashboard`
+- **Theme** : fond blanc, accents noir/rouge Entrepreneurs.com (`#C8102E`)
+
+### Apps Script (proxy data)
+
+**Fichier dans Apps Script Editor** :
+
+```javascript
+// ⚠️ TOKEN SECRET — doit matcher celui du dashboard
+const SECRET_TOKEN = "KL-7f9a2c4e8b6d1f3a-2026";
+
+function doGet(e) {
+  // Vérification du token
+  const providedToken = e && e.parameter && e.parameter.token;
+  if (providedToken !== SECRET_TOKEN) {
+    return ContentService
+      .createTextOutput(JSON.stringify({ error: "Unauthorized" }))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  const sheetNames = ['Tally', 'Bookings', 'Contrats envoyés', 'Ventes fermées'];
+  const result = {};
+
+  sheetNames.forEach(name => {
+    const sheet = ss.getSheetByName(name);
+    if (!sheet) {
+      result[name] = { error: 'Sheet not found: ' + name };
+      return;
+    }
+    const data = sheet.getDataRange().getValues();
+    if (data.length <= 1) {
+      result[name] = [];
+      return;
+    }
+    const headers = data[0];
+    result[name] = data.slice(1).map(row => {
+      const obj = {};
+      headers.forEach((h, i) => { obj[h] = row[i]; });
+      return obj;
+    });
+  });
+
+  return ContentService
+    .createTextOutput(JSON.stringify(result))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+```
+
+**Réglages de déploiement obligatoires** :
+- Type : Application Web
+- Exécuter en tant que : `Moi (boris@entrepreneurs.com)`
+- **Qui a accès : `Toute personne`** ⚠️ (PAS "avec un compte Google", PAS "domaine entrepreneurs.com")
+
+### Dashboard React — pattern fetch critique
+
+```javascript
+const fetchAllData = async () => {
+  const url = `${APPS_SCRIPT_URL}?token=KL-7f9a2c4e8b6d1f3a-2026`;
+  const res = await fetch(url, {
+    method: 'GET',
+    credentials: 'omit',  // ⚠️ critique — évite que cookies Google parasitent la requête
+    redirect: 'follow',
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  if (data.error) throw new Error(data.error);
+  return data;
+};
+```
+
+⚠️ **`credentials: 'omit'` est CRITIQUE** : sans ça, le navigateur envoie les cookies Google de l'utilisateur, Apps Script tente d'auth ce user, renvoie une page HTML de login au lieu du JSON → dashboard cassé pour tout user loggé Google.
+
+### Sécurisation Vercel
+
+- Vercel project → Settings → Deployment Protection → **Vercel Authentication** → toggle ON → **Standard Protection**
+- Seuls les membres du projet Vercel peuvent accéder à l'URL
+- Pour ajouter Alec / équipe : Project Members → Invite par email (rôle Member, read-only)
+
+### Setup local pour modifications futures
+
+```bash
+cd ~/Documents/kelly-dashboard
+npm run dev              # local sur localhost:5173
+# ... modifie src/App.jsx ...
+git add .
+git commit -m "Description"
+git push                 # Vercel redéploie auto en 1-2 min
+```
 
 ---
 
 ## 🐛 Pièges rencontrés & solutions (debugging journal)
 
+> Conservé pour gain de temps si refactoring, réplication ou onboarding.
+
 | # | Symptôme | Cause | Solution |
 |---|---|---|---|
-| 1 | Webhook Make output vide (`Bundle 1 empty`) | Zoho envoyait les paramètres en URL query, pas dans le body | Passer **Corps Type** de `Aucune` à `Brut` + Format `JSON` + écrire le JSON via touche `#` |
-| 2 | `BundleValidationError: Missing value of required parameter 'id'` | Module Get an Object recevait `deal_id` vide | Idem #1 — fix amont |
-| 3 | Module `Send Envelope from Template` n'expose pas de section Tabs | Limitation du module Make for DocuSign | Remplacer par `Make an API Call` brut |
-| 4 | `BundleValidationError: Array of objects expected in parameter 'templateRoles'` | Mode Map JSON Make n'accepte pas tous les payloads | Passer en `Make an API Call` brut |
-| 5 | DocuSign 404 sur URL `/restapi/v2.1/accounts/...` | Make préfixe déjà `/restapi` — doublon | URL = `/v2.1/accounts/{accountId}/envelopes` (sans `/restapi`, avec `{accountId}` littéral) |
-| 6 | DocuSign 400 avec GET sur `/envelopes` | Endpoint liste les envelopes — filtres date/id obligatoires | Normal — la création est en POST, le GET de test sans filtre échoue mais ne signale pas mauvaise URL |
-| 7 | Zoho 400 `Invalid URL /crm/crm/v2/Deals/...` | URL Make doublonnée par préfixe automatique | URL = `/v2/Deals/{{2.Object ID}}` (sans `/crm`) |
-| 8 | Champs custom non visibles dans Zoho `Update an Object` | Layout par défaut n'expose pas les champs custom | Contourné via `Make an API Call` brut |
-| 9 | Google Sheets module n'écrit nulle part | Renommage onglet sans rafraîchir le module Make | Toujours **rafraîchir** la liste des sheets dans Make après renommage, ou `Use column headers as IDs = Yes` |
-| 10 | Zoho refuse `${Affaires.Nom de l'Affaire}` à l'enregistrement webhook | Copier-coller texte brut au lieu d'insertion via `#` — l'apostrophe casse le parsing | **Toujours utiliser la touche `#`** pour insérer les champs de fusion, jamais en texte brut |
-| 11 | Workflow Rule scénario 2 ne se déclenche pas | Libellé Stage choisi (`Gagnés Fermés`) ≠ libellé exact du pipeline (`Fermé Gagné`) | Vérifier dans le dropdown que la valeur match **exactement** un stage du pipeline custom Kelly Launch |
+| 1 | Webhook Make output vide | Zoho envoyait params en URL query | Corps Type `Brut` + Format `JSON` + champs via `#` |
+| 2 | `BundleValidationError: Missing 'id'` | Module Get an Object recevait `deal_id` vide | Fix amont #1 |
+| 3 | Module DocuSign Send Envelope n'expose pas Tabs | Limitation du module Make | Utiliser `Make an API Call` brut |
+| 4 | `BundleValidationError: templateRoles` | Mode Map JSON Make n'accepte pas tous les payloads | `Make an API Call` brut |
+| 5 | DocuSign 404 sur `/restapi/v2.1/...` | Make préfixe déjà `/restapi` | URL = `/v2.1/accounts/{accountId}/envelopes` |
+| 6 | DocuSign 400 GET sur `/envelopes` | Endpoint demande filtres date/id obligatoires | Normal — la création est en POST |
+| 7 | Zoho 400 `/crm/crm/v2/Deals/...` | URL doublonnée | URL = `/v2/Deals/{{2.Object ID}}` (sans `/crm`) |
+| 8 | Champs custom invisibles Update Object Zoho | Layout par défaut | Contourné via `Make an API Call` brut |
+| 9 | Sheets module n'écrit nulle part | Renommage onglet sans rafraîchir Make | Refresh la liste des sheets ou `Use column headers as IDs = Yes` |
+| 10 | Zoho refuse `${Affaires.Nom de l'Affaire}` en texte brut | Apostrophe casse le parsing | **Toujours insérer via touche `#`**, jamais en copier-coller |
+| 11 | Workflow Rule scénario 2 ne déclenche pas | Libellé Stage choisi ≠ libellé exact du pipeline | Vérifier dropdown — `Fermé Gagné` exactement |
+| 12 | Dashboard "Failed to fetch" en gviz endpoint | CORS bloqué dans claude.ai sandbox | Apps Script web app comme proxy |
+| 13 | Apps Script URL avec `/u/3/` ne marche que pour le compte associé | Google insère auto le code du compte loggé | Utiliser **URL canonique sans `/u/X/`** |
+| 14 | "Désolé, le fichier que vous avez demandé n'existe pas" | Modifier un déploiement ≠ Nouvelle version pour appliquer les changements | Toujours sélectionner **"Nouvelle version"** dans le dropdown Version lors d'une modif. Si bug persiste, archiver + créer un déploiement neuf |
+| 15 | Apps Script en restriction `domaine entrepreneurs.com` | Incompatible avec fetch côté client | Passer en **"Toute personne"** + auth via token URL |
+| 16 | Dashboard marche en privé mais data à 0 quand loggé Google | Cookies Google envoyés avec JSONP → Apps Script tente d'auth → renvoie HTML login | **`credentials: 'omit'`** dans fetch standard (pas JSONP) |
 
 ---
 
@@ -393,74 +483,85 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 ### Scénario 1 (contrats)
 
 **"Un contrat ne part pas après passage en Engagé"**
-1. Vérifier sur l'Affaire que `Statut contrat ≠ Envoyé` (sinon garde-fou actif, normal)
+1. Vérifier sur l'Affaire que `Statut contrat ≠ Envoyé` (sinon garde-fou actif)
 2. `Setup → Notifications → Webhooks → Journal` dans Zoho → status du dernier appel
-3. Make → History du scénario 1 → identifier module en rouge
+3. Make → History scénario 1 → identifier module en rouge
 4. Vérifier les **16 champs requis** sur l'Affaire (cf. [[Checklist Closer Kelly Launch V1]])
-5. Si erreur DocuSign : souvent un `tabLabel` qui ne match plus le template
-
-**"Le contrat est envoyé mais des champs sont vides"**
-- Cause #1 : `tabLabel` dans le JSON ne match plus celui du template (sensible casse/accents/espaces)
-- Cause #2 : champ Zoho vide sur l'Affaire
-- Fix : ouvrir template DocuSign → onglet Recipients → vérifier labels exacts
 
 **"Le scénario tourne en boucle"**
 - Vérifier que Module 4 (update Statut contrat) fonctionne
-- Vérifier la condition Zoho `Statut contrat ≠ Envoyé`
-- Désactiver le scénario Make en urgence
-
-**"La ligne n'apparaît pas dans Contrats envoyés"**
-- Cause #1 : onglet renommé sans refresh module Make
-- Cause #2 : Module 3 ou 4 en erreur → scénario s'arrête avant module 5
-- Cause #3 : Connection Sheets expirée
-- Cause #4 : en-têtes du sheet modifiés
+- Désactiver le scénario Make en urgence (toggle bas-gauche)
 
 ### Scénario 2 (ventes)
 
 **"Le webhook ne se déclenche pas en Fermé Gagné"**
-- Vérifier que le libellé exact du Stage dans la Workflow Rule = celui du pipeline (`Fermé Gagné`, pas "Gagnés Fermés" ou autre)
-- Vérifier dans `Setup → Notifications → Webhooks → Journal` qu'aucune tentative n'a eu lieu
+- Vérifier libellé exact du Stage dans la Workflow Rule
+- Vérifier `Setup → Notifications → Webhooks → Journal`
 
-**"La ligne dans Ventes fermées est incomplète"**
-- `Date 1er paiement` vide = normal, c'est de la saisie manuelle
-- Si autres champs vides : le champ n'est pas rempli sur l'Affaire → mettre à jour côté Zoho puis re-déclencher (Stage → autre → Fermé Gagné)
-- `Closer` vide ou affiche un ID : mapping doit utiliser `.name` (champ Collection)
+### Dashboard
+
+**"Dashboard affiche toutes les data à 0"**
+1. Tester URL Apps Script en navigation privée : `[URL]/exec?token=KL-7f9a2c4e8b6d1f3a-2026`
+   - Si renvoie JSON ✅ → souci côté React, vérifier `fetch` + `credentials: 'omit'`
+   - Si renvoie "Unauthorized" → token mismatch entre Apps Script et `App.jsx`
+   - Si renvoie page de login Google → déploiement Apps Script revenu en restriction domaine, repasser sur "Toute personne"
+   - Si renvoie "Désolé le fichier n'existe pas" → URL Apps Script périmée (ancienne version archivée), récupérer la nouvelle URL `/exec` du déploiement actif
+2. Si Apps Script OK mais Vercel pas à jour → vérifier `git status` local, push si modifs locales en attente
+
+**"Modifier le dashboard (ajouter une colonne, etc.)"**
+```bash
+cd ~/Documents/kelly-dashboard
+npm run dev                            # test en local
+# modifie src/App.jsx
+git add . && git commit -m "..."
+git push                               # Vercel redéploie auto
+```
+
+**"Régénérer le token Apps Script"** (en cas de compromission)
+1. Apps Script Editor → modifier la constante `SECRET_TOKEN` avec une nouvelle valeur
+2. Déployer → Nouvelle version
+3. `App.jsx` local → modifier la valeur du token dans `fetchAllData`
+4. Git push
+5. Vercel redéploie auto
 
 ### Communs
 
-**"Erreur d'authentification DocuSign ou Zoho"**
-- OAuth expirée → reconnecter via Make → module concerné → Connection → Edit → Reauthorize
-
-**"Volume mensuel élevé — quotas saturés"**
-- DocuSign : `Account → Plan & Billing` → envelope allowance/an
-- Make : 1 contrat = 5 ops (scénario 1) + 3 ops (scénario 2 si fermé gagné). À 200 contrats/mois max = ~1600 ops/mois, fits plan Pro (10K ops)
+**"Erreur OAuth DocuSign / Zoho / Google Sheets"**
+- Connection expirée → Make → module concerné → Connection → Edit → Reauthorize
 
 ---
 
 ## 🔄 Backlog V2 (à arbitrer)
 
-### Priorité haute
+### Priorité haute — avant Marrakech (20-25 mai)
 
-- [ ] **Webhook retour DocuSign Connect** → quand client signe, update Zoho `Statut contrat = Signé` + `Date de signature`. Idéalement update aussi la ligne `Contrats envoyés` (matcher sur Envelope ID)
-- [ ] **Identifier l'assistante dédiée** et basculer comme recipient 2 (au lieu de `sales@entrepreneurs.com` au nom d'Alec)
+- [ ] **Webhook retour DocuSign Connect** → quand client signe, update Zoho `Statut contrat = Signé` + `Date de signature` + mise à jour ligne `Contrats envoyés` (matcher sur Envelope ID)
+- [ ] **Identifier l'assistante dédiée** + basculer comme recipient 2 (au lieu de `sales@entrepreneurs.com` au nom d'Alec)
+- [ ] **Activer les 2 scénarios Make en ON permanent**
 - [ ] **Error handler Make** sur les 2 scénarios → notif Slack/email à Boris si échec
-- [ ] **Activer les scénarios en ON permanent** dans Make (toggle bas-gauche)
+- [ ] **Diffusion checklist closer PDF V2** à Kelly + équipe (message Slack #kelly-launch déjà rédigé)
+- [ ] **Tournage Loom 13min onboarding closers** (script déjà livré)
+- [ ] **Test 2-3 affaires Kelly Launch réelles** avant de considérer V1.3 stable
+- [ ] **Inviter Alec sur le projet Vercel** (Members → Add → boris@entrepreneurs.com... → wait, Alec's email)
+- [ ] **Bookmark dashboard partagé à Alec + équipe pilotage**
 
 ### Priorité moyenne
 
-- [ ] **Multi-produits** : router scénario 1 selon `Code Produit` Zoho → templateId DocuSign différent (Oscar, autres programmes)
-- [ ] **Bascule Fermé Gagné automatique** quand contrat signé + 1er paiement reçu (intégration Stripe ou virement bancaire à concevoir avec compta) — éliminerait la saisie manuelle de `Date 1er paiement`
-- [ ] **Clarifier le tab "Alec Henry"** dans le template DocuSign
-- [ ] **Champ Zoho custom "DocuSign Envelope ID"** pour traçabilité bidirectionnelle CRM ↔ Sheets
-- [ ] **Dashboard funnel Kelly Launch** dans Sheets : formules de conversion entre les 4 onglets (Tally → RDV → Contrats → Ventes). Sparkline hebdo, taux de closing, CA réalisé
-- [ ] **Garde-fou scénario 2** : condition `Statut contrat = Signé` avant log Vente fermée — évite les fausses ventes loggées
+- [ ] **Multi-produits** : router scénario 1 selon `Code Produit` → templateId DocuSign différent (Oscar, autres)
+- [ ] **Bascule Fermé Gagné automatique** quand contrat signé + 1er paiement reçu (intégration Stripe/bancaire) — éliminerait la saisie manuelle `Date 1er paiement`
+- [ ] **Clarifier tab "Alec Henry"** dans le template DocuSign
+- [ ] **Champ Zoho custom "DocuSign Envelope ID"** pour traçabilité bidirectionnelle CRM ↔ Sheets ↔ Dashboard
+- [ ] **Dashboard V2** : ajouter filtres par période (J7/J30/J90), drilldown par closer, sparklines hebdo CA
+- [ ] **Garde-fou scénario 2** : condition `Statut contrat = Signé` avant log Vente fermée
+- [ ] **Custom domain Vercel** : `dashboard.entrepreneurs.com` au lieu de `kelly-dashboard-sigma.vercel.app`
 
 ### Priorité basse
 
-- [ ] **Loom 5 min** : comment refaire les 2 scénarios from scratch si tout casse
-- [ ] **Tests automatisés** en sandbox Make
-- [ ] **Migration vers JWT Auth DocuSign** si volume > 500/mois
+- [ ] **Loom 5 min** : refaire les 2 scénarios Make + Apps Script + dashboard from scratch
+- [ ] **Tests automatisés** Make sandbox
+- [ ] **Migration JWT Auth DocuSign** si volume > 500/mois
 - [ ] **Reporting hebdomadaire** Make → Notion ou email récap funnel
+- [ ] **Backend serverless intermédiaire** (Vercel Function + service account Google) si on veut un Apps Script en restriction domaine
 
 ---
 
@@ -477,15 +578,17 @@ Les 2 webhooks envoient le même payload minimal — Make refetch le Deal comple
 
 ## 📝 Méta
 
-- **Construction** : session Boris × Claude, 12 mai 2026 (soir) + 13 mai 2026 (matin/midi)
-- **Durée build** : ~4h cumulées (champs Zoho + workflow + 2 scénarios Make + debug + log Sheets x2)
+- **Construction** : session Boris × Claude, 12 mai 2026 (soir) + 13 mai 2026 (matin → après-midi)
+- **Durée build cumulée** : ~5h (Zoho + workflows + 2 scénarios Make + Apps Script + dashboard + déploiement Vercel + debugging CORS / Apps Script)
 - **Versions** :
-  - V1 (13 mai 2026 09h) — 4 modules Make scénario 1, premier envoi DocuSign validé
-  - V1.1 (13 mai 2026 11h) — ajout module 5 Sheets `Contrats envoyés`
-  - **V1.2 (13 mai 2026 11h35) — ajout scénario 2 "Ventes fermées" (3 modules), funnel Kelly Launch complet à 4 étapes**
+  - V1 (13 mai 09h) — 4 modules Make scénario 1, premier envoi DocuSign validé
+  - V1.1 (13 mai 11h) — ajout module 5 Sheets `Contrats envoyés`
+  - V1.2 (13 mai 11h35) — ajout scénario 2 "Ventes fermées" (3 modules), funnel Sheets complet à 4 étapes
+  - **V1.3 (13 mai 14h) — dashboard React déployé sur Vercel, Apps Script proxy avec token auth, sécurisation Vercel Authentication, infra prod complète**
 - **Tests réussis** :
   - 13 mai 08h34 UTC — envelope DocuSign `c26f5ecb-25b8-886a-8242-2c9b8715ae59` envoyée (status 201, tabs OK)
   - 13 mai 09h12 UTC — ligne `Contrats envoyés` créée (10 colonnes)
   - 13 mai 09h33 UTC — ligne `Ventes fermées` créée (12 colonnes hors Date 1er paiement manuelle)
-- **À tester en prod réelle** : 2-3 affaires Kelly Launch réelles avant de considérer V1.2 stable
-- **Next steps immédiats** : (1) activer les 2 scénarios Make en ON, (2) error handler sur tous les modules critiques, (3) test affaire réelle, (4) identifier l'assistante DocuSign
+  - 13 mai 14h UTC — dashboard live `kelly-dashboard-sigma.vercel.app` avec data réelles, marche en privé + loggé Google
+- **À tester en prod réelle** : 2-3 affaires Kelly Launch réelles avant de considérer V1.3 stable
+- **Next steps immédiats** : (1) activer les 2 scénarios Make en ON permanent, (2) error handlers, (3) test affaire réelle, (4) identifier l'assistante DocuSign, (5) inviter Alec sur Vercel
