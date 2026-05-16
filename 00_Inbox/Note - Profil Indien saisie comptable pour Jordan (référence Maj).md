@@ -35,9 +35,23 @@ L'argument d'Alec :
 
 ## Verbatim Alec en séance
 
+### Verbatim weekly Fabrice × Alec 11/5 (source initiale)
+
 > *"100% de la saisie comptable de Maj, Jordan avait l'habitude de bosser avec eux, c'est lui qui a constitué les équipes et qui les manageait. Pourrais lui poser la question, c'est des Indiens, des Indiens qui payent plus ou moins ce que Nicole paye, 150 US dollars par mois, donc parfois 500 pour les meilleurs."*
 
 > *"On aura inévitablement, je pense, à terme un Indien. Ou un truc comme ça, pas *** hyper compétent, geek des chiffres, qui aidera Jordan si nécessaire."*
+
+### Verbatim weekly Alec × Boris 12/5 (confirmation structure MAJ)
+
+Alec a confirmé la structure MAJ dans le contexte 1-to-1 avec Boris : Jordan vient de chez MAJ où il était en contact avec **2 personnes au-dessus**, et derrière elles *"100 ou 200 Indiens qui font de la saisie comptable, des machins, des trucs"*.
+
+**Architecture MAJ documentée** :
+- Jordan = N 
+- 2 contacts senior (sous-traitants partenaires Inde) = N+1
+- 100-200 exécutants saisie comptable = N+2
+- Modèle indirect : Jordan ne gère pas les 100-200 directement, il s'appuie sur les 2 contacts senior qui pilotent les exécutants
+
+**Décision réaffirmée** : *"Ce sera à lui de structurer après son équipe comme il en a besoin"* (Boris en séance, validé par Alec). → Pas de pré-cadrage descendant. Jordan déclenche s'il en a besoin, comme il en a besoin.
 
 ## Posture à tenir avec Jordan
 

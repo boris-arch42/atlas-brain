@@ -13,6 +13,82 @@ tags: [co-coo, externe, entrante, consultante-immersion]
 
 # Sophia
 
+> **🟢 MAJ 2026-05-12 — Variable nouvelle confirmée par Alec en weekly Boris × Alec**. Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+>
+> Mission cadrée explicitement : **6 mois maximum, intensif M1-M2 puis 1 jour/mois**. Premier mois d'audit à **10 000 €**, démarrage initialement prévu juin 2026 mais **Alec a temporisé la validation** — message de 3 minutes envoyé à Sophia mentionnant Boris comme nouvelle variable + le fait que beaucoup de ses recommandations sont en cours de déploiement. **Sophia sera présente à Marrakech 21-25 mai**. Briefing Boris × Alec × Anisse à organiser en amont. Évaluation directe par Boris attendue *in situ*.
+>
+> Verbatim Alec sur l'architecture COO triple : *"Fabrice il quitterait la fonction dans le sens où il aurait le titre mais pas la fonction, parce que je veux qu'il soit plus sur des trucs stratégiques à haut niveau. Toi tu l'incarnerais en réel en interne et elle, elle est externe. Elle vraiment, c'est une mission de consulting extérieure."* Sophia positionnée comme *"alter ego à un niveau supérieur"* — formulation à clarifier au briefing pré-Marrakech.
+>
+> **Action immédiate** : pousser à Alec l'organisation du briefing Boris × Alec × Anisse dans la semaine du 19/5 au plus tard.
+
+## 🟢 MAJ 2026-05-12 — Confirmation Alec : mission cadrée + présence Marrakech + statut temporisé
+
+### Cadre mission finalisé
+
+| Élément | Détail |
+|---|---|
+| **Durée** | 6 mois maximum |
+| **Intensité** | Intensif M1-M2 puis ~1 jour/mois |
+| **Pricing M1** | 10 000 € pour le premier mois d'audit |
+| **Statut** | **Temporisé par Alec** — pas validé, en attente de réponse Sophia au message Alec |
+| **Démarrage initialement prévu** | Juin 2026 |
+| **Première présence physique** | **Marrakech 21-25 mai 2026** (event EC) |
+
+### Verbatim Alec sur l'architecture COO triple
+
+> *"Fabrice, il quitterait la fonction dans le sens où il aurait le titre mais pas la fonction, parce que je veux qu'il soit plus sur des trucs stratégiques à haut niveau. Toi tu l'incarnerais en réel en interne et elle, elle est externe. Elle vraiment, c'est une mission de consulting extérieure."*
+
+> *"Ce sera un peu ton alter ego. Et en plus de ça, elle a quand même beaucoup d'expérience dans ce rôle-là, à un niveau supérieur au niveau de l'entreprise. Donc elle va pouvoir aussi potentiellement t'apporter des choses."*
+
+> *"L'idée, c'est que toi tu puisses aussi établir la pertinence de travailler avec elle. Pareil pour Fabrice, factuellement sur le terrain en échangeant avec elle."*
+
+→ **Lecture** : la formulation *"alter ego à un niveau supérieur"* est ambiguë — hiérarchique, senior d'expérience, ou les deux ? À clarifier explicitement au briefing pré-Marrakech.
+
+### Statut de validation Sophia — temporisé
+
+Verbatim Alec :
+> *"Normalement on devait la valider, la payer 10 000 balles pour démarrer en juin, 10 000 balles pour un premier mois d'audit machin et tout. Mais on l'a pris, tu vois, elle m'a pas encore répondu, j'attends sa réponse."*
+
+Message 3 min envoyé par Alec à Sophia, forward à Boris en séance :
+> *"Il y a plein de choses et surtout il y a une variable qui est nouvelle, c'est Boris. Et tu vois, la plupart des choses qu'elle avait évoquées, en fait on est en train de les déployer, les mettre en place. Donc je pense qu'il faut qu'elle vienne pour discuter, échanger."*
+
+→ **Lecture politique** : Alec **a temporisé la validation** sans annuler. Il a explicitement positionné Boris comme variable nouvelle qui peut réduire la nécessité de Sophia. **Sophia est en évaluation, pas en arrivée acquise**. Le briefing pré-Marrakech et la rencontre physique deviennent déterminants.
+
+### Briefing pré-Marrakech à organiser — Boris × Alec × Anisse
+
+Verbatim Alec :
+> *"Il y a eu plein d'échanges avec Sophia, il faudrait peut-être même qu'on te briefe en amont avec Anis là-dessus."*
+
+Objectifs du briefing à clarifier en amont :
+- Comprendre les échanges déjà eus entre Alec/Anisse/Sophia
+- Aligner la lecture commune avant l'évaluation physique Marrakech
+- Clarifier le sens de *"alter ego à un niveau supérieur"*
+- Définir les critères concrets d'évaluation pendant Marrakech (qu'est-ce qui valide / invalide la pertinence de travailler avec elle)
+- Cadrer les zones de friction potentielles (Boris en exécution + Sophia en consulting peuvent-ils coexister sur les mêmes sujets sans se marcher dessus)
+
+**Action Boris** : pousser à Alec l'organisation de ce briefing dans la semaine du 19/5 au plus tard.
+
+### Évaluation in situ à Marrakech
+
+Mission Boris pendant Marrakech 21-25 mai vis-à-vis de Sophia :
+- **Établir la pertinence de travailler avec elle** (verbatim Alec)
+- Rencontre physique, échange direct, observation de sa posture vis-à-vis des équipes
+- Captation de ses méthodologies et frameworks proposés (cf. lecture Anisse 26/4 : audit + done with you)
+- Lecture de la dynamique relationnelle Sophia ↔ Fabrice (Alec veut aussi le retour de Fabrice)
+
+### Cohérence avec lecture Anisse 26/4 — confirmation par les faits
+
+La lecture Anisse du 26/4 (Sophia n'est PAS un CDI mais une consultante senior en immersion + audit + done with you) est **confirmée par le call Alec 12/5** :
+- Mission, pas poste ✅
+- 6 mois max ✅
+- Intensif au début puis allégé ✅
+- Externe vs CDI ✅
+- 10K€ M1 cohérent avec honoraires consultant
+
+→ Hypothèse HO16 ("si j'avance vite, sa venue peut être annulée") devient encore plus concrète : Alec lui-même a **explicitement temporisé** en mentionnant Boris comme variable. Si la rencontre Marrakech ne convainc pas, l'annulation est possible.
+
+---
+
 > **⚡ MAJ MAJEURE 2026-04-26** — Le 1-to-1 Anisse a révélé que **le scope Sophia est très différent de ce qu'on pensait**. Plusieurs angles morts résolus. À lire en priorité.
 
 ## 🔑 Révélations clés du 1-to-1 Anisse (26/4)

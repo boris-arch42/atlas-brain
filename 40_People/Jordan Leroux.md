@@ -18,6 +18,8 @@ related-replays:
 
 # Jordan Leroux
 
+> 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris** : finalisation des points RH Dubai en suspens. **Jordan glisse en R3** (au lieu de R2 visé au weekly 11/5), **Fabrice prend R2**. Raison Alec : *"Jordan est trop junior encore dans la boîte, tu vois. Jordan, ce sera peut-être en R3 finale en physique avec moi."* R3 = finale physique avec Alec à Dubai. **Objectif #1 confirmé explicitement par Alec** : *"Décharger Fabrice et qu'on puisse avancer"*. Diagnostic Alec sur usage actuel Fabrice : *"Il est à 20% de ses capacités sur la finance parce qu'il fait des petites tâches. Demain, Jordan, il fera les petites tâches, peut-être aussi avec des externes. Et Fabrice pourra se concentrer sur vraiment faire gagner des millions."* Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+
 > 🟢 **Arrivée effective lundi 18 mai 2026** — vendredi 15/5 est son dernier jour propre chez Maj. Cf. [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] pour le 1er call relationnel Boris × Jordan.
 >
 > 🔴 **CONFIDENTIALITÉ MAX sur la sortie Maj** — Maxime (CEO Maj) ne doit pas être informé. EC est encore client Maj actuellement. Toute communication relative à Maj côté EC à manipuler avec précaution jusqu'au 15/5.
@@ -29,6 +31,20 @@ related-replays:
 - **Manager** : [[Alec Henry]] (sponsor du recrutement)
 - **Aligné avec** : [[Fabrice Jaeger]] (Co-Directeur d'opérations, transition vers GM Dubai) + [[Boris Arduy]] (Co-Directeur d'opérations, périmètre transverse ops/process)
 - **Reports directs** : À construire — au minimum la future RH Dubai (recrutement en cours, cf. [[Business-Case - Recrutement RH Dubai - 2026-05-10]])
+
+## Funnel recrutement RH Dubai (cadrage final 12/5)
+
+Finalisé au weekly Alec × Boris du 12/5, ajustement vs cadrage 11/5 :
+
+| Étage | Cadrage 11/5 (weekly Fabrice × Alec) | Cadrage final 12/5 (weekly Alec × Boris) |
+|---|---|---|
+| **R1** | Aikho (Aiko) | Aikho (Aiko) — inchangé |
+| **R2** | Jordan | **Fabrice** (Jordan trop junior dans la boîte pour porter R2) |
+| **R3** | Alec en physique 25-30 mai | **Jordan + Alec en physique à Dubai** (finale conjointe) |
+
+→ **Implication Jordan** : positionné comme co-évaluateur final aux côtés d'Alec en physique. Premier mandat structurel d'évaluation RH dès sa première semaine post-arrivée (18/5).
+
+→ **Cohérence avec le mandat Jordan** : porter le pôle Finance/RH intègre la responsabilité de juger les profils RH structurants. R3 finale physique à Dubai = scellement du choix avec Alec, contexte intuitu personae.
 
 ## Mission EC (telle que Jordan l'a formulée en propre)
 

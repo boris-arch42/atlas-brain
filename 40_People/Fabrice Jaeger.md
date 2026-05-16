@@ -13,6 +13,25 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-B
 
 # Fabrice Jaeger
 
+## 🟡 MAJ 2026-05-12 — Weekly Alec × Boris : verbatim Alec sur la transition (à ne PAS relayer)
+
+> ⚠️ **Sensibilité maximale** — information à documenter strictement pour navigation interne Boris, **à ne JAMAIS relayer à Fabrice** ni à quiconque avant l'annonce officielle du 1er juin.
+
+Lors du weekly Alec × Boris du 12/5 (cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]]), Alec a explicité verbalement à Boris l'architecture COO cible. **C'est la formulation la plus directe à ce jour** de la transition Fabrice :
+
+> *"Fabrice, il quitterait la fonction dans le sens où il aurait le titre mais pas la fonction, parce que je veux qu'il soit plus sur des trucs stratégiques à haut niveau. Toi tu l'incarnerais en réel en interne et elle [Sophia], elle est externe. Elle vraiment, c'est une mission de consulting extérieure."*
+
+**Éléments à retenir** :
+- La formulation *"titre sans fonction"* est nouvelle et explicite (jusqu'à présent on parlait de *"transition vers GM"*)
+- L'incarnation réelle interne du COO est explicitement attribuée à Boris
+- [[Sophia]] est repositionnée "alter ego à un niveau supérieur" — zone de friction potentielle à anticiper
+- Annonce officielle reste au 1er juin (meeting mensuel) — cadre temporel maintenu
+
+**Implication pour Boris** :
+- Maintenir la délicatesse maximale dans tous les échanges Boris × Fabrice jusqu'au 1er juin
+- Ne pas tirer la couverture sur les chantiers Fabrice (top 10 process, audit IT, etc.) — incarner la complementarité par les actes
+- Demande Alec (cf. [[Alec Henry]] MAJ 12/5) : Boris partage la structure/template du call à Fabrice. **À faire avec doigté** : positionner comme outil de pilotage utile, pas comme correction de pratique. Le SOP de pilotage 1-to-1/weekly créé à partir de cette structure (cf. `10_SOPs/Ops-Finance/`) doit être partagé comme ressource Comex, pas comme "voilà comment tu devrais faire".
+
 ## 🟢 MAJ 2026-05-05 J4 SOIR — Épreuve de vérité 5 mai passée + slot jeudi 17h Mohamed transféré à Boris
 
 > Cf. [[Ressource - Replay Ops IT Tech Data IA 5 mai 2026]] pour le replay complet (46 min, 5 mai 11h33-12h19).

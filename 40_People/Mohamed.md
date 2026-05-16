@@ -15,6 +15,10 @@ tags: [it, cybersec, infrastructure, presta-externe, departure-acted, fin-mai-20
 
 # Mohamed
 
+> 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris : Alec push Comex Slack + état catastrophique acknowledgé publiquement**
+>
+> Boris a porté le sujet en weekly. Alec a explicitement validé : (1) Boris prépare un mini-process accuts à partager via appli sécurisée, (2) **Alec envoie un message @canal au Comex Slack** (Sabrina, Océane, Mélissa, Fabrice, Cédric, Aziz, Axel, Anisse, Alec, Abel) **avec instructions "prendre au sérieux votre requête"** d'ici jeudi 14/5, (3) Boris ajouté au canal Comex avant le push si pas déjà fait. Mohamed reste **pilote actif du chantier sécurité** avec besoin de "tous les accès" pour le dashboard sécurité unifié. Boris se met note pour récupérer page Facebook 300K abonnés perdue (ban probable, pas hack) via contact perso + Mohamed. Pattern d'inefficacité nommé par Boris en séance : *"Les gens posent des questions à moi alors qu'il y a Mohamed qui est là pour ça"* — clé à résoudre via la communication Slack. État actuel qualifié par Boris : *"Niveau sécurité, c'est très très très très très léger. Les portes et fenêtres sont ouvertes."* Confirmation Alec en séance sur l'épisode "mots de passe Instagram/LinkedIn/YouTube dans un fichier Sheets dégueulasse" (situation corrigée il y a 2-3 mois). Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+
 > 🔴 **IT externe en sortie actée au 31 mai 2026** — décision Alec confirmée par vocal direct à Boris le 29/4. **Tout le mois de mai** = co-supervision Boris + Mohamed sur l'audit IT consolidé (cybersec + SaaS + rapatriement docs). Boris devient owner permanent du périmètre IT/cybersec post-31 mai.
 >
 > 🔑 **Codename Alec** : dans le jargon Alec, *"Haïti"* = IT. Donc *"audit Haïti"* = audit IT, *"Mohamed Haïti"* = Mohamed-IT (sa fonction). Pas une référence géographique. Cf. [[Alec Henry]] glossaire jargon.

@@ -17,6 +17,10 @@ tags: [ops, automatisations, sortie-validée, mithril-vitrine, verticale-data-ia
 
 # Nicolas Farolfi
 
+> 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris : timing précisé + déclencheur final documenté**
+>
+> Boris : *"Pour moi, il est dehors. C'est juste après la passation qu'on fait avec Cédric qu'il y a à envisager. Mais c'est sûr."* → **timing acquis : sortie post-passation Cédric**. **Déclencheur final** : 48-72h sans réponse à un message ultra urgent en week-end. Boris : *"Je veux bien que ce soit le week-end, que ce soit férié, ce que tu veux. Mais il y a un moment où j'ai 2 millions à faire gagner à la boîte sur un funnel bis. Si tu comprends pas ça, c'est que t'es pas le bon."* Alec aligné : *"100%, c'est absolument aberrant."* La décision actuée au 11/5 est réaffirmée sans ambiguïté. Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+
 > 🟢 **MAJ 2026-05-11 — Sortie publiquement validée par Alec en weekly Fabrice×Alec**. Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]].
 >
 > Verbatim Alec en weekly : *"Pareil quand je vois ce que Boris a fait en un week-end avec ses équipes d'Indiens sur la partie ops pour les 42 sales qu'on a déployés versus Nicolas sur les dernières semaines, ça fait que mettre en lumière le fait qu'au niveau ops..."*

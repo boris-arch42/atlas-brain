@@ -2,21 +2,36 @@
 type: scope
 status: en-cours
 date-created: 2026-05-11
-event-date: 2026-05-20 → 2026-05-25
+last-updated: 2026-05-12
+event-date: 2026-05-21 → 2026-05-25
 event-type: "Event Entrepreneurs.com avec équipes et clients présents"
 owner-pilote-execution: "À clarifier"
 sponsor: "[[Alec Henry]]"
 related-replays:
   - "[[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]]"
+  - "[[Ressource - Replay Weekly Alec × Boris 12 mai 2026]]"
 related-people:
   - "[[Océane De Queiros]] (com)"
   - "[[Sabrina Dahel]] (CS, équipes)"
-tags: [marrakech, event-ec, préparation, équipes, clients, mai-2026, scope, mobilisation, communication]
+  - "[[Sophia]] (variable nouvelle 12/5)"
+tags: [marrakech, event-ec, préparation, équipes, clients, mai-2026, scope, mobilisation, communication, sophia]
 source: entrepreneurs-com
 sensitivity: confidential
 ---
 
-# Scope — Préparation Marrakech (event EC 20-25 mai)
+# Scope — Préparation Marrakech (event EC 21-25 mai)
+
+> 🟢 **MAJ 2026-05-12 — Corrections post-weekly Alec × Boris**
+>
+> **(1) Date corrigée : 21-25 mai 2026** (Boris s'était trompé sur la date — pas du 20). À propager dans tous les outils calendrier + nom de fichier.
+>
+> **(2) Variable nouvelle : [[Sophia]] sera présente sur place**. Première occurrence physique avec l'équipe EC. Mandat Boris explicite d'Alec : *"Établir la pertinence de travailler avec elle"* in situ. Briefing pré-Marrakech Boris × Alec × Anisse à organiser dans la semaine du 19/5 au plus tard.
+>
+> **(3) Rôle Boris cadré par Alec** : *"La seule chose que j'attends de toi, c'est de l'observation, de l'échange avec les équipes. Pas de rôle opérationnel à proprement parler, aucune attente me concernant au sujet de ta présence opérationnelle."* Mission : recréer du lien avec les équipes, faire un état des lieux global, échanger avec les clients pour voir la différence d'avant, observer qui fait quoi.
+>
+> **(4) Nicole "un peu toute seule"** sur l'event scaling (étranger) — Boris peut aider mais ce n'est pas l'objectif explicite. Cohérent avec cap acquis (HO34 résiduelle).
+>
+> Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]] arbitrage 3.
 
 > **🟠 Sujet émergent identifié au weekly Fabrice × Alec du 11/5**. Cf. [[Ressource - Replay Weekly Fabrice × Alec 11 mai 2026]].
 >
@@ -24,9 +39,11 @@ sensitivity: confidential
 
 ## Contexte
 
-Event Entrepreneurs.com à Marrakech, **du 20 au 25 mai 2026**. Format : équipes EC + clients présents simultanément. C'est un event hybride corporate + commercial, pas un séminaire interne ni un trip perso.
+Event Entrepreneurs.com à Marrakech, **du 21 au 25 mai 2026** (date corrigée au weekly Alec × Boris 12/5). Format : équipes EC + clients présents simultanément. C'est un event hybride corporate + commercial, pas un séminaire interne ni un trip perso.
 
-Boris est aussi présent sur cette période (initialement positionné comme déplacement persoavec Sabrina dans mes notes antérieures — **correction nécessaire** : c'est bien l'event EC). Donc Boris cumule présence event + représentation EC sur place.
+Boris est aussi présent sur cette période (initialement positionné comme déplacement perso avec Sabrina dans mes notes antérieures — **correction nécessaire** : c'est bien l'event EC). Donc Boris cumule présence event + représentation EC sur place.
+
+[[Sophia]] sera également présente (variable nouvelle ajoutée par Alec 12/5) — c'est sa première occurrence physique avec l'équipe EC, dans le cadre de l'évaluation de la pertinence de la mission consulting 6 mois.
 
 ## Verbatim Alec en ouverture du weekly
 

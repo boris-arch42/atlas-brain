@@ -13,6 +13,20 @@ tags: [ceo, fondateur, entrepreneurs-com, riven-agency, dual-role]
 
 # Alec Henry
 
+> 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris (28 min) : 3 patterns confirmés + 1 mandat stratégique posé**
+>
+> **Pattern 1 — Doctrine "jamais accès à tout, on garde le contrôle"** : explicitée sur les équipes sales externes. Verbatim : *"On ne donnera jamais accès à tout, on garde le contrôle."* Doctrine à généraliser comme principe d'entreprise.
+>
+> **Pattern 2 — Préférence forte pour structure call serrée + suivi écrit** : feedback méta très positif sur la structure du call portée par Boris. Verbatim : *"En 30 minutes, on a évoqué plus de sujets et plus de décisions que parfois dans des calls d'une heure que certains font en one-on-one dans l'ensemble de l'entreprise. Ça lui donnera aussi un bon exemple [à Fabrice]. Et parfois même avec Fabrice, on a des calls qui sont toujours agréables, mais où il y a plein de sujets traités et finalement il y a pas de suivi."* **Demande explicite Alec** : Boris partage la structure/template du call à Fabrice. Limite : *"Ca peut se faire avec un template."* → déclenche la création d'un SOP de pilotage 1-to-1/weekly réplicable.
+>
+> **Pattern 3 — Architecture COO triple explicitée** : *"Fabrice quitterait la fonction dans le sens où il aurait le titre mais pas la fonction."* Confirme la trajectoire GM Dubai / stratégique haut niveau pour Fabrice. Boris incarne le COO en réel en interne. [[Sophia]] est positionnée externe consulting.
+>
+> **Mandat stratégique posé — Aikho "premier partenariat affilié structurel"** : Alec va plus loin que la prop initiale. Verbatim : *"Je te propose pas d'être affilié si tu veux, je te propose d'être master affiliate et t'aider à développer l'ensemble du programme affilié chez Aiko, et ainsi pouvoir même te trouver des affiliés derrière."* Master affiliate avec sous-affiliés (clients EC ou prospects). Pas un MLM mais structure pyramidale assumée. À retenir comme format de référence pour les futurs partenariats stratégiques.
+>
+> **Signal Aziz** : Alec note Aziz *"sous l'eau"* alors qu'il porte la cible trésorerie 1,5 + 1,2 M€ encaissé sur 2 mois. À monitor cf. [[Aziz Sfaihi]].
+>
+> Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+
 > ⚠️ **Double lien** — Alec est à la fois CEO d'Entrepreneurs.com (où je suis Operating Partner / bras droit) et co-fondateur de Riven Agency (où je suis associé avec lui et Tomas). Une seule page personne, deux contextes. Sur chaque décision, penser à identifier explicitement "Alec-CEO" vs "Alec-associé-Riven".
 
 ## Rôle actuel

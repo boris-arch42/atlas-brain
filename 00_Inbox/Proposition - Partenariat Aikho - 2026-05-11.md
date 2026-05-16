@@ -18,6 +18,24 @@ sensitivity: confidential
 
 # Proposition de partenariat Entrepreneurs.com × Aikho
 
+> 🟢 **MAJ 2026-05-12 — Concessions validées Alec en weekly avant le call de 14h + escalade stratégique master affiliate**
+>
+> Avant le call Hugues de 14h, Boris a porté la matrice de concessions au weekly Alec × Boris (cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]] arbitrage 1). Alec a validé :
+>
+> - **Immersion Scaling Dubai septembre 2026** : prêt à descendre du tarif initial 100 000 AED à **60 000 AED** si besoin. Concession acceptée d'autant plus que *"de toute façon il y a quand même le système d'affiliation derrière"*.
+> - **Plancher symbolique 500 USD/an** accepté comme plancher opérationnel (cf. transcription Sembly — montant exact à confronter avec la matrice prep, vraisemblablement 500 USD/mois soit 6000 USD/an). Positioné comme *"coût opérationnel — usage des tokens, usage de l'IA"* à vendre tel quel. Tout ce qui dépasse via l'affiliation rentre directement dans la poche d'Aikho.
+>
+> **🔴 Escalade stratégique — Master Affiliate** : Alec a explicitement porté l'angle "premier partenariat affilié structurel" plus loin que la prop v2. Verbatim :
+> > *"Du premier partenariat affilié structurel à pousser au call, moi je veux même aller plus loin, je vais lui dire écoute, je te propose pas d'être affilié si tu veux, je te propose d'être master affiliate et t'aider à développer l'ensemble du programme affilié chez Aiko, et ainsi pouvoir même te trouver des affiliés derrière."*
+>
+> Structure : master affiliate + sous-affiliés sourcés par lui (typiquement clients EC ou prospects). *"On va pas lui faire un MLM, mais par contre, ça permet d'avoir ça."*
+>
+> **Posture relationnelle call** validée Alec : *"Hey Hugues, franchement trop cool, ça fait plaisir de te rencontrer, machin, depuis le temps que David me parle de toi, Boris aussi n'a fait que des éloges de toi suite à vos échanges, cool, hâte de te rencontrer comme convenu le 29."*
+>
+> **Contraintes pratiques actées** : Alec en voiture en vidéo, Hugues 45 min max, Boris calé sur 30 min, Alec doit partir à 14h30. Fallback : Boris finalise a posteriori si négo non bouclée à 14h30.
+>
+> Boris a validé la lecture Hugues : *"C'est sur toi qu'il faut aller je pense, parce que le gars est quand même assez réceptif et on a quand même parlé... assez impressionné par la boîte et par la taille de la boîte."*
+
 > **🟢 MAJ 11 mai 17h — v2 validée par Alec, call cadré demain 14h**.
 >
 > Vocal WhatsApp Alec reçu et traité : ajustements intégrés en v2, Alec confirme sa présence au call demain mardi 12 mai 14h00 (45 min max). Stratégie d'envoi : hybride C (DOCX en PJ avant le call pour préparation douce + déroulé principal pendant le call).

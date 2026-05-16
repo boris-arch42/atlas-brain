@@ -14,6 +14,18 @@ tags: [sales, head-of-sales, ex-team-manager, passation-axel, stakeholder-priori
 
 # Aziz Sfaihi
 
+> 🟡 **MAJ 2026-05-12 — Signal Alec en weekly : Aziz "sous l'eau"** (observation interne, à ne pas relayer)
+>
+> Alec en weekly Boris : *"Si Aziz, il follow up bien toutes les ventes et tout, ce mois on fait 1,5 et le mois prochain on fait 1,2 en encaissé, pas en signé. Et donc on remonte la trésorerie de presque 1 million en 2 mois. Donc c'est hyper important qu'Aziz soit dans les meilleures dispositions pour pouvoir faire ça. Et là aujourd'hui, je le trouve un peu sous l'eau, tu vois."*
+>
+> **Enjeu** : Aziz porte la cible trésorerie 1,5 + 1,2 M€ encaissé sur 2 mois à lui seul (follow up ventes). C'est **la variable critique de remontée trésorerie ~1 M€ en 2 mois**.
+>
+> **Lecture Boris partagée en séance** : *"Il y a des trucs qui n'avaient pas été anticipés, mais qui étaient difficilement anticipables. C'est l'arrivée des teams externes [sales bis], forçement ça crée pas mal de trucs. Même moi honnêtement, j'ai été pas mal pris là-dedans."* → contexte : surcharge structurelle liée au lancement sales bis Kelly. Pas un signal de départ, **un signal de surcharge** à désengorger.
+>
+> **Action Boris** : 1-to-1 court terme avec Aziz pour identifier 2-3 sujets concrets à décharger de sa plaque (hors closing pur). Cf. cadre acquis du 1-to-1 28/4. Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
+>
+> ⚠️ **À NE PAS relayer à Aziz directement** — c'est une observation interne Alec→Boris. Le porter en 1-to-1 sous l'angle *"je voulais qu'on prenne le temps de voir où tu en es vu la charge actuelle"*, pas *"Alec dit que tu es sous l'eau"*.
+
 > ⚠️ **Stakeholder priorité 1 S1** — Head of Sales, héritier direct de la passation Axel. **Warning structurel** : ne JAMAIS être managé par Fabrice (cf. ci-dessous). HO5 du diagnostic = "le départ d'Aziz est le risque RH le plus critique à court terme".
 
 ## ⚡ Synthèse en 30 secondes
