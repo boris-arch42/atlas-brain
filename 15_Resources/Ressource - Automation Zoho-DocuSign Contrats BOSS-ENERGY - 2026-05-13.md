@@ -1,17 +1,18 @@
 ---
 type: ressource-automation
-source: build session Boris ×Claude — 12-13 mai 2026
+source: build session Boris ×Claude — 12-13 mai 2026 + extension router multi-produits 19 mai 2026
 date-build: 2026-05-12 / 2026-05-13
-date-analyzed: 2026-05-13 (J12)
-status: V1.3 — en production (2 scénarios Make + dashboard live Vercel)
+date-extended: 2026-05-19 (J18 — router multi-produits + branche Incubateur + colonne Produit Sheets)
+date-analyzed: 2026-05-19
+status: V1.5 — en production (2 scénarios Make + router multi-produits Boss Energy / Incubateur + colonne Produit segmentation Sheets + dashboard live Vercel)
 participants: "Boris Arduy"
-context: "automatisation complète Kelly Launch — Agences Externes : génération contrats DocuSign sur Engagé, log ventes fermées, funnel Sheets 4 onglets, dashboard React Vercel avec auth + token. Architecture pensée pour 50-200 contrats/mois."
+context: "automatisation complète Kelly Launch — Agences Externes : génération contrats DocuSign multi-produits (Boss Energy + Incubateur) sur Engagé via router Make, log ventes fermées, funnel Sheets 4 onglets, dashboard React Vercel avec auth + token. Architecture pensée pour 50-200 contrats/mois."
 sensitivity: confidential
-tags: [zoho, docusign, make, automation, contrats, kelly-launch, boss-energy, google-sheets, funnel, ventes, dashboard, vercel, apps-script, J12, aries-consulting, ops]
+tags: [zoho, docusign, make, automation, contrats, kelly-launch, boss-energy, incubateur, multi-produits, router, google-sheets, funnel, ventes, dashboard, vercel, apps-script, J18, aries-consulting, ops]
 related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit IT)"
 ---
 
-# ⚙️ Automation Zoho ↔ Make ↔ DocuSign / Sheets / Dashboard — Funnel Kelly Launch V1.3
+# ⚙️ Automation Zoho ↔ Make ↔ DocuSign / Sheets / Dashboard — Funnel Kelly Launch V1.5 (multi-produits + segmentation Sheets)
 
 > **Contexte** : construction le 12-13 mai 2026 de l'infrastructure complète Kelly Launch :
 > 1. **Scénario 1** : génération + envoi automatique des contrats MÉTHODE BOSS quand un Deal passe à `Engagé`
@@ -28,12 +29,17 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
 ## ⚡ Synthèse en 30 secondes
 
 - 🟢 **Funnel Kelly Launch complet en prod** : Tally → Bookings → Contrats envoyés → Ventes fermées (4 onglets Sheets dans `Stockage Tally`)
-- 🟢 **Scénario 1 — Contrats (5 modules)** : Zoho `Engagé` → Webhook → Get Deal → DocuSign API (envelope from template + tabs pré-remplis + routing client/Alec) → update Zoho `Statut contrat = Envoyé` → log Sheets `Contrats envoyés`
+- 🟢 **Scénario 1 — Contrats multi-produits (Webhook + Get Deal + Router 2 branches × 3 modules)** : Zoho `Engagé` → Webhook → Get Deal → **Router selon `Code Produit`** :
+  - **Branche 1 — Boss Energy** : DocuSign template Boss Energy → update Zoho → log Sheets
+  - **Branche 2 — Incubateur** : DocuSign template Incubateur → update Zoho → log Sheets
+  - Filtres router : `Code Produit = Boss Energy` (branche 1) / `Code Produit = Incubateur` (branche 2)
 - 🟢 **Scénario 2 — Ventes fermées (3 modules)** : Zoho `Fermé Gagné` → Webhook → Get Deal → log Sheets `Ventes fermées`
 - 🟢 **Dashboard React live** : `https://kelly-dashboard-sigma.vercel.app` — funnel viz, KPI cards, time series 30 jours, breakdowns Format/Agence, tableau détail CA — auto-refresh 60s — fond blanc + accents noir/rouge Entrepreneurs.com
 - 🟢 **3 couches de sécurité dashboard** : Vercel Authentication (Standard Protection) + URL Apps Script secrète + token de vérification
 - 🟢 **0 ligne de Deluge** — tout no-code Make + API calls bruts + Apps Script web app
-- 🟢 **Tests bout-en-bout validés 13 mai** : envelope DocuSign (08h34), ligne `Contrats envoyés` (09h12), ligne `Ventes fermées` (09h33), dashboard live (13h)
+- 🟢 **Tests bout-en-bout validés 13 mai (V1.3)** : envelope DocuSign Boss Energy (08h34), ligne `Contrats envoyés` (09h12), ligne `Ventes fermées` (09h33), dashboard live (13h)
+- 🟢 **Test branche Incubateur validé 19 mai (V1.4)** : envelope DocuSign Incubateur envoyée + tabs pré-remplis OK + update Zoho + log Sheets — router multi-produits opérationnel
+- 🟢 **Colonne `Produit` validée 19 mai (V1.5)** : segmentation Boss Energy / Incubateur dans `Contrats envoyés` opérationnelle — valeur littérale en dur par branche (pas `{{2.Code Produit}}`) pour résilience aux renommages picklist Zoho
 - 🟢 **Garde-fou anti-doublon scénario 1** : condition `Statut contrat ≠ Envoyé`
 - 🟡 **Pas de garde-fou anti-doublon scénario 2** — passage en Fermé Gagné rare, doublon dans le sheet non-critique
 - 🟡 **`Date 1er paiement` en saisie manuelle** dans le sheet Feuille 4 par compta/admin
@@ -44,7 +50,7 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
 
 ## 🏗️ Architecture en un coup d'œil
 
-### Scénario 1 — Génération contrats MÉTHODE BOSS
+### Scénario 1 — Génération contrats multi-produits (V1.4)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -57,13 +63,21 @@ related: "[[Alec Henry]], [[Kelly Launch]], [[BOSS-ENERGY]], [[Mohamed]] (audit 
                          │ payload {deal_id, stage, deal_name}
                          ▼
 ┌─────────────────────────────────────────────────────────────┐
-│  MAKE — "Zoho → DocuSign — Contrats BOSS-ENERGY" (5 modules)│
+│  MAKE — "Zoho → DocuSign — Contrats multi-produits"         │
 │                                                             │
 │  [1] Webhooks Custom — reçoit le payload                    │
 │  [2] Zoho Get an Object — récupère le Deal complet          │
-│  [3] DocuSign API Call — POST envelope from template        │
-│  [4] Zoho API Call — PUT Statut contrat = Envoyé            │
-│  [5] Google Sheets Add a Row — log Feuille 3                │
+│  [10] Router — split selon Code Produit                     │
+│                                                             │
+│   ├─ 1st: Boss Energy (filter Code Produit = Boss Energy)   │
+│   │   [4]  DocuSign API Call — template Boss Energy         │
+│   │   [5]  Zoho API Call — PUT Statut contrat = Envoyé      │
+│   │   [6]  Google Sheets Add a Row — Contrats envoyés       │
+│   │                                                         │
+│   └─ 2nd: Incubateur (filter Code Produit = Incubateur)     │
+│       [12] DocuSign API Call — template Incubateur          │
+│       [14] Zoho API Call — PUT Statut contrat = Envoyé      │
+│       [15] Google Sheets Add a Row — Contrats envoyés       │
 └────────────────────────┬────────────────────────────────────┘
                          │
                          ▼
@@ -150,7 +164,8 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 |---|---|
 | **Make webhook URL (scénario 1)** | `https://hook.eu2.make.com/pyov1anmew3yzsodlwrs4fboqw7lofx1` |
 | **DocuSign API Account ID** | `c2e38f7c-edb4-435e-87f7-7ac6615901aa` |
-| **DocuSign Template ID (Contrat MÉTHODE BOSS)** | `6717eab6-540a-489b-9cc8-fbb32f2235fe` |
+| **DocuSign Template ID — Boss Energy (MÉTHODE BOSS)** | `6717eab6-540a-489b-9cc8-fbb32f2235fe` |
+| **DocuSign Template ID — Incubateur** | `7bda0ef7-dab9-4d12-812e-5954e8ed77a7` |
 | **DocuSign Base URI** | `https://eu.docusign.net` (instance EU) |
 | **DocuSign Connection name (Make)** | `Sales Docusign (sales@entrepreneurs.com)` |
 
@@ -229,7 +244,7 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 
 ---
 
-## ⚙️ Configuration Make — Scénario 1 (5 modules)
+## ⚙️ Configuration Make — Scénario 1 V1.4 (Webhook + Get Deal + Router 2 branches × 3 modules)
 
 ### Module 1 — Webhooks > Custom webhook
 
@@ -246,7 +261,20 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 | Module | `Deals` (Affaires) |
 | Object ID | `{{1.deal_id}}` |
 
-### Module 3 — DocuSign > Make an API Call
+### Module 10 — Router (split multi-produits)
+
+| Branche | Label | Filtre |
+|---|---|---|
+| 1st | `Boss Energy` | `{{2.Code Produit}}` equal to `Boss Energy` |
+| 2nd | `Incubateur` | `{{2.Code Produit}}` equal to `Incubateur` |
+
+⚠️ Vérifier que les valeurs de filtre matchent **exactement** les libellés du picklist `Code Produit` côté Zoho (case + accents). Si un deal a un `Code Produit` non listé, aucune branche ne se déclenche et le scénario s'arrête silencieusement après le module 2.
+
+---
+
+### Branche 1 — Boss Energy
+
+#### Module 4 — DocuSign > Make an API Call (Boss Energy)
 
 | Champ | Valeur |
 |---|---|
@@ -298,7 +326,7 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 }
 ```
 
-### Module 4 — Zoho CRM > Make an API Call
+#### Module 5 — Zoho CRM > Make an API Call (Boss Energy)
 
 | Champ | Valeur |
 |---|---|
@@ -319,7 +347,7 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 }
 ```
 
-### Module 5 — Google Sheets > Add a Row
+#### Module 6 — Google Sheets > Add a Row (Boss Energy)
 
 | Champ | Valeur |
 |---|---|
@@ -328,7 +356,73 @@ Fichier `0.01 Projets / 4. Lancement Kelly / Stockage Tally` — 4 onglets :
 | Sheet | **`Contrats envoyés`** (Feuille 3) |
 | Use column headers as IDs | **Yes** |
 
-**Mapping des 10 colonnes** : Date envoi (`{{now}}`) · Deal ID · Nom Affaire · Société · Email signataire · Nom signataire · Format · Modalités · Montant HT · DocuSign Envelope ID (`{{3.envelopeId}}`)
+**Mapping des 11 colonnes** : Date envoi (`{{now}}`) · Deal ID · Nom Affaire · Société · Email signataire · Nom signataire · Format · Modalités · Montant HT · DocuSign Envelope ID (`{{4.envelopeId}}`) · **Produit (`Boss Energy` littéral en dur)**
+
+---
+
+### Branche 2 — Incubateur
+
+#### Module 12 — DocuSign > Make an API Call (Incubateur)
+
+| Champ | Valeur |
+|---|---|
+| Connection | `Sales Docusign (sales@entrepreneurs.com)` |
+| URL | `/v2.1/accounts/{accountId}/envelopes` |
+| Method | `POST` |
+| Headers | `Content-Type: application/json` |
+
+**Body JSON complet** :
+
+```json
+{
+  "templateId": "7bda0ef7-dab9-4d12-812e-5954e8ed77a7",
+  "emailSubject": "Contrat Incubateur - {{2.Nom de l'entreprise}}",
+  "emailBlurb": "Bonjour, veuillez trouver ci-joint votre contrat Incubateur à signer. Cordialement, ARIES Consulting.",
+  "status": "sent",
+  "templateRoles": [
+    {
+      "email": "{{2.Email du signataire}}",
+      "name": "{{2.Nom du signataire}}",
+      "roleName": "Client",
+      "routingOrder": "1",
+      "tabs": {
+        "textTabs": [
+          { "tabLabel": "Nom de la société", "value": "{{2.Nom de l'entreprise}}" },
+          { "tabLabel": "Adresse postale", "value": "{{2.Adresse postale}}" },
+          { "tabLabel": "Ville", "value": "{{2.Ville}}" },
+          { "tabLabel": "Code postal", "value": "{{2.Code postal}}" },
+          { "tabLabel": "Pays", "value": "{{2.Pays}}" },
+          { "tabLabel": "Numéro d'immatriculation", "value": "{{2.Numéro d'immatriculation}}" },
+          { "tabLabel": "Représenté par", "value": "{{2.Nom du signataire}}" },
+          { "tabLabel": "Fonction", "value": "{{2.Fonction du signataire}}" },
+          { "tabLabel": "Adresse mail", "value": "{{2.Email du signataire}}" },
+          { "tabLabel": "Téléphone", "value": "{{2.Téléphone du signataire}}" },
+          { "tabLabel": "Montant HT", "value": "{{2.Montant Total HT}}" },
+          { "tabLabel": "Modalités de paiements", "value": "{{2.Modalité de paiement (texte)}}" }
+        ]
+      }
+    },
+    {
+      "email": "sales@entrepreneurs.com",
+      "name": "Alec Henry",
+      "roleName": "CEO",
+      "routingOrder": "2"
+    }
+  ]
+}
+```
+
+⚠️ Libellés des tabs **identiques au template Boss Energy** (template Incubateur réutilise les mêmes tabLabels), payload structurellement identique au module 4. Seule différence : `templateId` + `emailSubject` + `emailBlurb`.
+
+#### Module 14 — Zoho CRM > Make an API Call (Incubateur)
+
+Identique au module 5. Même URL `/v2/Deals/{{2.Object ID}}`, même body `Statut_contrat: Envoyé`.
+
+#### Module 15 — Google Sheets > Add a Row (Incubateur)
+
+Identique au module 6. Même spreadsheet `Stockage Tally`, même onglet `Contrats envoyés`, même mapping de 11 colonnes. Envelope ID = `{{12.envelopeId}}`. **Colonne `Produit` = `Incubateur` (littéral en dur)**.
+
+✅ **Segmentation Produit en place depuis V1.5 (19 mai 2026)** : l'onglet `Contrats envoyés` contient désormais une colonne `Produit` alimentée en dur par chaque branche du router (`Boss Energy` côté module 6, `Incubateur` côté module 15). Valeur en dur plutôt que `{{2.Code Produit}}` pour résilience aux renommages picklist Zoho. Prochaine étape : exploiter cette segmentation dans le dashboard Vercel (breakdown CA par produit, filtre).
 
 ---
 
@@ -547,7 +641,9 @@ git push                               # Vercel redéploie auto
 
 ### Priorité moyenne
 
-- [ ] **Multi-produits** : router scénario 1 selon `Code Produit` → templateId DocuSign différent (Oscar, autres)
+- [x] ~~**Multi-produits** : router scénario 1 selon `Code Produit` → templateId DocuSign différent~~ — ✅ **Fait en V1.4 (19 mai 2026)** pour Boss Energy + Incubateur. Pour ajouter Oscar / autres produits : dupliquer une branche du router, changer le filtre `Code Produit`, changer le `templateId` dans le payload DocuSign
+- [x] ~~**Colonne `Produit` dans `Contrats envoyés`**~~ — ✅ **Fait en V1.5 (19 mai 2026)** — segmentation Sheets opérationnelle, valeurs littérales en dur par branche
+- [ ] **Dashboard breakdown par Produit** : exploiter la colonne `Produit` côté `App.jsx` pour ajouter chart CA Boss Energy vs Incubateur + filtre produit global (V1.6)
 - [ ] **Bascule Fermé Gagné automatique** quand contrat signé + 1er paiement reçu (intégration Stripe/bancaire) — éliminerait la saisie manuelle `Date 1er paiement`
 - [ ] **Clarifier tab "Alec Henry"** dans le template DocuSign
 - [ ] **Champ Zoho custom "DocuSign Envelope ID"** pour traçabilité bidirectionnelle CRM ↔ Sheets ↔ Dashboard
@@ -584,7 +680,9 @@ git push                               # Vercel redéploie auto
   - V1 (13 mai 09h) — 4 modules Make scénario 1, premier envoi DocuSign validé
   - V1.1 (13 mai 11h) — ajout module 5 Sheets `Contrats envoyés`
   - V1.2 (13 mai 11h35) — ajout scénario 2 "Ventes fermées" (3 modules), funnel Sheets complet à 4 étapes
-  - **V1.3 (13 mai 14h) — dashboard React déployé sur Vercel, Apps Script proxy avec token auth, sécurisation Vercel Authentication, infra prod complète**
+  - V1.3 (13 mai 14h) — dashboard React déployé sur Vercel, Apps Script proxy avec token auth, sécurisation Vercel Authentication, infra prod complète
+  - V1.4 (19 mai 2026) — router multi-produits scénario 1, ajout branche Incubateur (template `7bda0ef7-dab9-4d12-812e-5954e8ed77a7`, tabLabels identiques Boss Energy), test bout-en-bout validé
+  - **V1.5 (19 mai 2026) — colonne `Produit` ajoutée à l'onglet `Contrats envoyés`, mapping en dur par branche (modules 6 + 15), segmentation Boss Energy / Incubateur opérationnelle côté Sheets**
 - **Tests réussis** :
   - 13 mai 08h34 UTC — envelope DocuSign `c26f5ecb-25b8-886a-8242-2c9b8715ae59` envoyée (status 201, tabs OK)
   - 13 mai 09h12 UTC — ligne `Contrats envoyés` créée (10 colonnes)
