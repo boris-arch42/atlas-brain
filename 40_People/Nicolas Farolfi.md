@@ -6,16 +6,40 @@ team: "Verticale Ops/IT/Tech/Data/IA"
 manager: "[[Cédric De Saint Jean]] (historiquement, côté marketing) — à confirmer après recadrage 5 mai (verticale sous Anisse/Fabrice)"
 reports: 
 started: "à compléter"
-last-updated: 2026-05-11
-status: departure-validated-publicly
-departure-context: "Remplacement en cours via Mithril — fiche de poste Cédric déjà transmise (cf. verbatim Alec call 5 mai 31:24). Validation publique Alec en weekly 11/5 + 3 profils déjà shortlistés par Cédric via Aiko."
-target-replacement-via: "[[Mithril]] / [[Aikho]] (Ops auto Maroc, sourcing en cours mai 2026 — 3 profils shortlistés)"
+last-updated: 2026-05-19
+status: departure-effective-this-week
+departure-context: "Licenciement immédiat acté par Alec en weekly Fabrice×Alec 18/5. Retrait accès jeudi→vendredi nuit, notification appel+email vendredi, paiement réglé le 10 du mois suivant."
+target-replacement-via: "[[Mithril]] / [[Aikho]] (3 profils shortlistés par Cédric via Aikho au 11/5)"
+relai-temporaire: "Équipe Boris (Mithril) 2-3 semaines le temps du recrutement"
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-tags: [ops, automatisations, sortie-validée, mithril-vitrine, verticale-data-ia-tech-ops, profil-rebadgé, sortie-publique-alec]
+tags: [ops, automatisations, sortie-immédiate, licenciement, mithril-relai, verticale-data-ia-tech-ops, cadre-juridique]
 ---
 
 # Nicolas Farolfi
+
+> 🔴 **MAJ 2026-05-18 — LICENCIEMENT IMMÉDIAT ACTÉ PAR ALEC**. Cf. [[Ressource - Replay Weekly Fabrice × Alec 18 mai 2026]].
+>
+> Décisions actées en séance :
+> - **Lettre d'avertissement** à mettre à jour avec **derniers problèmes sécurité + non-réponse**
+> - **Tous les accès retirés dans la fenêtre jeudi 21 → vendredi 22 nuit** (compte Google maintenu si nécessaire pour ne pas casser les automatisations existantes)
+> - **Document juridique clair** à préparer pour justifier la décision
+> - **Notification** : appel + email **vendredi 22 mai**
+> - **Paiement réglé le 10 du mois suivant** sur la base des jours travaillés
+> - **Licenciement immédiat** (verbatim Alec)
+>
+> **Posture Boris en séance** : a mis en garde contre l'attribution de l'**incident iClose** à Nicolas sans preuve, mais reconnaît que comportement global + absence d'implication rendent son maintien impossible. ⚠️ **Ne pas attribuer iClose à Nicolas dans le doc juridique** — logs en cours d'investigation, attribution non confirmée.
+>
+> **Relai opérationnel** : Boris + son équipe (Mithril) assurent un **relai temporaire 2-3 semaines** le temps du recrutement remplaceant. Cohérent avec 3 profils déjà shortlistés par Cédric via Aikho (cf. weekly 11/5).
+>
+> **Owners exécution sortie** :
+> - **Doc juridique** : Fabrice + Alec (sponsor), Boris en support
+> - **Retrait accès technique** : Boris + Mohamed (coordonner sur 24h)
+> - **Identification automations dépendantes** du compte Google : Boris (à ne pas casser)
+> - **Notification vendredi** : Alec (probable) ou Fabrice
+> - **Suivi RH paie** : Fabrice + Jordan
+>
+> **Investigation logs iClose** : Boris doit examiner pour déterminer **qui a changé le slug et quand** (responsabilité indépendante de la décision Nicolas).
 
 > 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris : timing précisé + déclencheur final documenté**
 >

@@ -23,6 +23,76 @@ related-resources: "[[Draft OKR Q1 Boris]] (historique avant J0), [[Prep - Call 
 
 ---
 
+## 🔴 MAJ 2026-05-19 J+18 — Crise cybersec + sortie Nicolas + mandat onboarding sales externes (post-replays 18-19/5)
+
+> Cf. [[Ressource - Replay Weekly Fabrice × Alec 18 mai 2026]] + [[Ressource - Replay COMEX hebdo 19 mai 2026]]. **3 mutations majeures du Plan Q1.**
+
+### 🆕 MUTATION 1 — KR3.3 explose : audit IT devient "audit IT + cybersec"
+
+L'audit Mohamed (avril-mai) a révélé **3 vecteurs d'exposition cybersec critiques** :
+- **~82 000 fichiers publiquement accessibles** sur la plateforme
+- **Redirections email entreprise → boîtes privées** (supprimées immédiatement)
+- **Slug iClose modifiable** par 6-7 super-admins → vecteur d'incident démontré (crash Kelly, perte estimée Alec >1M€)
+
+**Décisions Alec en weekly 18/5** :
+- Verrouillage par défaut de toute la plateforme
+- Plan d'action structuré sous 48-72h
+- **Plan NAS owner + échéance** demandés explicitement avant son départ Dubai 25-30/5
+
+→ **Nouveau scope** : [[Scope - Sprint Cybersec 48-72h - mai 2026]] cadre l'exécution.
+
+→ **KR3.3 ré-articulé** : la verticale Ops/IT/Tech/Data/IA hérite désormais explicitement de la **gouvernance cybersec**. Reporting consolidé mensuel 1/6 inclura audit IT + cybersec.
+
+→ **HO39 (crise data systémique) amplifiée** : 3 angles cybersec s'ajoutent aux 6 problèmes data déjà identifiés.
+
+### 🆕 MUTATION 2 — Sortie Nicolas Farolfi immédiate (semaine du 18/5)
+
+- **Licenciement immédiat** acté par Alec en weekly 18/5
+- **Retrait accès jeudi 21 → vendredi 22 mai nuit**
+- **Notification appel + email vendredi 22/5**
+- **Paiement réglé le 10 du mois suivant**
+- **Équipe Boris (Mithril) en relai marketing ops 2-3 semaines** le temps du recrutement
+- 3 profils déjà shortlistés par Cédric via Aikho à activer
+
+→ Accélère **KR3.3 (stack équipe verticale)** : sourcing remplaçant prioritaire S3-S4 mai.
+
+→ **Investigation logs iClose** = responsabilité Boris (indépendante de la décision Nicolas — pas d'attribution sans preuve).
+
+→ Cf. [[Nicolas Farolfi]] pour le plan détaillé.
+
+### 🆕 MUTATION 3 — Nouveau mandat Boris : partage onboarding/parcours post-vente avec sales externes
+
+Mandat explicite Alec en COMEX 19/5 :
+- Partager onboarding + parcours post-vente avec **toutes les équipes commerciales externes**
+- **Alignement préalable Aziz** (pas de court-circuit Head of Sales)
+- Canaux : contenu **School** + message **WhatsApp dédié**
+- Même flux partagé en interne pour cohérence
+
+→ **Convergence avec [[Scope - Documentation système Sales bis - Lancement Kelly]]** : la matière onboarding/parcours post-vente est **la matière même** du SOP Sales Bis en cours de captation Phase 1.
+
+→ **Quick win politique** : exécuter ce mandat **accélère la Phase 1 SOP Sales Bis** avec validation Alec garantie.
+
+→ Impact KR1.2 (top 10 process avec head owner) : ce process structurel s'ajoute aux 10 candidats prioritaires.
+
+### 🟢 Validation — Trustpilot résolu (sort du scope Boris)
+
+Le sujet Trustpilot avis frauduleux est **résolu** via escalade officielle Sabrina + Océane + avocat (cf. COMEX 19/5). L'action levier perso Boris **désactivée**. Cf. [[Note - Guerre Trustpilot mai 2026]] (statut maintenance).
+
+### 🟢 Validation — Aikho confirme valeur opérationnelle
+
+Pipeline RH Dubai au 19/5 : **22 candidats interview IA + 4 terminés + 100 rejetés CV**. Aikho filtre efficacement en amont. Renforce le narratif partenariat Hugues Pringault × EC structuré au call 12/5 (cf. [[Ressource - Replay Call Aikho × Hugues Pringault 12 mai 2026]]).
+
+→ **Nouvelle deadline calendaire** : finalisation détails partenariat Aikho **29 mai** (cohabite avec Welcome Session Kelly 29/5).
+
+### 🟡 Signaux faibles structurels
+
+- **HO41 (visibilité Alec)** devient critique cette semaine : Boris physiquement absent jeudi-dimanche Marrakech pendant que la crise cybersec est ouverte. **Rituel reporting cybersec quotidien** (1 message Slack/jour) à installer avant départ — décision la plus haut levier de la semaine.
+- **Capital politique Boris** sur le mandat IT : a défendu Mohamed publiquement 2 fois en 2 jours (18/5 + 19/5). À continuer mais éviter sur-protection.
+- **Onboarding V2 Quentin + matching coach-client** (présenté COMEX 19/5, IPIP 130 + algo matching) = **matière forte pour KR3.2** (automation cycle de vie lead). Quick win critique HO39.
+- **Système IA lancement marketing Anisse** : Cédric va le voir cette semaine. **Thermomètre HO32 (départ Cédric Q2-Q3)** — si Cédric trouve l'outil convaincant, signal positif rétention.
+
+---
+
 ## ⚠️ Note tactique pour la séance — vocabulaire
 
 **🚫 Le mot "OKR" est proscrit en séance.** Cf. HO31bis dans [[Diag - Hypothèses que j'ai sur la boîte (à vérifier)]] — Tang/Charles ont contaminé le mot, Alec a explicitement validé *"on n'a pas d'OKR, on déteste les OKR"*.

@@ -1,17 +1,28 @@
 ---
 type: note-de-memoire
-status: en-cours-cote-ec
+status: resolved-maintenance
 date-created: 2026-05-11
+last-updated: 2026-05-19
 owner-principal-ec: "[[Sabrina Dahel]] + [[Océane De Queiros]]"
-contact-perso-boris: "Contact Trustpilot (à activer)"
-related-affaires: ["Vidéo YouTube Radié", "Avis fakes Trustpilot"]
+contact-perso-boris: "Contact Trustpilot — dormant (escalade officielle a fonctionné)"
+related-affaires: ["Vidéo YouTube Radié", "Avis fakes Trustpilot (résolus)"]
 avocat-mandate: oui
-tags: [trustpilot, guerre-concurrentielle, avis, brand, sabrina, océane, avocat, note]
+tags: [trustpilot, guerre-concurrentielle, avis, brand, sabrina, océane, avocat, note, resolu]
 source: entrepreneurs-com
 sensitivity: confidential
 ---
 
 # Note — Guerre Trustpilot mai 2026
+
+> 🟢 **MAJ 2026-05-19 — RÉSOLU côté avis frauduleux**. Cf. [[Ressource - Replay COMEX hebdo 19 mai 2026]].
+>
+> Sabrina confirme en COMEX que les **avis non légitimes ont été supprimés** après escalade auprès de Trustpilot (Sabrina + Océane + avocat). Le **profil public reflète désormais les retours positifs récents**.
+>
+> **Statut désormais** : maintenance, pas chantier actif.
+>
+> **Cible Alec** : maintenir **1 à 3 avis positifs par jour ouvré** (idéalement aussi le week-end). Logique algo : pics suivis de creux rendent Trustpilot plus agressif → flux régulier critique. Discussion auto-demande d'avis lancée (à industrialiser côté Sabrina).
+>
+> **Implication Boris** : l'action levier perso (contact Trustpilot) **n'est plus à activer** sauf demande explicite Sabrina/Océane. Le contact reste **dormant en relais futur** si besoin.
 
 > **🟡 Note de mémoire** — pas un chantier à piloter par Boris. Sabrina + Océane portent le sujet côté EC, avocat déjà mandaté. Cette note existe pour ne pas perdre le contexte et pour traçabilité de l'action levier Boris (contact perso Trustpilot).
 >
