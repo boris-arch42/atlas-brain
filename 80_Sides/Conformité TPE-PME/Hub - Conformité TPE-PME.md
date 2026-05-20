@@ -15,13 +15,30 @@ tags: [side, alec, conformite, tpe-pme, bricks, hors-perimetre-ent]
 
 ## 🎯 Synthèse en 30 secondes
 
-- **Quoi** : SaaS de conformité réglementaire pour TPE/PME (document unique, sécurité incendie, RGPD, dératisation, contrôle technique, affichage obligatoire, gestion employés, formation sécurité)
+- **Nom projet** : **Oscar** (folder vault = "Conformité TPE-PME" pour raisons historiques)
+- **Quoi** : **OS de conformité et d'opérations** pour TPE/PME / artisans / dirigeants débordés en secteurs régulés (document unique, sécurité incendie, RGPD, dératisation, contrôle technique, affichage obligatoire, gestion employés, formation sécurité)
 - **Modèle** : abonnement mensuel/annuel avec partenariat financeur pour offres pluriannuelles (modèle Limova-like)
 - **Co-fondateurs** : [[Alec Henry]] + Cédric Berrebi (fondateur Bricks — plateforme d'investissement immobilier fractionné, plusieurs centaines de milliers d'investisseurs, ~50M€/mois investis)
 - **Statut backend** : 100% IA — vise une équipe de 4 salariés max (DG ops + media buyer + AI/automation + facturation)
-- **Mon rôle** : partenaire opérationnel sur le sales (recherche closer, structuration commerciale) + feedbacks site
-- **Cut** : à quantifier — verbatim Alec : *"que tu puisses aussi avoir un petit cut dessus"*
-- **Hors scope Operating Partner ENT** — allocation 0.5j/sem max
+- **Mon rôle** : ⚠️ **en évolution** — avril 27 = partenaire opérationnel sales 0.5j/sem ; mai 2026 (call kickoff Cédric) = *"structurer et opérer comme à temps plein sur 3 mois"*. **À recadrer d'urgence avec Alec** (cf. Risque #1)
+- **Cut** : à quantifier — verbatim Alec : *"que tu puisses aussi avoir un petit cut dessus"* (toujours non quantifié au call mai 2026 malgré expansion du rôle)
+- **Hors scope Operating Partner ENT** — allocation initiale 0.5j/sem max (à challenger à la lumière du call mai)
+
+## 🔔 Mise à jour mai 2026 — Kickoff Oscar avec Cédric Berrebi
+
+Le 1er trilatéral Boris × Alec × Cédric Berrebi a fait évoluer significativement la thèse vs le call du 27 avril. **Détails complets dans [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]].**
+
+**Évolutions clés :**
+- 🆕 **Positionnement** : Oscar = *OS de conformité et d'opérations* (pas un service ponctuel)
+- 🆕 **ICP affiné** : artisans / dirigeants débordés en secteurs régulés (pêche, paysage, BTP, agences immo, boulangeries, poissonneries)
+- 🆕 **GTM** : revirement — **offre gratuite (DUERP) en entrée** + ads + prospection commerciale (vs "pas de paiement en front" du 27 avril)
+- 🆕 **Rôle Boris** : *"structurer et opérer comme à temps plein sur 3 mois"* (mai-juin-juillet) — ⚠️ conflit avec mandat ENT 4.5j/sem
+- 🆕 **Ads** : **Hubert** (media buyer ENT) onboardé par Boris pour piloter les ads Oscar
+- 🆕 **Recrutement DG ops** via **Aiko** (⚠️ conflit d'intérêt latent avec Mithril)
+- 🆕 **Calendrier** : test ads 7-10 juin, budget 5-10K€, structure juridique propre en juillet (FR / Lux / Belgique / Suisse à arbitrer)
+- 🆕 **Backend IA** : module de génération de contenu de formation à partir du code APE déjà existant côté Cédric
+- 🆕 **Scale futur** : achat de portefeuilles de petites entreprises + partenariat distribution LegalPlace (post 50-100K entrepreneurs référencés)
+- 🆕 **Cadence** : groupe WhatsApp + maj obligatoire avant le 10 juin + points bimensuels min
 
 ## 🚦 Statut au 27 avril 2026
 
@@ -114,7 +131,7 @@ tags: [side, alec, conformite, tpe-pme, bricks, hors-perimetre-ent]
 
 ## 🚨 Risques identifiés
 
-1. **Surcharge S1 ENT** : ce side arrive en plein démarrage Co-COO. Risque de dispersion. Mitigation : 0.5j/sem strict.
+1. **🔴 Surcharge S1 ENT — AGGRAVÉ par call mai 2026** : ce side arrive en plein démarrage Co-COO. Au call mai 2026, Alec a tacitement étendu l'engagement à *"structurer et opérer comme à temps plein sur 3 mois"*. Multiplication x6-8 de l'allocation initiale. **Mitigation** : recadrer immédiatement avec Alec (orchestration ≠ exécution ; ou accélérer recrutement DG ops Aiko/Mithril pour transférer le rôle dès juin).
 2. **Société non créée = pas d'encaissement avant 3-4 semaines** : si on closure des deals avant, problème de continuité (à anticiper avec Cédric Berrebi).
 3. **Closing dépendant des partenariats actifs** : sans plans pluriannuels et sans transfert de confiance Bricks au début, hard à closer en self-service direct (raison pour laquelle on a besoin d'un closer humain).
 4. **Cut non quantifié** : verbatim Alec *"un petit cut"* — flou. À quantifier rapidement (10% ? 20% ? equity ?). Pas urgent mais à ne pas oublier.
@@ -127,10 +144,18 @@ tags: [side, alec, conformite, tpe-pme, bricks, hors-perimetre-ent]
 - Boris accepte le rôle (option A — accepté tel quel)
 - Cf. [[Replay - Boris x Alec 27 avril 2026]]
 
+### Mai 2026 — Kickoff trilatéral Boris × Alec × Cédric Berrebi (~40 min)
+- 1ère rencontre Boris × Cédric Berrebi
+- Thèse produit refondée (Oscar = OS de conformité), ICP affiné (artisans régulés), GTM lean (free DUERP + ads + closer)
+- ⚠️ Expansion implicite du rôle Boris (3 mois "comme à temps plein") — à recadrer
+- Calendrier opérationnel posé : test ads 7-10 juin (budget 5-10K€), structure juridique juillet
+- Cf. [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]]
+
 ## 🔗 Notes liées
 
 - [[Index - Sides]] (index des sides du vault)
-- [[Replay - Boris x Alec 27 avril 2026]] (transcript Sembly + analyse complète)
+- [[Replay - Boris x Alec 27 avril 2026]] (transcript Sembly + analyse complète — call initial)
+- [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]] (transcript Sembly + analyse complète — kickoff trilatéral, évolutions de thèse et de mandat)
 - [[Alec Henry]] (co-fondateur du side)
 - [[Riven Agency]] (zone d'allocation parallèle 0.5j/sem)
 - [[Règles d'engagement — Operating Partner Entrepreneurs.com]] (allocation 4.5j ENT + 1j Mithril + 0.5j Riven/MTS dans laquelle on inclut ce side)
