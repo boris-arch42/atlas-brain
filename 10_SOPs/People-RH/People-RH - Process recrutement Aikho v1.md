@@ -2,18 +2,24 @@
 type: sop
 domain: People-RH
 owner: "[[Boris Arduy]]"
-status: active
+status: superseded
+superseded-by: "[[People-RH - Process recrutement Aikho v2]]"
+superseded-on: 2026-05-21
 last-reviewed: 2026-05-06
 frequency: par-recrutement
 related-decisions:
   - "[[2026-04-30 - Operating Partner chez Entrepreneurs.com]]"
 linked-retro: "[[2026-05-06 - Retro Call Heads Process recrutement Aikho]]"
-tags: [recrutement, hiring, aikho, process, heads, entrepreneurs-com]
+tags: [recrutement, hiring, aikho, process, heads, entrepreneurs-com, superseded]
 source: entrepreneurs-com
 sensitivity: internal
 ---
 
 # SOP — Process recrutement Aikho v1
+
+> **⚠️ Superseded le 21 mai 2026** par [[People-RH - Process recrutement Aikho v2]] suite à directive Slack d'Alec depuis Marrakech (cf. [[Ressource - Slack Alec - Directive process recrutement & structuration RH 21 mai 2026]]).
+>
+> Ce document est conservé en référence historique pour audit trail. Tous les nouveaux recrutements ouverts à partir du 21 mai 2026 suivent la **v2** (passage de 5 à 9 étapes nominales, ajout scoring 70/100 et 75/100, interview IA, recommandations méthode David Thomas, validation C-Level, email rejet propre obligatoire).
 
 ## Pourquoi ce process existe
 
@@ -130,4 +136,4 @@ Idée issue du call (Sabrina) : faire passer un CV de collaborateur historiquem
 
 - 2026-05-06 — Création v1, présentation aux heads en call de 1h ([[2026-05-06 - Call Heads — Process recrutement Aikho]])
 - 2026-05-06 — Passé en `active` après call. Ajouts post-call : section Exercices techniques, section Cas particuliers et gouvernance, piège "course à la complétude" ([[2026-05-06 - Retro Call Heads Process recrutement Aikho]])
-- Prochaine révision prévue : 20 mai 2026 (après retours Loom des heads et point Marrakech)
+- **2026-05-21 — `superseded` par [[People-RH - Process recrutement Aikho v2]]** suite à directive Slack d'Alec depuis Marrakech ([[Ressource - Slack Alec - Directive process recrutement & structuration RH 21 mai 2026]]). Évolution structurelle : +4 étapes nominales (scoring 70/100 → interview IA 75/100 → exercices automatisés → vérification recommandations David Thomas → validation C-Level systématique), email de rejet propre obligatoire 100% candidats éliminés, cycle cible étendu de 20 à 30 jours.
