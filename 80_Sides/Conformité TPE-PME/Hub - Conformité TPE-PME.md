@@ -49,7 +49,7 @@ Le 1er trilatéral Boris × Alec × Cédric Berrebi a fait évoluer significativ
 | **Société juridique** | 🔴 Pas créée — France, ~3-4 semaines pour la mettre en place |
 | **Encaissement** | 🔴 Stripe à brancher après création société |
 | **Closer** | 🟠 À recruter — profil rassurant TPE/PME (pas un gamin) |
-| **Ads** | 🟠 Cédric Berrebi pilote — lancement potentiel S1 mai |
+| **Ads** | 🟢 Hubert (media buyer ENT) onboardé par Boris en mai — setup LP + tracking + Meta Ads Manager + créatifs (7-10 j) ; lancement test ads 7-10 juin (budget 5-10K€) |
 | **Marketing/media buying** | 🟠 Cédric Berrebi |
 | **Backend / AI / automation** | 🔴 À cadrer (Alec mentionne *"un de tes Indiens"* pour mise en place) |
 | **Partenariats distribution** | 🟢 Actifs en arrière-plan : BPI, CCI, Go Entrepreneur (Lyon/Paris/BIG ?), Le Déclic, banques (BNP, BP, Banque Postale en discussion) |
@@ -151,11 +151,23 @@ Le 1er trilatéral Boris × Alec × Cédric Berrebi a fait évoluer significativ
 - Calendrier opérationnel posé : test ads 7-10 juin (budget 5-10K€), structure juridique juillet
 - Cf. [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]]
 
+### 2026-05-26 — Onboarding Hubert Smolen (media buyer) sur Oscar (~26 min)
+- 1er call dédié Boris × [[Hubert Smolen]] post-kickoff trilatéral
+- Hubert briefe sur la **lecture growth** : risque #1 = rétention (vs. usage ponctuel), levier le plus puissant = suggestions de documents par métier
+- Cadrage **pricing initial** 70-120 €/mois (hypothèse à challenger au test)
+- Direction **ads motion design** + **landing pages dynamiques** par métier validée
+- Setup ads : 7-10 j (LP + tracking + pixels + Meta Ads Manager + créatifs)
+- Boris à livrer **PDF récap** (info, hypothèses, questions ouvertes) avant la revue **début juin** (autour du team-building Paris)
+- ⚠️ Questions à aligner avec Alec/Cédric avant juin : pricing, modèle (abo pur vs. hybride), self-serve vs. engagement annuel, critères de succès
+- Cf. [[Replay - Boris x Hubert Smolen - Oscar - mai 2026]]
+
 ## 🔗 Notes liées
 
 - [[Index - Sides]] (index des sides du vault)
 - [[Replay - Boris x Alec 27 avril 2026]] (transcript Sembly + analyse complète — call initial)
 - [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]] (transcript Sembly + analyse complète — kickoff trilatéral, évolutions de thèse et de mandat)
+- [[Replay - Boris x Hubert Smolen - Oscar - mai 2026]] (transcript Sembly — onboarding Hubert sur ads Oscar, cadrage GTM/pricing/rétention)
 - [[Alec Henry]] (co-fondateur du side)
+- [[Hubert Smolen]] (media buyer ENT — pilote ads Oscar à partir de mai 2026)
 - [[Riven Agency]] (zone d'allocation parallèle 0.5j/sem)
 - [[Règles d'engagement — Operating Partner Entrepreneurs.com]] (allocation 4.5j ENT + 1j Mithril + 0.5j Riven/MTS dans laquelle on inclut ce side)
