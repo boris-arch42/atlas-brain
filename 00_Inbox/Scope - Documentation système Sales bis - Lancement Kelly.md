@@ -16,6 +16,12 @@ sensitivity: confidential
 
 # Scope — Documentation système Sales Bis (Lancement Kelly)
 
+> **🟢 MAJ 2026-05-28 — QUESTION PIVOT TRANCHÉE : système RÉPLICABLE**
+>
+> La question d'Alec ("réitération vs test ponctuel ?") est **tranchée** : le système Kelly **sera réplicable sur les futurs lancements**, même s'il **nécessitera des ajustements** à chaque fois.
+>
+> **Conséquence** : le livrable cible n'est **plus une simple note retex documentaire** mais bien un **SOP actif** déclenché à chaque lancement (section 8 "pièges/retex" + section 9 "roadmap d'amélioration" deviennent vivantes). Bascule prévue dans `10_SOPs/Sales/` après rédaction V1.
+
 > **MAJ 2026-05-11** — suite au weekly Fabrice × Alec du 11/5 :
 > - 🔤 **Orthographe confirmée par Boris** : "Sales Bis" (capitales S et B). Le fichier a été renommé en conséquence.
 > - 📊 **Chiffres confirmés** : 40 closers externes (Boris) / 42 sales déployés (Alec) — même ordre de grandeur

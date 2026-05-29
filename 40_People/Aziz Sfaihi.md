@@ -14,8 +14,91 @@ tags: [sales, head-of-sales, ex-team-manager, passation-axel, stakeholder-priori
 
 # Aziz Sfaihi
 
-> 🟡 **MAJ 2026-05-12 — Signal Alec en weekly : Aziz "sous l'eau"** (observation interne, à ne pas relayer)
+> **🟢 MAJ 2026-05-28 — Lecture Boris** : Aziz **OK pour le moment**. La collaboration tient au quotidien. ⚠️ Ne pas effacer pour autant le **diagnostic Fabrice du 27/5** ("incompatibilité moyen terme", cf. ci-dessous) : les deux lectures coexistent — opérationnellement OK aujourd'hui, risque structurel à moyen terme à garder en filet (documentation process sales + succession).
+
+## 🔴 MAJ 2026-05-27 — Verdict Fabrice "incompatibilité moyen terme" + design HOS sous triangulation
+
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
 >
+> ⚠️ **À NE JAMAIS relayer à Aziz**. Diagnostic strictement interne au trio Boris/Fabrice/Anisse. **Ré-escalade HO5** : passage de *"désamorcée + signal sous l'eau"* (12/5) à **risque structurel moyen terme** documenté par Fabrice.
+
+### 🔴 Verdict Fabrice : "je ne prédis pas de collaboration au-delà du moyen terme"
+
+Verbatim [[Fabrice Jaeger]] 19:39 :
+> *"C'est un call qu'on enregistre mais qui reste confidentiel dans tous les cas. Moi je ne prédis pas une collaboration au-delà du moyen terme parce qu'il y a une très forte incompatibilité avec l'entreprise et avec nos valeurs de la part d'Aziz. La façon dont il va considérer les autres, comment pas les considérer, quand il va aller prêter main-forte, pas prêter main-forte, quand il va être capable de handle son quotidien, son daily, ses projets. Il y a beaucoup de signaux qui sont pas forcément positifs, indépendamment de sa capacité à closer."*
+
+**Contraste posé par Fabrice avec [[Axel Bombezin]]** (20:31) :
+> *"Axel, c'était pour moi le meilleur closer. C'est celui qui arrive à le mieux cadrer. Il a regardé tous nos consultings 4-5 fois pour être le meilleur à savoir poser les questions. C'est même lui qui a bien insufflé cette culture du 'on questionne, on audite et limite on est business coach presque'. [Aziz] sur le job qui est attendu, plus la compatibilité globale et l'influence qu'il peut avoir et sur ses collaborateurs mais aussi sur ses partenaires horizontaux et verticaux, j'arrive pas à le projeter ni épanoui ni compatible au-delà du moyen terme."*
+
+→ **Fabrice projette le départ d'Aziz** à horizon moyen terme. Pas une décision actée, mais un diagnostic. À **calibrer en bilatéral Boris × Fabrice** : 3 mois ? 6 mois ?
+
+### 🔴 Pattern objectif : 15 jours de non-réponse Aziz → Fabrice
+
+Verbatim [[Boris Arduy]] 18:23 :
+> *"Tu l'avais déjà plus ou moins vu factuellement parlant parce qu'il te répondait pas, donc c'est pas une grande découverte."*
+
+Verbatim Boris 59:03 :
+> *"Je trouve ça absolument incroyable qu'en gros ça fait 15 jours ou je sais pas combien de temps qu'il répond pas à Fabrice sur certains sujets."*
+
+→ **Comportement vérifiable et problématique**, indépendamment du diagnostic Fabrice. Aziz **refuse activement** de bosser avec Fabrice depuis ~15 jours.
+
+### 🟠 Lecture Boris : héritage Axel
+
+Verbatim Boris 21:05 :
+> *"Il a quand même hérité malgré lui de pas mal de pensées, de réflexions qu'Axel avait et qui font qu'il était sur le départ aussi. Donc indirectement, il s'est quand même inspiré pas mal de ça. Il y a certaines personnes que tu mets de côté parce que plus ou moins tu estimes que c'est des pompes et en gros t'as pas envie de bosser avec elles, donc tu les mets un peu de côté."*
+
+→ **Hypothèse Boris** : Aziz a internalisé la posture critique d'Axel envers Fabrice. Cohérent avec le profil de successeur direct + admiration documentation Axel.
+
+### 🟠 Design HOS dans le triptyque : triangulation (pas direct Alec)
+
+Le whiteboard pose HOS comme triangulé :
+- **Alec** : closing / vision marché / décisions lancement
+- **Boris** : data sales via DataOps (dashboards chiffres globaux)
+- **Fabrice** : fondamentaux sales (taux conversion, objections, turnover, taux closing one-on-one)
+
+Verbatim Fabrice 17:29 :
+> *"Sur la partie sales, c'est le taux de conversion, le travail sur les objections, le turnover de tes gars, les vrais sujets de fond. Je pense c'est plus dans ta façon de faire à toi de converser sur ces sujets plutôt que chez Alec."*
+
+Verbatim Alec 19:28 (questions de fond à Aziz) :
+> *"Est-ce que tu sais combien il y a de closeurs ? Combien il y a eu de turnover sur les closeurs ? Combien de closeurs ont un *** en attente qui est colossal et qui remonte pas ? Quel est le taux réel de closing quand ils sont one-on-one ? Toutes ces questions qui vont dans le fond du truc."*
+
+→ **Aziz n'aura plus Alec comme interlocuteur principal sur les fondamentaux**. Triangulation = pression structurelle si refus de jouer le jeu.
+
+### 🟠 Risque trésorerie majeur si départ Aziz
+
+⚠️ **Si Aziz part, rupture immédiate de trésorerie** — il porte la cible 1,5 + 1,2 M€ encaissé sur 2 mois (cf. signal Alec weekly 12/5). **Le départ doit être préparé, pas subi.**
+
+**Filet de sécurité Boris (actions immédiates)** :
+- **Accélérer la documentation des process sales** sous l'angle DataOps Support infra
+- **Anticiper succession** : Aziz a déjà nommé 2 team leaders (cf. fiche 28/4) — identifier le remplaçant potentiel
+- **Ne PAS relayer** le diagnostic Fabrice à Aziz ni à personne d'autre dans la boîte
+- **Maintenir la rituel 1-to-1 récurrent** (acquis 28/4) sans changement de posture visible
+
+### 🟠 Action collective : Alec doit imposer le minimum vital
+
+Verbatim Fabrice 59:43 :
+> *"C'est d'imposer simplement qu'il fasse ce que Fabrice demande, donc il lui livre ce que Fabrice demande. Pour moi, c'est la base, c'est le minimum."*
+
+Verbatim Fabrice 1:00:14 (règle culture générale) :
+> *"Tout individu qui vient faire de la pleurniche ou qui n'a rien à te dire et qui doit plutôt aller parler à quelqu'un de nous plutôt qu'à toi, tu peux lui dire 'mec, va te faire ***, tu as cru que c'était le bureau des plaintes ? Va parler à Fabrice, tu retournes dans ta niche.' C'est cette culture-là où progressivement, on va réinstaurer, on va désapprendre les réflexes qui ont été appris."*
+
+→ **Action Alec attendue** : poser à Aziz le cadre minimum *"tu réponds à Fabrice quand il te sollicite sur les fondamentaux, point."* **À surveiller** : est-ce qu'Alec le fait ? Si Alec proteste son confort, c'est lui qui sabote le cordon sanitaire qu'il a lui-même designé.
+
+### 📝 Actions Boris cette semaine concernant Aziz
+
+#### 🔴 Sous 7 jours
+1. **1-to-1 récurrent Boris × Aziz** (calage acquis 28/4 — toutes les 2 semaines) : maintenir la posture, ne rien laisser transpirer du verdict Fabrice
+2. **Bilatéral Boris × Fabrice** : calibrer horizon "moyen terme" (3 mois ? 6 mois ?) + structurer plan de succession discret
+
+#### 🟠 Sous 14 jours
+3. **Identifier successeur potentiel** parmi les 2 team leaders déjà nommés par Aziz
+4. **Accélérer documentation process sales** (HubSpot, Odoo, automation paiements, commissions) sous angle interchangeabilité
+
+#### 🟡 Sous 30 jours
+5. **Coordination Boris × Anisse** : structurer dashboard data sales (DataOps) qui rende Aziz transparent à ses propres chiffres — réduit la dépendance à Aziz comme oracle
+
+## 🟡 MAJ 2026-05-12 — Signal Alec en weekly : Aziz "sous l'eau" (observation interne, à ne pas relayer)
+
 > Alec en weekly Boris : *"Si Aziz, il follow up bien toutes les ventes et tout, ce mois on fait 1,5 et le mois prochain on fait 1,2 en encaissé, pas en signé. Et donc on remonte la trésorerie de presque 1 million en 2 mois. Donc c'est hyper important qu'Aziz soit dans les meilleures dispositions pour pouvoir faire ça. Et là aujourd'hui, je le trouve un peu sous l'eau, tu vois."*
 >
 > **Enjeu** : Aziz porte la cible trésorerie 1,5 + 1,2 M€ encaissé sur 2 mois à lui seul (follow up ventes). C'est **la variable critique de remontée trésorerie ~1 M€ en 2 mois**.

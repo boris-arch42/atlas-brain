@@ -1,6 +1,6 @@
 ---
 type: scope
-status: en-cours
+status: clos
 date-created: 2026-05-11
 last-updated: 2026-05-12
 event-date: 2026-05-21 → 2026-05-25
@@ -20,6 +20,11 @@ sensitivity: confidential
 ---
 
 # Scope — Préparation Marrakech (event EC 21-25 mai)
+
+> **✅ MAJ 2026-05-28 — EVENT PASSÉ, SCOPE CLOS**. L'event a eu lieu (21-25 mai). À retenir :
+> - **Verdict Sophia** : elle a **décliné la mission** (charge jugée trop lourde/complexe) ; elle finalisera néanmoins son audit au team building 5-7 juin. Cf. [[Sophia]].
+> - Observations équipes/clients : à restituer/compléter si tu veux les consigner.
+> - 📁 **À archiver** dans `90_Archive/` une fois les éventuelles observations consignées (dis-moi si je le déplace).
 
 > 🟢 **MAJ 2026-05-12 — Corrections post-weekly Alec × Boris**
 >

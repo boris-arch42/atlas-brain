@@ -7,9 +7,9 @@ manager: "[[Cédric De Saint Jean]] (historiquement, côté marketing) — à co
 reports: 
 started: "à compléter"
 last-updated: 2026-05-19
-status: departure-effective-this-week
-departure-context: "Licenciement immédiat acté par Alec en weekly Fabrice×Alec 18/5. Retrait accès jeudi→vendredi nuit, notification appel+email vendredi, paiement réglé le 10 du mois suivant."
-target-replacement-via: "[[Mithril]] / [[Aikho]] (3 profils shortlistés par Cédric via Aikho au 11/5)"
+status: departure-in-progress-controlled
+departure-context: "Licenciement acté par Alec (weekly 18/5). SORTIE VOLONTAIREMENT RALENTIE (MAJ 28/5) pour ne casser aucun système : collecte des process/accès + recherche remplaçant en cours avant retrait effectif."
+target-replacement-via: "[[Aikho]] (stack recrutement ENT — remplace le rôle de Mithril, en pause). 3 profils shortlistés par Cédric au 11/5."
 relai-temporaire: "Équipe Boris (Mithril) 2-3 semaines le temps du recrutement"
 source: entrepreneurs-com
 sensitivity: rh-nominatif
@@ -18,7 +18,55 @@ tags: [ops, automatisations, sortie-immédiate, licenciement, mithril-relai, ver
 
 # Nicolas Farolfi
 
-> 🔴 **MAJ 2026-05-18 — LICENCIEMENT IMMÉDIAT ACTÉ PAR ALEC**. Cf. [[Ressource - Replay Weekly Fabrice × Alec 18 mai 2026]].
+> **🔴 MAJ 2026-05-28 — SORTIE RALENTIE VOLONTAIREMENT (ne rien casser)**. Contrairement au calendrier initial (retrait accès 21-22/5), Boris **ralentit délibérément la sortie** pour ne casser aucun système. En cours :
+> - **Collecte des process et des accès** dont Nicolas dispose (cartographie avant retrait).
+> - **Recherche active d'un remplaçant** via [[Aikho]] (Mithril étant en pause).
+> - **Transfert connaissance amont → [[Thomas Baeumlin]]** (cf. section ci-dessous) à boucler dans la fenêtre.
+>
+> ⚠️ Tant que la collecte n'est pas complète, le retrait d'accès ne doit pas être déclenché. Coordination cybersec maintenue (cf. [[Scope - Sprint Cybersec 48-72h - mai 2026]]).
+
+## 🔴 MAJ 2026-05-28 — Transfert connaissance Nicolas → [[Thomas Baeumlin]] CRITIQUE avant départ
+
+> Découverte via les cartographies data de [[Thomas Baeumlin]] (cf. [[Ressource - Cartographie Data Thomas Baeumlin 28 mai 2026]]). **Le meilleur réceptacle de la connaissance Nicolas n'est PAS Boris, c'est Thomas.**
+
+### 🔴 Le risque indirect : Thomas perd sa source de contexte amont
+
+Thomas (Data Engineer) **dépend de la connaissance des flux campagnes de Nicolas/Yohan** pour modéliser correctement la donnée. Verbatim Thomas dans sa cartographie :
+> *"Manque de documentation claire sur comment les campagnes sont orchestrées de A à Z, dans quels outils passe un lead → ralentit la modélisation."*
+> *"Où perds-tu le plus de temps ? Compréhension du fonctionnement de chaque département → reconstituer ce contexte à chaque nouvelle intégration."*
+
+→ **Quand Nicolas part, Thomas perd l'explication des flux amont.** C'est un risque indirect majeur du départ Nicolas, distinct du risque opérationnel direct.
+
+### 🟢 Bonne nouvelle : le detail_funnel est partiellement déjà chez Thomas
+
+Le **detail_funnel** que Nicolas se déclare "seul à maîtriser" existe déjà en **version data warehouse** chez Thomas (réconciliation cross-sources BigQuery/DBT, versionnée + testée). Donc la dépendance Nicolas sur l'attribution est **partiellement couverte**.
+
+→ **Reste à valider l'écart** : tracking *frontend* (Nicolas/Yohan : UTM, webhooks, optin) vs tracking *data* (Thomas : modélisation post-ingestion). C'est cet écart qu'il faut transférer.
+
+### 🎯 Action critique avant départ Nicolas
+
+**Organiser un transfert ciblé Nicolas → Thomas** (pas seulement Nicolas → Boris) sur :
+1. L'orchestration des campagnes de A à Z (quel outil, quel ordre, pourquoi)
+2. Les conventions detail_funnel frontend (naming, sources, fallbacks)
+3. Les cas edge tracking (VSL / Webinar / SDR / Evergreen)
+4. Les points de jonction frontend → BigQuery (là où la donnée bascule du domaine Nicolas au domaine Thomas)
+
+**Format** : 2-3 sessions Nicolas + Thomas (+ Boris en observateur), capturées en Loom. À caler **dans la fenêtre avant notification départ** (sinon Nicolas, une fois notifié, ne coopérera plus).
+
+→ **Couvrir sous l'angle légitime** : *"Pour que Thomas puisse modéliser proprement les nouveaux dashboards (Customer Journey, COMEX), il a besoin de comprendre l'orchestration amont. Tu peux lui faire un transfert ?"* — Cadre Archi 2.0 / dashboards, pas cadre départ.
+
+### ⚠️ Distinction des réceptacles (révision stratégie passation)
+
+| Connaissance Nicolas | Meilleur réceptacle durable |
+|---|---|
+| Tracking / attribution / detail_funnel | [[Thomas Baeumlin]] (documente + versionne) |
+| Scénarios Make/n8n opérationnels | Remplaçant Aikho + équipe Mithril (relai) |
+| Archi 2.0 Laravel | Yohan (co-pilote actuel) |
+| Vision end-to-end lancements | Boris (macro) + doc partagée |
+
+→ **Boris n'est pas le réceptacle principal** — il orchestre la répartition vers les bons réceptacles durables.
+
+## 🔴 MAJ 2026-05-18 — LICENCIEMENT IMMÉDIAT ACTÉ PAR ALEC
 >
 > Décisions actées en séance :
 > - **Lettre d'avertissement** à mettre à jour avec **derniers problèmes sécurité + non-réponse**

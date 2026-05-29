@@ -18,6 +18,17 @@ sensitivity: confidential-max
 
 # Scope — Sprint Cybersec 48-72h (mai 2026)
 
+> **🟢 MAJ 2026-05-28 — Avancement + nouveau vecteur 4 (phishing)**
+>
+> **Avancement technique** :
+> - ✅ **Tableau de suivi des datas cybersécurité en place**.
+> - 🟢 **Fichiers publics : ~15 000 déjà retirés** (82 000 → **~67 000**). Verrouillage dossier par dossier en cours, sans casse client signalée à ce stade.
+> - 🔴 **Sortie Nicolas volontairement ralentie** (ne rien casser) : collecte des process/accès + recherche remplaçant en cours. Cf. [[Nicolas Farolfi]].
+>
+> **🆕 VECTEUR 4 — Phishing (vecteur humain)** : une campagne de simulation a révélé **29 identifiants compromis sur 173 testés (17 %)**, dont le **RAF** et l'**assistante du fondateur** (profils critiques → fraude au virement + fraude au président). Un plan d'action 3 temps + pilotage récurrent a été produit par **GDZ (société de Mohamed)** — mandaté comme extension de son mandat. Détail : [[Ressource - Plan action Cybersec Phishing GDZ - mai 2026]].
+>
+> **Arbitrage ouvert** : plateforme de sensibilisation continue payante (Riot) vs internalisation. MFA obligatoire = action immédiate non négociable.
+
 > **🚨 Sprint d'urgence** déclenché par l'audit Mohamed (avril-mai 2026) qui a révélé une **dette de gouvernance cybersécurité massive** sur EC.
 >
 > **3 vecteurs d'exposition critiques** :
@@ -140,7 +151,7 @@ Cible : **cartographie complète des redirections résiduelles** + **fermeture c
 
 | KPI | Baseline (19/5) | Cible J+11 (31/5) |
 |---|---|---|
-| Fichiers publics | ~82 000 | <500 (uniquement clients) |
+| Fichiers publics | ~82 000 | <500 (uniquement clients) | 🟢 ~67 000 au 28/5 (-15K) |
 | Redirections email résiduelles | Inconnu (à cartographier) | 0 |
 | Tickets support liés au verrouillage | 0 | <10 (cible <0.1% utilisateurs) |
 | Plan NAS partagé à Alec | Non | Oui, avec owner + échéance |

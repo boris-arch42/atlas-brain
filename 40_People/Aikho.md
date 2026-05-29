@@ -20,6 +20,8 @@ sensitivity: confidential
 
 # Aikho
 
+> **🟢 MAJ 2026-05-28 — Aikho reprend le rôle de stack recrutement ENT (à la place de Mithril)**. Mithril étant mis en pause (réflexion vision produit), **Aikho devient la solution de sourcing/recrutement de référence pour Entrepreneurs.com**. Boris juge la solution **très intéressante** et des **discussions sont en cours** avec eux (au-delà de la finalisation du partenariat Hugues du 29/5). Périmètre repris : remplaçant Nicolas, dévs offshore, PMO local, futur CTO Dubai. Cf. [[Mithril/README]] + KR3.3 de [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]].
+
 > **Identité canonique** : **Aikho** (= Aiko = EKO = AEKO = AECO dans les transcriptions Sembly). Référence à utiliser dans le vault.
 >
 > **CEO / Fondateur** : Hugues Pringault.

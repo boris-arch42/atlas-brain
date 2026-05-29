@@ -14,15 +14,74 @@ tags: [cmo, marketing, risque-depart-imminent, rupture-latente, stakeholder-prio
 
 # Cédric De Saint Jean
 
-> 🚨 **CONFIDENTIEL MAX** — Cette page contient des informations triangulées sur un risque de départ imminent. **Ne jamais partager le contenu de cette page**, même partiellement, avec Alec ou un tiers. Le 1-to-1 doit faire émerger ce que je sais déjà, pas le révéler.
+> **🔴 MAJ 2026-05-28 — Lecture Boris** : départ **à court-moyen terme probable** confirmé (cohérent avec l'annonce publique d'Alec du 27/5). Recrutement nouveau CMO à piloter ; thermomètre rétention désormais secondaire (HO32 actée). Résilience marketing (KR4.3) devient le vrai sujet.
 
-## ⚡ Synthèse en 30 secondes
+## 🔴 MAJ 2026-05-27 — Départ Cédric confirmé publiquement par Alec en séance triptyque
 
-- **Risque départ Q2-Q3 2026** identifié par triangulation Océane (23/4) + Axel (24/4) + Cédric lui-même (depuis octobre 2025 selon Axel)
-- **Frérot d'Alec** = relation affective, biais de rétention par loyauté, pas par solution structurelle
-- **Aucun successeur naturel** sur le marché francophone — l'entreprise est *"complètement dépendante du marketing"* selon Axel
-- **A déjà essayé d'alerter** depuis 6 mois sans que ça change → sujet **mature** côté Cédric, peut décider à tout moment
-- **Mon rôle au 1-to-1** : créer un espace, écouter, ne pas révéler ce que je sais, ne pas auditer, ne pas tenter de le retenir directement
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+>
+> **HO32 désormais acté en séance** avec [[Fabrice Jaeger]] + [[Anisse Rbibe]] présents. Recrutement nouveau CMO lancé. **Calendrier semble s'être acceléré** par rapport au stop loss juin posé par Cédric.
+
+### 🔴 Verbatim Alec en séance — départ Cédric n'est plus une hypothèse
+
+Verbatim [[Alec Henry]] 12:08 :
+> *"Le CMO, là, en plus, ils vont recruter un nouveau gars, Cédric est partant, etc. Donc à voir dans quelle mesure ça sera équilibré."*
+
+→ **Trois mots structurants** :
+- *"Cédric est partant"* — Alec utilise le présent, pas le futur conditionnel
+- *"Ils vont recruter un nouveau gars"* — le recrutement CMO remplaçant est lancé
+- *"À voir dans quelle mesure ça sera équilibré"* — Alec anticipe un déséquilibre transitoire
+
+→ **Fin de la zone confidentielle absolue** sur le départ Cédric au sein du C-Level (trio + Alec). Le sujet circule désormais entre les 4. **Mais l'information reste confidentielle vis-à-vis des autres collaborateurs et de Cédric lui-même** (pas d'annonce officielle).
+
+### 🟠 Implication design nouvel organigramme
+
+Dans le triptyque, le poste CMO apparaît comme :
+- **Interlocuteur direct quotidien d'[[Alec Henry]]** (membre des 5-6 du cordon sanitaire)
+- **À recruter en remplacement de Cédric**
+- Reporte hiérarchiquement à Alec, N+1 admin chez [[Fabrice Jaeger]]
+
+→ **Le successeur CMO doit être identifié avant le départ effectif de Cédric** pour éviter un trou de gouvernance marketing.
+
+### 🟠 Calendrier vs stop loss juin
+
+Cédric avait posé son **stop loss à début juin** (cf. MAJ 30/4 : *"si en juin la situation n'a pas changé, c'est ciao, c'est bye"*). Alec parle au 27/5 d'un recrutement de remplaçant **en cours**, ce qui signifie :
+- **Hypothèse A** : le départ Cédric est confirmé pour juin/juillet, plan de transition en cours
+- **Hypothèse B** : le délestage promis (-10-15h/sem) n'a pas tenu, Cédric a confirmé son départ à Alec entre le 12/5 et le 27/5
+- **Hypothèse C** : la décision a été prise mais l'annonce sera officialisée au meeting mensuel du 1er juin
+
+→ **À clarifier en bilatéral Alec** : timing exact + qui annonce à qui + format de la transition.
+
+### 🟢 Évaluation des 3 leviers Boris (calendrier 4-6 semaines posé le 30/4)
+
+Le 30/4, j'avais posé 3 leviers pour ramener Cédric à *"rester avec autonomie"* :
+
+| Levier | Cible (30/4) | État (27/5) |
+|---|---|---|
+| **Mithril/Aiko** : 3 recrutements (DataOps + responsable webinaire + intégrateur) | 30-45 jours, fin mai/mi-juin | ✅ Fiche de poste DataOps reçue le 5/5, sourcing lancé. État actuel ? **À vérifier** |
+| **Projet Cervo** (Anisse) : stack marketing IA | 8 semaines (juin) | État ? **À vérifier avec Anisse** |
+| **Buffer Alec silencieux** | Tout mai | 🟠 Partiellement réussi (cordon sanitaire arrive trop tard pour Cédric ?) |
+
+→ **Si Cédric a confirmé son départ à Alec entre le 12 et le 27 mai**, c'est probable que les 3 leviers n'aient pas suffi à atteindre la double condition (délestage + atmosphère).
+
+### 📝 Actions Boris cette semaine concernant Cédric
+
+#### 🔴 Sous 48h
+1. **Bilatéral Alec × Boris** ou DM : clarifier le timing exact départ Cédric + plan de transition + qui annonce quand
+2. **État des lieux des 3 leviers** : où en sont les 3 recrutements Mithril ? État projet Cervo ? (Mais ne pas relancer Cédric directement s'il est en mode transition)
+
+#### 🟠 Sous 7 jours
+3. **Cartographie de succession marketing** — qui hérite de quoi si Cédric part à J+30 : équipe perf, attribution, lancements, spend pub, agences externes
+4. **Coordination avec [[Anisse Rbibe]]** : la transition Cédric impacte directement le contenu IA (gros bloc com/marketing = contenu sorti par IA selon Anisse). Workshop Cervo ?
+5. **Profil du CMO remplaçant** : si recrutement actif, brief Mithril ou réseau direct Boris
+
+#### 🟡 Sous 14 jours
+6. **Bilatéral Cédric** (si encore en poste et approprié) : pas pour le retenir, mais pour cadrer la passation et tenir l'engagement coopératif (verbatim 30/4 *"compte sur moi pour tout implémenter"*)
+7. **Briefer le cordon sanitaire sur la communication post-départ** : ne pas relayer publiquement avant annonce officielle
+
+#### 🟣 À monitorer
+8. **Risque CMO temporaire à grand pouvoir** : Alec, sans contrepoids, pourrait recruter un profil affectif (frerot bis) plutôt qu'un profil structurel. Boris doit pouvoir challenger en bilatéral Alec.
+9. **Réactivation Amine Achour ?** : hypothèse posée par Alec dans le passé. **À vérifier** s'il est dans la short list. Si oui, recommander scope full-time, pas pointillé.
 
 ## 🟢 MAJ 2026-05-05 J4 SOIR — Mithril matérialisé publiquement comme stack Cédric
 

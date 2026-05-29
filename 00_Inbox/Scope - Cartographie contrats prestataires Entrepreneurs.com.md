@@ -16,6 +16,12 @@ sensitivity: confidential-max
 
 # Scope — Cartographie contrats prestataires Entrepreneurs.com
 
+> **🟢 MAJ 2026-05-28 — Phase 1 (recensement) FAITE → passage Phase 2**
+>
+> Boris a **cartographié toutes les équipes de la boîte** (le point de base / recensement Phase 1 est acquis). On peut désormais **s'atteler avec Fabrice à chaque contrat individuellement** (Phase 2 : récupération + audit contrat par contrat).
+>
+> **Note** : le "cas prioritaire #1 Mohamed" (formaliser la bascule forfait post-4/7) n'est **plus urgent** — Mohamed est maintenu sur son format actuel (cf. [[Mohamed]]). Reste à formaliser proprement son contrat existant.
+
 > **Note d'origine (carnet 2026-05-10)** : *"Localiser tous les contrats et avoir un process clair onboarding et offboarding"* — précision Boris : majoritairement les contrats des prestataires à vérifier et mettre à jour.
 
 ## Pourquoi ce chantier existe

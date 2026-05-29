@@ -13,8 +13,121 @@ tags: [ceo, fondateur, entrepreneurs-com, riven-agency, dual-role]
 
 # Alec Henry
 
-> 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris (28 min) : 3 patterns confirmés + 1 mandat stratégique posé**
+## 🔴 MAJ 2026-05-27 — Triptyque officialisé sur whiteboard + cordon sanitaire 5-6 max + deadline 1er juillet
+
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
 >
+> **Call structurel majeur** entre Alec, [[Fabrice Jaeger]], [[Anisse Rbibe]] et Boris. L'organigramme est désormais acté sur whiteboard : triptyque Co-COO / COO / CPO. **Plus de confidentialité absolue** entre les 4 sur l'architecture — mais annonce externe maintenue au 1er juin pour titre Co-COO Boris.
+
+### 🔴 Doctrine "cordon sanitaire" — max 5 interlocuteurs quotidiens
+
+Verbatim [[Fabrice Jaeger]] 10:00 (et accepté par Alec) :
+> *"Alec, par design, ne devrait pas parler ni ne devrait pas être contacté par plus de 5 personnes maximum dans la boîte."*
+
+Verbatim Alec 00:37 (formulation initiale) :
+> *"L'idée ici en fait c'est de remettre une forme de cordon sanitaire autour d'Alec de manière à ce qu'il puisse se focaliser sur l'extérieur, sur la vision, sur les deals commerciaux. Il y a notamment un gros sujet sur le côté international avec des prises de parole à l'international."*
+
+**Cible interlocuteurs quotidiens** :
+1. Boris (Co-COO Support infra)
+2. [[Fabrice Jaeger]] (COO Business Opé)
+3. [[Anisse Rbibe]] (CPO Perf Humain/IA)
+4. [[Océane De Queiros]] (COM)
+5. CMO (nouveau, à recruter post-[[Cédric De Saint Jean]])
+6. [[Aziz Sfaihi]] (HOS) — **triangulé** : Alec sur closing, Boris sur data, Fabrice sur fondamentaux
+
+**Tous les autres** ([[Sabrina Dahel]], [[Jordan Leroux]], [[Quentin]], coachs, ops) passent par leur N+1 dans le triptyque.
+
+### 🔴 Triptyque acté par Alec sur whiteboard
+
+Le schema dessiné par Alec en séance pose nominalement :
+
+| Position | Personne | Titre | Scope |
+|---|---|---|---|
+| Gauche | [[Boris Arduy]] | **Co-COO Support infra** | Contenant (outils, SaaS, plateforme, DataOps, infra, internationalisation) |
+| Centre | [[Fabrice Jaeger]] | **COO Business Opé** | Contrepoids business + delivery/tech/event + admin/finance/RH |
+| Droite | [[Anisse Rbibe]] | **CPO Perf Humain/IA** | Contenu (IA, mentoring, représentation) |
+
+→ **Pour la première fois, le titre Co-COO Boris est matérialisé par écrit avec témoins** ([[Fabrice Jaeger]] + [[Anisse Rbibe]] présents). **Tension partielle** avec doctrine 12/5 (*"titre sans fonction"* pour Fabrice) — cf. fiche [[Fabrice Jaeger]] MAJ 27/5.
+
+### 🟠 Responsabilité partagée du déploiement
+
+Verbatim Alec 46:07 :
+> *"Pour moi, c'est un boulot justement entre moi, Anisse et Boris. C'est un triptyque. Je prends la responsabilité, mais le but c'est qu'on design ça ensemble."*
+
+**Working group** :
+- Boris + Anisse : working session préparatoire (sous 48h)
+- Validation/amélioration : [[Fabrice Jaeger]]
+- Forme com interne potentielle : [[Océane De Queiros]]
+
+**Deadline déploiement** : **1er juillet 2026 maximum**
+
+Verbatim Alec 48:37 :
+> *"J'ai pas envie que comme beaucoup de choses qu'on met en place dans la boîte, ce soit une discussion et que dans 3 mois je me dis '*** on avait déjà eu cette discussion, en fait j'ai payé encore 428 000 par mois de salaire pour rien*. J'ai pas envie d'être dans cette situation."*
+
+→ **Posture Boris posée en séance** (50:50) : *"Ça sert à rien qu'on donne une date sans analyser les liens de causalité."* Alec accepte le principe step-by-step, deadline 1er juillet maintenue comme cible non-rigide.
+
+### 🟠 Doctrine complémentaire : interchangeabilité des hommes-clés
+
+Verbatim [[Boris Arduy]] 31:31 :
+> *"Il faut éviter toute logique d'homme — et je parle avec un grand H — d'homme clé dans la boîte. Faut que n'importe qui soit interchangeable."*
+
+Validé par Alec (29:47) :
+> *"Mon plus gros sujet aujourd'hui c'est que quand Alec me dit 'ouais mais si Aziz part on est dans la *** ou si untel part on est dans la *** machin', c'est qu'on a un problème. On a un problème structurel."*
+
+→ **Mandat structurel pour Boris** : documenter via Loom (fonction process), checklists daily/weekly/monthly, plug-and-play sur les profils non-C-level.
+
+### 🟠 N+1 admin/contrat/salaire → [[Fabrice Jaeger]]
+
+Verbatim Alec 56:53 :
+> *"Moi le partie N+1, bilan annuel, contrat, revue des salaires, machin truc bidule, j'aimerais que ce soit comme dans le passé, c'est Fabrice qui gère cette partie-là. Tu veux une augmentation, va voir chez Fabrice, moi je ne suis pas compétent là-dessus."*
+
+→ Alec délègue complètement les sujets RH formels à Fabrice. Cohérent avec le reframe Business Opé.
+
+### 🟡 Sofia & team building — input recherché sur les flux de communication
+
+Verbatim Fabrice 37:07 :
+> *"On pourra en profiter lors du team building pour poser la question à Sofia. C'est son sujet de prédilection."*
+
+→ Sofia maîtrise la cartographie des flux de communication (issue de podcasts avec e-commerçants 20-30M€ remote/splittés multi-pays). À inviter à challenger le design lors du prochain team building.
+
+**⚠️ À clarifier** : team building Marrakech (passé 21-25 mai) ou autre event futur ? Verbatim Fabrice 37:20 *"il m'a dit voilà, on l'a annoncé, etc."* suggère un event à venir, mais pas de date précise. À vérifier en bilatéral Alec.
+
+### 🟢 Règle de comportement face aux "plaintes" — culture de redirection
+
+Verbatim Fabrice 1:00:14 (accepté par Alec) :
+> *"Tout individu qui vient faire de la pleurniche ou qui n'a rien à te dire et qui doit plutôt aller parler à quelqu'un de nous plutôt qu'à toi, tu peux lui dire 'mec, va te faire ***, tu as cru que c'était le bureau des plaintes ? Va parler à Fabrice, tu retournes dans ta niche.' C'est cette culture-là où progressivement, on va réinstaurer, on va désapprendre les réflexes qui ont été appris."*
+
+→ **Charge à Alec** : appliquer activement cette règle dès qu'un collaborateur hors-trio le sollicite hors-scope. **À monitorer** : si Alec saute la règle dès la 1ère sollicitation, c'est lui qui sabote son propre cordon sanitaire.
+
+### 🟡 Tension reframe Fabrice — à monitorer en bilatéral
+
+Verbatim Fabrice 05:34 :
+> *"Une notion que j'ai beaucoup poussée avec depuis 2 jours, c'est de reprendre vraiment ce rôle de contrepoids d'un point de vue business operation."*
+
+→ **Tension partielle** avec la doctrine 12/5 d'Alec (*"titre sans fonction → GM Dubai"*). Le reframe est porté par Fabrice, accepté sur whiteboard par Alec en séance, mais **trajectoire GM Dubai non explicitement annulée**.
+
+**Action Boris** :
+- **Bilatéral Alec × Boris** sous 14 jours : tester délicatement la cohérence (*"Comment tu vois Fabrice se positionner sur les 6 prochains mois ?"*)
+- **Meeting mensuel 1er juin** : observer si Alec confirme publiquement le reframe Business Opé ou maintient la trajectoire GM Dubai
+
+### 📝 Actions Boris cette semaine concernant Alec
+
+#### 🔴 Sous 48h
+1. **Working session Boris × Anisse** (90 min) pour préparer le plan déploiement organigramme
+2. **Définir mission clé personnelle** (Co-COO Support infra)
+
+#### 🟠 Sous 7-14 jours
+3. **Session Boris + Anisse + Alec** : présenter plan structuré (étapes, dépendances, risques)
+4. **Bilatéral Alec × Boris** : tester cohérence trajectoire Fabrice (GM Dubai vs Business Opé)
+5. **Validation Fabrice** sur plan finalisé
+
+#### 🟡 Avant 1er juillet
+6. **Annonce officielle Co-COO Boris** au meeting mensuel 1er juin (maintenue)
+7. **Déploiement progressif** par cadrage individuel (pas de com globale verticale, *"par contagion"*)
+8. **Test cordon sanitaire** : monitorer si Alec respecte la règle des 5-6 ou la déborde
+
+## 🟢 MAJ 2026-05-12 — Weekly Alec × Boris (28 min) : 3 patterns confirmés + 1 mandat stratégique posé
+
 > **Pattern 1 — Doctrine "jamais accès à tout, on garde le contrôle"** : explicitée sur les équipes sales externes. Verbatim : *"On ne donnera jamais accès à tout, on garde le contrôle."* Doctrine à généraliser comme principe d'entreprise.
 >
 > **Pattern 2 — Préférence forte pour structure call serrée + suivi écrit** : feedback méta très positif sur la structure du call portée par Boris. Verbatim : *"En 30 minutes, on a évoqué plus de sujets et plus de décisions que parfois dans des calls d'une heure que certains font en one-on-one dans l'ensemble de l'entreprise. Ça lui donnera aussi un bon exemple [à Fabrice]. Et parfois même avec Fabrice, on a des calls qui sont toujours agréables, mais où il y a plein de sujets traités et finalement il y a pas de suivi."* **Demande explicite Alec** : Boris partage la structure/template du call à Fabrice. Limite : *"Ca peut se faire avec un template."* → déclenche la création d'un SOP de pilotage 1-to-1/weekly réplicable.

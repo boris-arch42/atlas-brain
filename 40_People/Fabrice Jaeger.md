@@ -1,17 +1,99 @@
 ---
 type: person
-role: "COO Entrepreneurs.com → General Manager Dubai (transition à valider Marrakech mi-mai)"
+role: "COO Business Opé Entrepreneurs.com (reframe 27/5) — trajectoire GM Dubai en tension partielle"
 team: "Entrepreneurs.com"
 manager: "[[Alec Henry]]"
 reports: 
 started: 2024
-status: active-en-transition
+status: active-business-ope
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-tags: [coo, comex, entrepreneurs-com, ex-ceo, transition-GM-Dubai, Co-COO-avec-Boris]
+tags: [coo, comex, entrepreneurs-com, ex-ceo, business-ope, contrepoids, triptyque, transition-GM-Dubai-en-tension, Co-COO-avec-Boris]
 ---
 
 # Fabrice Jaeger
+
+## 🔴 MAJ 2026-05-27 — Reframe "COO Business Opé" en séance triptyque (tension avec doctrine 12/5)
+
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]]. **Sensibilité maximale** : reframe en tension partielle avec doctrine Alec 12/5 (*"titre sans fonction"*). **À ne pas relayer**.
+
+### 🔴 Pivot stratégique : Fabrice se réinstalle en COO opérationnel "Business Opé"
+
+**Sur le whiteboard d'Alec** (présenté par Alec lui-même en séance avec Anisse + Boris présents) : Fabrice est inscrit comme **COO Business Opé** au centre du triptyque. C'est un **reframe explicite** de son rôle :
+
+- **Avant (doctrine 12/5)** : *"titre sans fonction → stratégique haut niveau → GM Dubai"* (verbatim Alec en weekly Boris)
+- **Après (positionnement 27/5)** : COO opérationnel actif, contrepoids business face à Alec, scope étendu (delivery/tech/event + admin/finance/RH + coaching sales fondamentaux)
+
+Verbatim Fabrice auto-positionnement 05:34 :
+> *"Une notion que j'ai beaucoup poussée avec depuis 2 jours, c'est de reprendre vraiment ce rôle de contrepoids d'un point de vue business operation. C'est comment allier vraiment la vision business — ce qu'Alec a vraiment repris énormément à sa charge depuis pratiquement un an sur la partie marketing, sales, e-com — et la partie operation, comment la délivrer."*
+
+Verbatim Fabrice métaphore "voiture poubelle" 06:00 :
+> *"Depuis 6 mois, 1 an, je suis passé de : je récupère, quand tu es parti Boris j'ai récupéré ton truc, après il y a Oli qui est parti j'ai récupéré la CSM, j'ai récupéré le produit, j'ai tout récupéré. J'ai fait la voiture poubelle de toutes les... voiture balai en fait. Et du coup plus aucune insight finalement de ce qui était business."*
+
+→ **Lecture politique** : Fabrice **revendique activement** un retour en COO opérationnel à plein régime, pas une transition vers Dubai. Le mouvement est porté par Fabrice lui-même (*"je pousse depuis 2 jours"*), pas par Alec.
+
+### 🟠 Signal opérationnel pendant le call lui-même
+
+À 38:30, Fabrice s'absente du call **pour aller faire un call de closing**. Verbatim au retour 39:25 :
+> *"Ah parfait, c'est comme ça que je sors de l'opérationnel, Boris."* (ton sarcastique, mais l'action est concrète)
+
+Verbatim Fabrice avant de partir :
+> *"Tout le monde, tout le monde se remet au closing là, il faut faire rentrer du cash, l'entreprise en a besoin. Donc là, je vais faire des calls de closing maintenant."*
+
+→ Fabrice est **toujours très hands-on opérationnel**. Cohérent avec le reframe Business Opé, **incohérent** avec une trajectoire de retrait vers GM Dubai à court terme.
+
+### 🟡 Lectures possibles de la tension
+
+| Hypothèse | Probabilité | Implication |
+|---|---|---|
+| (a) Alec a évolué — voit Fabrice s'engager activement, le repositionne en opérationnel | **Moyenne-haute** | Doctrine 12/5 caduque, GM Dubai reporté ou abandonné. À confirmer au meeting mensuel 1er juin. |
+| (b) Fabrice reprend de l'espace au-delà de ce qu'Alec a explicitement validé | **Moyenne** | Risque de friction si Alec re-cadre publiquement. À surveiller dans les bilatéraux Alec × Boris. |
+| (c) Coexistence transitoire : Business Opé maintenant, GM Dubai plus tard | **Moyenne-basse** | Compatible avec maintien du titre COO sans rupture immédiate. |
+
+→ **Action Boris** :
+- **Pas de relais** de cette tension à qui que ce soit (Alec, Fabrice, Anisse)
+- **Bilatéral Alec × Boris** : tester délicatement la cohérence du discours Alec sur la trajectoire Fabrice (*"Comment tu vois Fabrice se positionner sur les 6 prochains mois ?"*)
+- **Bilatéral Boris × Fabrice** : sous 14 jours, calibrer l'horizon GM Dubai et l'alignement Business Opé/Dubai (cf. famille, homeschooling fils, géopolitique)
+
+### 🟢 Scope COO Business Opé acté en séance
+
+- **Contrepoids stratégique** vs Alec sur décisions ROI, lancements, allocations cash (verbatim Alec 07:23 sur les 400K lancement)
+- **Delivery / Tech / Event** (expérience client globale)
+- **Admin / Finance / RH** y compris N+1 officiel : bilans annuels, contrats, revues salaires. Verbatim Alec 56:53 :
+> *"Moi le partie N+1, bilan annuel, contrat, revue des salaires, machin truc bidule, j'aimerais que ce soit comme dans le passé, c'est Fabrice qui gère cette partie-là. Tu veux une augmentation, va voir chez Fabrice, moi je ne suis pas compétent là-dessus."*
+- **Coaching fondamentaux sales** [[Aziz Sfaihi]] : taux conversion, objections, turnover, taux closing one-on-one. Verbatim Fabrice 17:29 :
+> *"C'est un peu comme sur les fondamentaux, par exemple sur la partie sales, c'est le taux de conversion, le travail sur les objections, le turnover de tes gars, les vrais sujets de fond. Je pense c'est plus dans ta façon de faire à toi de converser sur ces sujets plutôt que chez Alec."*
+
+### 🔴 Verdict Fabrice sur Aziz — "incompatibilité moyen terme"
+
+> ⚠️ **À NE JAMAIS relayer**. Diagnostic strictement interne au trio.
+
+Verbatim Fabrice 19:39 :
+> *"C'est un call qu'on enregistre mais qui reste confidentiel dans tous les cas. Moi je ne prédis pas une collaboration au-delà du moyen terme parce qu'il y a une très forte incompatibilité avec l'entreprise et avec nos valeurs de la part d'Aziz. La façon dont il va considérer les autres, comment pas les considérer, quand il va aller prêter main-forte, pas prêter main-forte. Il y a beaucoup de signaux qui sont pas forcément positifs, indépendamment de sa capacité à closer."*
+
+→ **Implication HO5** : passage de *"désamorcée + signal sous l'eau"* (12/5) à **risque structurel moyen terme** documenté. Cf. [[Aziz Sfaihi]] pour ré-escalade.
+
+→ **Pattern objectif observable** : Aziz ne répond pas à Fabrice depuis ~15 jours sur certains sujets. Verbatim Boris 59:03 : *"Je trouve ça absolument incroyable qu'en gros ça fait 15 jours ou je sais pas combien de temps qu'il répond pas à Fabrice sur certains sujets."*
+
+### 🟢 Doctrine "interchangeabilité des hommes-clés" portée par Fabrice
+
+Verbatim Fabrice 32:15 :
+> *"Tous les collaborateurs opérants qui utilisent des outils, des process, doivent documenter un maximum. Loom maintenant intègre une fonction process, ça te fait des screenshots de là où tu cliques."*
+
+Verbatim Fabrice 35:13 (insight structurel) :
+> *"Pour les profils non-C-level, le risque c'est pas pas savoir comment faire, c'est pas savoir quoi faire. En fait, c'est plus le risque d'oublier des choses que de pas savoir comment faire."*
+
+→ **À porter dans le scope DataOps Boris** : checklist daily/weekly/monthly tasks par poste (vs how-to verbeux).
+
+### 📝 Actions Boris cette semaine concernant Fabrice
+
+#### 🔴 Sous 7 jours
+1. **Bilatéral Boris × Fabrice** : aligner sur le plan de déploiement organigramme + calibrer horizon Aziz (3 mois ? 6 mois ?) + tester l'alignement Business Opé/GM Dubai
+2. **Préparer le mapping admin/RH** sous scope Fabrice (avec [[Jordan Leroux]]) pour clarifier qui prend quoi sur N+1
+
+#### 🟡 Sous 14 jours
+3. **Bilatéral Alec × Boris** : tester délicatement la cohérence du discours Alec sur trajectoire Fabrice
+4. **Validation Fabrice** sur le plan déploiement organigramme finalisé
 
 ## 🟡 MAJ 2026-05-12 — Weekly Alec × Boris : verbatim Alec sur la transition (à ne PAS relayer)
 

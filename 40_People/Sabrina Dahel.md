@@ -14,7 +14,54 @@ tags: [delivery, csm, fidelisation, head-of-customer, ex-team-manager, passation
 
 # Sabrina Dahel
 
-> ⚠️ **Stakeholder priorité 1 S1** — Périmètre lourd post-passation Axel + post-Mélissa. Membre du noyau solide identifié par Alec. **Pas dans la zone d'alerte départ** (Océane/Axel ne l'ont pas signalée), mais charge de travail probablement excessive.
+## 🟠 MAJ 2026-05-27 — Sabrina sous Pôle Fabrice (Business Opé) par design — plus de lien direct quotidien avec Alec
+
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+>
+> ⚠️ **Conduite du changement à anticiper**. Sabrina n'a pas été informée en séance du nouveau design. **À amener avec doigté** — risque de friction similaire à [[Aziz Sfaihi]] si elle ressent un "éloignement" d'Alec.
+
+### 🟠 Nouvelle position dans le triptyque
+
+Dans le nouveau design organigramme :
+- **Pôle rattaché** : Delivery / Coach / Tech / Event → reporte à [[Fabrice Jaeger]] (COO Business Opé)
+- **N+1 admin/contrat/salaire** : [[Fabrice Jaeger]]
+- **Apports latéraux** : stratégique [[Anisse Rbibe]] (CPO, sur la partie coach/perf humaine) + opérationnel Boris (sur l'infra outils, dashboards CSM)
+- **Lien direct quotidien Alec** : **plus dans les 5-6 du cordon sanitaire**. Alec garde uniquement trio + COM ([[Océane De Queiros]]) + CMO + HOS triangulé.
+
+Verbatim Boris 25:44 (en séance, sans Sabrina présente) :
+> *"On enlève Sabrina en contact direct avec Alec."*
+
+→ **Implication concrète** : Sabrina, qui aujourd'hui échange directement avec Alec sur les sujets delivery sensibles (immersions, Nicole, sa sœur), devra passer par Fabrice pour ces arbitrages. **Zone de friction probable**.
+
+### 🟡 Compatibilité grammaire managériale Sabrina vs Fabrice — à monitorer
+
+La MAJ 28/4 documente une **"grammaire mana gériale très alignée avec Boris"** mais ne dit rien spécifiquement de la compatibilité avec Fabrice au quotidien. Sabrina n'a jamais eu Fabrice comme N+1 direct fonctionnel (elle reportait *"à Fabrice et/ou Alec"* selon Axel).
+
+**Risque** : si Fabrice impose sa propre cadence/style et que Sabrina ne s'y retrouve pas, on peut avoir un désengagement progressif. Sabrina est dans le **noyau solide** et n'est pas signalée "en risque de départ" — mais le changement de N+1 effectif est non-trivial.
+
+### 🟡 Cas particulier : immersions (zone Nicole / sœur d'Alec)
+
+Les immersions sont une zone politique sensible (Nicole compagne d'Alec, sœur d'Alec, calendrier des deadlines dépendant de ces deux personnes). Aujourd'hui Sabrina arbitre directement avec Alec sur ces sujets.
+
+**Question à traiter** dans le plan de déploiement :
+- Soit Alec garde un canal direct ouvert avec Sabrina **uniquement sur les immersions** (exception au cordon)
+- Soit Fabrice prend l'arbitrage en relais (mais Fabrice peut-il aller sur ce sujet Nicole ?)
+- Soit Anisse prend ce sujet en relais via son scope mentoring/représentation
+
+→ **Action Boris** : à challenger en working session Boris × Anisse + bilatéral Alec.
+
+### 📝 Actions Boris cette semaine concernant Sabrina
+
+#### 🔴 Sous 7 jours
+1. **Bilatéral léger Sabrina** (30 min, format rituel acquis) : préparer le terrain **sans annoncer formellement** le changement. Angle : *"Avec le nouveau design en cours, comment tu vois l'articulation Fabrice/Alec sur tes sujets pour les 6 prochains mois ?"*
+2. **Écouter sans cadrer** : si elle exprime du confort avec Fabrice, RAS. Si elle exprime de la réticence, capter le signal pour la conduite du changement.
+3. **Ne PAS relayer** à Sabrina les diagnostics Fabrice/Aziz ni la doctrine cordon sanitaire de manière explicite.
+
+#### 🟠 Sous 14 jours
+4. **Working session Boris × Anisse** : challenger le cas immersions (qui arbitre avec Alec si Sabrina passe sous Fabrice ?)
+5. **Bilatéral Boris × Fabrice** : aligner sur la posture envers Sabrina (Fabrice doit-il prendre rituel direct avec elle ?)
+
+## ⚠️ **Stakeholder priorité 1 S1** — Périmètre lourd post-passation Axel + post-Mélissa. Membre du noyau solide identifié par Alec. **Pas dans la zone d'alerte départ** (Océane/Axel ne l'ont pas signalée), mais charge de travail probablement excessive.
 
 ## ⚡ Synthèse en 30 secondes
 

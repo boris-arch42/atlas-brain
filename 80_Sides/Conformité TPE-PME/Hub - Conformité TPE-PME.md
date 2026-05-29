@@ -11,6 +11,12 @@ tags: [side, alec, conformite, tpe-pme, bricks, hors-perimetre-ent]
 
 # 🏛️ Side — Conformité Réglementaire TPE/PME
 
+> **🟢 MAJ 2026-05-28 — Oscar en route**
+>
+> - Projet **en route**.
+> - **En attente du retour de la personne en charge du marketing** — attendu **~6 juin** (autour du team building Paris). Bloque le démarrage opérationnel de la partie acquisition.
+> - Boris a **quelques points stratégiques à discuter avec Cédric Berrebi** et lui a **proposé un call** en ce sens (probable cadrage : pricing, modèle abo vs hybride, rôle Boris à recadrer, cut). Cf. Risque #1 (expansion implicite du rôle à recadrer).
+
 > 📍 **Hub central** de ce side project. Tout ce qui touche au projet doit être tracé ici ou dans un fichier lié.
 
 ## 🎯 Synthèse en 30 secondes

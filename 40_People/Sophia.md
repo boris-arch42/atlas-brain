@@ -1,17 +1,27 @@
 ---
 type: person
-role: "Co-COO externe Entrepreneurs.com (arrivée juillet 2026)"
+role: "Consultante senior externe — mission DÉCLINÉE (mai 2026)"
 team: "Entrepreneurs.com"
 manager: "[[Alec Henry]]"
 reports: 
-started: 2026-07
-status: incoming
+started: 
+status: declined
 source: entrepreneurs-com
 sensitivity: confidential
 tags: [co-coo, externe, entrante, consultante-immersion]
 ---
 
 # Sophia
+
+> **🔴 MAJ 2026-05-28 — MISSION DÉCLINÉE PAR SOPHIA**. Après Marrakech, Sophia a décliné la mission : elle estime la **quantité de travail trop lourde et trop complexe** au regard de son format (mission ponctuelle, 1j/mois après M1-M2). Elle **sera néanmoins présente au team building (5-7 juin)** pour **finaliser son audit** — c'est sa dernière contribution, pas un démarrage.
+>
+> **Conséquences** :
+> - La structure top management n'est **plus un "triple-COO"** mais le **triptyque interne pur** : Boris (Co-COO Support infra) / Fabrice (COO Business Opé) / Anisse (CPO Perf Humain/IA). Cf. [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+> - **KR4.2 du Plan Q1 (scope Sophia signé en quatuor) est supprimé** ; l'Objectif 4 est reformulé.
+> - L'annonce du 1/6 n'est **pas impactée publiquement** (Sophia n'était de toute façon jamais mentionnée publiquement).
+> - Reste à récupérer le **livrable d'audit** post-team building comme input ponctuel (frameworks/templates), sans engagement de suite.
+>
+> Le contenu ci-dessous est conservé comme **historique de la phase d'évaluation** (avril-mai 2026).
 
 > **🟢 MAJ 2026-05-12 — Variable nouvelle confirmée par Alec en weekly Boris × Alec**. Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
 >

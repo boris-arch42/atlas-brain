@@ -9,6 +9,15 @@ tags: [it-audit, mohamed, transmission, cybersecurite, saas, transmission-knowle
 
 # 📁 IT-Audit-Mohamed — dossier de transmission
 
+> **🟢 MAJ 2026-05-28 — Reframe + ajout campagne phishing**
+>
+> **(1) Mohamed maintenu** (cf. [[Mohamed]]) : ce dossier n'est plus une "transmission avant départ 31/5" mais le **socle de co-pilotage cybersécurité continu** Boris × Mohamed/GDZ. Les mentions "avant 31 mai / départ" ci-dessous sont à lire comme historiques.
+>
+> **(2) Campagne de simulation de phishing** menée (mai 2026) : **29 identifiants compromis / 173 testés (17 %)**, dont RAF + assistante du fondateur. Plan d'action 3 temps + pilotage récurrent produit par **GDZ (société de Mohamed)**.
+> - 📝 Synthèse complète : [[Ressource - Plan action Cybersec Phishing GDZ - mai 2026]]
+> - 📎 **PDF source** : `Plan_Action_-_Entrepreneurs.pdf` — à déposer dans ce dossier (`15_Resources/IT-Audit-Mohamed/`). *Document GDZ IT Services / ARIES CONSULTING FZCO.*
+> - 🟠 Arbitrage ouvert : plateforme Riot (payante) vs internalisation — **à réfléchir** (Boris). MFA obligatoire sous 7j = non négociable.
+
 > **Objectif** : centraliser **toute la matière IT/cybersécurité** que Mohamed va transmettre à Boris d'ici son départ le 31 mai 2026. Sans ce dossier, le savoir-faire de Mohamed disparaît avec lui le 31 mai et les vulnérabilités identifiées restent ouvertes.
 >
 > **Origine** : kick-off audit IT du 5 mai 2026 (cf. [[Ressource - Replay Mohamed × Boris 5 mai 2026 (audit IT)]]).
@@ -23,6 +32,7 @@ tags: [it-audit, mohamed, transmission, cybersecurite, saas, transmission-knowle
 | 4 | **Doc onboarding/offboarding scripting Google** | Aujourd'hui ou demain | ⏳ À recevoir |
 | 5 | **Cartographie SaaS complète** (post-récupération accès Cédric/Océane) | 2-3 semaines | ⏳ En cours côté Mohamed |
 | 6 | **Audit APIs** (côté Wassim) | À préciser | ⏳ Demandé par Mohamed à Wassim |
+| 7 | **Plan d'action phishing/cybersec GDZ** (campagne 173/29/17%) | Reçu mai 2026 | ✅ Reçu — cf. note de synthèse + PDF |
 
 ## 🔴 6 vulnérabilités critiques à traiter (priorité absolue)
 

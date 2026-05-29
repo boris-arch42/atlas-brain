@@ -23,6 +23,46 @@ related-resources: "[[Draft OKR Q1 Boris]] (historique avant J0), [[Prep - Call 
 
 ---
 
+## 🟢 MAJ 2026-05-28 J+27 — Post-Marrakech : Sophia décline, Mohamed maintenu, Aikho remplace Mithril, statut chantiers
+
+> Mise à jour de cadrage suite au retour Marrakech + 1-1 Alec 26/5. **4 mutations.**
+
+### 🔴 MUTATION A — Sophia décline → Objectif 4 reformulé, KR4.2 supprimé
+
+Sophia a **décliné la mission** (charge jugée trop lourde/complexe). Elle finalise son audit au team building 5-7 juin, sans engagement de suite. Cf. [[Sophia]].
+
+→ La structure top management devient un **triptyque interne pur** (Boris / Fabrice / Anisse), sans jambe consulting externe. Cf. [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+→ **KR4.2 (scope Sophia signé en quatuor) est SUPPRIMÉ.** L'Objectif 4 se recentre sur passation Axel (KR4.1) + résilience marketing (KR4.3) + sécurisation du triptyque + annonce co-COO 1/6.
+→ Récupérer le **livrable d'audit Sophia** post-team building comme input ponctuel (frameworks/templates).
+
+### 🔴 MUTATION B — Mohamed maintenu → KR2.2 perd l'économie "fin Mohamed"
+
+Mohamed **reste sur forfait + format actuels** vu la charge cybersécurité (sprint + remediation phishing + NAS). Cf. [[Mohamed]].
+
+→ **KR2.2** : l'économie "fin Mohamed IT = 24K€/an" **disparaît** — à compenser par d'autres lignes pour tenir la cible 70-100K€.
+→ **GDZ (société de Mohamed)** mandatée sur le plan phishing = extension de son mandat, pas un coût tiers nouveau.
+→ **Blocage accès** Boris+Mohamed pour l'audit SaaS **toujours non résolu au 28/5** — priorité de déblocage.
+
+### 🔴 MUTATION C — Aikho remplace Mithril comme stack recrutement ENT
+
+**Mithril est mis en pause** (réflexion sur la vision produit). Son rôle de **stack de sourcing/recrutement ENT est repris par Aikho** (solution jugée très intéressante, discussions en cours avec eux). Cf. [[Aikho]] + [[Mithril/README]].
+
+→ **KR3.3** : partout où il était écrit "sourcing via Mithril/Aiko", lire désormais **sourcing via Aikho** (remplaçant Nicolas, dévs offshore, PMO local, futur CTO Dubai). Mithril n'est plus le véhicule opérationnel ENT à ce stade.
+
+### 🟢 MUTATION D — Statut chantiers au 28/5
+
+- **5 process (KR1.2)** : en cours de déploiement. **Jordan intégré sur la partie RAF** (Responsable Admin & Financier).
+- **HubSpot source unique (KR3.1)** : s'éclaircit, mais **grosse prise en main à venir côté Boris** avec le nouvel organigramme.
+- **Audit SaaS (KR2.2)** : chiffrage en cours mais **bloqué sur les accès** (Boris + Mohamed).
+- **Sales Bis** : question pivot **tranchée → système réplicable** (avec ajustements). SOP devient actif. Cf. [[Scope - Documentation système Sales bis - Lancement Kelly]].
+- **Cybersec** : tableau de suivi des datas en place, **~15K fichiers publics retirés** (82K → ~67K), **test phishing : 29 identifiants récupérés** → plan d'action GDZ. Cf. [[Scope - Sprint Cybersec 48-72h - mai 2026]].
+- **Sortie Nicolas** : volontairement **ralentie** (ne rien casser) — collecte process/accès + recherche remplaçant en cours. Cf. [[Nicolas Farolfi]].
+- **Cartographie contrats** : Phase 1 (cartographie de toutes les équipes) **faite** → passage Phase 2 contrat par contrat avec Fabrice.
+- **Axel** : départ **imminent** (quelques jours) — KR4.1 en phase critique.
+- **Team building** confirmé **5 juin (soir) → 7 juin**, Boris présent.
+
+---
+
 ## 🔴 MAJ 2026-05-19 J+18 — Crise cybersec + sortie Nicolas + mandat onboarding sales externes (post-replays 18-19/5)
 
 > Cf. [[Ressource - Replay Weekly Fabrice × Alec 18 mai 2026]] + [[Ressource - Replay COMEX hebdo 19 mai 2026]]. **3 mutations majeures du Plan Q1.**
@@ -312,7 +352,7 @@ Cadre posé par Alec au call CRO du 30/4 (cf. [[Ressource - Slack Alec - Cadrage
 
 **Composantes chiffrées** (cible cumulée 70-100K€/an) :
 - HubSpot, Zendesk, Aircall : négociation → 30K€/an min
-- Fin Mohamed IT au 31 mai : 24K€/an (2K€/mois)
+- ~~Fin Mohamed IT au 31 mai : 24K€/an (2K€/mois)~~ → **CADUC (MAJ 28/5)** : Mohamed maintenu (charge cybersec). Économie à compenser ailleurs.
 - NAS physique 1K€ → économie Google ~20K€/an
 - Suppression Klap (à câbler avec Quentin) : montant à confirmer
 - Petites licences (Typeform, Monday) : ~5K€/an cumulé
@@ -371,6 +411,8 @@ Cadre posé par Alec au call CRO du 30/4 (cf. [[Ressource - Slack Alec - Cadrage
 
 ### KR 3.3 — Stack équipe verticale refondue avant 1er août
 
+> 🔴 **MAJ 28/5** : le sourcing/recrutement ENT passe désormais par **Aikho** (et non Mithril, mis en pause). Lire "Aikho" partout où figure "Mithril/Aiko" ci-dessous. Cf. MUTATION C en tête.
+
 **Cohérent mandat Mithril/Aiko 29/4 PM + workshop COMEX 6/7/8 mai vitrine**.
 
 **Composantes** :
@@ -405,7 +447,9 @@ Cadre posé par Alec au call CRO du 30/4 (cf. [[Ressource - Slack Alec - Cadrage
 
 **Cible J+90** : pipeline post-Axel stable, équipe sales sans rupture de capacité.
 
-### KR 4.2 — Scope écrit Sophia ↔ Boris ↔ Fabrice clarifié et signé avant arrivée
+### KR 4.2 — ~~Scope écrit Sophia ↔ Boris ↔ Fabrice clarifié et signé avant arrivée~~ — 🔴 SUPPRIMÉ (MAJ 28/5)
+
+> **KR caduc** : Sophia a décliné la mission (cf. [[Sophia]] + MUTATION A en tête). Plus de scope quatuor à signer. Contenu conservé ci-dessous pour historique uniquement.
 
 **Cible J+30 (31 mai)** : premier brief Boris↔Sophia (en amont de son arrivée) + cadrage scope préliminaire avec Alec.
 

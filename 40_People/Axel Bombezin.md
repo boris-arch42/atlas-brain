@@ -5,13 +5,15 @@ team: "Entrepreneurs.com — Sales"
 manager: "[[Alec Henry]]"
 reports: 
 started: 
-status: sortant-juin-2026
+status: depart-imminent-quelques-jours
 source: entrepreneurs-com
 sensitivity: confidential-max
 tags: [cro, ex-head-of-sales, sales, stakeholder-prioritaire, sortant, top-management]
 ---
 
 # Axel Bombezin
+
+> **🔴 MAJ 2026-05-28 — DÉPART IMMINENT (quelques jours)**. La sortie d'Axel est désormais à quelques jours. → **KR4.1 (plan de passation Axel) en phase critique** : vérifier que les transmissions vers Aziz (commercial) / Sabrina (produit) / Cédric (marketing) / Océane (BRO) sont bouclées et qu'aucun deal >20K€ ne tombe par défaut de passation. Cf. [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]].
 
 ## ⚠️ INFO CRITIQUE — Axel part début juin 2026
 

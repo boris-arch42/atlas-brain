@@ -1,17 +1,78 @@
 ---
 type: person
-role: "Responsable de la performance Entrepreneurs.com"
-team: "Entrepreneurs.com — Performance"
+role: "CPO Perf Humain/IA Entrepreneurs.com (officialisé 27/5 — mission ⅓ IA / ⅓ mentoring / ⅓ représentation)"
+team: "Entrepreneurs.com — Triptyque C-Level"
 manager: 
 reports: 
 started: 
 status: active
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-tags: [responsable-performance, noyau-solide, piste-cto, allie-potentiel]
+tags: [cpo, perf-humain-ia, triptyque, contenu, mentoring, representation, conferences, noyau-solide, allie-fort]
 ---
 
 # Anisse Rbibe
+
+## 🟢 MAJ 2026-05-27 — CPO Perf Humain/IA acté sur whiteboard + mission ⅓ / ⅓ / ⅓ explicitée
+
+> Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+
+### 🟢 Titre CPO Perf Humain/IA officialisé dans le triptyque
+
+**Sur le whiteboard d'Alec** présenté en séance avec Fabrice + Boris présents : Anisse est inscrit comme **CPO Perf Humain/IA** à droite du triptyque (Boris Co-COO Support infra à gauche, Fabrice COO Business Opé au centre).
+
+Verbatim Alec 04:40 :
+> *"Là où Boris a vraiment le côté contenant, toi c'est le côté contenu d'une certaine manière. C'est comment déployer, que ça touche au delivery, parce qu'il y a quand même toute cette expertise de coaching. Comment délivrer le contenu pour les clients, tout l'aspect IA — parce qu'effectivement quand tu bosses pour le gros bloc com, marketing, etc., c'est une forme de contenu qui est sorti par l'IA."*
+
+→ **Position consolidée** après le mandat consolidation Slack 1er mai + rôle pilier désamorçage Abdel + livraison structurée 5/5. **Anisse est désormais membre formel du triptyque C-Level décisionnel.**
+
+### 🟢 Mission ⅓ / ⅓ / ⅓ explicitée par Anisse lui-même (27:26)
+
+Verbatim Anisse :
+> *"Dans le point 7 qu'on est en train d'aborder ici, les périmètres de responsabilité ou on va dire les missions qui me sont confiées, c'est à peu près un tiers, un tiers, un tiers. 1/3 sur les sujets IA et continuer à faire le développement des outils IA avec l'équipe, ou la faire grandir, la manager. 1/3 sur le mentoring/coaching des collaborateurs, donc du C-level vers les collaborateurs opérants. Et 1/3 du temps, même ça peut atteindre 5 on va dire, entre 3 et voilà, la partie conférence, webinaires, représentation locale aussi d'entrepreneurs.com sur les différents événements et les partenariats."*
+
+Verbatim Anisse 27:50 :
+> *"Je trouve que c'est simple et c'est assez représentatif de là où je me sens bien et où ça semble porter ses fruits."*
+
+| Bloc | Scope | Cible |
+|---|---|---|
+| **⅓ IA** | Dev outils IA + management équipe IA ([[Wassim]], Naïma, [[Abdel El Mahi]]) | Acquis |
+| **⅓ Mentoring** | Du C-level vers les collaborateurs opérants | En cours (kick-offs quotidiens Abdel déjà actifs) |
+| **⅓ (→ ⅖) Représentation** | Conférences, webinaires, partenariats, représentation locale | À développer |
+
+### 🟢 Collaboration explicite avec Boris (Support infra)
+
+Verbatim Boris 14:23 :
+> *"On va être amené à énormément collaborer ensemble avec Anis, que ce soit dans un sens comme dans l'autre, dans le sens où moi je vais lui apporter des inputs, lui il va m'apporter des inputs pour que le support infra ait l'IA, mais que l'IA soit aussi cohérente avec le support infra qui est en train d'être mis en place. Donc on va être extrêmement corrélés sans se marcher dessus."*
+
+→ **Cohérent avec position non-CTO actée le 5/5** : Anisse pilote l'IA en mode **performance / produit**, Boris pilote l'infra qui supporte l'IA. Pas de chevauchement, fort couplage.
+
+### 🟢 Anisse co-responsable du déploiement organigramme
+
+Verbatim Alec 46:07 :
+> *"Pour moi, c'est un boulot justement entre moi, Anisse et Boris. C'est un triptyque. Je prends la responsabilité, mais le but c'est qu'on design ça ensemble."*
+
+→ **Anisse + Boris** doivent caler une **working session** sous 48h pour préparer le plan de déploiement (inventaire, mapping, dépendances, conduite du changement, calendrier 1er juillet).
+
+### 🟢 Anisse a porté le constat data critical pour Aziz
+
+Verbatim Anisse 16:09 :
+> *"Le principal problème c'est pas le nombre de gens qui parlent à Alex c'est un problème en soi, mais c'est surtout que la plupart lui disent du vent ou lui disent de la ***. C'est même pas tant le problème du nombre de personnes, c'est surtout la qualité de l'information qui est problématique."*
+
+Verbatim Anisse 17:00 (vs Fabrice plus orienté data, moins sensible au bullshit) :
+> *"Fabrice est moins sensible au bullshit et plus orienté data. S'il y a des sujets sales ou dans le data sales ou des informations sales, ça devrait plutôt être en discussion avec toi [Fabrice] plus qu'en discussion avec Alex."*
+
+→ **Lecture politique** : Anisse a structuré le argumentaire pour basculer Aziz vers triangulation (Alec closing / Boris data / Fabrice fondamentaux). C'est lui qui a tenu le côté *"qualité de l'info > nombre de personnes"*.
+
+### 📝 Actions Boris × Anisse cette semaine
+
+#### 🔴 Sous 48h
+1. **Caler la working session Boris × Anisse** (90 min) pour préparer plan déploiement organigramme
+2. **Aligner sur la répartition préparation** : inventaire DataOps (Boris) + cartographie IA/mentoring (Anisse) + conduite du changement (à 4 mains)
+
+#### 🟠 Sous 7 jours
+3. **Session Boris + Anisse + Alec** pour présenter plan structuré (avant validation Fabrice)
+4. **Définir mission clé personnelle** chacun — échange croisé lors de la working session
 
 ## 🟢 MAJ 2026-05-05 J4 SOIR — Mandat consolidation opérationnellement validé + position non-CTO actée
 

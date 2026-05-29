@@ -6,14 +6,23 @@ team: "Externe / prestataire"
 manager: "[[Alec Henry]] (en direct historiquement) / [[Fabrice Jaeger]] (interlocuteur opérationnel) / [[Boris Arduy]] (co-superviseur audit mai 2026)"
 reports: 
 started: "antérieur à 2024 (à confirmer)"
-status: "departure-acted"
-departure-date: "2026-05-31 (acté par vocal Alec 29/4)"
+status: "active-maintenu"
+departure-date: "ANNULÉE — maintien forfait + format actuels (MAJ 28/5, charge cybersec)"
 source: entrepreneurs-com
 sensitivity: rh-nominatif
 tags: [it, cybersec, infrastructure, presta-externe, departure-acted, fin-mai-2026, lien-tang-historique, codename-haiti]
 ---
 
 # Mohamed
+
+> **🟢 MAJ 2026-05-28 — MAINTIEN CONFIRMÉ (pas de sortie au 31/5)**. Compte tenu de la **charge cybersécurité à venir** (sprint fichiers publics + remediation phishing + plan NAS + gouvernance long terme), Mohamed **reste sur son forfait et son format actuels**. La bascule "forfait 1 500€ post-4/7" et la sortie 31/5 sont **annulées / reportées sine die**.
+>
+> **Conséquences** :
+> - **KR2.2 (audit SaaS 70-100K€)** : l'économie "fin Mohamed IT = 24K€/an" **disparaît du chiffrage** — à compenser par d'autres lignes.
+> - **Cartographie contrats** : le "cas prioritaire #1 Mohamed" (formaliser la bascule forfait) n'est plus urgent ; reste à formaliser proprement le contrat existant (sortir du mode "ami du CEO sans cadre").
+> - **GDZ IT Services = société de Mohamed** (go.gdz-it.ch). Le **plan d'action phishing/cybersécurité est donc mandaté à GDZ = extension de son mandat existant**, pas un prestataire tiers. Cf. [[Ressource - Plan action Cybersec Phishing GDZ - mai 2026]].
+>
+> ⚠️ **Blocage persistant** : l'obtention des **accès** pour Boris + Mohamed (audit SaaS) reste problématique au 28/5 — chantier à débloquer en priorité.
 
 > 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris : Alec push Comex Slack + état catastrophique acknowledgé publiquement**
 >

@@ -8,6 +8,14 @@ tags: [side, mithril, aiko, recrutement, cas-client-entrepreneurs-com, produit-b
 
 # 🪶 Mithril — Hub de capitalisation produit
 
+> **🔴 MAJ 2026-05-28 — MITHRIL EN PAUSE + rôle ENT repris par Aikho**
+>
+> Boris met **Mithril en pause** pour **mieux réfléchir à la vision du projet** (repositionnement produit).
+>
+> Conséquence ENT : le **rôle de stack de recrutement de référence chez Entrepreneurs.com — que Mithril portait — est repris par [[Aikho]]** (solution jugée très intéressante, **discussions en cours** avec eux). C'est Aikho qui porte désormais le sourcing remplaçant Nicolas, dévs offshore, PMO local, futur CTO Dubai.
+>
+> ⚠️ Tout le contenu ci-dessous ("matérialisation publique Mithril", "cas client interne ENT", backlog d'apprentissages) décrit la phase **avril-mai où Mithril était le véhicule ENT**. Il est conservé comme historique mais **n'est plus le plan actif** tant que Mithril est en pause.
+
 > ⚠️ **Note de positionnement** : Mithril n'est pas un "side project" classique \— c'est l'**entreprise principale de Boris** (SaaS recrutement, cf. [[userMemories]]). Cette fiche est plac\u00e9e dans `80_Sides/` \u00e0 titre **op\u00e9rationnel** : capter les apprentissages produit issus du d\u00e9ploiement chez Entrepreneurs.com, sans m\u00e9langer le pilotage Mithril (qui se fait ailleurs, notamment sur Notion Mithril) avec le pilotage Operating Partner ENT.
 >
 > **Ce que ce hub fait** : capter feedback, frictions, features manquantes, insights produit issus du d\u00e9ploiement ENT.
