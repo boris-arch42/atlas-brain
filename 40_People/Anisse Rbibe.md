@@ -13,6 +13,17 @@ tags: [cpo, perf-humain-ia, triptyque, contenu, mentoring, representation, confe
 
 # Anisse Rbibe
 
+## 🟢 MAJ 2026-05-30 — Valeur validée par Alec + supervision exigée (call Alec ↔ Boris)
+
+> Cf. [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]]. **Sensibilité rh-nominatif.**
+
+En 1-to-1 avec Boris, Alec a validé la valeur d'Anisse et sa répartition ⅓/⅓/⅓, tout en posant une condition de supervision :
+
+- **Rémunération** : **~65 000 AED (~15K/mois)**, déjà diminuée.
+- **Lecture Alec de sa valeur** : IA (~30 % → ~5K) + Humain/RH (~5K) + consulting live / séminaires / contenu / structure delivery (~5K) → *"ça me va"* sur chaque bloc — il offre une vraie structure au delivery.
+- **Condition** : doit être **supervisé**, avec **objectifs clairs** par axe — pas de chèque en blanc.
+- **DataOps** : Alec note qu'Anisse est **trop loin de la data** (analyse show-up insuffisante) → renforce le partage [[Boris Arduy]] (DataOps/infra) ↔ Anisse (IA produit/perf).
+
 ## 🟢 MAJ 2026-05-27 — CPO Perf Humain/IA acté sur whiteboard + mission ⅓ / ⅓ / ⅓ explicitée
 
 > Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].

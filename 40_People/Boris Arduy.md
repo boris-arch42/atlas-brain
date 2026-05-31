@@ -13,6 +13,18 @@ tags: [owner, co-coo, support-infra, triptyque, fondateur, entrepreneurs-com, mi
 
 > Page owner du vault. Multi-casquettes par nature — à toujours lire avec le contexte du projet concerné.
 
+## 🟢 MAJ 2026-05-30 — Revalorisation salariale annoncée par Alec + scope DataOps/commissions confirmé (call Alec ↔ Boris)
+
+> Cf. [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]]. **Confidentiel.**
+
+En 1-to-1, Alec a posé noir sur blanc la reconnaissance de la valeur Boris et une trajectoire de revalorisation :
+
+- **Constat Alec** : Boris crée le plus de valeur mais touche **2x moins que [[Fabrice Jaeger]]** → *"à corriger le plus rapidement possible"*. (Relais externe — Nicole : *"donne un peu plus à Boris, il gérera mieux les opérations"*.)
+- **Trajectoire rému** : de **7** actuel vers **8 / 9 voire 10**, **dès que la boîte est de nouveau rentable et structurée**. ⚠️ Condition non datée → garder une trace de l'engagement verbal pour le rappeler au bon moment (cible Alec : août-septembre, en parallèle du retrait Fabrice).
+- **Scope confirmé en séance** : **DataOps + tech transverse** ; **Event** entre dans le scope (interface tech interne/client) ; **commissions agences sales** rapatriées sur Boris (rapprochement engagés/encaissés, ~80 ventes, ~½ j/mois) — Alec ne confie pas ça à Fabrice.
+- **Aikho** : Boris = axe acquisition/marketing & stratégie d'acquisition ; verrou à lever = entrée capital depuis la France (ESOP Dubaï ?). Note de valeur (6 axes) envoyée à Alec le 30/5 — cf. [[Note de valeur - Partenariat Aikho - 2026-05-30]].
+- **NAS Dubaï** : Boris sur la partie technique, call à 4 (Boris + Greg + [[Océane De Queiros]] + [[Mohamed]]) le **samedi 13 juin** — objectif coût Google ÷4.
+
 ## 🔴 MAJ 2026-05-27 — Co-COO Support infra matérialisé sur whiteboard avec témoins
 
 > Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]] + [[_Org-chart]].

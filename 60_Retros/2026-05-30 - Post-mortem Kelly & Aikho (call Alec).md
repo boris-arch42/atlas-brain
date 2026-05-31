@@ -142,7 +142,7 @@ Vision/archi = Alec · **DataOps + tech transverse = Boris** · Delivery/coach =
 | Boris | Piloter post-mortem **CGM** (porter les points d'Alec sans les attribuer) | Jeudi-vendredi prochains |
 | Boris | Piloter post-mortems **Alchimie + Next Sales** | Jeudi d'après |
 | Boris | Check rapprochement engagés/encaissés/commissions (~80 ventes) | Avant paiements |
-| Boris | Doc synthétique de vision pour **Aikho** (PDF/Word/WhatsApp) | ~15 min, ce jour |
+| Boris | ✅ Doc synthétique de vision pour **Aikho** (6 axes) — envoyé à Alec, cf. [[Note de valeur - Partenariat Aikho - 2026-05-30]] | Fait le 30/5 |
 | Boris | Creuser **ESOP Dubaï** / entrée capital étranger | Avant structuration deal |
 | Boris | Dispo call **NAS Dubaï** | Samedi 13 juin |
 | Alec | Négocier devis Zendesk Mohamed (4K → 2K / gratuit) | — |
@@ -163,6 +163,6 @@ Vision/archi = Alec · **DataOps + tech transverse = Boris** · Delivery/coach =
 ## Liens
 
 - Org / Fabrice : [[Fabrice Jaeger]] · [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]]
-- Aikho : [[Aikho]] · [[Proposition - Partenariat Aikho - 2026-05-11]]
+- Aikho : [[Aikho]] · [[Note de valeur - Partenariat Aikho - 2026-05-30]] · [[Proposition - Partenariat Aikho - 2026-05-11]]
 - Garant vision : [[Alec Henry - Garant de la vision]]
 - Lancement : [[Scope - Documentation système Sales bis - Lancement Kelly]]

@@ -14,6 +14,8 @@ tags: [cmo, marketing, risque-depart-imminent, rupture-latente, stakeholder-prio
 
 # Cédric De Saint Jean
 
+> **🔴 MAJ 2026-05-30 — Rejet en interne confirmé (call Alec ↔ Boris)**. Cf. [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]]. Alec verbalise que Cédric est massivement rejeté en interne — Océane : *"t'as pas les couilles de le virer"*, lien de subordination directe contrairement aux agences externes. La décision de départ est jugée *"attendue depuis longtemps"*. **Renforce HO32 + la MAJ 28/5** : le recrutement du nouveau CMO et la résilience marketing (KR4.3) sont le vrai sujet. Confidentiel vis-à-vis de Cédric et des collaborateurs.
+
 > **🔴 MAJ 2026-05-28 — Lecture Boris** : départ **à court-moyen terme probable** confirmé (cohérent avec l'annonce publique d'Alec du 27/5). Recrutement nouveau CMO à piloter ; thermomètre rétention désormais secondaire (HO32 actée). Résilience marketing (KR4.3) devient le vrai sujet.
 
 ## 🔴 MAJ 2026-05-27 — Départ Cédric confirmé publiquement par Alec en séance triptyque
