@@ -13,6 +13,20 @@ tags: [coo, comex, entrepreneurs-com, ex-ceo, business-ope, contrepoids, triptyq
 
 # Fabrice Jaeger
 
+## 🔴 MAJ 2026-05-30 — Plan de retrait progressif acté par Alec (call Alec ↔ Boris)
+
+> Cf. [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]]. **Sensibilité maximale — à ne relayer à personne.** Prolonge et durcit le fil [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]].
+
+Alec a verbalisé en clair, en 1-to-1 avec Boris, la trajectoire de sortie de Fabrice :
+
+- **Logique** : *stabiliser → rapatrier ses sujets vers d'autres → le "dépouiller" progressivement de son rôle*, tout en le **gardant au même poste et au même salaire** pour l'instant. Horizon **août-septembre 2026**.
+- **Pas de coupe nette maintenant** : jugée **trop risquée** (ex. finance — il monte [[Jordan Leroux]] en compétence ; son départ immédiat coûterait plus que ses ~15K).
+- **Condition déjà posée à Fabrice** : **déménager à Dubaï**, sinon **fin de la collaboration**. Points de contrôle : posture au team building / venue à Dubaï.
+- **Rémunération** : ex-17 500/mois → **~14 000+** aujourd'hui. A demandé une augmentation à **80 000 AED (~20K/mois)** → **refus net** d'Alec ("indécent").
+- **Griefs cités** : absent 6 mois ; **0 one-on-one Alec ↔ Fabrice** depuis le retour d'Alec ; Roland-Garros avec prestataires + famille via EC ; équipes sans confiance en lui.
+- **Remplacement** : Alec veut recruter un **GM / manager du bureau Dubaï** pour reprendre le pilotage physique des équipes (Alec pas manager, Boris hors Dubaï, Anisse pas manager). **= verrou du plan** : tant que ce profil n'est pas trouvé, Fabrice reste en place de fait.
+- **Conséquence opérationnelle** : commissions agences sales rapatriées sur Boris (Alec ne confie pas à Fabrice le rapprochement engagés/encaissés).
+
 ## 🔴 MAJ 2026-05-27 — Reframe "COO Business Opé" en séance triptyque (tension avec doctrine 12/5)
 
 > Cf. [[Ressource - Replay Organigramme Alec Fabrice Anisse 27 mai 2026]] + [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]]. **Sensibilité maximale** : reframe en tension partielle avec doctrine Alec 12/5 (*"titre sans fonction"*). **À ne pas relayer**.
