@@ -18,7 +18,8 @@ tags: [projet, ent, top-management, transition, gm-dubai, cmo]
 
 ## 📋 Actions roadmap (doc Fabrice, chantiers D/I)
 - [ ] **I4** Acter le pôle Ops & Data (infra, sécurité, plateforme tech, arbitrages), géré de A à Z — *P1 · juin*
-- [ ] **D3** Recruter l'Ops Marketing (remplacement Nicolas) + bras droit « Webby » (+ [[Cédric De Saint Jean]]) — *P1 · 30 juin*
+
+> D3 (recrutement ops marketing Inde / remplacement Nicolas) a été déplacé vers [[Pôle Tech & Ops interne — structuration]].
 
 ## Liens
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] (Objectif 4)
