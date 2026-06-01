@@ -16,6 +16,9 @@ tags: [projet, ent, kelly, sales-bis]
 
 > Infra commerciale en V1.5+, segmentation produit V1.6 en backlog. SOP Sales Bis passé en actif. **3 post-mortems** à piloter : CGM (jeu-ven prochains), puis Alchimie + Next Sales (jeudi d'après).
 
+## 📋 Actions roadmap (doc Fabrice, chantier C)
+- [ ] **C4** Externaliser pas-d'activité / <50K / SDR (≈35 pers.) pour recycler les leads (+ [[Aziz Sfaihi]]) — *P2 · T3*
+
 ## Liens
 - [[Scope - Documentation système Sales bis - Lancement Kelly]]
 - [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]]

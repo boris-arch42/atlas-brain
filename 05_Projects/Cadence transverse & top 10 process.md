@@ -16,6 +16,10 @@ tags: [projet, ent, process, cadence, transverse]
 
 > Objectif 1 : cordon sanitaire HO29 (KR1.1), top 10 process avec head owner dont 5 déployés (KR1.2), 3 rituels installés — weekly Boris↔Fabrice, COMEX refondu, rituel data (KR1.3).
 
+## 📋 Actions roadmap (doc Fabrice, chantier A)
+- [ ] **A3** Matrice « qui parle à qui / sujet / fréquence / format / escalade » (+ [[Fabrice Jaeger]] + [[Anisse Rbibe]]) — *P1 · 1er juil*
+- [ ] **A8** Inventaire tâches/responsabilités/flux par pôle (+ Fabrice + Anisse) — *P2 · 15 juin*
+
 ## Liens
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] (Objectif 1)
 - [[🗼 Tour de contrôle - Projets en cours]]

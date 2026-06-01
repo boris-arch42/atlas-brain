@@ -16,6 +16,9 @@ tags: [projet, ent, finance, tresorerie, recouvrement]
 
 > Regroupe : recouvrement post-Jordan + bascule prélèvement auto 350K€ (KR2.1), matrice de jurisprudence financière pour déléguer les tickets de Fabrice (KR2.3). Cible : 2-3M€ d'impayés en récupération active + autonomie Sabrina/CFO.
 
+## 📋 Actions roadmap (doc Fabrice, chantier B)
+- [ ] **B2** Reprendre le recouvrement comme chantier contrôlé : owner, chiffres, suivi, escalade (+ [[Jordan Leroux]]) — *P1 · immédiat*
+
 ## Liens
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] (Objectif 2)
 - [[Jordan Leroux]]

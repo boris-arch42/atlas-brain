@@ -112,6 +112,17 @@ WHERE type = "project" AND statut = "en-pause"
 
 ---
 
+## 📌 Actions roadmap Fabrice — ouvertes (par projet)
+
+> Toutes tes actions extraites du document Fabrice (chantiers A→K), regroupées par carte projet. Coche-les sur la carte ou ici. Cf. [[Roadmap stratégique 6 mois (Fabrice) - juin-déc 2026]].
+
+```dataview
+TASK
+FROM "05_Projects"
+WHERE !completed
+GROUP BY file.link AS "Projet"
+```
+
 ## 🔗 Notes liées
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] — objectifs ENT (revue de fond J+30/60/90)
 - [[Index - Sides]] — règles d'allocation ventures
