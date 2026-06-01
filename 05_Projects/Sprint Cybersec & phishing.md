@@ -23,7 +23,7 @@ tags: [projet, ent, cybersec, phishing]
 - [ ] **H3** Campagnes phishing récurrentes internes + clients — *P2 · T3*
 - [ ] **H5** Cartographier la sécurité de la donnée plateforme (+ [[Quentin]]) — *P2 · juil*
 - [ ] **H6** Finaliser Zendesk + chantiers sécu initiés avec Mohamed — *P2 · T3*
-- [ ] **H7** Mise en conformité RGPD : registre, accès, durées (+ [[Jordan Leroux]]) — *P2 · T3*
+- [x] **H7** Mise en conformité RGPD : registre, accès, durées (+ [[Jordan Leroux]]) — *P2 · T3*
 
 ## Liens
 - [[Scope - Sprint Cybersec 48-72h - mai 2026]]
