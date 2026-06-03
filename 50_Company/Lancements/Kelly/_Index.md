@@ -71,6 +71,10 @@ Décision business : **externaliser le traitement de ces ~20 000 prospects** ver
 - [[2026-05-07 - Call Alec Aziz Romain Nussmann (Tip Talent)]] — transcript intégral
 - [[2026-05-07 - Call Alec Aziz Lucas Cureau Helene (Momentum)]] — transcript intégral
 
+### Post-mortems
+- [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]] — vue stratégie sales / commissions / réorg
+- [[2026-06-03 - Post-mortem technique Kelly (Nicolas - Ops tech)]] — vue infra & data (cybersec webhook, quotas API, Twilio MPS, prefill iClosed, ownership Delivery, pièges connus)
+
 ### À produire
 - Brief closers externes (support écrit + structure visio coaching)
 - Charte de saisie Zoho
@@ -225,3 +229,4 @@ Décision business : **externaliser le traitement de ces ~20 000 prospects** ver
 - 2026-05-10 — 38 closers ajoutés en host iClosed (10 Tip Talent + 21 Momentum + 7 Next Sales), tous configurés en Round Robin sur l'event de leur agence. Émails `prenom.nom@entrepreneurs.com` créés pour chacun. Cf. [[Closers - Liste opérationnelle Kelly]].
 - 2026-05-10 — Renommage des roles Zoho `Sales Axel` → `Sales Next Sales` et `Manager Axel` → `Manager Next Sales`. CSV d'import des 38 users Zoho préparé, import à venir.
 - 2026-05-10 — Création du catalogue produit Zoho Méthode Boss Energy : 6 variantes (1x à 6x), prix fixe 5 700 € HT. CSV d'import des produits prêt. Cf. [[Produit - Méthode Boss Energy]].
+- 2026-06-03 — Ingestion du post-mortem technique de Nicolas (Ops tech, 14 p.). Capture dans [[2026-06-03 - Post-mortem technique Kelly (Nicolas - Ops tech)]] : cybersec webhook (spam 12k+), quotas API, Twilio MPS, prefill iClosed (~100 doublons), angle mort ownership Delivery, pièges connus consolidés.

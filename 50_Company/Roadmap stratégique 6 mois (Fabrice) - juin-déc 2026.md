@@ -82,6 +82,7 @@ Implications pour toi :
 - **G10/I10 (Thomas)** : le doc reconnaît son gros travail back (cohérent avec le call) mais demande de trancher sa rentabilité au 1er juillet — décision sensible.
 
 ## Liens
+- [[Ressource - Tableau projets Juin (Fabrice) - 2026-06-03]] — déclinaison opérationnelle « juin » de cette roadmap (9 projets, owner Boris)
 - [[2026-05-30 - Post-mortem Kelly & Aikho (call Alec)]] — le call qui contredit la posture du document
 - [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]]
 - [[Fabrice Jaeger]] · [[Boris Arduy]] · [[Anisse Rbibe]]
