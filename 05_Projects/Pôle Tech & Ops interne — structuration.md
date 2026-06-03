@@ -21,6 +21,12 @@ tags: [projet, ent, pole-tech, ops, recrutement, offshore, internationalisation]
 - **Départ de Nicolas à accélérer** (compétences insuffisantes pour le rôle — I12).
 - **Recrutement d'un Ops Marketing en Inde lancé via Aikho** — axe coûts + engagement + backend international.
 
+## Cible chiffrée (vision 02/06) — **−51,45 %**
+- Coût mensuel du pôle **45 594 € → 22 136 €** ; annuel **547K → 266K** ; économie **281 495 €/an**.
+- Deux leviers : internationalisation/offshore de l'équipe (35,1K → 17,2K) + effondrement de la stack outils sur N8N auto-hébergé + plateforme (10,5K → 4,9K).
+- Détail complet : [[Pôle Tech Ops - Modèle de coûts (juin-sept 2026)]].
+- ⚠️ Concentration de risque : Quentin (20K→10K) + migration N8N + collapse outils, tout sur le même trimestre.
+
 ## Actions
 - [ ] **D3** Recruter l'ops marketing (Inde, via [[Aikho]]) en remplacement de Nicolas + bras droit « Webby » — *P1 · 30 juin · **lancé*** *(+ [[Cédric De Saint Jean]])*
 - [ ] **Ligne de reporting** : trancher si le poste relève du pôle tech/ops (Boris) ou marketing — l'acter avant l'onboarding (éviter l'ambiguïté « qui gère qui »)
