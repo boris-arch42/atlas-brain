@@ -11,6 +11,12 @@ tags: [side, alec, conformite, tpe-pme, bricks, hors-perimetre-ent]
 
 # 🏛️ Side — Conformité Réglementaire TPE/PME
 
+> **🟢 MAJ 2026-06-09 — Stratégie d'entrée reçue de Cédric**
+>
+> - **Cédric a livré son doc stratégique** (par où rentrer / niche / pricing / canaux). Synthèse complète + tensions à réconcilier dans [[Ressource - Stratégie d'entrée marché Oscar (Cédric Berrebi) - juin 2026]].
+> - **Thèse Cédric** : entrer par la **restauration** (pas le DUERP), positionnement **"remplacement de prestataires"** (économie nette, pas coût de plus), combo **sécurité incendie + HACCP**, abo **149-199 €/mois** + commissions marketplace 15-25 %.
+> - **Prochaine étape** : Boris produit un **one-pager pour Alec** afin de préparer le **call avec le marketing** (figer hook d'acquisition, pricing, ICP P1, marketplace).
+>
 > **🟢 MAJ 2026-05-28 — Oscar en route**
 >
 > - Projet **en route**.
@@ -173,6 +179,7 @@ Le 1er trilatéral Boris × Alec × Cédric Berrebi a fait évoluer significativ
 - [[Replay - Boris x Alec 27 avril 2026]] (transcript Sembly + analyse complète — call initial)
 - [[Replay - Boris x Alec x Cédric Berrebi - Oscar - mai 2026]] (transcript Sembly + analyse complète — kickoff trilatéral, évolutions de thèse et de mandat)
 - [[Replay - Boris x Hubert Smolen - Oscar - mai 2026]] (transcript Sembly — onboarding Hubert sur ads Oscar, cadrage GTM/pricing/rétention)
+- [[Ressource - Stratégie d'entrée marché Oscar (Cédric Berrebi) - juin 2026]] (doc stratégique Cédric : niche restauration, positionnement remplacement de prestataires, pricing 149-199 €, canaux — base du call marketing)
 - [[Alec Henry]] (co-fondateur du side)
 - [[Hubert Smolen]] (media buyer ENT — pilote ads Oscar à partir de mai 2026)
 - [[Riven Agency]] (zone d'allocation parallèle 0.5j/sem)
