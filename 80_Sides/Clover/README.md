@@ -22,7 +22,8 @@ tags: [clover, execution, taches]
 ## W1 — Juridique & structure
 - [x] Alignement fondateurs (call 12/06) — 50/50 de principe, IP vs cash, SAS métropole
 - [x] Pacte d'associés v0 (term sheet) → [[Pacte d'associés — Draft v0 (term sheet)]]
-- [x] **Pacte d'associés v1 — rédaction complète (37 articles + 3 annexes)** → [[Pacte d'associés — v1 (rédaction complète)]] — *relecture Boris puis envoi*
+- [x] **Pacte d'associés v1.1 — rédaction complète (36 articles + 3 annexes), purgé de toute référence Clover Guyane** → [[Pacte d'associés — v1 (rédaction complète)]] — *relecture Boris puis envoi*
+- [ ] (Optionnel, recommandé) Lettre de reconnaissance IP signée par la société historique, **hors pacte** → [[Reconnaissance IP — prestation initiale (hors pacte)]] — *à valider avocat*
 - [ ] Fixer les variables 🔴 : montant apport cash Alexandre, identités/état civil, dénomination sociale — **Boris, avant envoi**
 - [ ] Valider les paramètres proposés 🟡 (table en tête du pacte : vesting 48 m, présidence Alexandre, deadlock M+18, seuils) — **Boris**
 - [ ] Appel/mail expert-comptable — **Boris, cette semaine**
@@ -54,6 +55,7 @@ tags: [clover, execution, taches]
 - [ ] Boucle retours terrain → ajustement messages/supports — **les deux**
 
 ## Décisions actées (log)
+- 2026-06-12 — **Séparation stricte** : la nouvelle société n'a aucun lien avec Clover Guyane (société d'Alexandre) ; le pacte ne contient aucune référence au parc existant ni à la relation historique (purgé en v1.1) ; Alexandre signe à titre strictement personnel
 - 2026-06-12 — Capital 50/50 de principe ; IP Boris = apport en nature valorisé en miroir du cash Alexandre (pas de rémunération directe de l'IP)
 - 2026-06-12 — SAS, métropole, domiciliation Paris ; Boris via Atlas Ventures, Alexandre en nom propre (holding possible ensuite)
 - 2026-06-12 — MVP léger d'abord, réinvestissement progressif du CA ; fenêtre de validation 6 mois (extensible 12)
