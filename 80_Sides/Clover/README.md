@@ -33,7 +33,8 @@ tags: [clover, execution, taches]
 
 ## W2 — Nom & branding
 - [ ] Shortlist noms produit + check disponibilité/prix domaines (attention premium) — **Boris + Alexandre**
-- [ ] Brief branding : palette vert clair/tendre, évolution logo trèfle, typo — **Boris, lun-mar**
+- [x] **Charte graphique v1** (système couleur complet + typo Lora/Work Sans/JetBrains Mono + symbole arche, sans trèfle) → [[Charte graphique v1]] · PDF imprimable généré
+- [ ] Valider la palette + faire concevoir le logo définitif par un designer — **Boris + Alexandre**
 - [ ] Landing page rapide (si signal prospects) — **Boris, à la demande**
 - [ ] Assets motion design 1-1,5 min (~400 USD, délai 2 sem., prestataire référencé) — **Boris**
 

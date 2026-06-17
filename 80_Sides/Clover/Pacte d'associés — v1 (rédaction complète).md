@@ -130,7 +130,7 @@ Les statuts demeurent le document public d'organisation de la Société. En cas 
 # TITRE III — GOUVERNANCE
 
 ### Article 7 — Direction de la Société 🟡
-7.1. **Président** : Alexandre, en cohérence avec son rôle de directeur opérationnel (représentation légale, direction générale opérationnelle).
+7.1. **Président** : Alexandre, en cohérence avec son rôle de directeur marketing et commercial (représentation légale, direction générale opérationnelle).
 7.2. **Directeur Général** : Boris, avec pouvoirs de représentation pour le périmètre produit, technique et opérations internes.
 7.3. Les mandats ne sont **pas rémunérés** pendant la Période de Validation (Article 30).
 7.4. La révocation ou la nomination d'un dirigeant constitue une Décision Réservée.
@@ -172,7 +172,7 @@ m) toute décision relative à une procédure contentieuse significative, à la 
 # TITRE IV — ENGAGEMENTS DES FONDATEURS
 
 ### Article 12 — Implication
-12.1. **Alexandre** consacre au projet un **temps majoritaire**, en qualité de directeur opérationnel, le projet constituant son activité professionnelle principale à moyen terme.
+12.1. **Alexandre** consacre au projet un **temps majoritaire**, en qualité de directeur marketing et commercial, le projet constituant son activité professionnelle principale à moyen terme.
 12.2. **Boris** consacre au projet **au minimum deux (2) jours par semaine**, organisés de manière flexible, et davantage en tant que de besoin.
 12.3. Chaque Fondateur exerce ses fonctions avec loyauté et diligence et organise ses autres activités de manière à ne pas porter préjudice à la Société.
 

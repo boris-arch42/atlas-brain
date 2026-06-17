@@ -1,17 +1,26 @@
 ---
 type: person
-role: "Consultante senior externe — mission DÉCLINÉE (mai 2026)"
+role: "Consultante senior externe — RE-COURTISÉE full-time Dubaï (juin 2026)"
 team: "Entrepreneurs.com"
 manager: "[[Alec Henry]]"
 reports: 
 started: 
-status: declined
+status: re-courtisée
 source: entrepreneurs-com
 sensitivity: confidential
 tags: [co-coo, externe, entrante, consultante-immersion]
 ---
 
 # Sophia
+
+> **🟢 MAJ 2026-06-13 — SOPHIA RE-COURTISÉE (statut 'décliné' partiellement périmé)**. Après sa **restitution d'observation** à Alec (immersion Marrakech + team building → livrable 24 slides *Ops Scaling System*), Alec la relance **activement** pour devenir le **"alter ego féminin de Boris"** : un rôle **Chief of Staff / People-Performance full-time à Dubaï** qui fait tourner l'interne "comme une horloge". À défaut du full-time, elle pourrait fournir un **support à délivrer** (propale) en appui du futur recrutement.
+>
+> - **Package évoqué : ~15K lissé/an** (fixe + bonus) — vs budget "admin RH" actuel de 5K (Alec voyait 7-8K). Sophia argumente la data marché Dubaï/US.
+> - **Le rôle = le "pilote dédié culture"** du plan 30/90 j de sa propre restitution. Périmètre à border vs Co-COO Support infra (Boris).
+> - **Prochain point Alec × Sophia : 23 juin, 12h15 (heure FR)** — possible bascule.
+> - Un **deal/rémunération** reste à formaliser pour la restitution déjà livrée.
+>
+> Détail : [[Ressource - Replay Restitution Culture Alec × Sophia 13 juin 2026]] + [[Diag - Restitution Culture & Management (Sophia) 2026-06-13]]. Le bloc 05-28 ci-dessous reste l'historique de la phase "déclinée".
 
 > **🔴 MAJ 2026-05-28 — MISSION DÉCLINÉE PAR SOPHIA**. Après Marrakech, Sophia a décliné la mission : elle estime la **quantité de travail trop lourde et trop complexe** au regard de son format (mission ponctuelle, 1j/mois après M1-M2). Elle **sera néanmoins présente au team building (5-7 juin)** pour **finaliser son audit** — c'est sa dernière contribution, pas un démarrage.
 >
