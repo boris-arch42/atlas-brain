@@ -32,6 +32,13 @@ Chaque side a son **propre sous-dossier** avec :
 - **Statut** : actif — phase de démarrage, recherche closer
 - **Mon rôle** : partenaire opérationnel sales + cut
 
+### 🤖 [[Aikho/README|Aikho — Recrutement IA (SaaS)]]
+- **Owners** : Hugues Pringault (CEO) + Julien (CTO) ; partenariat avec Alec Henry + Boris
+- **Démarré** : mai 2026 ; séminaire stratégique 24-25 juin 2026
+- **Statut** : actif — lancement « mode pirate » (machine scraping/cold-email, LP, V2)
+- **Mon rôle** : axe systèmes (landing pages, scraping, infra d'acquisition) + investissement/equity
+- **Note** : aussi **outil interne EC** (stack recrutement de référence) — d'où les SOPs/retros recrutement ici
+
 ## 🚦 Règle d'arbitrage
 
 Si un side menace la posture Operating Partner ENT (surcharge, conflit d'agenda, conflit politique) :
