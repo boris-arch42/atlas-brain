@@ -6,7 +6,7 @@ canonical-spelling: "Aikho"
 ceo: "Hugues Pringault"
 industry: "Recrutement IA (SaaS)"
 relationship-with-ec: "Partenaire opérationnel + investissement EC 18K$ + outil interne EC"
-last-updated: 2026-05-19
+last-updated: 2026-06-25
 status: active-partnership
 related-replays:
   - "[[Ressource - Replay Call Aikho × Hugues Pringault 12 mai 2026]]"
@@ -31,6 +31,17 @@ sensitivity: confidential
 > **Produit** : SaaS de **recrutement IA** — interviews IA, scoring candidats, automatisation sourcing, filtrage CV.
 >
 > **Positionnement EC** : à la fois **outil interne** (process recrutement standard EC) et **partenaire stratégique** (investissement + co-construction parrainage + canal Le Déclic + apport d'affaires).
+
+---
+
+## 🎨 Identité visuelle (branding)
+
+| Rôle | Hex | Aperçu |
+|---|---|---|
+| Bleu nuit (primaire) | `#09143f` | bleu marine très foncé |
+| Bleu (secondaire) | `#1f599b` | bleu moyen |
+
+> À utiliser pour toute LP, slide, case study ou doc aux couleurs Aikho.
 
 ---
 

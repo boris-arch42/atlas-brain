@@ -19,4 +19,4 @@ tags: [projet, ent, aikho, partenariat, capital]
 ## Liens
 - [[Aikho]] · [[Note de valeur - Partenariat Aikho - 2026-05-30]]
 - [[🗼 Tour de contrôle - Projets en cours]]
-- **Séminaire stratégique (24-25 juin 2026)** : [[Jour 1 — Synthèse (matinée)]] · [[Jour 1 — Décisions validées & parking]] · [[Jour 1 — Plan d'action & owners]]
+- **Séminaire stratégique (24-25 juin 2026)** : [[Jour 1 — Rapport consolidé]] · [[Jour 1 — Plan d'action & owners]] · [[Jour 2 — Point Boris × Alec (matin) — Cartographie rôles & plan d'attaque]]
