@@ -37,7 +37,7 @@ Chaque side a son **propre sous-dossier** avec :
 - **Démarré** : mai 2026 ; séminaire stratégique 24-25 juin 2026
 - **Statut** : actif — lancement « mode pirate » (machine scraping/cold-email, LP, V2)
 - **Mon rôle** : axe systèmes (landing pages, scraping, infra d'acquisition) + investissement/equity
-- **Note** : aussi **outil interne EC** (stack recrutement de référence) — d'où les SOPs/retros recrutement ici
+- **Note** : aussi **outil interne EC** (stack recrutement de référence). Les process recrutement internes & post-mortems EC restent dans leurs dossiers PARA (`10_SOPs`, `60_Retros`), hors side.
 
 ## 🚦 Règle d'arbitrage
 

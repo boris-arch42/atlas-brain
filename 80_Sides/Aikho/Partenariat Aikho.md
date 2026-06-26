@@ -1,6 +1,6 @@
 ---
-type: project
-domaine: ENT
+type: side-projet
+domaine: SIDE
 statut: actif
 sante: 🟢
 owner: "[[Boris Arduy]] + [[Alec Henry]]"
@@ -9,7 +9,7 @@ echeance: 2026-06-15
 revue: 2026-05-31
 execution: "[[Note de valeur - Partenariat Aikho - 2026-05-30]]"
 sensitivity: confidential
-tags: [projet, ent, aikho, partenariat, capital]
+tags: [side, aikho, partenariat, capital]
 ---
 
 # Partenariat Aikho
