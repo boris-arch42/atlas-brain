@@ -7,16 +7,19 @@ manager: "[[Alec Henry]] (sponsor) / aligné avec [[Fabrice Jaeger]] (Co-Directe
 reports: "À construire — équipe finance + admin RH Dubai (cf. recrutement RH Dubai en cours)"
 started: 2026-05-18
 date-created: 2026-05-11
-status: pre-onboarding
-last-updated: 2026-05-11
+status: actif
+last-updated: 2026-06-26
 source: entrepreneurs-com
 sensitivity: confidential-max
-tags: [head-finance, head-rh, pole-finance-rh, dubai, jordan-leroux, pre-onboarding, ex-maj, confidentialite-sortie-maj]
+tags: [head-finance, head-rh, pole-finance-rh, dubai, jordan-leroux, en-poste, ex-maj, confidentialite-sortie-maj]
 related-replays:
   - "[[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]]"
+  - "[[2026-06-26 - Jordan x Boris - Finance (migration Odoo, lettrage, controles, budget)]]"
 ---
 
 # Jordan Leroux
+
+> 🟢 **MAJ 2026-06-26 — 1er point Finance de fond (Jordan × Boris)** : en poste depuis ~6 semaines, Jordan pilote désormais les chantiers Finance opérationnels. Périmètre concret : **lettrage des encaissements** (flux tendu, agent Claude + Indien, clé = deal HubSpot), **recouvrement** (conditionné à la fiabilisation Odoo/InPay), **décaissements** (propose de reprendre les virements via circuit **IbanFirst** : il exécute / Fabrice valide / Alec > seuil), **budget par owner** (6 mois, en construction), **OCR Odoo**. Goulot n°1 qu'il porte : **refaire la migration Pennylane → Odoo proprement** (3 devis FR). A acté que **Boris devient owner unique des tools**. → Posture confirmée : direct, lucide, oriente solution, sait nommer ce qui ne va pas (y compris côté dossier Fabrice, avec diplomatie). Cf. [[2026-06-26 - Jordan x Boris - Finance (migration Odoo, lettrage, controles, budget)]] et [[Trésorerie & Finance]].
 
 > 🟢 **MAJ 2026-05-12 — Weekly Alec × Boris** : finalisation des points RH Dubai en suspens. **Jordan glisse en R3** (au lieu de R2 visé au weekly 11/5), **Fabrice prend R2**. Raison Alec : *"Jordan est trop junior encore dans la boîte, tu vois. Jordan, ce sera peut-être en R3 finale en physique avec moi."* R3 = finale physique avec Alec à Dubai. **Objectif #1 confirmé explicitement par Alec** : *"Décharger Fabrice et qu'on puisse avancer"*. Diagnostic Alec sur usage actuel Fabrice : *"Il est à 20% de ses capacités sur la finance parce qu'il fait des petites tâches. Demain, Jordan, il fera les petites tâches, peut-être aussi avec des externes. Et Fabrice pourra se concentrer sur vraiment faire gagner des millions."* Cf. [[Ressource - Replay Weekly Alec × Boris 12 mai 2026]].
 
@@ -119,14 +122,20 @@ Périmètre concret pressenti :
 
 ## SOPs dont elle/il est owner
 
-Aucun pour l'instant (pas encore en poste). Ownership cible post-arrivée :
+En poste depuis le 18/5. Ownership opérationnel en cours de consolidation (cf. [[Trésorerie & Finance]]) :
+- Lettrage des encaissements en flux tendu (process + agent + Indien) — actif
+- Budget 6 mois par owner / catégorie — en construction
+- Circuit de validation des décaissements (IbanFirst) — proposition pour la prochaine réunion Finance
+- Migration Pennylane → Odoo (cahier des charges + devis FR) — pilote
+
+Ownership cible :
 - [[People-RH - Onboarding-Offboarding collaborateurs]] (co-owner avec Fabrice, transition Fabrice → Jordan post-stabilisation)
 - [[Scope - Cartographie contrats prestataires Entrepreneurs.com]] (target owner permanent, Phase 4 maintenance)
 - Pôle Finance — process à construire (cartographie comptable, KPI, dashboards)
 
 ## Décisions auxquelles il a participé
 
-Aucune décision EC actée à ce jour. Première participation prévue post-arrivée 18/5.
+- **2026-06-26** — Refaire la migration Odoo proprement (migrateur FR, 3 devis) ; **Boris owner unique des tools** ; lettrage encaissements en flux tendu comme clé = deal HubSpot. Cf. [[2026-06-26 - Jordan x Boris - Finance (migration Odoo, lettrage, controles, budget)]].
 
 ## 🔴 Confidentialité — Sortie Maj
 
@@ -176,6 +185,8 @@ Cf. proposée par Boris pré-call relationnel — adaptée maintenant que le rel
 
 ## Notes liées
 
+- [[2026-06-26 - Jordan x Boris - Finance (migration Odoo, lettrage, controles, budget)]] — 1er point Finance de fond (chantiers opérationnels)
+- [[Trésorerie & Finance]] — projet hub des chantiers Finance qu'il pilote
 - [[Ressource - Replay 1-to-1 Boris × Jordan Leroux 11 mai 2026]] — replay complet 1er call
 - [[Fabrice Jaeger]] — Co-Directeur d'opérations / mentor finance transitoire / passation onboarding
 - [[Alec Henry]] — sponsor recrutement / CEO

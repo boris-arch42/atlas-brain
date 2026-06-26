@@ -1,6 +1,6 @@
 ---
 type: rapport-de-séance
-domaine: ENT
+domaine: SIDE
 projet: "[[Partenariat Aikho]]"
 date: 2026-06-25
 seance: "Jour 2 — point de cadrage Boris × Alec (08:49 → 09:03)"

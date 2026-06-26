@@ -1,6 +1,6 @@
 ---
 type: rapport-de-séance
-domaine: ENT
+domaine: SIDE
 projet: "[[Partenariat Aikho]]"
 date: 2026-06-25
 seance: "Jour 2 — session de travail (après-midi, 12:07 → 14:11)"

@@ -1,6 +1,6 @@
 ---
 type: ressource
-domaine: ENT
+domaine: SIDE
 projet: "[[Partenariat Aikho]]"
 date: 2026-06-25
 seance: "Ressources marketing (Alec) — à setup côté systèmes"

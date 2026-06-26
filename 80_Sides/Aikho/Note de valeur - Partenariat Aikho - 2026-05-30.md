@@ -6,7 +6,7 @@ recipient: "[[Alec Henry]] → Hugues Pringault (CEO [[Aikho]])"
 context: "Note de valeur partenariat EC × Aikho — au-delà du capital et de la distribution"
 status: sent
 sensitivity: confidential
-tags: [aikho, partenariat, note-de-valeur, deliverable, acquisition, monetisation, produit, hugues-pringault]
+tags: [side, aikho, partenariat, note-de-valeur, deliverable, acquisition, monetisation, produit, hugues-pringault]
 ---
 
 # Note de valeur — Partenariat Aikho (envoyée à Alec le 30/05)

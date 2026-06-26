@@ -1,6 +1,6 @@
 ---
 type: meeting-synthese
-domaine: ENT
+domaine: SIDE
 projet: "[[Partenariat Aikho]]"
 date: 2026-06-24
 seance: "Jour 1 — après-midi (12:32 → 15:54)"
