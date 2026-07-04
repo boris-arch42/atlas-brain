@@ -7,7 +7,7 @@ manager: "[[Alec Henry]]"
 status: active
 source: entrepreneurs-com
 sensitivity: rh-nominatif
-tags: [ent, coaching, owner-projet, casablanca, alchemy, chief-of-staff, operations, franco-libanaise, onboardee-recemment]
+tags: [ent, coaching, owner-projet, casablanca, alkimiy, chief-of-staff, operations, franco-libanaise, onboardee-recemment]
 ---
 
 # Christelle
