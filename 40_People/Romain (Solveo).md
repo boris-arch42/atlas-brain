@@ -24,5 +24,5 @@ Partenaire externe d'ENT, **support** sur le projet de pôle coaching physique �
 - **Support / owner Alkimiy** (pas lead ENT, pas à Casa au daily). Alkimiy source, recrute, forme, manage, héberge les équipes physiques. Fournit profiling, projection financière, modélisation tech/IA/data.
 
 ## Liens
-- [[2026-07-04 - Romain (Solveo) x Alec x Christelle - Pole Coaching Physique Casablanca]]
-- [[Alec Henry]] · [[Christelle]] · [[Boris Arduy]]
+- [[2026-07-04 - Romain (Solveo) x Alec x Christele - Pole Coaching Physique Casablanca]]
+- [[Alec Henry]] · [[Christele]] · [[Boris Arduy]]

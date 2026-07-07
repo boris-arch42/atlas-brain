@@ -1,6 +1,6 @@
 ---
 type: person
-full-name: "Christelle (nom de famille à confirmer)"
+full-name: "Christele (nom de famille à confirmer)"
 role: "Business coach ENT + Owner projet Pôle Coaching Physique Casablanca (côté Entrepreneurs.com)"
 team: "Entrepreneurs.com — Coaching / Delivery (+ ownership BU Casablanca)"
 manager: "[[Alec Henry]]"
@@ -10,7 +10,7 @@ sensitivity: rh-nominatif
 tags: [ent, coaching, owner-projet, casablanca, alkimiy, chief-of-staff, operations, franco-libanaise, onboardee-recemment]
 ---
 
-# Christelle
+# Christele
 
 Business coach ENT (onboardée ~juin 2026, rencontrée par Alec au team retreat, il y a ~1 mois) — **owner du projet pôle coaching physique Casablanca** côté ENT. Garde ses heures de coaching + alloue le temps restant au projet (deal temps à définir).
 
@@ -28,5 +28,5 @@ Business coach ENT (onboardée ~juin 2026, rencontrée par Alec au team retreat,
 - Actuellement au **Liban** (urgence familiale — mère opérée). Fiche de poste attendue d'Alec + Boris pour **mardi 07/07**.
 
 ## Liens
-- [[2026-07-04 - Romain (Solveo) x Alec x Christelle - Pole Coaching Physique Casablanca]]
+- [[2026-07-04 - Romain (Solveo) x Alec x Christele - Pole Coaching Physique Casablanca]]
 - [[Alec Henry]] · [[Romain (Solveo)]] · [[Sabrina Dahel]] · [[Boris Arduy]]
