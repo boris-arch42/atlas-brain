@@ -4,9 +4,9 @@ domaine: ENT
 statut: actif
 sante: 🟠
 owner: "[[Boris Arduy]]"
-prochaine: "Locker le scope + spin up base Next.js+Supabase ; trancher le hub CRM avant de builder"
-echeance: 2026-06-26
-revue: 2026-06-19
+prochaine: "Débloquer les landing pages partenaires (Raphaël saturé ; landing Odoo → Fabrice) + faire former les équipes aux embeds (Quentin)"
+echeance: 
+revue: 2026-07-13
 execution: "Cloud Code + Next.js/Supabase (dup launch.entrepreneurs.com) + HubSpot + Looker Studio + ClickFunnels (landings)"
 sensitivity: confidential
 tags: [projet, ent, dubai, partenaires, apporteurs-affaires, plateforme, dashboard, hubspot]
@@ -39,7 +39,15 @@ tags: [projet, ent, dubai, partenaires, apporteurs-affaires, plateforme, dashboa
 - [ ] **Marketing (Cédric/Océane)** : assets + copy landing + photo Alec + ligne manifesto (ask 15 min, charge lancement respectée)
 - [ ] **Fabrice** : PDF contrat apporteur d'affaires + goodies partenaires
 
+## 📆 Point 10/07/2026 (hebdo Alec)
+- Plateforme en forme mais **métriques nulles** : CRM + lancement du tracking encore en cours. Chaque partenaire reçoit un **lien de suivi unique** relié au CRM (attribution).
+- **Goulot = landing pages** : Raphaël saturé ; landing du partenariat **Odoo transférée à [[Fabrice Jaeger]]** ; duplications type « Bet on You » / « Mindshake » + corrections manuelles par page.
+- **[[Quentin]] forme les équipes aux embeds** (autonomie plateforme).
+- ✅ Rappel infra : **webhook iClosed live + testé E2E le 12/07** (UTM `utm_term`, idempotence `iclosed_call_id`, fast-ack).
+- ⚠️ La **migration CRM → iClosed validée le 10/07** (1:1) rebattra le hub CRM de la plateforme (HubSpot moins central) — à séquencer sans casser le tracking.
+
 ## 🔗 Liens
+- [[2026-07-10 - Point hebdo 1-1 (Boris x Alec)]]
 - [[2026-06-19 - Roman x Boris - Tracking partenaires Dubaï & plateforme]]
 - [[Roman Tebenikhin Bonamy]] · [[Fanny Lesprit]]
 - [[Kelly Launch — infra commerciale & Sales Bis]]

@@ -4,9 +4,9 @@ domaine: ENT
 statut: actif
 sante: 🔴
 owner: "[[Boris Arduy]] + [[Alec Henry]]"
-prochaine: "Lancer le recrutement GM Dubaï (verrou du plan) + finaliser passation Axel"
-echeance: 2026-06-15
-revue: 2026-05-31
+prochaine: "Rédiger + diffuser l'annonce « Fabrice n'est plus Directeur des opérations » (Alec) + planifier la réunion de passation intranet Fabrice → Boris"
+echeance: 
+revue: 2026-07-13
 execution: "Objectif 4 du Plan Q1"
 sensitivity: confidential
 tags: [projet, ent, top-management, transition, gm-dubai, cmo]
@@ -21,7 +21,15 @@ tags: [projet, ent, top-management, transition, gm-dubai, cmo]
 
 > D3 (recrutement ops marketing Inde / remplacement Nicolas) a été déplacé vers [[Pôle Tech & Ops interne — structuration]].
 
+## 📆 Journal
+### 10/07/2026 — Point hebdo Alec × Boris + gouvernance ops
+- **Boris officialisé responsable des opérations** et point de contact outillage auprès des équipes (réunion gouvernance avec [[Sabrina Dahel]]).
+- **Annonce à préparer : [[Fabrice Jaeger]] n'est plus Directeur des opérations** — rédaction + calendrier de diffusion par [[Alec Henry]].
+- **Passation incomplète** : contenus intranet de Fabrice (modèles juridiques, contrats, onboarding) sous-utilisés ; Boris a demandé l'accès ; **réunion de passation Fabrice → Boris + Alec à planifier** (revue intranet + réattribution des responsabilités).
+
 ## Liens
+- [[2026-07-10 - Point hebdo 1-1 (Boris x Alec)]]
+- [[2026-07-10 - Gouvernance Ops, Conformité & Support Client (Alec x Boris x Sabrina)]]
 - [[Plan trimestriel Q1 - Boris - V1 (mai-juillet 2026)]] (Objectif 4)
 - [[Fabrice Jaeger]] · [[Cédric De Saint Jean]]
 - [[Diag - Nouvel Organigramme & Cordon Sanitaire 2026-05-27]]
