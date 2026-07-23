@@ -114,4 +114,4 @@ status: inbox
 - Contexte projet Tatouine : [[2026-07-04 - Romain (Solveo) x Alec x Christele - Pole Coaching Physique Casablanca]] · [[2026-07-10 - Point hebdo 1-1 (Boris x Alec)]] (§1 arbitrage modèle Tatouine) · [[2026-07-09 - Delivery Staffing & Qualité Coachs (Boris x Alec x Sabrina x Anisse x Claire)]]
 - Dispositif Alkimiy / Bourbon : [[2026-07-18 - Onboarding Alkimiy Campagne Bourbon - Stack, Parité & Passation (Boris x Théodoric x Aziz x Romain)]]
 - Projets liés : [[Manager Playbook — Core V1 & certification]] · [[Refonte verticale Data-IA-Tech-Ops]] · [[🗼 Tour de contrôle - Projets en cours]]
-- Carte projet : [[Tatouine — Hub coaching externalisé (Casablanca)]]
+- Carte projet : [[Tatouine — Hub coaching externalisé (Casablanca)]] · Cadre de pilotage : [[Ressource - Cadre de pilotage Hub Coaching Casablanca (Tatouine) - 2026-07-20]]

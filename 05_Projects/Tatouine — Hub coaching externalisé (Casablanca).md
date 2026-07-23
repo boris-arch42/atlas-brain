@@ -7,7 +7,7 @@ owner: "[[Christele]]"
 prochaine: "Livrer la V1 du playbook coaching (trio Christele/Sabrina/Claire) avant le 5 août + verrouiller le contrat Alkimiy (deal + prix SDR)"
 echeance: 2026-08-05
 revue: 2026-07-22
-execution: "Canal Slack dédié (Alkimiy × ENT) + roadmap/RACI/RAID/KPIs (Christele) ; playbook coaching + plateforme dédiée à construire (Boris)"
+execution: "[[Ressource - Cadre de pilotage Hub Coaching Casablanca (Tatouine) - 2026-07-20]] (doc de référence, MAJ hebdo) + canal Slack dédié ; playbook coaching + plateforme dédiée à construire (Boris)"
 sensitivity: confidential
 tags: [projet, ent, tatouine, coaching, maroc, casablanca, alkimiy, delivery, externalisation, business-unit, q3-2026]
 ---
@@ -60,6 +60,7 @@ NPS · Satisfaction · **Résultats (OKR/chiffres)** · **Taux de churn** (éche
 - 🟠 **Owner ponctuellement indispo** (Christele — Liban, urgence familiale) **et** pressentie comme **Head of Coach** suite au départ de Claire → pont entre les deux sujets, mais risque de surcharge.
 
 ## 🔗 Liens
+- **Doc de référence (cadre de pilotage)** : [[Ressource - Cadre de pilotage Hub Coaching Casablanca (Tatouine) - 2026-07-20]]
 - Meetings (chronologie) : [[2026-07-04 - Romain (Solveo) x Alec x Christele - Pole Coaching Physique Casablanca]] (genèse & finances) · [[2026-07-10 - Point hebdo 1-1 (Boris x Alec)]] (§1 arbitrage modèle) · [[2026-07-20 - Kick-off Coaching Hub Maroc Tatouine (Boris x Christele x Romain x Sabrina x Claire)]] (kick-off ops) · [[2026-07-20 - Point hebdo 1-1 (Boris x Alec)]] (contractualisation Alkimiy) · [[2026-07-21 - Sabrina x Boris - Ops Delivery, nouvelles offres & départ Claire]] (pont Head of Coach)
 - People : [[Christele]] · [[Romain (Solveo)]] · [[Alec Henry]] · [[Boris Arduy]] · [[Sabrina Dahel]] · [[Claire]]
 - Projets liés : [[Manager Playbook — Core V1 & certification]] · [[Refonte verticale Data-IA-Tech-Ops]] · [[Transition top management]]
