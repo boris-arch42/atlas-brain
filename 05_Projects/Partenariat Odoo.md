@@ -1,0 +1,34 @@
+---
+type: project
+domaine: ENT
+statut: actif
+sante: 🟢
+owner: "[[Boris Arduy]]"
+prochaine: "À définir"
+echeance: 
+revue: 
+execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms3cyuok0001ib041qafxohz"
+sensitivity: confidential
+tags: [projet, cockpit]
+cockpit_id: cms3cyuok0001ib041qafxohz
+---
+# Partenariat Odoo
+
+> Partenariat officiel depuis octobre 2025, né de la rencontre entre Alec Henry et Fabien Pinckaers (CEO-fondateur d'Odoo) sur un podcast. Entrepreneurs.com agit en apporteur d'affaires : les coachs recommandent Odoo aux ~1 000 clients accompagnés par an et les mettent en relation avec l'interlocuteur dédié chez Odoo (Thomas Sibille), qui gère analyse de besoins, démo, offre et intégration — Entrepreneurs étant commissionné sur licences et mise en œuvre
+
+%% cockpit:debut %%
+## 🎛️ Cockpit — live
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+
+**En cours · 🟢 Au vert · 100%** (1/1 tâches)
+
+**Dernière activité**
+- 29 juil. — Boris Arduy a ajouté le replay « Kick Off projet »
+- 29 juil. — Boris Arduy a terminé la tâche « Valider la page de partenariat avec Odoo »
+- 27 juil. — Boris Arduy a passé la tâche « Valider la page de partenariat avec Odoo » en en review
+
+[Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms3cyuok0001ib041qafxohz)
+%% cockpit:fin %%
+
+## Liens
+- [[🗼 Tour de contrôle - Projets en cours]]

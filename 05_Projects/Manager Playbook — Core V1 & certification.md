@@ -9,6 +9,11 @@ echeance: 2026-07-30
 revue: 2026-07-13
 execution: "Work (source unique) + Slack async · zéro nouvelle licence (transcriptions internes, Tella, Slack, Keeper)"
 tags: [project, ent, playbook, management, certification, work]
+cockpit_id: cms4dp3re0001la04g5t916re
+cockpit_avancement: 50
+cockpit_blocages: 0
+cockpit_taches_retard: 1
+cockpit_maj: 2026-08-04T06:56
 ---
 
 # Manager Playbook — Core V1 & certification
@@ -44,3 +49,20 @@ Standardiser le management ENT via un **playbook Core V1** (routines quotidien/h
 - [[2026-07-09 - Manager Playbook - Cadrage V1-V2 (Alec x Boris)]]
 - [[2026-07-10 - Gouvernance Ops, Conformité & Support Client (Alec x Boris x Sabrina)]]
 - [[🗼 Tour de contrôle - Projets en cours]]
+
+%% cockpit:debut %%
+## 🎛️ Cockpit — live
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+
+**Cadrage · 🟢 Au vert · 50%** (1/2 tâches, 1 en retard ⚠️)
+
+**Tâches en retard (1)**
+- ⏰ Valider la proposition de Sophia — Boris Arduy, échue le 3 août
+
+**Dernière activité**
+- 30 juil. — Boris Arduy a publié une note de suivi
+- 30 juil. — Boris Arduy a créé la tâche « Valider la proposition de Sophia », confiée à Boris Arduy
+- 30 juil. — Boris Arduy a terminé la tâche « Formaliser une propal pour prendre le projet en main (Sophia) »
+
+[Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms4dp3re0001la04g5t916re)
+%% cockpit:fin %%
