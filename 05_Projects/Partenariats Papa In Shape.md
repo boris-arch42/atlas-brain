@@ -11,6 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms2velq2
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms2velq20005jr040qnd3jtn
+cockpit_avancement: 33
+cockpit_blocages: 0
+cockpit_taches_retard: 2
+cockpit_maj: 2026-08-04T06:58
 ---
 # Partenariats Papa In Shape
 
@@ -18,7 +22,7 @@ cockpit_id: cms2velq20005jr040qnd3jtn
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
 
 **En cours · 🟢 Au vert · 33%** (1/3 tâches, 2 en retard ⚠️)
 

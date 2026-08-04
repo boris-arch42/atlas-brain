@@ -11,6 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms3cyuok
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms3cyuok0001ib041qafxohz
+cockpit_avancement: 100
+cockpit_blocages: 0
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-04T06:58
 ---
 # Partenariat Odoo
 
@@ -18,7 +22,7 @@ cockpit_id: cms3cyuok0001ib041qafxohz
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
 
 **En cours · 🟢 Au vert · 100%** (1/1 tâches)
 

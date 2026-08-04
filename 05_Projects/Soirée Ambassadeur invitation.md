@@ -11,6 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb25dwb0001l4042elnrdt6
+cockpit_avancement: 0
+cockpit_blocages: 0
+cockpit_taches_retard: 1
+cockpit_maj: 2026-08-04T06:58
 ---
 # Soirée Ambassadeur invitation
 
@@ -18,7 +22,7 @@ cockpit_id: cmsb25dwb0001l4042elnrdt6
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
 
 **En cours · 🟢 Au vert · 0%** (0/2 tâches, 1 en retard ⚠️)
 

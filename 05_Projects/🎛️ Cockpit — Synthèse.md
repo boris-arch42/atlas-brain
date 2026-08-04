@@ -2,12 +2,12 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-08-04T06:56
+cockpit_maj: 2026-08-04T06:58
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 04/08/2026 08:56.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 04/08/2026 08:58.
 
 **8 projets actifs** · avancement moyen **48%** · **0 blocage(s) ouvert(s)** (dont 0 P0/P1) · **5 tâche(s) en retard**
 

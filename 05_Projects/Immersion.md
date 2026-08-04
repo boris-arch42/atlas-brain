@@ -11,6 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb6gv6b
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb6gv6b0001l104zaw92w6g
+cockpit_avancement: 0
+cockpit_blocages: 0
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-04T06:58
 ---
 # Immersion
 
@@ -18,7 +22,7 @@ cockpit_id: cmsb6gv6b0001l104zaw92w6g
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:56.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
 
 **Cadrage · 🟢 Au vert · 0%** (0/1 tâches)
 
