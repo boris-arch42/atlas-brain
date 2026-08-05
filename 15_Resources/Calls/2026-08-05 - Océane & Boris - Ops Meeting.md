@@ -2,14 +2,52 @@
 type: call
 date: 2026-08-05
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-05
 ---
 
 # Océane & Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (05/08/2026 12:03).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 05/08/2026 15:50 — corrige librement hors des marqueurs.
+
+**Résumé** — Point ops sur les défaillances du tracking marketing (UTM cassés par les raccourcisseurs, données incohérentes) et les problèmes d'attribution SDR vs web. Décision de centraliser le suivi UTM et de construire d'abord un dashboard communication comme pilote avant généralisation.
+
+**Décisions**
+- Centraliser le tracking UTM dans un système unique géré par Boris
+- Construire d'abord un dashboard dédié au pôle communication comme pilote avant de généraliser aux autres pôles
+- Intégrer les UTM sur toutes les pages et liens calendrier pour permettre l'attribution par source/medium/campagne
+- Abandonner la plateforme COMEX pour le tracking partagé (non fiable)
+- Utiliser Entrepreneurs Work comme système global de gestion de projet
+
+**Actions**
+- [ ] **Boris** : Corriger l'intégration iClosed et les règles UTM pour assurer le tracking multi-funnel
+- [ ] **Boris** : Construire le dashboard dédié communication connecté au hub SDR
+- [ ] **Boris** : Déboguer les automatisations WhatsApp (déconnexions via Make)
+- [ ] **Boris** : Fournir la spécification des métriques et flux de données pour le dashboard
+- [ ] **Océane** : Rédiger le cahier des charges des métriques et flux nécessaires pour l'analyse CRO
+- [ ] **Océane** : Se connecter au système UTM de Boris et à Entrepreneurs Work avec l'adresse @entrepreneurs.com
+- [ ] **Sabrina** : Attribuer les tâches Trustpilot à Océane dans Entrepreneurs Work une fois l'accès configuré
+- [ ] **Boris** : Vérifier les résultats financiers internes d'Alchimie (échéance 2026-08-05)
+
+**Risques & vigilances**
+- Attribution SDR artificiellement gonflée par des leads web non tracés correctement
+- Impossibilité d'optimiser les campagnes sans métriques intermédiaires (vues uniques/page viewers)
+- Raccourcisseurs de liens (short.io) qui suppriment ou modifient les UTM et cassent le tracking
+- Automatisations WhatsApp instables bloquant les flux d'opt-in
+- Risque de silos entre marketing et communication si la coordination UTM n'est pas cadrée
+- Baisse du CA après fin juillet malgré volumes d'appels SDR constants (probable dépendance aux leads web)
+
+**Projets liés** : [[Automatiser Trustpilot collecte]] · [[Plateforme Partenaires Dubaï — tracking & dashboards]]
+
+Tags : #tracking #attribution #utm #dashboard #marketing-ops
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

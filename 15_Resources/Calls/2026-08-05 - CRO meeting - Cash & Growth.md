@@ -2,14 +2,64 @@
 type: call
 date: 2026-08-05
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "aziz.sfaihi@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com", "cedric@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Aziz Sfaihi]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]", "[[Cédric De Saint Jean]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-05
 ---
 
 # CRO meeting | Cash & Growth
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (05/08/2026 14:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 05/08/2026 15:50 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue stratégique commerciale : montée en capacité SDR de 4 à 11 (Closers Group + Alchemy), recrutement d'un Head of SDR, correction urgente des dashboards/data par Thomas, et mobilisation intensive pour sauver l'événement ambassadeur (objectif 200 inscrits, seuil min 120 au 15/08).
+
+**Décisions**
+- Montée en capacité SDR à 11 via Closers Group (2) et Alchemy (5)
+- Recrutement d'un Head of SDR externe temps plein, Alex reste team leader intérimaire
+- Annulation de l'événement ambassadeur si seuils non atteints : 120 inscrits au 15/08, 180 au 20/08
+- Workshops hebdomadaires repositionnés comme levier de conversion R1-R3, calendrier fixe par segment (scaling/incubator/accelerator/board)
+- Modèle setter + closer en 2 temps pour le funnel book, recrutement 2-4 setters à valider après 50-100 appels de cartographie
+- Journée de cohésion sales en présentiel à Paris le 4 septembre
+
+**Actions**
+- [ ] **Boris** : Finaliser signature contrats Closers Group (2 SDR) et Alchemy (5 SDR) (échéance 2026-08-06)
+- [ ] **Thomas Baeumlin** : Reconnexion immédiate dashboards et flux temps réel HubSpot avant départ, sous peine retenue paie (échéance 2026-08-06)
+- [ ] **Boris** : Livrer cahier des charges tracking organique par campagne/canal (échéance 2026-08-06)
+- [ ] **Cédric De Saint Jean** : Livrer dashboards internes fonctionnels équivalent Looker (échéance 2026-09-30)
+- [ ] **Aziz Sfaihi** : Concevoir plan de formation/onboarding SDR externes et déployer avec équipes Closers Group et Alchemy (échéance 2026-08-15)
+- [ ] **Aziz Sfaihi** : Discuter avec Alex de transition team leader vers Head of SDR externe et réaffectation closing si souhaité (échéance 2026-08-12)
+- [ ] **Océane De Queiros** : Envoyer liste des 36 inscrits événement ambassadeur à Aziz pour relances téléphoniques (échéance 2026-08-05)
+- [ ] **Alec Henry** : Définir segment cible invitation événement (ex: clients R2 2026, satisfaits, région Paris) et transmettre à Cédric (échéance 2026-08-06)
+- [ ] **Cédric De Saint Jean** : Lancer séquences email/SMS/push plateforme ciblées pour événement ambassadeur (échéance 2026-08-07)
+- [ ] **Aziz Sfaihi** : Appels personnels aux inscrits et prospects pour événement ambassadeur (échéance 2026-08-15)
+- [ ] **Alec Henry** : Mobiliser chaque commercial pour inviter 3 prospects stratégiques à l'événement (échéance 2026-08-15)
+- [ ] **Alec Henry** : Envoyer code WhatsApp à Océane pour flux d'appels Aziz (échéance 2026-08-05)
+- [ ] **Alec Henry** : Obtenir point complet de Sabrina sur ambassadeurs, flows fidélité, nouvelles offres et résultats depuis 17/07 (échéance 2026-08-08)
+- [ ] **Raphaël** : Créer script et process de rappel premier appel pour test Roman (échéance 2026-08-08)
+- [ ] **Aziz Sfaihi** : Concevoir script et process setter pour funnel book (échéance 2026-08-15)
+- [ ] **Alec Henry** : Piloter 50-100 appels avec acheteurs book pour cartographier typologies et affiner scripts (échéance 2026-08-19)
+- [ ] **Alec Henry** : Discuter avec Sabrina des profils coachs mobilisables comme setters (échéance 2026-08-08)
+
+**Risques & vigilances**
+- Qualité SDR externes insuffisante : risque de chute show-up comme exemple 55% → 10% si onboarding raté
+- Dashboards/data non fiables bloquent pilotage performance et allocation ressources
+- Événement ambassadeur sous-inscrit : 34 inscrits vs objectif 200, risque perte 15k€ déjà engagés sur 50k€ budget
+- Roadmap plateforme saturée : tout push urgent (popup, WhatsApp) doit être arbitré avec Quentin/SAD
+- Double rôle Alex (closer + team leader) non tenable avec croissance SDR, dégrade performance
+- Closers Group engagement provisoire 1-2 mois, nécessite solutions permanentes en parallèle
+- Incitations parrainage événement risquent d'attirer profils non qualifiés si pas de filtrage
+- Matching email/téléphone défaillant réduit portée ciblage et volume appels effectifs
+
+**Projets liés** : [[Soirée Ambassadeur invitation]] · [[Manager Playbook — Core V1 & certification]]
+
+Tags : #sdr-scaling #dashboards-data #evenement-ambassadeur #funnel-conversion #workshops
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

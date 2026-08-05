@@ -2,14 +2,53 @@
 type: call
 date: 2026-08-05
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-05
 ---
 
 # Sabrina X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (05/08/2026 11:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 05/08/2026 15:50 — corrige librement hors des marqueurs.
+
+**Résumé** — Point ops sur les lacunes critiques de la plateforme (tracking, tableaux de bord, données de coût coach) qui génèrent un travail manuel massif et un churn >20% avant première session. Décision de structurer les besoins en données étape par étape pour intégration roadmap produit et d'imposer Hops Cockpit comme source unique de pilotage.
+
+**Décisions**
+- Le Hops Cockpit devient la source unique de vérité pour tous les projets, alertes et blocages
+- Les besoins de tracking et tableaux de bord doivent être intégrés dans la plateforme elle-même, pas via des outils ad hoc
+- Mise en place d'un onboarding progressif avec jalons obligatoires et suivi de présence
+- Création d'un poste concierge dédié exclusivement (proposition Aïda au même niveau de rémunération)
+- Suppression commerciale des frais d'annulation pour les clients impactés par un éventuel report de l'Immersion
+
+**Actions**
+- [ ] **Boris** : Consolider la liste exacte des points de données à capturer à chaque étape du customer journey
+- [ ] **Sabrina** : Fournir les exemples de contournements actuels et les données nécessaires pour refonte customer journey
+- [ ] **Quentin** : Fournir estimation et implémenter le tracking de données d'onboarding (présence, complétion)
+- [ ] **Christele** : Suivre les métriques de churn et raisons d'annulation depuis avril
+- [ ] **Boris** : Envoyer les invitations Hops Cockpit aux membres d'équipe manquants (Océane, Quentin)
+- [ ] **Sabrina** : Contacter Mickael Joyeux pour éviter le churn et sécuriser le paiement
+- [ ] **Jordan** : Émettre la facture impayée de Mickael Joyeux depuis janvier
+- [ ] **Sabrina** : Confirmer ou reporter la date Immersion avant le 10 (échéance 2026-08-10)
+
+**Risques & vigilances**
+- Churn avant première session >20% indique sur-promesse commerciale ou décalage vente/livraison
+- Données de rémunération coach incorrectes dans la plateforme faussent les coûts réels de livraison
+- Complexité UX de la plateforme trop élevée pour la persona cible (Robert 57 ans plombier)
+- Processus de décision interne incohérent : Alec contredit les refus d'équipe et surcharge les contributeurs
+- Customer journey initial non respecté, emails marketing bruyants continuent post-onboarding
+- Mickael Joyeux (client ambassadeur) à risque de churn vers Era Hub avec factures impayées depuis janvier
+- 4-5 clients ont acheté billets Dubaï pour Immersion avec risque d'annulation/non-remboursement
+
+**Projets liés** : [[Immersion]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #plateforme-produit #churn-onboarding #tracking-donnees #hops-cockpit #ops-meeting
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

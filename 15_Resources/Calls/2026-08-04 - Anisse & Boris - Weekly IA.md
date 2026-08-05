@@ -2,14 +2,56 @@
 type: call
 date: 2026-08-04
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-05
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (04/08/2026 15:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 05/08/2026 15:50 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue hebdomadaire IA couvrant les priorités de développement (max 3 projets par dev), la qualité du feedback des stakeholders, et un problème critique sur la fiabilité des analyses SuperSales détecté lors de l'audit Alchemy. Validation d'un programme de coaching opérationnel de 2 mois ciblant 15-20 exécutants et d'une décentralisation de la propriété via mini-projets.
+
+**Décisions**
+- Limiter chaque développeur à maximum 3 projets en parallèle pour préserver la concentration
+- Fournir à Alchemy un accès contrôlé en lecture seule à Clap pour l'audit commercial
+- Créer un template standardisé de brief projet avec prompt Claude pour réduire l'ambiguïté des demandes
+- Produire systématiquement une vidéo Loom de présentation après chaque livraison
+- Programme de coaching opérationnel de 2 mois (août-septembre) ciblant 15-20 exécutants
+- Piloter la décentralisation de propriété via attribution de mini-projets à des non-heads
+- Créer un agent Slack pour managers afin de collecter les demandes de développement
+
+**Actions**
+- [ ] **Boris** : Configurer un rôle d'accès limité dans Clap pour Alchemy (audit commercial)
+- [ ] **Anisse** : Préparer la liste des dossiers Clap pertinents pour l'audit Alchemy
+- [ ] **Anisse** : Créer une démo Loom de Super Joe pour améliorer l'adoption par les équipes
+- [ ] **Boris** : Ajouter Alec à la liste de diffusion pour tester les messages de fin de semaine
+- [ ] **Naïma** : Implémenter le template de brief projet dans l'outil de roadmap
+- [ ] **Anisse** : Identifier 15-20 personnes pour le programme de coaching et planifier 3 sessions par personne sur 2 mois (échéance 2026-10-04)
+- [ ] **Mohamed** : Prendre ownership de deux mini-projets correspondant à ses compétences
+- [ ] **Wassim** : Continuer le développement de SDR AI
+- [ ] **Naïma** : Travailler sur Webby Pilot (outil de gestion de projet)
+- [ ] **Myriam** : Traiter les tâches en attente de feedback Raphaël et les demandes Céline/Océane
+
+**Risques & vigilances**
+- Les analyses de SuperSales semblent corrompues ou inexactes, compromettant la fiabilité des analytics commerciales
+- Feedback tardif ou superficiel de certains stakeholders (notamment Cédric) bloque les développeurs pendant plusieurs jours
+- Faible adoption de Super Joe : aucun membre ne consulte régulièrement les dashboards ou rapports hebdomadaires
+- Risque de doublons et licences gaspillées avec plusieurs outils payants utilisés de façon incohérente (Ager vs SuperSales)
+- Absence de boucle de feedback vers Sofian depuis qu'il n'est plus impliqué activement sur SuperSales
+- Qualité très variable des briefs selon les profils, créant une qualité inégale des demandes
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #ia #développement #coaching #feedback #audit-commercial #super-sales #standardisation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
