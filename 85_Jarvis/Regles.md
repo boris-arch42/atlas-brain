@@ -42,6 +42,6 @@ Envoyer un email, modifier/supprimer une donnée existante, toucher à un paieme
 | Calls Sembly → Atlas (15_Resources/Calls, 30 min) | ✅ actif | 04/08/2026 |
 | Mémoire des calls à la voix (chercher_calls / derniers_calls) | ✅ actif | 04/08/2026 |
 | Enrichissement des calls (wikilinks, synthèse, drafts décisions) | 🔜 activation en cours | 04/08/2026 |
-| Écriture cockpit étendue (créer projet, modifier projet/tâche) | 🔜 à coller dans n8n | 04/08/2026 |
+| Écriture cockpit étendue (créer projet, modifier projet/tâche) | ✅ actif | 04/08/2026 |
 | Capture Atlas à la voix | 🔜 v2 (locale) | |
 | Gmail outils agent (recherche + brouillons) | 🔜 phase 2 | |
