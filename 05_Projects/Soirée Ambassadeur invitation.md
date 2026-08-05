@@ -13,8 +13,8 @@ tags: [projet, cockpit]
 cockpit_id: cmsb25dwb0001l4042elnrdt6
 cockpit_avancement: 0
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-04T06:58
+cockpit_taches_retard: 2
+cockpit_maj: 2026-08-05T05:27
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,12 +22,13 @@ cockpit_maj: 2026-08-04T06:58
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
 
-**En cours · 🟢 Au vert · 0%** (0/2 tâches, 1 en retard ⚠️)
+**En cours · 🟢 Au vert · 0%** (0/2 tâches, 2 en retard ⚠️)
 
-**Tâches en retard (1)**
+**Tâches en retard (2)**
 - ⏰ envoyer 100 invitation supp — Sabrina Dahel, échue le 4 août
+- ⏰ obtenir la liste des prospects sales par sales des invitations envoyées — Sabrina Dahel, échue le 5 août
 
 **Dernière activité**
 - 2 août — Sabrina Dahel a créé la tâche « obtenir la liste des prospects sales par sales des invitations envoyées », confiée à Sabrina Dahel

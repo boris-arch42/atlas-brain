@@ -13,7 +13,7 @@ cockpit_id: cms4dp3re0001la04g5t916re
 cockpit_avancement: 50
 cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-08-04T06:58
+cockpit_maj: 2026-08-05T05:27
 ---
 
 # Manager Playbook — Core V1 & certification
@@ -52,7 +52,7 @@ Standardiser le management ENT via un **playbook Core V1** (routines quotidien/h
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
 
 **Cadrage · 🟢 Au vert · 50%** (1/2 tâches, 1 en retard ⚠️)
 

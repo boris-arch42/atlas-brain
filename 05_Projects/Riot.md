@@ -14,7 +14,7 @@ cockpit_id: cms5qqp580001l704i82sak12
 cockpit_avancement: 0
 cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-08-04T06:58
+cockpit_maj: 2026-08-05T05:27
 ---
 # Riot
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-08-04T06:58
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
 
 **Cadrage · 🟢 Au vert · 0%** (0/1 tâches, 1 en retard ⚠️)
 
@@ -30,9 +30,9 @@ cockpit_maj: 2026-08-04T06:58
 - ⏰ Call Jeudi 30/07 à 14h pour le lancement — Mohamed Guendouzi, échue le 30 juil.
 
 **Dernière activité**
-- 29 juil. — Mohamed Guendouzi a publié une note de suivi
-- 29 juil. — Mohamed Guendouzi a créé la tâche « Call Jeudi 30/07 à 14h pour le lancement », confiée à Mohamed Guendouzi
-- 29 juil. — Boris Arduy a créé le projet « Riot » (Cadrage), confié à Mohamed Guendouzi
+- 4 août — Boris Arduy a supprimé la tâche « Envoyer le contrat à Romain Nussmann pour collaboration »
+- 4 août — Boris Arduy a créé la tâche « Envoyer le contrat à Romain Nussmann pour collaboration » (via Jarvis)
+- 4 août — Boris Arduy a résolu le blocage « test d'intégration Jarvis » (via Jarvis)
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms5qqp580001l704i82sak12)
 %% cockpit:fin %%

@@ -14,7 +14,7 @@ cockpit_id: cms2velq20005jr040qnd3jtn
 cockpit_avancement: 33
 cockpit_blocages: 0
 cockpit_taches_retard: 2
-cockpit_maj: 2026-08-04T06:58
+cockpit_maj: 2026-08-05T05:27
 ---
 # Partenariats Papa In Shape
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-08-04T06:58
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/08/2026 08:58.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
 
 **En cours · 🟢 Au vert · 33%** (1/3 tâches, 2 en retard ⚠️)
 
