@@ -12,7 +12,7 @@ tags: [jarvis, regles, securite]
 
 ## 1. Lecture large, écriture étroite
 - **Lecture** : tout l'Atlas, l'agenda, le cockpit, (plus tard : Gmail, Slack).
-- **Écriture autorisée** : `00_Inbox/` (captures), `85_Jarvis/` (journal, mémoire, logs), `15_Resources/Calls/` (ingestion Sembly), et le cockpit via les outils journalisés (`creer_blocage`, `creer_tache`, `resoudre_blocage`).
+- **Écriture autorisée** : `00_Inbox/` (captures), `85_Jarvis/` (journal, mémoire, logs), `15_Resources/Calls/` (ingestion Sembly), et le cockpit via les outils journalisés (`creer_blocage`, `creer_tache`, `resoudre_blocage`, `creer_projet`, `modifier_projet`, `modifier_tache` — les modifications exigent une confirmation vocale préalable).
 - **Interdit** : modifier silencieusement un SOP, une décision, une carte projet hors bloc `%% cockpit %%`, ou tout fichier hors périmètre.
 
 ## 2. Confirmation vocale pour l'irréversible
@@ -42,5 +42,6 @@ Envoyer un email, modifier/supprimer une donnée existante, toucher à un paieme
 | Calls Sembly → Atlas (15_Resources/Calls, 30 min) | ✅ actif | 04/08/2026 |
 | Mémoire des calls à la voix (chercher_calls / derniers_calls) | ✅ actif | 04/08/2026 |
 | Enrichissement des calls (wikilinks, synthèse, drafts décisions) | 🔜 activation en cours | 04/08/2026 |
+| Écriture cockpit étendue (créer projet, modifier projet/tâche) | 🔜 à coller dans n8n | 04/08/2026 |
 | Capture Atlas à la voix | 🔜 v2 (locale) | |
 | Gmail outils agent (recherche + brouillons) | 🔜 phase 2 | |
