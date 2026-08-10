@@ -30,7 +30,7 @@ enrichi_le: 2026-08-05
 **Actions**
 - [ ] **Boris** : Finaliser signature contrats Closers Group (2 SDR) et Alchemy (5 SDR) (échéance 2026-08-06)
 - [ ] **Thomas Baeumlin** : Reconnexion immédiate dashboards et flux temps réel HubSpot avant départ, sous peine retenue paie (échéance 2026-08-06)
-- [ ] **Boris** : Livrer cahier des charges tracking organique par campagne/canal (échéance 2026-08-06)
+- [x] **Boris** : Livrer cahier des charges tracking organique par campagne/canal (échéance 2026-08-06)
 - [ ] **Cédric De Saint Jean** : Livrer dashboards internes fonctionnels équivalent Looker (échéance 2026-09-30)
 - [ ] **Aziz Sfaihi** : Concevoir plan de formation/onboarding SDR externes et déployer avec équipes Closers Group et Alchemy (échéance 2026-08-15)
 - [ ] **Aziz Sfaihi** : Discuter avec Alex de transition team leader vers Head of SDR externe et réaffectation closing si souhaité (échéance 2026-08-12)

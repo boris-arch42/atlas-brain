@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms2velq2
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms2velq20005jr040qnd3jtn
-cockpit_avancement: 33
+cockpit_avancement: 100
 cockpit_blocages: 0
-cockpit_taches_retard: 2
-cockpit_maj: 2026-08-05T05:27
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-07T05:19
 ---
 # Partenariats Papa In Shape
 
@@ -22,22 +22,14 @@ cockpit_maj: 2026-08-05T05:27
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
 
-**En cours · 🟢 Au vert · 33%** (1/3 tâches, 2 en retard ⚠️)
-
-**Tâches en retard (2)**
-- ⏰ Créer le iclosed tracké pour la page — Boris Arduy, échue le 31 juil.
-- ⏰ Valider la page final du partenariat — Boris Arduy, échue le 3 août
-
-**En cours / en review (2)**
-- En cours · Créer le iclosed tracké pour la page — Boris Arduy (échéance 31 juil.)
-- En cours · Valider la page final du partenariat — Boris Arduy (échéance 3 août)
+**En cours · 🟢 Au vert · 100%** (3/3 tâches)
 
 **Dernière activité**
-- 30 juil. — Boris Arduy a passé la tâche « Valider la page final du partenariat » en en cours
-- 30 juil. — Boris Arduy a passé la tâche « Créer le iclosed tracké pour la page » en en cours
-- 30 juil. — Boris Arduy a créé la tâche « Créer le iclosed tracké pour la page », confiée à Boris Arduy
+- 6 août — Boris Arduy a ajouté le lien « Landing Page » aux ressources
+- 5 août — Boris Arduy a terminé la tâche « Valider la page final du partenariat »
+- 5 août — Boris Arduy a terminé la tâche « Créer le iclosed tracké pour la page »
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms2velq20005jr040qnd3jtn)
 %% cockpit:fin %%

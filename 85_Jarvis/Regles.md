@@ -11,12 +11,12 @@ tags: [jarvis, regles, securite]
 > Les garde-fous du blueprint (§07), valables pour toutes les versions (bot Telegram v1 → daemon v2 → ambiant v3). Toute évolution de Jarvis doit rester compatible avec cette page.
 
 ## 1. Lecture large, écriture étroite
-- **Lecture** : tout l'Atlas, l'agenda, le cockpit, (plus tard : Gmail, Slack).
+- **Lecture** : tout l'Atlas, l'agenda, le cockpit, Slack (recherche via token utilisateur), (plus tard : Gmail étendu).
 - **Écriture autorisée** : `00_Inbox/` (captures), `85_Jarvis/` (journal, mémoire, logs), `15_Resources/Calls/` (ingestion Sembly), et le cockpit via les outils journalisés (`creer_blocage`, `creer_tache`, `resoudre_blocage`, `creer_projet`, `modifier_projet`, `modifier_tache` — les modifications exigent une confirmation vocale préalable).
 - **Interdit** : modifier silencieusement un SOP, une décision, une carte projet hors bloc `%% cockpit %%`, ou tout fichier hors périmètre.
 
 ## 2. Confirmation vocale pour l'irréversible
-Envoyer un email, modifier/supprimer une donnée existante, toucher à un paiement : Jarvis énonce l'action et attend un « confirme » explicite. Les brouillons et créations traçables (note, blocage, tâche) sont libres.
+Envoyer un email ou un message Slack (canal ou DM — ils partent au nom de Boris : relecture du texte exact obligatoire avant envoi), modifier/supprimer une donnée existante, toucher à un paiement : Jarvis énonce l'action et attend un « confirme » explicite. Les brouillons et créations traçables (note, blocage, tâche) sont libres.
 
 ## 3. Tout est journalisé
 - Côté cockpit : chaque écriture passe par l'Activity (« via Jarvis »).
@@ -41,7 +41,10 @@ Envoyer un email, modifier/supprimer une donnée existante, toucher à un paieme
 | Gmail (lecture dans le brief) | ✅ actif | 04/08/2026 |
 | Calls Sembly → Atlas (15_Resources/Calls, 30 min) | ✅ actif | 04/08/2026 |
 | Mémoire des calls à la voix (chercher_calls / derniers_calls) | ✅ actif | 04/08/2026 |
-| Enrichissement des calls (wikilinks, synthèse, drafts décisions) | 🔜 activation en cours | 04/08/2026 |
+| Enrichissement des calls (wikilinks, synthèse, drafts décisions) | ✅ actif | 05/08/2026 |
 | Écriture cockpit étendue (créer projet, modifier projet/tâche) | ✅ actif | 04/08/2026 |
+| Prep de RDV vocale à T-15 min (palier C) | ✅ actif | 05/08/2026 |
+| Digest hebdo vendredi 17h30 + brief v2 engagements (palier D) | ✅ actif | 05/08/2026 |
+| Slack : recherche, récaps, envoi confirmé (canal + DM) | 🔜 token à créer + coller dans n8n | 05/08/2026 |
 | Capture Atlas à la voix | 🔜 v2 (locale) | |
 | Gmail outils agent (recherche + brouillons) | 🔜 phase 2 | |

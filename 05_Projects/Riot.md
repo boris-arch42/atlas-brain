@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms5qqp58
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms5qqp580001l704i82sak12
-cockpit_avancement: 0
+cockpit_avancement: 50
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-05T05:27
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-07T05:19
 ---
 # Riot
 
@@ -22,17 +22,14 @@ cockpit_maj: 2026-08-05T05:27
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
 
-**Cadrage · 🟢 Au vert · 0%** (0/1 tâches, 1 en retard ⚠️)
-
-**Tâches en retard (1)**
-- ⏰ Call Jeudi 30/07 à 14h pour le lancement — Mohamed Guendouzi, échue le 30 juil.
+**En cours · 🟢 Au vert · 50%** (1/2 tâches)
 
 **Dernière activité**
-- 4 août — Boris Arduy a supprimé la tâche « Envoyer le contrat à Romain Nussmann pour collaboration »
-- 4 août — Boris Arduy a créé la tâche « Envoyer le contrat à Romain Nussmann pour collaboration » (via Jarvis)
-- 4 août — Boris Arduy a résolu le blocage « test d'intégration Jarvis » (via Jarvis)
+- 5 août — Mohamed Guendouzi a créé la tâche « lancer les premières campagne », confiée à Mohamed Guendouzi
+- 5 août — Mohamed Guendouzi a terminé la tâche « Call Jeudi 30/07 à 14h pour le lancement »
+- 5 août — Mohamed Guendouzi a fait passer le projet en « En cours »
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms5qqp580001l704i82sak12)
 %% cockpit:fin %%

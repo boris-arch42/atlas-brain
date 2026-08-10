@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb25dwb0001l4042elnrdt6
-cockpit_avancement: 0
+cockpit_avancement: 33
 cockpit_blocages: 0
-cockpit_taches_retard: 2
-cockpit_maj: 2026-08-05T05:27
+cockpit_taches_retard: 1
+cockpit_maj: 2026-08-07T05:19
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,18 +22,17 @@ cockpit_maj: 2026-08-05T05:27
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 05/08/2026 07:27.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
 
-**En cours · 🟢 Au vert · 0%** (0/2 tâches, 2 en retard ⚠️)
+**En cours · 🟢 Au vert · 33%** (1/3 tâches, 1 en retard ⚠️)
 
-**Tâches en retard (2)**
-- ⏰ envoyer 100 invitation supp — Sabrina Dahel, échue le 4 août
+**Tâches en retard (1)**
 - ⏰ obtenir la liste des prospects sales par sales des invitations envoyées — Sabrina Dahel, échue le 5 août
 
 **Dernière activité**
+- 6 août — Sabrina Dahel a créé la tâche « envoi de 5 invitations par coach », confiée à Sabrina Dahel
+- 6 août — Sabrina Dahel a terminé la tâche « envoyer 100 invitation supp »
 - 2 août — Sabrina Dahel a créé la tâche « obtenir la liste des prospects sales par sales des invitations envoyées », confiée à Sabrina Dahel
-- 2 août — Sabrina Dahel a créé la tâche « envoyer 100 invitation supp », confiée à Sabrina Dahel
-- 2 août — Sabrina Dahel a créé le projet « Soirée Ambassadeur invitation » (En cours), confié à Sabrina Dahel
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb0001l4042elnrdt6)
 %% cockpit:fin %%
