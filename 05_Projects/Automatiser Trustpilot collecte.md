@@ -13,8 +13,8 @@ tags: [projet, cockpit]
 cockpit_id: cmsb62ax2000dl404sphtk0lx
 cockpit_avancement: 50
 cockpit_blocages: 0
-cockpit_taches_retard: 0
-cockpit_maj: 2026-08-07T05:19
+cockpit_taches_retard: 2
+cockpit_maj: 2026-08-14T05:27
 ---
 # Automatiser Trustpilot collecte
 
@@ -23,9 +23,13 @@ Objectif 1000 avis au 31/12
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/08/2026 07:27.
 
-**À risque · 🟢 Au vert · 50%** (2/4 tâches)
+**À risque · 🟢 Au vert · 50%** (2/4 tâches, 2 en retard ⚠️)
+
+**Tâches en retard (2)**
+- ⏰ Créer Template mail — Océane De Queiros, échue le 11 août
+- ⏰ Envoyer mail à première liste des 52 — Boris Arduy, échue le 13 août
 
 **Dernière activité**
 - 6 août — Sabrina Dahel a créé la tâche « Envoyer mail à première liste des 52 », confiée à Boris Arduy

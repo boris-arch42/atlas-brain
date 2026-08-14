@@ -10,10 +10,10 @@ revue: 2026-07-13
 execution: "Work (source unique) + Slack async · zéro nouvelle licence (transcriptions internes, Tella, Slack, Keeper)"
 tags: [project, ent, playbook, management, certification, work]
 cockpit_id: cms4dp3re0001la04g5t916re
-cockpit_avancement: 50
+cockpit_avancement: 100
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-07T05:19
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-14T05:27
 ---
 
 # Manager Playbook — Core V1 & certification
@@ -52,17 +52,14 @@ Standardiser le management ENT via un **playbook Core V1** (routines quotidien/h
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/08/2026 07:27.
 
-**Cadrage · 🟢 Au vert · 50%** (1/2 tâches, 1 en retard ⚠️)
-
-**Tâches en retard (1)**
-- ⏰ Valider la proposition de Sophia — Boris Arduy, échue le 3 août
+**Cadrage · 🟢 Au vert · 100%** (2/2 tâches)
 
 **Dernière activité**
-- 30 juil. — Boris Arduy a publié une note de suivi
-- 30 juil. — Boris Arduy a créé la tâche « Valider la proposition de Sophia », confiée à Boris Arduy
-- 30 juil. — Boris Arduy a terminé la tâche « Formaliser une propal pour prendre le projet en main (Sophia) »
+- 11 août — Boris Arduy a terminé la tâche « Valider la proposition de Sophia »
+- 11 août — Boris Arduy a ajouté le fichier « Cahier des charges initial » aux ressources
+- 11 août — Boris Arduy a ajouté le lien « Travail préparatoire Alec » aux ressources
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms4dp3re0001la04g5t916re)
 %% cockpit:fin %%

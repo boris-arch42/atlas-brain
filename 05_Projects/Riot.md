@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms5qqp58
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms5qqp580001l704i82sak12
-cockpit_avancement: 50
+cockpit_avancement: 67
 cockpit_blocages: 0
 cockpit_taches_retard: 0
-cockpit_maj: 2026-08-07T05:19
+cockpit_maj: 2026-08-14T05:27
 ---
 # Riot
 
@@ -22,14 +22,17 @@ cockpit_maj: 2026-08-07T05:19
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/08/2026 07:19.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/08/2026 07:27.
 
-**En cours · 🟢 Au vert · 50%** (1/2 tâches)
+**En cours · 🟢 Au vert · 67%** (2/3 tâches)
+
+**En cours / en review (1)**
+- En cours · Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 — Mohamed Guendouzi (échéance 17 août)
 
 **Dernière activité**
-- 5 août — Mohamed Guendouzi a créé la tâche « lancer les premières campagne », confiée à Mohamed Guendouzi
-- 5 août — Mohamed Guendouzi a terminé la tâche « Call Jeudi 30/07 à 14h pour le lancement »
-- 5 août — Mohamed Guendouzi a fait passer le projet en « En cours »
+- 13 août — Mohamed Guendouzi a publié une note de suivi
+- 13 août — Mohamed Guendouzi a passé la tâche « Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 » en en cours
+- 13 août — Mohamed Guendouzi a créé la tâche « Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 », confiée à Mohamed Guendouzi
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms5qqp580001l704i82sak12)
 %% cockpit:fin %%
