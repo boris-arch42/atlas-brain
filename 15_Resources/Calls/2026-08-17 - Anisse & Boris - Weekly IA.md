@@ -2,14 +2,56 @@
 type: call
 date: 2026-08-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-17
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/08/2026 11:26).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 17/08/2026 11:54 — corrige librement hors des marqueurs.
+
+**Résumé** — Weekly IA sur deux axes : conception d'un masterclass de management pour le core team avec livrables tangibles, et amélioration de la diffusion d'information via lettres Ops/Vision sur Worx/Wiki. Points de vigilance sur les retards liés aux utilisateurs finaux et la faible adoption post-déploiement.
+
+**Décisions**
+- Anisse prend la responsabilité du masterclass de management, Boris co-responsable du pilotage
+- Format masterclass flexible 2-4h avec workbooks papier, processus numériques et modules vidéo réutilisables
+- Boris publiera une lettre Ops hebdomadaire et Alec une lettre Vision mensuelle sur Worx sous forme de tuiles wiki type Notion
+- Invitation massive des coachs et équipe sales sur Worx/Wiki avec contrôles d'accès adaptés
+- Nouveau processus obligatoire : relance à 24h puis appel de clarification à 48h avec questions structurées pour éviter les blocages
+- Centralisation du suivi projet sur HopScope/Hops avec roadmap unifié
+- Spécification finale et complète du cockpit à livrer mi-septembre sans modification ultérieure
+
+**Actions**
+- [ ] **Anisse** : Créer le dossier wiki dédié et la tuile pour les lettres Ops/Vision
+- [ ] **Boris** : Fournir le contenu de la première lettre Ops hebdomadaire
+- [ ] **Boris** : Confirmer les exigences du masterclass avec Alec
+- [ ] **Anisse** : Coordonner la préparation des workbooks et supports du masterclass
+- [ ] **Boris** : Partager les liens d'invitation et listes email pour onboarding Worx (sales et coachs)
+- [ ] **Anisse** : Ajouter les utilisateurs sales et coachs sur Worx avec accès appropriés
+- [ ] **Boris** : Confirmer si Quentin doit conserver l'accès au wiki Ops
+- [ ] **Anisse** : Retirer Quentin de l'accès Ops si confirmé par Boris
+- [ ] **Anisse** : Contrôler les exceptions d'accès administrateur
+- [ ] **Boris** : Livrer spécification finale et complète du cockpit (échéance 2026-09-15)
+- [ ] **Boris** : Envoyer la transcription de la réunion à Anisse
+
+**Risques & vigilances**
+- Retards de livraison récurrents dus à la lenteur ou incomplétude des réponses des utilisateurs finaux (ex: leaderboard Sabrina bloqué 10 jours)
+- Faible adoption et chute d'usage post-déploiement de fonctionnalités à fort effort (Super Joe, dashboards VOSS) questionnant le ROI
+- Manque de discipline et de retours structurés des équipes Marketing et Sales créant un décalage entre effort dev et suivi réel
+- Difficultés de focus, constance et proactivité collaborative de certains membres (Raphaël, Cédric) nécessitant processus imposés
+- Sous-estimation des délais et dépendances techniques (ex: BookFunnels) par manque d'anticipation des intégrations transverses
+
+**Projets liés** : [[Manager Playbook — Core V1 & certification]]
+
+Tags : #masterclass-management #worx-wiki #adoption-produit #process-clarification #cockpit-pilotage
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
