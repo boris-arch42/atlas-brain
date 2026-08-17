@@ -2,14 +2,64 @@
 type: call
 date: 2026-08-17
 source: sembly
-participants: ["adil.ziane@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "hubert@papel.media", "stivel@consulting-sd.com"]
+participants: ["[[Adil]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Hubert Smolen]]", "stivel@consulting-sd.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-17
 ---
 
 # Kick-off Mediabuy - SDS
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/08/2026 10:26).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 17/08/2026 10:53 — corrige librement hors des marqueurs.
+
+**Résumé** — Kick-off opérationnel pour le lancement de la campagne média "Scalingue" avec un budget de 300k€ et un objectif CPL de 25€. L'équipe vise un lancement dès le 20 août malgré des éléments encore en cours de finalisation (vidéos, tracking, intégrations WAP/Customer.io).
+
+**Décisions**
+- Lancement des campagnes dès le 20 août même si certains créatifs et l'upsell ne sont pas finalisés
+- Structure du tunnel : opt-in → upsell → VIP avec une seule page d'ordre pour limiter la friction
+- Deux pages de remerciement distinctes : une standard et une pour le retargeting
+- Utilisation du pixel et événements de confirmation pour construire les audiences VIP plutôt que uniquement la liste emails
+- Thomas intervient comme consultant pour structurer la passation et le cadre de travail de l'équipe Boris
+- Duplication du produit à 17€ dans WAP pour router vers les bonnes pages de remerciement
+
+**Actions**
+- [ ] **Cédric** : Partager le lien Whimsicle et les fichiers de référence de la page d'upsell de jeudi dans Slack (échéance 2026-08-17)
+- [ ] **Cédric** : Remplir l'onglet Ads dupliqué dans Uber Sheet avec les premières annonces (échéance 2026-08-18)
+- [ ] **Cédric** : Fournir les accès aux comptes d'hébergement vidéo (Vimeo/Vidalytics) (échéance 2026-08-18)
+- [ ] **Cédric** : Partager la vidéo brute d'Alec pour l'upsell (échéance 2026-08-17)
+- [ ] **Cédric** : Prévenir dans Slack quand les premiers liens sont chargés dans Google Sheets (échéance 2026-08-18)
+- [ ] **Adil** : Assurer l'intégration Customer.io pour pousser les données acheteurs et activer les scénarios d'onboarding (échéance 2026-08-19)
+- [ ] **Adil** : Dupliquer le produit à 17€ en deux produits WAP pointant vers les pages de remerciement standard et retargeting (échéance 2026-08-18)
+- [ ] **Adil** : Session de partage d'écran avec Hubert pour générer le code d'intégration formulaire WAP (échéance 2026-08-18)
+- [ ] **Adil** : Réaliser les tests finaux des intégrations et flux de commande (échéance 2026-08-17)
+- [ ] **Adil** : Coordonner avec Cédric le flux de communication WhatsApp VIP pour éviter confusion dans le parcours post-achat (échéance 2026-08-19)
+- [ ] **Adil** : Relancer Boris sur la correction du problème Looker (méthode Bootstrap) (échéance 2026-08-18)
+- [ ] **Hubert** : Mettre en place le mécanisme de préremplissage email sur la page de paiement WAP (échéance 2026-08-19)
+- [ ] **Hubert** : Reconstruire le formulaire de commande avec style mode sombre (échéance 2026-08-17)
+- [ ] **Hubert** : Valider avec Boris la configuration du pipeline de données et Looker avant le lancement (échéance 2026-08-19)
+- [ ] **Hubert** : Décider et implémenter la redirection post-Tali (page intermédiaire vs WhatsApp direct) (échéance 2026-08-19)
+- [ ] **Hubert** : Confirmer la faisabilité des CTA vidéo pointant vers ancre de page (échéance 2026-08-18)
+- [ ] **Hubert** : Router les utilisateurs vers la bonne page de remerciement selon URL/contexte (échéance 2026-08-19)
+- [ ] **Boris** : Corriger le problème Looker pour que les métriques marketing remontent correctement (échéance 2026-08-20)
+- [ ] **Boris** : Faire intervenir Thomas comme consultant pour cadrer le travail de l'équipe (échéance 2026-08-19)
+- [ ] **Thomas** : Intervenir comme consultant pour structurer la passation et le cadre de travail (échéance 2026-08-19)
+
+**Risques & vigilances**
+- Le tracking serveur et la capture complète des événements de conversion ne seront peut-être pas opérationnels au lancement
+- Les métriques marketing ne remontent pas dans Looker à cause d'un problème de méthode Bootstrap non mis à jour
+- Risque de confusion dans le parcours utilisateur si le timing des messages WhatsApp VIP n'est pas bien calibré
+- Volume très élevé de micro-campagnes (200+ annonces) nécessite une structuration rigoureuse pour éviter les erreurs
+- La conservation des paramètres URL (prénom, email) à travers le tunnel WAP reste incertaine
+- Délai serré pour finaliser vidéos, pages d'upsell et intégrations avant le lancement du 20 août
+- Dépendance à la disponibilité de la vidéo d'Alec (attendue mercredi) pour finaliser la page d'upsell
+
+Tags : #mediabuy #campagne-scalingue #tracking #upsell-vip #wap #customer-io
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
