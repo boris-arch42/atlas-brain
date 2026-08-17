@@ -2,14 +2,58 @@
 type: call
 date: 2026-08-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-17
 ---
 
 # Weekly | Fabrice x Boris x Alec | Entrepreneurs.com
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/08/2026 10:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 17/08/2026 11:23 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire couvrant les recrutements RH et commerciaux (Office Manager, Head of Sales, SDR), l'audit des outils data/CRM et la préparation d'une offre partenariat à 180 k€. Décisions prises : recruter un Office/Culture Manager unique, reporter l'assistant commercial, accélérer le pipeline Head of Sales à 150-200 candidats et lancer un audit outils pour clarifier les KPI.
+
+**Décisions**
+- Recruter un(e) Office/Culture Manager unique combinant bureau, culture et support RH/admin au lieu de deux postes séparés
+- Reporter le recrutement de l'assistant commercial jusqu'à l'arrivée du Head of Sales
+- Accélérer le pipeline Head of Sales à 180-200 candidats via sourcing et relances massives
+- Lancer un mini-audit des outils et KPI pour consolider vers 3 plateformes maximum
+- Formaliser le rôle SDR et les nouveaux contrats avant le 01/10
+- Organiser une formation core team de 4h à Marrakech fin septembre avec production de supports documentés
+- Valider l'offre partenariat à 180 k€ après ajustements du pitch et consultation d'Abdel sur le volet communauté
+
+**Actions**
+- [ ] **Fabrice** : Organiser entretiens Office Manager le 25 août avec créneaux à 8h et deux sessions de 30 min (échéance 2026-08-25)
+- [ ] **Boris** : Envoyer des invitations d'entretien en masse pour convertir rapidement les candidats Head of Sales (échéance 2026-08-22)
+- [ ] **Aziz** : Envoyer exercices à Max pour transmission à Fabrice puis Amir
+- [ ] **Fabrice** : Réaliser mini-audit des outils et indicateurs clés (Aircall, Hotspot, Clap, Looker, Zoho, etc.)
+- [ ] **Jordan** : Redéfinir les termes contractuels du lead SDR pour effet au 1er octobre (échéance 2026-09-15)
+- [ ] **Alec** : Préparer la session de formation core team de 4h à Marrakech avec supports imprimés et documentation (échéance 2026-10-01)
+- [ ] **Boris** : Partager le lien HopsCockpit et transférer l'historique complet des projets partenariats
+- [ ] **Fabrice** : Partager sur Slack CA par personne 3/6 mois, montants signés/collectés, taux closing, dates embauche, progressions et rémunérations (échéance 2026-08-20)
+- [ ] **Fabrice** : Intégrer les 3 modifications du pitch partenariat pour la réunion de demain 16h (échéance 2026-08-18)
+- [ ] **Alec** : Consulter Abdel sous 48h pour pitcher et définir l'intégration communauté du package founder (échéance 2026-08-19)
+- [ ] **Alec** : Booker 4 créneaux supplémentaires entretiens Head of Sales et faire suivi sur les 2 candidats de Lucas
+
+**Risques & vigilances**
+- Lola candidate Office Manager en vacances jusqu'à fin août et non réactive aux relances WhatsApp
+- Faible adoption des dashboards et outils développés (Aeros 20 k€, VOS, Pointworks) malgré les investissements
+- Métriques SDR historiques probablement gonflées, volumes réels d'appels plus bas qu'annoncé
+- Manque de source de vérité unique sur les données, dashboards séparés et gouvernance absente
+- Timing serré pour finaliser Head of Sales avant lancement Masterclass Management qui pourrait devenir obsolète
+- Absence d'inventaire clair des actifs externes et liquidités pour comptabilité correcte
+- Valorisation package communauté à 30 k€ sans benchmark clair ni visibilité sur activation réelle du sponsor
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]] · [[Partenariats Papa In Shape]] · [[Partenariat Odoo]]
+
+Tags : #recrutement #head-of-sales #audit-outils #kpi-data #partenariat
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
