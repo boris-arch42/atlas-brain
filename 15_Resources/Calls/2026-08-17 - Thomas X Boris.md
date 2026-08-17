@@ -2,14 +2,43 @@
 type: call
 date: 2026-08-17
 source: sembly
-participants: ["thomas.baeumlin.pro@gmail.com", "boris@entrepreneurs.com"]
+participants: ["[[Thomas Baeumlin]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-17
 ---
 
 # Thomas X Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/08/2026 21:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 17/08/2026 22:02 — corrige librement hors des marqueurs.
+
+**Résumé** — Mise en place d'une mission d'assistance asynchrone sur Looker avec Thomas (forfait 10h/mois, ~800-900€) pour support technique sur les flux de données. Priorité immédiate : investigation problème Notemap lié au lancement Bourbon.
+
+**Décisions**
+- Forfait mensuel de 10 heures d'assistance Looker avec Thomas (800-900€/mois, heures flexibles d'un mois à l'autre)
+- Communication asynchrone via WhatsApp, réponses textuelles et vidéos Loom si nécessaire
+- Pas d'appels hebdomadaires systématiques, réunions uniquement si nécessaire avec Amman
+
+**Actions**
+- [ ] **Boris** : Créer le groupe WhatsApp avec Thomas et Amman pour centraliser les questions (échéance 2026-08-18)
+- [ ] **Boris** : Vérifier l'activation des accès Gmail et identifiants GCP existants de Thomas, réactiver si nécessaire (échéance 2026-08-18)
+- [ ] **Boris** : Rédiger un contrat court formalisant la collaboration et la protection des données (échéance 2026-08-20)
+- [ ] **Thomas Baeumlin** : Envoyer via WhatsApp la liste des accès déjà possédés et ceux manquants pour Looker et GCP (échéance 2026-08-18)
+- [ ] **Thomas Baeumlin** : Investiguer le problème Notemap lié aux données du lancement Bourbon (échéance 2026-08-18)
+- [ ] **Thomas Baeumlin** : Confirmer le tarif exact du forfait mensuel (échéance 2026-08-19)
+
+**Risques & vigilances**
+- Accès Looker et GCP potentiellement désactivés, à vérifier rapidement pour débloquer le support
+- Problème Notemap urgent lié au lancement Bourbon nécessite une investigation immédiate
+- Clarification nécessaire sur l'entité de facturation et les responsabilités en matière de protection des données
+
+Tags : #looker #support-technique #data #forfait-mensuel #notemap
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

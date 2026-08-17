@@ -2,14 +2,67 @@
 type: call
 date: 2026-08-17
 source: sembly
-participants: ["aziz.sfaihi@entrepreneurs.com", "42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "abderrahim@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Aziz Sfaihi]]", "42lab@entrepreneurs.com", "[[Alec Henry]]", "[[Océane De Queiros]]", "abderrahim@entrepreneurs.com", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-17
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/08/2026 21:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 17/08/2026 22:02 — corrige librement hors des marqueurs.
+
+**Résumé** — Core meeting couvrant la transition commerciale (départ d'Aziz fin septembre), la livraison de la plateforme SDR-AI interne, la performance commerciale et plusieurs urgences opérationnelles (Trustpilot, support, immersions septembre). Focus sur le recrutement commercial et SDR, l'optimisation des offres et la préparation de l'événement ambassadeurs.
+
+**Décisions**
+- Aziz quitte son rôle de Directeur Sales le 30 septembre 2026
+- Les team leaders prennent désormais la majorité des appels Board, positionnés sur clients scaling 2-2,5M€ CA
+- Suppression du support physique (classeur) pour la soirée ambassadeurs afin de garder le focus commercial
+- Relance du funnel VSL avec retargeting complet de tous les leads
+- Déploiement de la plateforme SDR-AI sur Evergreen en test avant scale
+- Bootcamp commercial en présentiel à Casablanca du 29 au 31
+- Prime de cooptation de 2000€ pour recrutement Head of Sales (après 3 mois)
+
+**Actions**
+- [ ] **Boris** : Message Slack à Alec cette semaine pour définir plan de nettoyage inbox marketing (110k messages) et catégories de tri IA/humain (échéance 2026-08-22)
+- [ ] **Boris** : Présenter le process de recrutement commercial et pipeline de 200 candidats Head of Sales
+- [ ] **Boris** : Investiguer l'état du tracking conversions après premiers appels et se coordonner avec Raphaël (échéance 2026-08-24)
+- [ ] **Boris** : Lancer première séquence automatisation Trustpilot (~50 évaluateurs positifs) avec Sabrina et Engineering (échéance 2026-08-19)
+- [ ] **Aziz** : Alignment urgent avec Sabrina sur nombre de places immersion-scaling vendables, prix et profils cibles (objectif 10-12 participants) (échéance 2026-08-18)
+- [ ] **Aziz** : Transmettre chiffres clarifiés allocations de funnel après problème électrique (échéance 2026-08-20)
+- [ ] **Aziz** : Rencontrer Océane pour partager listes participants soirée ambassadeurs et coordonner répartition vers équipes sales (échéance 2026-08-24)
+- [ ] **Anisse** : Lancer tests SDR-AI sur Evergreen, itérer sur métriques et documenter faisabilité déploiements Go Live fort volume
+- [ ] **Abderrahim** : Message Slack à Anisse pour adapter prompt SDR-AI à ses besoins sans WhatsApp (échéance 2026-08-20)
+- [ ] **Sabrina** : Fournir dates finales, heure, hôtel et lieu de l'immersion-scaling à Alec (échéance 2026-08-19)
+- [ ] **Océane** : Envoyer invitation équipes pour installation soirée ambassadeurs 17h30-18h00 et briefing 18h00-18h30 sur site (échéance 2026-08-23)
+- [ ] **Océane** : Partager liens d'inscription soirée ambassadeurs avec équipes concernées (échéance 2026-08-20)
+- [ ] **Cédric** : Lancer publicités semaine scaling demain (2000+ annonces) (échéance 2026-08-18)
+- [ ] **Cédric** : Préparer Looms de présentation et landing pages événement pour pitch équipe (échéance 2026-08-20)
+- [ ] **Quentin** : Corriger module Ambassador pour invitation via lien sans saisie manuelle avec Léonard (42 Lab) (échéance 2026-08-18)
+- [ ] **Fabrice** : Identifier dans pipeline Head of Sales des profils adaptés comme sales representatives
+- [ ] **Alec** : Gérer cas concret d'upsell immersion-scaling
+- [ ] **Alec** : Contacter clients ciblés (Tapie et Kelly) une fois dates immersion-scaling confirmées
+
+**Risques & vigilances**
+- Pipeline Builder brûlé à cause mauvaise délivrance initiale (partenaire Alchemy), difficile à récupérer
+- Inbox marketing saturé (110k messages) avec risque d'image sur désinscriptions non gérées
+- Offre Accelerator sous-performe, suppression risquerait de créer vide tarifaire et baisse panier moyen
+- Modèle commercial actuel fragile pour nouveaux vendeurs (résultats mitigés premiers mois), risque rétention
+- Recrutement SDR difficile (candidats faible qualité ou reconversion), objectif 5 SDR avant septembre tendu
+- Tracking conversions après premiers appels possiblement défaillant, fiabilité données en question
+- Contraintes anti-spam WhatsApp et Meta limitent déploiements SDR-AI à fort volume
+- Lieu board Immersion changé (réquisition gouvernementale), 9 participants confirmés sans nouveau lieu clair
+- Capacité delivery fragilisée par pause de Claire, couverture temporaire avec Christelle à sécuriser
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]] · [[Automatiser Trustpilot collecte]] · [[Soirée Ambassadeur invitation]] · [[Transition top management]]
+
+Tags : #transition-commerciale #recrutement #sdr-ai #performance-sales #immersion-scaling #evenement-ambassadeurs
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
