@@ -2,14 +2,63 @@
 type: call
 date: 2026-08-19
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "aziz.sfaihi@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "fabrice@entrepreneurs.com", "oceane@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Aziz Sfaihi]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Fabrice Jaeger]]", "[[Océane De Queiros]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-08-20
 ---
 
 # CRO Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (20/08/2026 10:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/08/2026 17:41 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue critique de la stack commerciale révélant des doublons d'outils, des lacunes majeures de tracking (UTM, mapping Make/Hotspot/Looker) et une data peu fiable empêchant pilotage et attribution. Décision de nettoyer les licences, consolider les outils et restaurer un reporting fiable par produit/funnel, avec un accent sur l'amélioration de la conversion via plus de proximité terrain et d'alignement marketing-sales.
+
+**Décisions**
+- Résiliation immédiate d'Eager par Aziz
+- Audit complet des licences (HubSpot, Zoho, Supercell, Superjoe, OneFlow, Clap) pour décider conservation/arrêt
+- HubSpot reste le CRM de référence pour les équipes sales
+- Création d'une réunion hebdomadaire marketing-sales avec les team leads animée par Raphaël
+- Segmentation systématique des KPI par produit (Bourbon/Atelier/Scaling) pour éviter les moyennes trompeuses
+- Priorisation de l'événement septembre comme principal levier de revenu court terme
+- Immersions trimestrielles des team leads à Dubaï et bootcamp Marrakech début octobre pour accélérer montée en compétence
+
+**Actions**
+- [ ] **Aziz** : Lancer la résiliation d'Eager immédiatement (échéance 2026-08-20)
+- [ ] **Aziz** : Ouvrir audit complet des licences (Supercell, Superjoe, Zoho, HubSpot, OneFlow, Clap) (échéance 2026-08-26)
+- [ ] **Boris** : Corriger le mapping Make/Hotspot/Looker et mettre à jour Evergreens dans Make (échéance 2026-08-22)
+- [ ] **Boris** : Nettoyer licences HubSpot et Zoho inutilisées (échéance 2026-08-29)
+- [ ] **Boris** : Implémenter filtrage UTM dans HubSpot et créer tutoriel pour commerciaux (échéance 2026-08-29)
+- [ ] **Boris** : Organiser réunion décision outils avec Aziz, Fabrice et team leads (Martin, Walid, Julien) (échéance 2026-08-26)
+- [ ] **Fabrice** : Coordonner atelier cahier des charges outils commerciaux avec Boris, Aziz et commerciaux sélectionnés (échéance 2026-08-26)
+- [ ] **Fabrice** : Suivre avec Boris les remplacements techniques liés à Clap et intégrations d'enregistrement (échéance 2026-09-02)
+- [ ] **Cédric** : Continuer coordination besoins data marketing avec Ops et fournir détail ventilation leads Evergreen (échéance 2026-08-26)
+- [ ] **Alec** : Prendre responsabilité paramétrage deals et lancement onboarding des 3 coaches SDR (Clara + 2 autres) (échéance 2026-08-22)
+- [ ] **Océane** : Vérifier listes invitations team leads pour bootcamp Marrakech début octobre (échéance 2026-08-26)
+- [ ] **Raphaël** : Mettre en place réunion hebdomadaire marketing-sales avec team leads (échéance 2026-08-26)
+- [ ] **Fabrice** : Relancer Delos sur Media Kit et cibler 2-3 partenaires supplémentaires (Shine, Omar, Wop) (échéance 2026-08-29)
+
+**Risques & vigilances**
+- Data commerciale et attribution source peu fiables (écarts SDR Hub/Looker/HubSpot) empêchent pilotage et décisions éclairées
+- Dépendance forte à Bourbon (86% CA août) avec vulnérabilité si ce produit baisse
+- Septembre critique pour revenu avec ROAS estimé à 4 et risque de perte sur coûts fixes si pas d'amélioration
+- Turnover et perte mémoire institutionnelle ont cassé automations et mappings historiques
+- Leads Evergreen jugés moins qualifiés que Challenge avec impact sur conversion
+- Revenus moyens par closer insuffisants (beaucoup autour 50k€/mois) créent risque rétention et attractivité talents
+- Modèle remote atteint plafond de performance, nécessite plus de présentiel pour accélérer montée compétences
+- Complexité croissante du marché et ICP plus exigeant anticipent dégradation facilité vente sur 6-16 mois
+- Blocage onboarding coaches SDR depuis 2,5 semaines retarde capacité qualification
+- Charges récurrentes évitables (Supercell 1000$, Calendly 720$) sans décision rapide
+
+**Projets liés** : [[Audit SaaS-IT — économies]] · [[Pôle Tech & Ops interne — structuration]] · [[Kelly Launch — infra commerciale & Sales Bis]]
+
+Tags : #stack-commerciale #tracking-utm #data-quality #conversion-sales #alignement-marketing-sales
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
