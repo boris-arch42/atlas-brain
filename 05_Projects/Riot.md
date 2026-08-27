@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cms5qqp58
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cms5qqp580001l704i82sak12
-cockpit_avancement: 67
+cockpit_avancement: 75
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-17T05:29
+cockpit_taches_retard: 0
+cockpit_maj: 2026-08-27T05:22
 ---
 # Riot
 
@@ -22,20 +22,14 @@ cockpit_maj: 2026-08-17T05:29
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 17/08/2026 07:29.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 27/08/2026 07:22.
 
-**En cours · 🟢 Au vert · 67%** (2/3 tâches, 1 en retard ⚠️)
-
-**Tâches en retard (1)**
-- ⏰ Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 — Mohamed Guendouzi, échue le 17 août
-
-**En cours / en review (1)**
-- En cours · Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 — Mohamed Guendouzi (échéance 17 août)
+**En validation · 🟢 Au vert · 75%** (3/4 tâches)
 
 **Dernière activité**
-- 13 août — Mohamed Guendouzi a publié une note de suivi
-- 13 août — Mohamed Guendouzi a passé la tâche « Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 » en en cours
-- 13 août — Mohamed Guendouzi a créé la tâche « Prochain call avec Riot pour l'outil Sora de DLP le 17 Aout de 17h a 17h45 », confiée à Mohamed Guendouzi
+- 25 août — Boris Arduy a créé la tâche « Créer une documentation de l'outil dans la plateforme Works », confiée à Mohamed Guendouzi
+- 25 août — Boris Arduy a fait passer le projet en « En validation »
+- 25 août — Boris Arduy a fait passer le projet en « Terminé »
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms5qqp580001l704i82sak12)
 %% cockpit:fin %%

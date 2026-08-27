@@ -13,7 +13,7 @@ cockpit_id: cms4dp3re0001la04g5t916re
 cockpit_avancement: 100
 cockpit_blocages: 0
 cockpit_taches_retard: 0
-cockpit_maj: 2026-08-17T05:29
+cockpit_maj: 2026-08-27T05:22
 ---
 
 # Manager Playbook — Core V1 & certification
@@ -52,14 +52,14 @@ Standardiser le management ENT via un **playbook Core V1** (routines quotidien/h
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 17/08/2026 07:29.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 27/08/2026 07:22.
 
 **Cadrage · 🟢 Au vert · 100%** (2/2 tâches)
 
 **Dernière activité**
+- 25 août — Boris Arduy a ajouté le lien « Note stratégique » aux ressources
 - 11 août — Boris Arduy a terminé la tâche « Valider la proposition de Sophia »
 - 11 août — Boris Arduy a ajouté le fichier « Cahier des charges initial » aux ressources
-- 11 août — Boris Arduy a ajouté le lien « Travail préparatoire Alec » aux ressources
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms4dp3re0001la04g5t916re)
 %% cockpit:fin %%

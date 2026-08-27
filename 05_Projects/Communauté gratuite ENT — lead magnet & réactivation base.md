@@ -2,13 +2,18 @@
 type: project
 domaine: ENT
 statut: actif
-sante: 🟠
+sante: 🟢
 owner: "[[Abdel El Mahi]] (strat) · [[Boris Arduy]] (tech/ops/data)"
 prochaine: "Valider le doc ressources V3 d'Abdel avec Quentin + contacter les 200 testeurs pilote sous 5 jours"
 echeance: 2026-08-17
 revue: 2026-07-13
 execution: "Plateforme ENT existante (Quentin) + iClosed (entrée CRM) + pont HubSpot"
 tags: [project, ent, communaute, lead-magnet, crm, iclosed, hubspot]
+cockpit_id: cmt8of1s70001js04ziln2fj3
+cockpit_avancement: 0
+cockpit_blocages: 0
+cockpit_taches_retard: 1
+cockpit_maj: 2026-08-27T05:22
 ---
 
 # Communauté gratuite ENT — lead magnet & réactivation base
@@ -46,3 +51,23 @@ Communauté **francophone gratuite dans l'app ENT** servant de **lead magnet** e
 - [[2026-07-09 - Communauté gratuite - Cadrage & MVP (Alec x Boris x Abdel x équipe)]]
 - [[2026-07-10 - Point hebdo 1-1 (Boris x Alec)]] (migration iClosed)
 - [[🗼 Tour de contrôle - Projets en cours]]
+
+%% cockpit:debut %%
+## 🎛️ Cockpit — live
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 27/08/2026 07:22.
+
+**En cours · 🟢 Au vert · 0%** (0/1 tâches, 1 en retard ⚠️)
+
+**Tâches en retard (1)**
+- ⏰ Créer les liens Iclosed a utiliser uniquement pour la commu gratuite — Boris Arduy, échue le 26 août
+
+**En cours / en review (1)**
+- En cours · Créer les liens Iclosed a utiliser uniquement pour la commu gratuite — Boris Arduy (échéance 26 août)
+
+**Dernière activité**
+- 25 août — Abderrahim El Mahi a passé la tâche « Créer les liens Iclosed a utiliser uniquement pour la commu gratuite » en en cours
+- 25 août — Abderrahim El Mahi a créé la tâche « Créer les liens Iclosed a utiliser uniquement pour la commu gratuite », confiée à Boris Arduy
+- 25 août — Abderrahim El Mahi a ajouté Boris Arduy à l'équipe
+
+[Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cmt8of1s70001js04ziln2fj3)
+%% cockpit:fin %%
