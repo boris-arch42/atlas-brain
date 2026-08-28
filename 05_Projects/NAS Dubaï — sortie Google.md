@@ -11,10 +11,10 @@ execution: "Call samedi 13 juin — setup physique chez Alec à Dubaï"
 sensitivity: confidential
 tags: [projet, ent, nas, infra, dataops]
 cockpit_id: cms3deswn0005l304apnfun90
-cockpit_avancement: 75
+cockpit_avancement: 60
 cockpit_blocages: 0
-cockpit_taches_retard: 0
-cockpit_maj: 2026-08-27T05:22
+cockpit_taches_retard: 1
+cockpit_maj: 2026-08-28T05:17
 ---
 
 # NAS Dubaï — sortie Google
@@ -28,14 +28,20 @@ cockpit_maj: 2026-08-27T05:22
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 27/08/2026 07:22.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 28/08/2026 07:17.
 
-**En cours · 🟢 Au vert · 75%** (3/4 tâches)
+**En cours · 🟢 Au vert · 60%** (3/5 tâches, 1 en retard ⚠️)
+
+**Tâches en retard (1)**
+- ⏰ Attente des datas de la partie com à transférer — Mohamed Guendouzi, échue le 28 août
+
+**En cours / en review (1)**
+- En cours · Envoi de message personnel à toute les personne avec un drive au dessus de 5Go — Mohamed Guendouzi (échéance 31 août)
 
 **Dernière activité**
+- 27 août — Mohamed Guendouzi a passé la tâche « Envoi de message personnel à toute les personne avec un drive au dessus de 5Go » en en cours
+- 27 août — Mohamed Guendouzi a créé la tâche « Envoi de message personnel à toute les personne avec un drive au dessus de 5Go », confiée à Mohamed Guendouzi
 - 25 août — Boris Arduy a créé la tâche « Attente des datas de la partie com à transférer », confiée à Mohamed Guendouzi
-- 21 août — Mohamed Guendouzi a résolu le blocage « Besoin d'un retour des équipes avec un document pour savoir quoi faire »
-- 21 août — Mohamed Guendouzi a signalé le blocage « Besoin d'un retour des équipes avec un document pour savoir quoi faire » (P0 · Critique)
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cms3deswn0005l304apnfun90)
 %% cockpit:fin %%
