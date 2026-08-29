@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb6gv6b
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb6gv6b0001l104zaw92w6g
-cockpit_avancement: 60
+cockpit_avancement: 44
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-28T05:17
+cockpit_taches_retard: 2
+cockpit_maj: 2026-08-29T05:24
 ---
 # Immersion
 
@@ -22,21 +22,22 @@ cockpit_maj: 2026-08-28T05:17
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 28/08/2026 07:17.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 29/08/2026 07:24.
 
-**À risque · 🟠 Sous surveillance · 60%** (3/5 tâches, 1 en retard ⚠️)
+**À risque · 🟠 Sous surveillance · 44%** (4/9 tâches, 2 en retard ⚠️)
 
-**Tâches en retard (1)**
+**Tâches en retard (2)**
+- ⏰ Envoyer Guide utile pour clients dans communauté et programme — Sabrina Dahel, échue le 29 août
 - ⏰ Fournir le programme de l'immersion Scaling — Abderrahim El Mahi, échue le 28 août
 
 **En cours / en review (2)**
 - En cours · Fournir le programme de l'immersion Scaling — Abderrahim El Mahi (échéance 28 août)
-- En cours · trouver 2 Nouveau clients — Sabrina Dahel (échéance 13 sept.)
+- En cours · trouver 2 Nouveau clients board — Sabrina Dahel (échéance 13 sept.)
 
 **Dernière activité**
-- 25 août — Boris Arduy a confié la tâche « Fournir le programme de l'immersion Scaling » à Abderrahim El Mahi
-- 25 août — Boris Arduy a ajouté Abderrahim El Mahi à l'équipe
-- 25 août — Boris Arduy a passé la tâche « Fournir le programme de l'immersion Scaling » en en cours
+- 28 août — Sabrina Dahel a fixé l'échéance de « Faire Rooming liste propre pour hotel et nicole » au 04/09/2026
+- 28 août — Sabrina Dahel a fixé l'échéance de « Envoyer Guide utile pour clients dans communauté et programme » au 29/08/2026
+- 28 août — Sabrina Dahel a fixé l'échéance de « Organiser avec Nicole animation soirée Noir et rouge » au 03/09/2026
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cmsb6gv6b0001l104zaw92w6g)
 %% cockpit:fin %%

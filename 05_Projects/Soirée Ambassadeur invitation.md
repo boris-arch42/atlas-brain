@@ -1,7 +1,7 @@
 ---
 type: project
 domaine: ENT
-statut: bloqué
+statut: actif
 sante: 🟠
 owner: "[[Sabrina Dahel]]"
 prochaine: "À définir"
@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb25dwb0001l4042elnrdt6
-cockpit_avancement: 83
-cockpit_blocages: 1
+cockpit_avancement: 63
+cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-08-28T05:17
+cockpit_maj: 2026-08-29T05:24
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,12 +22,9 @@ cockpit_maj: 2026-08-28T05:17
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 28/08/2026 07:17.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 29/08/2026 07:24.
 
-**En cours · 🟠 Sous surveillance · 83%** (5/6 tâches, 1 en retard ⚠️)
-
-**Blocages ouverts (1)**
-- 🔥 **P0** « PAS DE DEADLINE OU CONFIRMATION SI MCP CLIENT OK AU 4 » — Bloqué · porteur : — · depuis 0 j
+**En cours · 🟠 Sous surveillance · 63%** (5/8 tâches, 1 en retard ⚠️)
 
 **Tâches en retard (1)**
 - ⏰ définir stratégie vente — Sabrina Dahel, échue le 23 août
@@ -36,9 +33,9 @@ cockpit_maj: 2026-08-28T05:17
 - En cours · définir stratégie vente — Sabrina Dahel (échéance 23 août)
 
 **Dernière activité**
-- 27 août — Sabrina Dahel a passé la santé en « Sous surveillance »
-- 27 août — Sabrina Dahel a signalé le blocage « PAS DE DEADLINE OU CONFIRMATION SI MCP CLIENT OK AU 4 » (P0 · Critique)
-- 27 août — Sabrina Dahel a passé la tâche « définir stratégie vente » en en cours
+- 28 août — Sabrina Dahel a fixé le début de « Revoir strat vente » au 28/08/2026
+- 28 août — Sabrina Dahel a fixé l'échéance de « Revoir strat vente » au 31/08/2026
+- 28 août — Sabrina Dahel a fixé le début de « Créer les liens pour chaque sales » au 26/08/2026
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb0001l4042elnrdt6)
 %% cockpit:fin %%
