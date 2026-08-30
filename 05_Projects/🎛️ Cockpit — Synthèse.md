@@ -2,14 +2,14 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-08-29T05:24
+cockpit_maj: 2026-08-30T05:26
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 29/08/2026 07:24.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 30/08/2026 07:26.
 
-**20 projets actifs** · avancement moyen **60%** · **2 blocage(s) ouvert(s)** (dont 2 P0/P1) · **21 tâche(s) en retard**
+**20 projets actifs** · avancement moyen **60%** · **2 blocage(s) ouvert(s)** (dont 2 P0/P1) · **23 tâche(s) en retard**
 
 | Santé | Projet | Statut | Avanc. | ⏰ | Blocages | Cible | Owner |
 |---|---|---|---|---|---|---|---|
@@ -25,18 +25,18 @@ cockpit_maj: 2026-08-29T05:24
 | 🟠 | [[Immersion]] | À risque | 44% | 2 |  |  | Sabrina Dahel |
 | 🟢 | Passation Claire - Christele | En cours | 100% |  |  |  | Sabrina Dahel |
 | 🟢 | programme Ambassadeur | En cours | 67% | 2 |  |  | Sabrina Dahel |
-| 🟢 | Modification offre Board | En cours | 50% | 1 |  |  | Sabrina Dahel |
+| 🟢 | Modification offre Board | En cours | 50% | 2 |  |  | Sabrina Dahel |
 | 🟢 | creation leaderboard | En cours | 60% | 2 |  |  | Sabrina Dahel |
 | 🟢 | Espace client  plateforme refondu | Cadrage | 67% | 1 | 1 |  | Sabrina Dahel |
 | 🟢 | Succes score clients | Cadrage | 0% | 1 |  |  | Sabrina Dahel |
 | 🟢 | [[Manager Playbook — Core V1 & certification]] | Cadrage | 100% |  |  |  | Anisse R'bibe |
-| 🟢 | Déployer un pôle CSM avec personne dédié | En cours | 75% |  | 1 |  | Sabrina Dahel |
+| 🟢 | Déployer un pôle CSM avec personne dédié | En cours | 75% | 1 | 1 |  | Sabrina Dahel |
 | 🟢 | [[Automatiser Trustpilot collecte]] | À risque | 75% | 1 |  |  | Sabrina Dahel |
 | 🟢 | [[NAS Dubaï — sortie Google]] | En cours | 60% | 1 |  |  | Mohamed Guendouzi |
 
 ## 🚨 Blocages ouverts
-- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 16 j
-- **P1** « attente feu vert Boris » (Déployer un pôle CSM avec personne dédié) — Bloqué · porteur — · depuis 16 j
+- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 17 j
+- **P1** « attente feu vert Boris » (Déployer un pôle CSM avec personne dédié) — Bloqué · porteur — · depuis 17 j
 
 ## 🃏 Projets cockpit sans carte Atlas
 > Relance avec `--creer` pour générer leurs cartes, ou ajoute `cockpit_id` à la carte correspondante.
