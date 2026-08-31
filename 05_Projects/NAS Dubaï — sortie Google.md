@@ -13,8 +13,8 @@ tags: [projet, ent, nas, infra, dataops]
 cockpit_id: cms3deswn0005l304apnfun90
 cockpit_avancement: 60
 cockpit_blocages: 0
-cockpit_taches_retard: 1
-cockpit_maj: 2026-08-30T05:26
+cockpit_taches_retard: 2
+cockpit_maj: 2026-08-31T05:29
 ---
 
 # NAS Dubaï — sortie Google
@@ -28,12 +28,13 @@ cockpit_maj: 2026-08-30T05:26
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 30/08/2026 07:26.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 31/08/2026 07:29.
 
-**En cours · 🟢 Au vert · 60%** (3/5 tâches, 1 en retard ⚠️)
+**En cours · 🟢 Au vert · 60%** (3/5 tâches, 2 en retard ⚠️)
 
-**Tâches en retard (1)**
+**Tâches en retard (2)**
 - ⏰ Attente des datas de la partie com à transférer — Mohamed Guendouzi, échue le 28 août
+- ⏰ Envoi de message personnel à toute les personne avec un drive au dessus de 5Go — Mohamed Guendouzi, échue le 31 août
 
 **En cours / en review (1)**
 - En cours · Envoi de message personnel à toute les personne avec un drive au dessus de 5Go — Mohamed Guendouzi (échéance 31 août)
