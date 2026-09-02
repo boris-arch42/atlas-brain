@@ -2,14 +2,14 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-09-01T05:22
+cockpit_maj: 2026-09-02T05:16
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 01/09/2026 07:22.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 02/09/2026 07:16.
 
-**20 projets actifs** · avancement moyen **60%** · **3 blocage(s) ouvert(s)** (dont 3 P0/P1) · **25 tâche(s) en retard**
+**20 projets actifs** · avancement moyen **59%** · **3 blocage(s) ouvert(s)** (dont 3 P0/P1) · **28 tâche(s) en retard**
 
 | Santé | Projet | Statut | Avanc. | ⏰ | Blocages | Cible | Owner |
 |---|---|---|---|---|---|---|---|
@@ -19,7 +19,7 @@ cockpit_maj: 2026-09-01T05:22
 | 🟢 | [[Riot]] | En validation | 75% | 1 |  |  | Mohamed Guendouzi |
 | 🟢 | Data foundation - Delivery Agent | En cours | 0% | 2 |  |  | Boris Arduy |
 | 🟢 | Nouvelle structure SDR | Cadrage | 0% |  |  |  | Boris Arduy |
-| 🟢 | Data Dashboard.com | Cadrage | 60% | 2 |  |  | Boris Arduy |
+| 🟢 | Data Dashboard.com | Cadrage | 38% | 4 |  |  | Boris Arduy |
 | 🟢 | [[Partenariats Papa In Shape]] | En cours | 100% |  |  |  | Fabrice Jaeger |
 | 🟢 | [[Partenariat Odoo]] | En cours | 100% |  |  |  | Fabrice Jaeger |
 | 🟠 | [[Immersion]] | À risque | 44% | 2 |  |  | Sabrina Dahel |
@@ -28,16 +28,16 @@ cockpit_maj: 2026-09-01T05:22
 | 🟢 | Modification offre Board | En cours | 50% | 2 |  |  | Sabrina Dahel |
 | 🟢 | creation leaderboard | En cours | 60% | 2 |  |  | Sabrina Dahel |
 | 🟢 | Espace client  plateforme refondu | Cadrage | 67% | 1 | 1 |  | Sabrina Dahel |
-| 🟢 | Succes score clients | Cadrage | 0% | 1 |  |  | Sabrina Dahel |
+| 🟢 | Succes score clients | Cadrage | 0% | 2 |  |  | Sabrina Dahel |
 | 🟢 | [[Manager Playbook — Core V1 & certification]] | Cadrage | 100% |  |  |  | Anisse R'bibe |
 | 🟢 | Déployer un pôle CSM avec personne dédié | En cours | 75% | 1 | 1 |  | Sabrina Dahel |
 | 🟢 | [[Automatiser Trustpilot collecte]] | À risque | 75% | 1 |  |  | Sabrina Dahel |
 | 🟢 | [[NAS Dubaï — sortie Google]] | En cours | 60% | 2 |  |  | Mohamed Guendouzi |
 
 ## 🚨 Blocages ouverts
-- 🔥 **P0** « LIEN ICLOSED POUR CHAQUE SALES PRESENT » (Soirée Ambassadeur invitation) — Bloqué · porteur — · depuis 1 j
-- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 19 j
-- **P1** « attente feu vert Boris » (Déployer un pôle CSM avec personne dédié) — Bloqué · porteur — · depuis 19 j
+- 🔥 **P0** « LIEN ICLOSED POUR CHAQUE SALES PRESENT » (Soirée Ambassadeur invitation) — Bloqué · porteur — · depuis 2 j
+- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 20 j
+- **P1** « attente feu vert Boris » (Déployer un pôle CSM avec personne dédié) — Bloqué · porteur — · depuis 20 j
 
 ## 🃏 Projets cockpit sans carte Atlas
 > Relance avec `--creer` pour générer leurs cartes, ou ajoute `cockpit_id` à la carte correspondante.

@@ -14,7 +14,7 @@ cockpit_id: cms5qqp580001l704i82sak12
 cockpit_avancement: 75
 cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-09-01T05:22
+cockpit_maj: 2026-09-02T05:16
 ---
 # Riot
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-09-01T05:22
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 01/09/2026 07:22.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 02/09/2026 07:16.
 
 **En validation · 🟢 Au vert · 75%** (3/4 tâches, 1 en retard ⚠️)
 

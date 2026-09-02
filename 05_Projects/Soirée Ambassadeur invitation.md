@@ -14,7 +14,7 @@ cockpit_id: cmsb25dwb0001l4042elnrdt6
 cockpit_avancement: 75
 cockpit_blocages: 1
 cockpit_taches_retard: 2
-cockpit_maj: 2026-09-01T05:22
+cockpit_maj: 2026-09-02T05:16
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,12 +22,12 @@ cockpit_maj: 2026-09-01T05:22
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 01/09/2026 07:22.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 02/09/2026 07:16.
 
 **En cours · 🟠 Sous surveillance · 75%** (6/8 tâches, 2 en retard ⚠️)
 
 **Blocages ouverts (1)**
-- 🔥 **P0** « LIEN ICLOSED POUR CHAQUE SALES PRESENT » — Bloqué · porteur : — · depuis 1 j
+- 🔥 **P0** « LIEN ICLOSED POUR CHAQUE SALES PRESENT » — Bloqué · porteur : — · depuis 2 j
 
 **Tâches en retard (2)**
 - ⏰ Créer les liens pour chaque sales — Boris Arduy, échue le 31 août
