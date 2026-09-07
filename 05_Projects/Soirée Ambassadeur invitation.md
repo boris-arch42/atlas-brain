@@ -1,7 +1,7 @@
 ---
 type: project
 domaine: ENT
-statut: bloqué
+statut: actif
 sante: 🟠
 owner: "[[Sabrina Dahel]]"
 prochaine: "À définir"
@@ -11,10 +11,10 @@ execution: "ops-cockpit — https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb
 sensitivity: confidential
 tags: [projet, cockpit]
 cockpit_id: cmsb25dwb0001l4042elnrdt6
-cockpit_avancement: 75
-cockpit_blocages: 1
-cockpit_taches_retard: 2
-cockpit_maj: 2026-09-03T05:19
+cockpit_avancement: 88
+cockpit_blocages: 0
+cockpit_taches_retard: 1
+cockpit_maj: 2026-09-07T05:15
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,24 +22,20 @@ cockpit_maj: 2026-09-03T05:19
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 03/09/2026 07:19.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/09/2026 07:15.
 
-**En cours · 🟠 Sous surveillance · 75%** (6/8 tâches, 2 en retard ⚠️)
+**En cours · 🟠 Sous surveillance · 88%** (7/8 tâches, 1 en retard ⚠️)
 
-**Blocages ouverts (1)**
-- 🔥 **P0** « LIEN ICLOSED POUR CHAQUE SALES PRESENT » — Bloqué · porteur : — · depuis 3 j
-
-**Tâches en retard (2)**
-- ⏰ Créer les liens pour chaque sales — Boris Arduy, échue le 31 août
+**Tâches en retard (1)**
 - ⏰ définir stratégie vente — Sabrina Dahel, échue le 23 août
 
 **En cours / en review (1)**
 - En cours · définir stratégie vente — Sabrina Dahel (échéance 23 août)
 
 **Dernière activité**
+- 4 sept. — Boris Arduy a terminé la tâche « Créer les liens pour chaque sales »
+- 4 sept. — Boris Arduy a résolu le blocage « LIEN ICLOSED POUR CHAQUE SALES PRESENT »
 - 31 août — Sabrina Dahel a terminé la tâche « Revoir strat vente »
-- 31 août — Sabrina Dahel a signalé le blocage « LIEN ICLOSED POUR CHAQUE SALES PRESENT » (P0 · Critique)
-- 28 août — Sabrina Dahel a fixé le début de « Revoir strat vente » au 28/08/2026
 
 [Ouvrir dans le cockpit](https://ops-cockpit-rho.vercel.app/projets/cmsb25dwb0001l4042elnrdt6)
 %% cockpit:fin %%

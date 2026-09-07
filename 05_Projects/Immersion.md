@@ -13,8 +13,8 @@ tags: [projet, cockpit]
 cockpit_id: cmsb6gv6b0001l104zaw92w6g
 cockpit_avancement: 44
 cockpit_blocages: 0
-cockpit_taches_retard: 3
-cockpit_maj: 2026-09-03T05:19
+cockpit_taches_retard: 4
+cockpit_maj: 2026-09-07T05:15
 ---
 # Immersion
 
@@ -22,13 +22,14 @@ cockpit_maj: 2026-09-03T05:19
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 03/09/2026 07:19.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 07/09/2026 07:15.
 
-**À risque · 🟠 Sous surveillance · 44%** (4/9 tâches, 3 en retard ⚠️)
+**À risque · 🟠 Sous surveillance · 44%** (4/9 tâches, 4 en retard ⚠️)
 
-**Tâches en retard (3)**
+**Tâches en retard (4)**
 - ⏰ Organiser avec Nicole animation soirée Noir et rouge — Sabrina Dahel, échue le 3 sept.
 - ⏰ Envoyer Guide utile pour clients dans communauté et programme — Sabrina Dahel, échue le 29 août
+- ⏰ Faire Rooming liste propre pour hotel et nicole — Sabrina Dahel, échue le 4 sept.
 - ⏰ Fournir le programme de l'immersion Scaling — Abderrahim El Mahi, échue le 28 août
 
 **En cours / en review (2)**
