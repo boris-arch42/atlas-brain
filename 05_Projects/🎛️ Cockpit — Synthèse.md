@@ -2,14 +2,14 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-09-11T05:28
+cockpit_maj: 2026-09-14T05:15
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 11/09/2026 07:28.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 14/09/2026 07:15.
 
-**18 projets actifs** · avancement moyen **69%** · **1 blocage(s) ouvert(s)** (dont 1 P0/P1) · **20 tâche(s) en retard**
+**18 projets actifs** · avancement moyen **69%** · **1 blocage(s) ouvert(s)** (dont 1 P0/P1) · **21 tâche(s) en retard**
 
 | Santé | Projet | Statut | Avanc. | ⏰ | Blocages | Cible | Owner |
 |---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@ cockpit_maj: 2026-09-11T05:28
 | 🟢 | Data Dashboard.com | Cadrage | 88% | 1 |  |  | Boris Arduy |
 | 🟢 | [[Partenariats Papa In Shape]] | En cours | 100% |  |  |  | Fabrice Jaeger |
 | 🟢 | [[Partenariat Odoo]] | En cours | 100% |  |  |  | Fabrice Jaeger |
-| 🟠 | [[Immersion]] | À risque | 44% | 4 |  |  | Sabrina Dahel |
+| 🟠 | [[Immersion]] | À risque | 44% | 5 |  |  | Sabrina Dahel |
 | 🟢 | Passation Claire - Christele | En cours | 100% |  |  |  | Sabrina Dahel |
 | 🟢 | programme Ambassadeur | En cours | 67% | 2 |  |  | Sabrina Dahel |
 | 🟢 | Modification offre Board | En cours | 50% | 2 |  |  | Sabrina Dahel |
@@ -34,7 +34,7 @@ cockpit_maj: 2026-09-11T05:28
 | 🟢 | [[NAS Dubaï — sortie Google]] | En cours | 60% | 2 |  |  | Mohamed Guendouzi |
 
 ## 🚨 Blocages ouverts
-- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 29 j
+- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 32 j
 
 ## 🃏 Projets cockpit sans carte Atlas
 > Relance avec `--creer` pour générer leurs cartes, ou ajoute `cockpit_id` à la carte correspondante.

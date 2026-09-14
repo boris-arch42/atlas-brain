@@ -14,7 +14,7 @@ cockpit_id: cms3deswn0005l304apnfun90
 cockpit_avancement: 60
 cockpit_blocages: 0
 cockpit_taches_retard: 2
-cockpit_maj: 2026-09-11T05:28
+cockpit_maj: 2026-09-14T05:15
 ---
 
 # NAS Dubaï — sortie Google
@@ -28,7 +28,7 @@ cockpit_maj: 2026-09-11T05:28
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 11/09/2026 07:28.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/09/2026 07:15.
 
 **En cours · 🟢 Au vert · 60%** (3/5 tâches, 2 en retard ⚠️)
 
