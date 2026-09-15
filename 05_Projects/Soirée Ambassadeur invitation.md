@@ -14,7 +14,7 @@ cockpit_id: cmsb25dwb0001l4042elnrdt6
 cockpit_avancement: 88
 cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-09-14T05:15
+cockpit_maj: 2026-09-15T05:18
 ---
 # Soirée Ambassadeur invitation
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-09-14T05:15
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/09/2026 07:15.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 15/09/2026 07:18.
 
 **En cours · 🟠 Sous surveillance · 88%** (7/8 tâches, 1 en retard ⚠️)
 

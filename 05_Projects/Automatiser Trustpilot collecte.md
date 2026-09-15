@@ -14,7 +14,7 @@ cockpit_id: cmsb62ax2000dl404sphtk0lx
 cockpit_avancement: 75
 cockpit_blocages: 0
 cockpit_taches_retard: 1
-cockpit_maj: 2026-09-14T05:15
+cockpit_maj: 2026-09-15T05:18
 ---
 # Automatiser Trustpilot collecte
 
@@ -23,7 +23,7 @@ Objectif 1000 avis au 31/12
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 14/09/2026 07:15.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 15/09/2026 07:18.
 
 **À risque · 🟢 Au vert · 75%** (3/4 tâches, 1 en retard ⚠️)
 
