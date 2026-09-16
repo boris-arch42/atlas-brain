@@ -2,23 +2,18 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-09-15T05:18
+cockpit_maj: 2026-09-16T05:19
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 15/09/2026 07:18.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 16/09/2026 07:19.
 
-**18 projets actifs** · avancement moyen **69%** · **1 blocage(s) ouvert(s)** (dont 1 P0/P1) · **21 tâche(s) en retard**
+**13 projets actifs** · avancement moyen **72%** · **1 blocage(s) ouvert(s)** (dont 1 P0/P1) · **16 tâche(s) en retard**
 
 | Santé | Projet | Statut | Avanc. | ⏰ | Blocages | Cible | Owner |
 |---|---|---|---|---|---|---|---|
-| 🟢 | Améliorer le processus de bienvenue | Terminé | 100% |  |  |  | Boris Arduy |
-| 🟠 | [[Soirée Ambassadeur invitation]] | En cours | 88% | 1 |  |  | Sabrina Dahel |
 | 🟢 | [[Communauté gratuite ENT — lead magnet & réactivation base]] | En cours | 100% |  |  |  | Abderrahim El Mahi |
-| 🟢 | [[Riot]] | En validation | 75% | 1 |  |  | Mohamed Guendouzi |
-| 🟢 | Nouvelle structure SDR | Cadrage | 0% |  |  |  | Boris Arduy |
-| 🟢 | Data Dashboard.com | Cadrage | 88% | 1 |  |  | Boris Arduy |
 | 🟢 | [[Partenariats Papa In Shape]] | En cours | 100% |  |  |  | Fabrice Jaeger |
 | 🟢 | [[Partenariat Odoo]] | En cours | 100% |  |  |  | Fabrice Jaeger |
 | 🟠 | [[Immersion]] | À risque | 44% | 5 |  |  | Sabrina Dahel |
@@ -31,16 +26,12 @@ cockpit_maj: 2026-09-15T05:18
 | 🟢 | [[Manager Playbook — Core V1 & certification]] | Cadrage | 100% |  |  |  | Anisse R'bibe |
 | 🟢 | Déployer un pôle CSM avec personne dédié | En cours | 75% | 1 |  |  | Sabrina Dahel |
 | 🟢 | [[Automatiser Trustpilot collecte]] | À risque | 75% | 1 |  |  | Sabrina Dahel |
-| 🟢 | [[NAS Dubaï — sortie Google]] | En cours | 60% | 2 |  |  | Mohamed Guendouzi |
 
 ## 🚨 Blocages ouverts
-- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 33 j
+- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 34 j
 
 ## 🃏 Projets cockpit sans carte Atlas
 > Relance avec `--creer` pour générer leurs cartes, ou ajoute `cockpit_id` à la carte correspondante.
-- Améliorer le processus de bienvenue (`cockpit_id: cmt8soj3d0001jc0bnh73ibpb`)
-- Nouvelle structure SDR (`cockpit_id: cmt7as8n30001ja0a3dc9cnwn`)
-- Data Dashboard.com (`cockpit_id: cmsmw8wsg0001jv04ftyyfumo`)
 - Passation Claire - Christele (`cockpit_id: cmsqrzneq0001l2044i9zl14u`)
 - programme Ambassadeur (`cockpit_id: cmsqsc53p0009l404ihsplgfn`)
 - Modification offre Board (`cockpit_id: cmsqsu16d001pl204e4ugeky3`)
