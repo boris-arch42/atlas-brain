@@ -2,12 +2,12 @@
 type: dashboard
 source: cockpit
 tags: [dashboard, cockpit, jarvis]
-cockpit_maj: 2026-09-19T05:25
+cockpit_maj: 2026-09-21T05:17
 ---
 
 # 🎛️ Cockpit — Synthèse
 
-> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 19/09/2026 07:25.
+> Note générée par Jarvis (`atlas-sync`) — **ne pas éditer**, toute modification sera écrasée. Dernière màj : 21/09/2026 07:17.
 
 **13 projets actifs** · avancement moyen **72%** · **1 blocage(s) ouvert(s)** (dont 1 P0/P1) · **16 tâche(s) en retard**
 
@@ -28,7 +28,7 @@ cockpit_maj: 2026-09-19T05:25
 | 🟢 | [[Automatiser Trustpilot collecte]] | À risque | 75% | 1 |  |  | Sabrina Dahel |
 
 ## 🚨 Blocages ouverts
-- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 37 j
+- **P1** « PAS DE DEAD LINE SUR livraison » (Espace client  plateforme refondu) — Bloqué · porteur — · depuis 39 j
 
 ## 🃏 Projets cockpit sans carte Atlas
 > Relance avec `--creer` pour générer leurs cartes, ou ajoute `cockpit_id` à la carte correspondante.

@@ -13,7 +13,7 @@ cockpit_id: cmt8of1s70001js04ziln2fj3
 cockpit_avancement: 100
 cockpit_blocages: 0
 cockpit_taches_retard: 0
-cockpit_maj: 2026-09-19T05:25
+cockpit_maj: 2026-09-21T05:17
 ---
 
 # Communauté gratuite ENT — lead magnet & réactivation base
@@ -54,7 +54,7 @@ Communauté **francophone gratuite dans l'app ENT** servant de **lead magnet** e
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 19/09/2026 07:25.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 21/09/2026 07:17.
 
 **En cours · 🟢 Au vert · 100%** (1/1 tâches)
 
