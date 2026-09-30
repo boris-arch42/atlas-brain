@@ -17,4 +17,5 @@ tags: [projet, mts, made-to-scale, agence-ia, clients, a-verifier]
 > Agence IA, projets clients en oversight (pas d'exécution Boris). Clients : Clover Guyane, Fit Club Suisse, Thang. ⚠️ Pas de dossier dédié dans `80_Sides` — détail à confirmer.
 
 ## Liens
+- [[Brand-Guidelines - Made To Scale]] — charte graphique à appliquer à tous les documents MTS
 - [[🗼 Tour de contrôle - Projets en cours]]

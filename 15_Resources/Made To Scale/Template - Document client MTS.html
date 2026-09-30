@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Snob Dog Academy — Cadrage technique tracking & leads</title>
+<style>
+@font-face { font-family: "InterV"; src: url("file:///root/.local/share/fonts/Inter.ttf"); font-weight: 100 900; }
+@font-face { font-family: "Grotesk"; src: url("file:///root/.local/share/fonts/SpaceGrotesk.ttf"); font-weight: 300 700; }
+:root {
+  --ink: #0B0D12; --ink2: #3A3F4B; --mute: #6B7280; --line: #E3E6EC;
+  --blue: #2563EB; --blue-dk: #1E40AF; --blue-lt: #EEF3FE; --dark: #0A0C11;
+}
+@page {
+  size: A4; margin: 22mm 18mm 20mm 18mm;
+  @top-left { content: "MADE TO SCALE"; font-family: Grotesk; font-weight: 700; font-size: 7.5pt; letter-spacing: 1.5pt; color: var(--ink); }
+  @top-right { content: "Snob Dog Academy · Cadrage technique"; font-family: InterV; font-size: 7.5pt; color: var(--mute); }
+  @bottom-left { content: "Document confidentiel — contact@madetoscale.fr"; font-family: InterV; font-size: 7pt; color: var(--mute); }
+  @bottom-right { content: counter(page) " / " counter(pages); font-family: InterV; font-size: 7.5pt; color: var(--mute); }
+}
+@page cover { margin: 0; @top-left{content:none} @top-right{content:none} @bottom-left{content:none} @bottom-right{content:none} }
+* { box-sizing: border-box; }
+body { font-family: InterV; font-size: 9.6pt; line-height: 1.55; color: var(--ink2); margin: 0; }
+h1, h2, h3 { font-family: Grotesk; color: var(--ink); margin: 0; }
+h2 { font-size: 17pt; font-weight: 700; margin: 0 0 4mm; padding-top: 1mm; }
+h2 .n { color: var(--blue); margin-right: 3mm; }
+h3 { font-size: 11pt; font-weight: 700; margin: 5mm 0 2mm; }
+p { margin: 0 0 3mm; }
+strong { color: var(--ink); font-weight: 600; }
+section { margin-bottom: 9mm; }
+.lead { font-size: 10.5pt; color: var(--ink); }
+ul { margin: 0 0 3mm; padding-left: 4.5mm; }
+li { margin-bottom: 1.2mm; }
+li::marker { color: var(--blue); }
+
+/* Cover */
+.cover { page: cover; height: 297mm; background: var(--dark); color: #fff; position: relative; padding: 24mm 20mm; page-break-after: always; overflow: hidden; }
+.cover .bar { position: absolute; left: 0; top: 0; width: 6mm; height: 297mm; background: var(--blue); }
+.cover .glow { position: absolute; right: -60mm; top: 60mm; width: 170mm; height: 170mm; border-radius: 50%; background: radial-gradient(circle, rgba(37,99,235,.55) 0%, rgba(37,99,235,.12) 45%, rgba(10,12,17,0) 70%); }
+.cover .brand { font-family: Grotesk; font-weight: 700; font-size: 12pt; letter-spacing: 3pt; }
+.cover .brand span { color: var(--blue); }
+.cover .tag { margin-top: 70mm; display: inline-block; font-size: 8pt; letter-spacing: 2pt; text-transform: uppercase; color: #9DB7F5; border: 0.6pt solid #3B5BA8; padding: 1.5mm 3mm; border-radius: 10mm; }
+.cover h1 { color: #fff; font-size: 34pt; line-height: 1.08; font-weight: 700; margin: 7mm 0 6mm; }
+.cover h1 em { font-style: normal; color: var(--blue); }
+.cover .sub { font-size: 12pt; color: #C7CCD6; max-width: 135mm; }
+.cover .meta { position: absolute; left: 20mm; right: 20mm; bottom: 24mm; border-top: 0.6pt solid #2A2F3A; padding-top: 6mm; display: flex; gap: 14mm; font-size: 8.5pt; }
+.cover .meta div { color: #fff; }
+.cover .meta small { display: block; color: #8189A0; font-size: 7pt; letter-spacing: 1.2pt; text-transform: uppercase; margin-bottom: 1mm; }
+
+/* Components */
+.kpis { display: flex; gap: 4mm; margin: 5mm 0 2mm; }
+.kpi { flex: 1; background: var(--blue-lt); border-radius: 2.5mm; padding: 4mm; }
+.kpi b { display: block; font-family: Grotesk; font-size: 10.5pt; color: var(--blue-dk); margin-bottom: 1mm; }
+.kpi span { font-size: 8.6pt; }
+
+table { width: 100%; border-collapse: collapse; margin: 2mm 0 4mm; font-size: 8.8pt; }
+th { text-align: left; font-family: Grotesk; font-weight: 700; color: #fff; background: var(--dark); padding: 2.4mm 3mm; font-size: 8.4pt; }
+th:first-child { border-top-left-radius: 1.5mm; } th:last-child { border-top-right-radius: 1.5mm; }
+td { padding: 2.4mm 3mm; border-bottom: 0.6pt solid var(--line); vertical-align: top; }
+tr:nth-child(even) td { background: #F8F9FB; }
+td.tool { font-weight: 600; color: var(--ink); white-space: nowrap; }
+tr { page-break-inside: avoid; }
+
+/* Flow diagram */
+.flow { display: flex; align-items: stretch; gap: 0; margin: 4mm 0 3mm; }
+.col { flex: 1; }
+.col .lbl { font-size: 7pt; letter-spacing: 1.2pt; text-transform: uppercase; color: var(--mute); margin-bottom: 2mm; font-weight: 600; }
+.box { border: 0.8pt solid var(--line); border-radius: 2mm; padding: 2.4mm 3mm; margin-bottom: 2mm; background: #fff; font-size: 8.4pt; }
+.box b { display: block; color: var(--ink); font-family: Grotesk; font-size: 9.2pt; }
+.box.core { background: var(--dark); border-color: var(--dark); color: #C7CCD6; }
+.box.core b { color: #fff; }
+.box.out { border-color: var(--blue); background: var(--blue-lt); }
+.arrow { width: 9mm; display: flex; align-items: center; justify-content: center; color: var(--blue); font-size: 15pt; font-weight: 700; }
+
+.events td:nth-child(2) { font-family: Grotesk; font-weight: 700; color: var(--blue-dk); white-space: nowrap; }
+
+/* Timeline */
+.tl { margin: 3mm 0; }
+.step { display: flex; gap: 5mm; margin-bottom: 5mm; page-break-inside: avoid; }
+.step .d { width: 22mm; flex-shrink: 0; font-family: Grotesk; font-weight: 700; color: #fff; background: var(--blue); border-radius: 1.5mm; text-align: center; padding: 2mm 0; font-size: 9pt; align-self: flex-start; }
+.step.last .d { background: var(--dark); }
+.step .c { flex: 1; border-left: 1.5pt solid var(--blue-lt); padding-left: 4mm; }
+.step .c b { font-family: Grotesk; color: var(--ink); font-size: 10pt; display: block; margin-bottom: 1mm; }
+.step .c ul { margin: 0; }
+
+.note { border-left: 2.5pt solid var(--blue); background: var(--blue-lt); padding: 3mm 4mm; border-radius: 0 2mm 2mm 0; font-size: 8.8pt; margin: 3mm 0; }
+.note b { color: var(--blue-dk); }
+.check td:first-child { width: 7mm; color: var(--blue); font-weight: 700; }
+.pb { page-break-before: always; }
+.two { display: flex; gap: 6mm; }
+.two > div { flex: 1; }
+.cta { background: var(--dark); color: #C7CCD6; border-radius: 3mm; padding: 6mm 7mm; margin-top: 6mm; }
+.cta h3 { color: #fff; margin-top: 0; }
+.cta ol { margin: 0; padding-left: 5mm; }
+.cta li::marker { color: var(--blue); font-weight: 700; }
+</style>
+</head>
+<body>
+
+<div class="cover">
+  <div class="bar"></div><div class="glow"></div>
+  <div class="brand">MADE TO <span>SCALE</span></div>
+  <div class="tag">Cadrage technique · Mission 15 jours</div>
+  <h1>Tracking des conversions<br>&amp; <em>centralisation des leads</em></h1>
+  <div class="sub">Relier Sellsy, LearnyBox, Calendly et Meta pour mesurer chaque prise de rendez-vous et chaque client, et disposer d'un fichier de leads à jour.</div>
+  <div class="meta">
+    <div><small>Client</small>Snob Dog Academy</div>
+    <div><small>Prestataire</small>Made To Scale</div>
+    <div><small>Date</small>29 septembre 2026</div>
+    <div><small>Durée</small>15 jours ouvrés</div>
+  </div>
+</div>
+
+<section>
+  <h2><span class="n">01</span>Contexte &amp; objectifs</h2>
+  <p class="lead">Aujourd'hui, les données de conversion sont dispersées entre plusieurs outils qui ne se parlent pas : Meta ne sait pas quelles campagnes génèrent des rendez-vous ou des clients, et les rendez-vous pris sur Calendly ne remontent pas dans Sellsy.</p>
+  <p>La mission vise à <strong>connecter ces outils</strong> pour que chaque étape clé du parcours prospect soit enregistrée au bon endroit, et renvoyée à Meta pour piloter et optimiser les campagnes publicitaires.</p>
+  <div class="kpis">
+    <div class="kpi"><b>1 · Conversions vers Meta</b><span>Remonter les prises de rendez-vous et les nouveaux clients (Sellsy / LearnyBox) comme conversions dans Meta.</span></div>
+    <div class="kpi"><b>2 · Fichier leads brochures</b><span>Un fichier consolidé des prospects « brochure » enregistrés dans Sellsy.</span></div>
+    <div class="kpi"><b>3 · Rendez-vous Calendly</b><span>Faire remonter les RDV Calendly dans Sellsy et dans le fichier de suivi.</span></div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="n">02</span>Architecture cible</h2>
+  <p>Une couche d'automatisation centrale (orchestrateur type n8n, opérée par Made To Scale) écoute les événements de chaque outil, les rapproche par email / téléphone, puis les distribue vers les destinations.</p>
+  <div class="flow">
+    <div class="col">
+      <div class="lbl">Sources</div>
+      <div class="box"><b>Meta Ads</b>Clics, formulaires, identifiants de campagne</div>
+      <div class="box"><b>LearnyBox</b>Formulaires, tunnels, ventes</div>
+      <div class="box"><b>Calendly</b>RDV réservés / annulés</div>
+      <div class="box"><b>Sellsy</b>Prospects, opportunités, clients</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="col">
+      <div class="lbl">Orchestration</div>
+      <div class="box core"><b>Automatisation MTS</b>Réception des webhooks &amp; appels API</div>
+      <div class="box core"><b>Rapprochement</b>Déduplication par email / téléphone, conservation de la source (UTM, fbclid)</div>
+      <div class="box core"><b>Journal &amp; alertes</b>Historique des envois, alerte en cas d'erreur</div>
+    </div>
+    <div class="arrow">→</div>
+    <div class="col">
+      <div class="lbl">Destinations</div>
+      <div class="box out"><b>Meta (API Conversions)</b>Événements serveur dédupliqués avec le pixel</div>
+      <div class="box out"><b>Sellsy</b>RDV Calendly rattachés à la fiche prospect</div>
+      <div class="box out"><b>Fichier leads</b>Google Sheet : brochures + RDV, mis à jour en continu</div>
+    </div>
+  </div>
+
+  <h3>Événements remontés à Meta</h3>
+  <table class="events">
+    <tr><th>Étape du parcours</th><th>Événement Meta</th><th>Source de vérité</th></tr>
+    <tr><td>Demande de brochure / formulaire</td><td>Lead</td><td>LearnyBox / Sellsy</td></tr>
+    <tr><td>Prise de rendez-vous</td><td>Schedule</td><td>Calendly</td></tr>
+    <tr><td>Nouveau client (paiement ou signature)</td><td>Purchase</td><td>Sellsy / LearnyBox — règle à valider ensemble</td></tr>
+  </table>
+  <div class="note"><b>Pourquoi l'API Conversions ?</b> Les envois côté serveur ne dépendent pas des bloqueurs de pub ni des cookies. Chaque événement porte un identifiant unique pour éviter les doublons avec le pixel du site, et les données personnelles (email, téléphone) sont hachées avant envoi, comme l'exige Meta.</div>
+</section>
+
+<section>
+  <h2><span class="n">03</span>Livrables</h2>
+  <table>
+    <tr><th>Livrable</th><th>Description</th></tr>
+    <tr><td class="tool">Flux Meta CAPI</td><td>Envoi automatique des événements Lead, Schedule et Purchase vers votre jeu de données Meta, avec contrôle de la qualité de correspondance dans le Gestionnaire d'événements.</td></tr>
+    <tr><td class="tool">Synchronisation Calendly → Sellsy</td><td>Chaque RDV réservé crée ou met à jour le prospect dans Sellsy (date, type de RDV, statut, annulation).</td></tr>
+    <tr><td class="tool">Fichier leads</td><td>Google Sheet partagé listant les leads brochures (prospects Sellsy) et les prises de RDV Calendly : identité, contact, source / campagne, date, statut.</td></tr>
+    <tr><td class="tool">Reprise d'historique</td><td>Import initial des leads brochures et RDV existants sur une période à définir (ex. 3 derniers mois).</td></tr>
+    <tr><td class="tool">Monitoring</td><td>Journal des envois et alerte email en cas d'échec d'un flux.</td></tr>
+    <tr><td class="tool">Documentation</td><td>Schéma des flux, règles métier retenues et procédure en cas d'incident, remise en fin de mission.</td></tr>
+  </table>
+</section>
+
+<section class="pb">
+  <h2><span class="n">04</span>Planning sur 15 jours</h2>
+  <div class="tl">
+    <div class="step"><div class="d">J1 – J2</div><div class="c"><b>Lancement &amp; audit</b><ul><li>Réception des accès, audit des comptes Meta, Sellsy, LearnyBox et Calendly.</li><li>Validation des règles métier : définition d'un « lead brochure », d'un « RDV » et d'un « client ».</li></ul></div></div>
+    <div class="step"><div class="d">J3 – J6</div><div class="c"><b>Fichier leads &amp; Calendly</b><ul><li>Synchronisation Calendly → Sellsy et alimentation du fichier leads.</li><li>Extraction des prospects brochures Sellsy et reprise de l'historique.</li></ul></div></div>
+    <div class="step"><div class="d">J7 – J11</div><div class="c"><b>Conversions Meta</b><ul><li>Mise en place de l'API Conversions : Lead, Schedule, Purchase.</li><li>Capture et transmission des identifiants de campagne (UTM, fbclid) jusqu'à Sellsy.</li><li>Tests via l'outil de test d'événements Meta.</li></ul></div></div>
+    <div class="step"><div class="d">J12 – J14</div><div class="c"><b>Recette</b><ul><li>Tests de bout en bout avec vos équipes (parcours réels).</li><li>Corrections, contrôle de la déduplication et de la qualité de correspondance.</li></ul></div></div>
+    <div class="step last"><div class="d">J15</div><div class="c"><b>Mise en production &amp; passation</b><ul><li>Activation définitive, remise de la documentation, session de présentation (30 min).</li></ul></div></div>
+  </div>
+  <div class="note"><b>Point de départ :</b> le J1 démarre à réception de l'ensemble des accès listés ci-après. Un point d'avancement hebdomadaire de 20 min est prévu.</div>
+</section>
+
+<section class="pb">
+  <h2><span class="n">05</span>Accès nécessaires</h2>
+  <p>Merci de donner les accès à <strong>contact@madetoscale.fr</strong>. Nous privilégions des accès nominatifs et révocables : aucun mot de passe n'a besoin d'être partagé, sauf mention contraire.</p>
+  <table>
+    <tr><th>Outil</th><th>Accès demandé</th><th>Usage</th></tr>
+    <tr><td class="tool">Meta Business</td><td>Ajout de Made To Scale comme <strong>partenaire</strong> du Business Manager, avec contrôle total sur le <strong>pixel / jeu de données</strong> et accès en lecture au compte publicitaire.</td><td>Configuration de l'API Conversions, génération du jeton, tests d'événements.</td></tr>
+    <tr><td class="tool">Sellsy</td><td>Un <strong>compte utilisateur administrateur</strong> (ou un accès API créé depuis l'espace développeur Sellsy).</td><td>Lecture des prospects / clients, création des RDV, champs personnalisés.</td></tr>
+    <tr><td class="tool">LearnyBox</td><td>Un <strong>accès collaborateur / administrateur</strong> à l'académie.</td><td>Webhooks et intégrations des formulaires, tunnels et ventes ; vérification du pixel.</td></tr>
+    <tr><td class="tool">Calendly</td><td>Accès <strong>administrateur</strong> du compte (ou jeton d'accès personnel). Webhooks disponibles à partir d'une offre payante (Standard ou supérieure).</td><td>Réception des RDV en temps réel.</td></tr>
+    <tr><td class="tool">Google Workspace</td><td>Un dossier Drive partagé en <strong>édition</strong> (ou nous le créons et vous le partageons).</td><td>Hébergement du fichier leads.</td></tr>
+    <tr><td class="tool">Site web / GTM</td><td>Si le site est hors LearnyBox : accès éditeur au <strong>Google Tag Manager</strong> ou au CMS.</td><td>Capture des UTM / fbclid, cohérence avec le pixel.</td></tr>
+  </table>
+
+  <h3>Informations à nous transmettre</h3>
+  <table class="check">
+    <tr><td>☐</td><td>Définition d'un <strong>client</strong> : paiement dans LearnyBox, devis signé ou facture dans Sellsy ?</td></tr>
+    <tr><td>☐</td><td>Comment un prospect est identifié comme <strong>« brochure »</strong> dans Sellsy (étiquette, pipeline, source…).</td></tr>
+    <tr><td>☐</td><td>Liste des <strong>types de RDV Calendly</strong> à suivre et des personnes qui les reçoivent.</td></tr>
+    <tr><td>☐</td><td>Période d'<strong>historique</strong> à reprendre dans le fichier leads.</td></tr>
+    <tr><td>☐</td><td>Un <strong>référent</strong> côté Snob Dog Academy pour les validations et la recette.</td></tr>
+  </table>
+</section>
+
+<section>
+  <h2><span class="n">06</span>Cadre de la mission</h2>
+  <div class="two">
+    <div>
+      <h3>Inclus</h3>
+      <ul>
+        <li>Conception, configuration et tests des flux décrits.</li>
+        <li>Reprise d'historique sur la période convenue.</li>
+        <li>Documentation et passation.</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Hors périmètre</h3>
+      <ul>
+        <li>Création ou optimisation des campagnes Meta.</li>
+        <li>Refonte des tunnels LearnyBox ou du paramétrage Sellsy.</li>
+        <li>Abonnements aux outils tiers (restent à votre charge).</li>
+      </ul>
+    </div>
+  </div>
+  <div class="note"><b>RGPD :</b> seules les données nécessaires au suivi sont traitées. Les données envoyées à Meta sont hachées et le traitement s'appuie sur le consentement recueilli sur vos formulaires et votre bandeau cookies.</div>
+
+  <div class="cta">
+    <h3>Prochaines étapes</h3>
+    <ol>
+      <li>Validation de ce cadrage.</li>
+      <li>Ouverture des accès listés en section 05.</li>
+      <li>Kick-off de 30 min et démarrage du J1.</li>
+    </ol>
+  </div>
+</section>
+
+</body>
+</html>
