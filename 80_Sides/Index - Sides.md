@@ -39,6 +39,14 @@ Chaque side a son **propre sous-dossier** avec :
 - **Mon rôle** : axe systèmes (landing pages, scraping, infra d'acquisition) + investissement/equity
 - **Note** : aussi **outil interne EC** (stack recrutement de référence). Les process recrutement internes & post-mortems EC restent dans leurs dossiers PARA (`10_SOPs`, `60_Retros`), hors side.
 
+### 📈 [[Ouinex/README|Ouinex — Sourcing micro-KOLs trading (projet externe)]]
+- **Client** : Ouinex (plateforme de trading / exchange crypto, token OUIX) — Ilies + Florian Leto (Head of Marketing)
+- **Porté par** : Alec Henry + Boris
+- **Démarré** : 18 sept. 2026 (call de lancement)
+- **Statut** : actif — briefs cibles reçus, NDA + Master Affiliate Agreement en attente
+- **Mon rôle** : machine scraping/outreach KOL, qualification & closing Telegram, paliers de commission
+- **Modèle** : apport d'affaires 100 % performance — master affiliate 60 % (→ 70 %) des revenus générés
+
 ## 🚦 Règle d'arbitrage
 
 Si un side menace la posture Operating Partner ENT (surcharge, conflit d'agenda, conflit politique) :

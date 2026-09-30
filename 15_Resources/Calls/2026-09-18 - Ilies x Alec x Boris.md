@@ -110,3 +110,6 @@ L’appel a porté sur une stratégie d’approche KOL orientée performance pou
 - Boris a expliqué que leur système repose sur le scraping et l’exploitation de données d’influence pour cibler avec précision des streamers, YouTubers et autres créateurs, notamment par géographie et par persona.
 - Alec et Boris ont souligné leur expérience dans des secteurs plus contraints sur le plan réglementaire, ce qui démontre leur capacité à opérer dans un contexte crypto/exchange.
 %% notes:fin %%
+
+## 🔗 Projet
+- [[Ouinex/README|Hub Ouinex]] · [[Replay - Call Ouinex (Ilies × Florian × Alec × Boris) - 2026-09-18|Debrief structuré]]
