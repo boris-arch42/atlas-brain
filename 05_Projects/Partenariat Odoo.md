@@ -14,7 +14,7 @@ cockpit_id: cms3cyuok0001ib041qafxohz
 cockpit_avancement: 100
 cockpit_blocages: 0
 cockpit_taches_retard: 0
-cockpit_maj: 2026-11-01T06:21
+cockpit_maj: 2026-11-02T06:15
 ---
 # Partenariat Odoo
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-11-01T06:21
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 01/11/2026 07:21.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 02/11/2026 07:15.
 
 **En cours · 🟢 Au vert · 100%** (1/1 tâches)
 
