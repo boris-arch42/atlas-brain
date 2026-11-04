@@ -14,7 +14,7 @@ cockpit_id: cmsb6gv6b0001l104zaw92w6g
 cockpit_avancement: 44
 cockpit_blocages: 0
 cockpit_taches_retard: 5
-cockpit_maj: 2026-11-03T06:21
+cockpit_maj: 2026-11-04T06:28
 ---
 # Immersion
 
@@ -22,7 +22,7 @@ cockpit_maj: 2026-11-03T06:21
 
 %% cockpit:debut %%
 ## 🎛️ Cockpit — live
-> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 03/11/2026 07:21.
+> Bloc géré par Jarvis (sync ops-cockpit). Édité automatiquement — dernière màj : 04/11/2026 07:28.
 
 **À risque · 🟠 Sous surveillance · 44%** (4/9 tâches, 5 en retard ⚠️)
 
