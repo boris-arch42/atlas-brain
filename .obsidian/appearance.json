@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "graph-galaxy"
-  ]
+  ],
+  "showRibbon": true
 }
