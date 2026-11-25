@@ -2,14 +2,49 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Sabrina X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 16:12).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion ops focalisée sur le rapprochement des données iClose/HubSpot et le nettoyage du pipeline. Identification d'écarts dus aux décalages horaires, doublons, workflows multiples et incohérences UTM nécessitant une normalisation urgente.
+
+**Décisions**
+- Archiver la colonne 'Tentative de contact' du pipeline HubSpot
+- Conversion de 7-8 licences Entreprise en licences Core pour atteindre 16 licences totales
+- Supprimer les étapes M0, M3, M6, M9 du pipe de fidélisation, remplacées par un suivi à J-60 avant fin de contrat
+- Les rendez-vous R1 et R2 doivent être enregistrés séparément dans HubSpot
+
+**Actions**
+- [ ] **Boris** : Vérifier un par un les 20 rendez-vous site web pour contrôler les UTM et identifier les écarts HubSpot
+- [ ] **Boris** : Fusionner les données UTM et finaliser le nettoyage global des données (échéance 2026-11-14)
+- [ ] **Sabrina** : Session de travail avec Rachid pour préciser les changements du pipeline (échéance 2026-11-12)
+- [ ] **Rachid** : Examiner les connexions et usages des 200-300 workflows HubSpot avant intervention
+- [ ] **Rachid** : Créer un tableau de bord à partir des données de rendez-vous disponibles
+- [ ] **Sabrina** : Publier mensuellement dans Works la liste des UTM campagne à copier-coller
+- [ ] **Sabrina** : Aider Rachid à déterminer quels utilisateurs HubSpot conserver ou retirer lors de la revue des accès
+- [ ] **Rachid** : Finaliser le travail HubSpot avant que Wacim se rapproche de Boris pour la connexion Odoo
+
+**Risques & vigilances**
+- 427 valeurs UTM campagne créent des écarts de données et compliquent le reporting fiable
+- 200-300 workflows HubSpot anciens peuvent modifier automatiquement des propriétés et créer des incohérences
+- Risque de doublons dans le pipe de fidélisation si les clients résiliés ou rétractés y restent
+- Commerciaux qui déplacent les RDV R1 au lieu de créer des R2 séparés faussent le décompte
+- Nombre de licences HubSpot et comptes Google potentiellement insuffisant pour les besoins commerciaux
+- Suppression de transactions au lieu de les marquer 'perdu, doublon' efface l'historique
+
+Tags : #hubspot #iclose #pipeline #data-quality #workflows #utm
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

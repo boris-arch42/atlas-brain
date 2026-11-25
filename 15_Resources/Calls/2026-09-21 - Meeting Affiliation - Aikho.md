@@ -2,14 +2,56 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "julien@aikho.ai", "arnaud@aikho.ai"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "julien@aikho.ai", "arnaud@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-22
 ---
 
 # Meeting Affiliation - Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/09/2026 07:38).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 22/11/2026 09:01 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion de conception du programme d'affiliation et de la stratégie tarifaire pour Nova/IKO : définition des mécanismes de tracking, des commissions, des offres d'abonnement et du plan de validation produit avant levée de fonds visée avant Noël.
+
+**Décisions**
+- Lancer immédiatement des tests internes (Julien et Boris) avec au moins 5 jobs sur la V2 pour crash-tester le système
+- Démarrer avec 2-3 plans fixes simples (exemples : 200€ et 500€/mois) avant d'ajouter des plans variables
+- Implémenter un système d'affiliation basé sur un token personnel saisi à l'inscription, avec récompenses pour le parrain et le filleul
+- Utiliser un processus manuel de conversion (type Compact ICO) avec envoi de lien de paiement avant l'automatisation PSP complète
+- Structurer l'offre autour de trois piliers : évaluation en entretien, sourcing (identification + outreach) et fonctionnalités post-évaluation
+- Inclure un minimum de sourcing (15-20 invitations) dans le package entrée de gamme, proposer des add-ons sourcing en option
+- Viser un coût cible d'entretien de 0,30-0,20$ par candidat (estimation prudente actuelle : 0,50$)
+- Appliquer un buffer de 20% sur les coûts par tenant pour garantir les marges
+
+**Actions**
+- [ ] **Julien** : Produire un slide deck formel détaillant la valeur, l'économie unitaire, le pricing et l'impact client pour alignement équipe et investisseurs (échéance 2026-10-08)
+- [ ] **Julien** : Lancer les tests internes avec au moins 5 jobs sur la V2 (échéance 2026-09-28)
+- [ ] **Boris** : Lancer les tests internes avec au moins 5 jobs sur la V2 (échéance 2026-09-28)
+- [ ] **Boris** : Finaliser les paliers tarifaires concrets et les règles de remise avec Sales et Finance (échéance 2026-10-08)
+- [ ] **Alec** : Définir le mécanisme de tracking pour les conversions issues de séminaires (QR codes, codes promo ou UTM)
+- [ ] **Julien** : Mettre en place le suivi de coût par tenant avec alertes automatisées lors de dépassement de seuils
+- [ ] **Julien** : Lancer des pilotes avec Yen White et Accenture dès version testable disponible (échéance 2026-10-15)
+- [ ] **Julien** : Mesurer et segmenter le taux d'abandon par canal d'acquisition chaque semaine
+
+**Risques & vigilances**
+- Les comptes démo gratuits non contrôlés pourraient générer des coûts LLM et sourcing élevés sans conversion payante
+- Les commissions d'affiliation mal calibrées peuvent créer des tensions de trésorerie selon la cadence de facturation (mensuelle vs annuelle)
+- La complexité du paramétrage PSP (Stripe/Wop) nécessite une définition précise du pricing en amont, sinon retards
+- Les taux de drop-off varient fortement selon le canal (10% email direct vs 50-60% LinkedIn froid), impactant le coût par entretien réussi
+- Le sourcing via recherche d'email coûte ~0,20$/succès avec seulement 20% de taux de réussite, risque d'explosion des coûts si mal limité
+- La vélocité de recrutement est un arbitrage client difficile à gérer sans niveaux de service clairs par tier d'abonnement
+- Le délai de 6 semaines avant levée de fonds (Noël) est court pour obtenir des métriques robustes de validation produit et commerciale
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #affiliation #pricing #nova #aikho #levée-de-fonds
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

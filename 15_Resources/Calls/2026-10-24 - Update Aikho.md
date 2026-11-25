@@ -2,14 +2,63 @@
 type: call
 date: 2026-10-24
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "arnaud@aikho.ai", "julien@aikho.ai"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "arnaud@aikho.ai", "julien@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-22
 ---
 
 # Update Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (24/10/2026 16:14).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 22/11/2026 09:34 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète du produit Aikho : UX du Workspace et flux de publication, intégrations CRM (iClosed), contraintes Google/LinkedIn nécessitant Unipile, stratégie de montée en charge via CSM agentique, scripts standardisés, rôles et permissions admin/partenaires, et préparation du masterclass du 11 novembre chez Entrepreneurs.
+
+**Décisions**
+- Le bouton « publish » génère immédiatement tous les artefacts RH (scorecard, plan d'entretien, image) et déclenche la diffusion multi-canaux sans validation bloquante par défaut
+- iClosed devient le CRM principal pour le suivi des leads et du pipeline, avec import des 75 leads actuels
+- Un CSM agentique sera activé par défaut pour les nouveaux inscrits, désactivé pour les comptes enterprise à forte valeur qui recevront un onboarding manuel
+- Aircall sera utilisé pour les appels téléphoniques avec enregistrement, Loom pour les démos asynchrones, Sembly pour les visios
+- La certification Google OAuth (≈6k$ + revues annuelles) et l'intégration LinkedIn directe sont reportées ; Unipile reste le connecteur requis à court terme
+- Modèle de tagging UTM pour affiliés avec attribution automatique des comptes par URL personnalisée
+- Commissions cibles : 2-3% du LTV pour apporteurs d'affaires, 10% pour affiliés, avec plafonds à définir sur contrats longs
+- Masterclass le 11 novembre chez Entrepreneurs (animé par Fabrice) : 60-90min systèmes/processus + 1h pitch produit ICO avec appel à l'action deals
+
+**Actions**
+- [ ] **Julien** : Ajouter message d'aide sur les autorisations Google à cocher dans le flux de connexion
+- [ ] **Julien** : Contacter relations chez LinkedIn pour évaluer faisabilité intégration directe et revenir avec recommandation
+- [ ] **Julien** : Cartographier les cas d'usage UTM (affilié, sous-affiliés, apporteurs hiérarchiques) et partager par écrit
+- [ ] **Julien** : Envoyer brouillon du script d'appel de diagnostic avec questions conditionnelles pour onboarding (échéance 2026-10-26)
+- [ ] **Julien** : Finaliser le script CSM pour collecte de feedback automatisé et jalons de blocage (échéance 2026-10-31)
+- [ ] **Julien** : Concevoir vue admin listant comptes par utilisateur restreint (partenaires/vendeurs)
+- [ ] **Boris** : Importer les 75 leads actuels dans iClosed
+- [ ] **Boris** : Étudier mapping entre outil CSM et iClosed pour automatisation pipeline
+- [ ] **Boris** : Vérifier replays sessions live récentes et demander slides de Fabrice sur recrutement
+- [ ] **Boris** : Coordonner avec Arnaud et Fabrice le contenu et pitch du masterclass 11 novembre (échéance 2026-11-11)
+- [ ] **Arnaud** : Préparer exemples de projections de paiements LTV pour apporteurs d'affaires
+- [ ] **Arnaud** : Contacter Romane pour appel de présentation
+- [ ] **Arnaud** : Participer aux appels de planification masterclass avec Boris et Fabrice (échéance 2026-11-11)
+- [ ] **Romain** : Être briefé sur plans produit et nouvelles fonctionnalités avant vente, focus arguments économiques offres annuelles
+
+**Risques & vigilances**
+- Coût élevé de l'intégration Google OAuth (6k$ initial + revues annuelles) et délais de certification pourraient bloquer canal email natif
+- Coût par client de solutions tierces (Unibox 3,50-5$/client) impacte ROI sur clients gratuits
+- Friction utilisateur sur autorisations Google multiples provoque perte de conversions lors de l'onboarding
+- Dépendance à Unipile pour canaux Google/LinkedIn crée risque de concentration fournisseur et coûts variables
+- Exposer trop de détails bas niveau (scorecard, plan d'entretien) peut entraîner demandes de personnalisation granulaire difficiles à satisfaire
+- Volume limité de la première vague d'inscriptions retarde collecte de feedback et tests itératifs
+- Support de deux versions produit pour A/B test validation pré-publication représente effort engineering non trivial
+- Modèle de commissions cumulées (affilié 10% + apporteur 2-3%) doit rester compatible avec coûts marketing et rentabilité
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #aikho #saas-recrutement #csm-agentique #integrations-crm #onboarding-ux
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

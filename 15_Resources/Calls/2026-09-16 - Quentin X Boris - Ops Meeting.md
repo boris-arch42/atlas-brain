@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-16
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/09/2026 17:28).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement sur la V2, correctifs de sécurité, migration Clap vers Ngram, déploiement Success Core et préparation de la billetterie Scale 2027. Structuration de la stratégie de monétisation de la plateforme avec plusieurs options (upsell, freemium, affiliation).
+
+**Décisions**
+- Pousser les correctifs de sécurité au plus tard vendredi
+- Déployer Success Core ce soir
+- Publier les mises à jour Android et Apple sous 1 à 2 jours
+- Viser la bascule Clap vers Ngram sous 4 à 10 jours
+- Organiser un appel dédié monétisation/upsell avec Sabrina mercredi 15h00
+
+**Actions**
+- [ ] **Quentin** : Finaliser et pousser les correctifs de sécurité restants (échéance 2026-09-19)
+- [ ] **Quentin** : Déployer Success Core en production (échéance 2026-09-16)
+- [ ] **Quentin** : Publier les mises à jour Android et App Store (échéance 2026-09-18)
+- [ ] **Quentin** : Finaliser l'intégration HubSpot pour migration Clap vers Ngram (échéance 2026-09-26)
+- [ ] **Quentin** : Ajouter les métriques d'usage Success Core dans l'admin
+- [ ] **Quentin** : Analyser les clients avec plusieurs programmes pour évaluer opportunité upsell
+- [ ] **Boris** : Envoyer message récapitulatif semaine précédente pour validation (échéance 2026-09-17)
+- [ ] **Boris** : Organiser appel monétisation/upsell avec Sabrina (échéance 2026-09-23)
+
+**Risques & vigilances**
+- Migration Clap vers Ngram urgente pour éviter incidents opérationnels (deadline 4-10 jours)
+- Coûts par client potentiellement prohibitifs pour Moonshot (validation POC nécessaire)
+- Risque de cannibalisation des offres existantes avec nouveaux paywalls
+- Absence de métriques de conversion upsell actuelles
+- Rapprochement comptable à valider avec Jordan pour flux Apple Pay
+
+**Projets liés** : [[Manager Playbook — Core V1 & certification]]
+
+Tags : #ops #plateforme #monetisation #securite #migration-clap
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

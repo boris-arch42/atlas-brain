@@ -2,14 +2,46 @@
 type: call
 date: 2026-10-27
 source: sembly
-participants: ["boris@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Raphaël X Boris - Marketing Ops
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (27/10/2026 16:07).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point marketing ops avec Raphaël sur le retargeting Meta, la duplication du funnel VSL, et la performance commerciale. Discussion sur la création d'assets livre multi-formats et la monétisation de la liste email.
+
+**Décisions**
+- Lancer des campagnes de retargeting Meta ciblant les leads identifiés et personnes ayant réservé un appel
+- Dupliquer le quiz funnel vers un funnel VSL en campagne post-réservation/pré-appel
+- Transformer le livre existant en formats multiples (vidéo, audio, texte)
+- Migration des SDR vers HubSpot validée par le leadership
+- Tester une stratégie de monétisation de la liste email avec workshops payants et publicités gratuites dans la newsletter
+
+**Actions**
+- [ ] **Boris** : Construire un calendrier dédié pour le déploiement du retargeting Meta
+- [ ] **Boris** : Dupliquer la campagne personnalisée existante pour le funnel VSL
+- [ ] **Raphaël** : Contacter Anis pour vérifier les ressources disponibles pour produire les versions audio et texte du livre
+- [ ] **Raphaël** : Présenter à Alec la stratégie de monétisation de la liste email inspirée de John Venture
+- [ ] **Boris** : Rencontrer le chef de projet pour améliorer le flux des tâches et la coordination offshore
+- [ ] **Boris** : Allouer un membre de son équipe si Anis ne peut pas soutenir la production multi-format du livre
+
+**Risques & vigilances**
+- La migration des SDR vers HubSpot génère une friction temporaire et une perte de temps opérationnel
+- La performance de closing de l'équipe commerciale reste le principal goulot d'étranglement malgré l'amélioration des métriques SDR
+- La liste email est sous-exploitée et mal segmentée, nécessitant tests et optimisation avant scaling
+- La coordination des équipes offshore nécessite une rigueur accrue à travers les fuseaux horaires
+
+Tags : #marketing-ops #retargeting-meta #funnel-vsl #performance-commerciale #monetisation-email
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

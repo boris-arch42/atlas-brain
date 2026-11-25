@@ -2,14 +2,55 @@
 type: call
 date: 2026-09-18
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Review le programme core team building
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/09/2026 15:24).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Review complète du programme de team-building sur 3 jours et validation de la structure des modules avec focus sur le samedi. Présentation d'un dashboard événementiel transverse (marketing, sales, product, finance) et alignement sur les livrables concrets à produire pour le 1er octobre.
+
+**Décisions**
+- Le programme de team-building s'articulera sur 3 jours avec le samedi comme journée intensive de modules structurés
+- L'objectif de l'offsite est de sortir avec 3 à 5 macro-actions prioritaires avec owner et deadline, plutôt qu'un document exhaustif non actionnable
+- Le format des sessions privilégiera des modules préconstruits et interactifs plutôt que de la co-création ouverte
+- Les dashboards seront construits bottom-up (micro vers macro) pour favoriser l'adoption
+- Un créneau de 45 minutes sera réservé pendant l'immersion pour un call sales obligatoire avec toute l'équipe commerciale
+
+**Actions**
+- [ ] **Alec** : Préparer les slides Vision et Sales structure pour l'offsite
+- [ ] **Boris** : Coordonner et valider les slides Delivery et l'organigramme proposé
+- [ ] **Boris** : Partager le document Core Team pour permettre à Alec de finaliser ses supports (échéance 2026-09-19)
+- [ ] **Boris** : Organiser des revues de données fréquentes avec chaque département (marketing, sales, product, finance)
+- [ ] **Boris** : Implémenter sur le dashboard un visuel comparant le revenu des leads avec call réservé vs opt-in simple
+- [ ] **Boris** : Préparer les scores actuels et métriques des 6 derniers mois comme base de référence pour l'offsite
+- [ ] **Boris** : Viser un effet visuel fort des dashboards pour le 1er octobre (échéance 2026-10-01)
+- [ ] **Anis** : Retravailler le module Masterclass Management avec des livrables concrets et modules préconstruits
+- [ ] **Jordan** : Préparer présentation finance/admin de 20 minutes (outils, valeur, responsabilités)
+- [ ] **Fabrice** : Préparer présentation partenariats de 20 minutes (ambassadeurs, synchronisation delivery)
+- [ ] **Équipe** : Finaliser les decks et dashboards avant l'offsite et les faire circuler pour validation
+- [ ] **Équipe** : Coordonner la logistique avec Nicole ou Sabrina (hôtel, restaurant, horaires)
+- [ ] **Équipe** : Placer le créneau call sales de 45 minutes dans l'agenda de l'immersion
+- [ ] **Équipe** : Connecter les dashboards à SuperDuo et SuperDuo SDR pour visibilité cohérente
+
+**Risques & vigilances**
+- Seulement 35% des formulaires opt-in sont complétés, créant un gap de données de 65% qui réduit la fiabilité des analyses
+- Risque de sessions trop passives ou de co-création non préparée produisant des résultats faibles
+- Confusion sur les fuseaux horaires et heures de fin du jour 2 nécessitant une mise à jour de l'agenda
+- Absence potentielle de Raffi un matin impactant la planification de certaines sessions
+- Promesse de résolution des problèmes de data au 30 septembre avec livraison visuelle au 1er octobre, délai serré
+
+Tags : #team-building #offsite #dashboards #data #management
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,51 @@
 type: call
 date: 2026-10-19
 source: sembly
-participants: ["boris@entrepreneurs.com", "abderrahim@entrepreneurs.com", "alec.henry@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Abdel El Mahi]]", "[[Alec Henry]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Slides recrutement 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (19/10/2026 16:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Préparation de l'atelier recrutement pour un événement : finalisation des slides, intégration d'une démo plateforme en direct, ajout d'extraits audio IA, et mise en place d'un dispositif de collecte de leads via QR code.
+
+**Décisions**
+- Faire une démonstration de la plateforme en direct pendant l'atelier (avec demande d'un pupitre)
+- Intégrer un extrait audio de 15-30 secondes d'un échange de recrutement IA-humain pour effet 'waouh'
+- Collecter les leads via QR code vers formulaire simple, suivi par relance des coachs dans la semaine
+- Ne pas nommer le partenaire externe dans le CTA, utiliser formulation générique 'solution que nous utilisons'
+- Format atelier : 40 min présentation + 20 min exercice, suivi de la conférence Pascal
+
+**Actions**
+- [ ] **Abdel** : Envoyer les 2 fichiers audio (45 min) et le deck de slides via Slack (échéance 2026-10-20)
+- [ ] **Boris** : Reformatter les slides pour grand écran : agrandir captures, retirer logo AECO, intégrer extraits audio (échéance 2026-10-21)
+- [ ] **Boris** : Préparer un parcours de démonstration court de la plateforme (échéance 2026-10-21)
+- [ ] **Boris** : Tester connectivité mobile et partage écran depuis téléphone (échéance 2026-10-21)
+- [ ] **Alec** : Demander un pupitre (lectern) pour l'atelier (échéance 2026-10-20)
+- [ ] **Alec** : Vérifier avec Cédric la charte visuelle validée (DA et rouge) (échéance 2026-10-20)
+- [ ] **Alec** : Valider le libellé du lien QR pour le CTA (échéance 2026-10-20)
+- [ ] **Alec** : Confirmer audiovisuel et timing exact avec Pascal et équipe événementielle (échéance 2026-10-21)
+
+**Risques & vigilances**
+- Problèmes de connectivité réseau dans la salle pour la démo en direct
+- Incohérence de branding si la charte visuelle n'est pas confirmée avec Com
+- Dépassement de timing (atelier + conférence Pascal + Q&A)
+- Mauvaise qualité audio si les extraits ne sont pas testés sur le système de présentation
+- Conversion faible des leads si les coachs ne relancent pas rapidement après l'événement
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #recrutement #atelier #demo-plateforme #event #lead-generation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

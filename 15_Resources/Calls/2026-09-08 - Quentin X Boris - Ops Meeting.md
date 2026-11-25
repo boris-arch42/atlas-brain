@@ -2,14 +2,54 @@
 type: call
 date: 2026-09-08
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (08/09/2026 16:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion d'alignement ops entre Boris et Quentin couvrant la release V2, la migration Ngram/CLAP, le module Success Core, la qualité des données et la roadmap septembre (monétisation, R&D moonshot, marketplace). Le déploiement V2 (216 commits, 140k lignes) est prévu dans les heures suivant l'appel.
+
+**Décisions**
+- La bannière cookies sur les funnels devient optionnelle pour permettre des tests A/B
+- Success Core sera un questionnaire périodique (M0, M3, M6, M9, M12) avec scoring sur 100 pour suivre l'évolution client
+- Approche de communication centralisée via le channel 42labs pour améliorer la visibilité
+- Module concierge rattaché à un compte opérateur dédié plutôt qu'à une personne
+- Migration complète vers Ngram avec suppression définitive des licences CLAP après septembre
+- Les dashboards utiliseront la plateforme comme source de vérité unique
+
+**Actions**
+- [ ] **Léonard** : Implémenter la bannière cookies comme réglage optionnel sur les funnels
+- [ ] **Boris** : Publier la PRD technique Success Core retravaillée sur le channel 42labs
+- [ ] **Quentin** : Finaliser les vérifications et pousser la release V2 en production (échéance 2026-09-08)
+- [ ] **Quentin** : Se synchroniser avec Wasim pour réaliser le cutover des licences CLAP (échéance 2026-09-30)
+- [ ] **Sabrina** : Soumettre un rapport formel d'issue sur les écarts de données du leaderboard via Annie
+- [ ] **Quentin** : Fournir les endpoints de données et le mapping pour les dashboards de Boris
+- [ ] **Quentin** : Renvoyer le guide workflow downsell/recouvrement à l'équipe
+- [ ] **Sabrina** : Créer la persona voix du concierge
+- [ ] **Boris** : Programmer un appel monétisation/roadmap avec Fabrice, Jordan, Alec et Quentin (échéance 2026-09-15)
+- [ ] **Quentin** : Informer Fabrice et Sabrina de son absence au Core Team Building Marrakech
+
+**Risques & vigilances**
+- Confusion persistante sur les canaux de demandes créant duplication et travail parallèle
+- Perception de retards malgré respect de la roadmap due à communications internes
+- Qualité des données historiques générant des incohérences dans les vues (leaderboard)
+- Projet marketplace/annuaire prestataires sans propriétaire depuis le départ d'Aziz
+- Projet Moonshot R&D avec enjeux sécurité/confidentialité majeurs et timeline longue (jusqu'à janvier)
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]] · [[Clover SaaS — Conciergerie]]
+
+Tags : #ops-meeting #release-v2 #migration-ngram #success-core #roadmap-septembre
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

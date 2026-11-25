@@ -2,14 +2,67 @@
 type: call
 date: 2026-09-15
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "alexandre.gauthier@entrepreneurs.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Point Pôle SDR
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (15/09/2026 18:20).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point global sur le pôle SDR : forte baisse des revenus du lead SDR (de 6-8k€ à 2k€/mois), bugs techniques majeurs (SDR Hub, iClosed, routage leads), incohérences calendrier et impact sur la performance. Décision de recruter 5 SDR en urgence, corriger les bugs prioritaires et revoir la rémunération du lead SDR avec variable sur revenu encaissé.
+
+**Décisions**
+- Lancer immédiatement le recrutement et l'onboarding d'un premier bloc de 5 SDR pour tester la montée en charge
+- Prioriser la correction des bugs SDR Hub, routage liste d'alertes et synchronisation calendrier iClosed
+- Indexer la rémunération variable du lead SDR sur le cash encaissé et non l'ARR signé
+- Proposer un package de rémunération test pour les nouveaux SDR : fixe plus faible + commission plus élevée ou période d'essai variable
+- Boris prend provisoirement le rôle de Head of Sales pour gérer disponibilité des rendez-vous
+- Viser 80k€ signés par SDR par mois, avec objectif d'1M€/mois via le pôle SDR d'ici janvier 2027
+- Différencier les scripts SDR selon la source de lead (challenge, VSL, quiz, classer)
+- Augmenter les budgets Evergreen et auditer le lot des 5000 leads pour détecter doublons et leads déjà appelés
+
+**Actions**
+- [ ] **Boris** : Coordonner l'investigation et la correction urgente des bugs SDR Hub, routage alertes et tracking leads (échéance 2026-09-16)
+- [ ] **Boris** : Aligner avec Alex le reporting et suivi des données SDR pour refléter la réalité (échéance 2026-09-16)
+- [ ] **Boris** : Organiser appel technique de suivi avec Alex et Lucas pour définir les correctifs SDR Hub (échéance 2026-09-16)
+- [ ] **Boris** : Vérifier et standardiser les mappings entre tranches de revenu et équipes de closers dans iClosed (échéance 2026-09-16)
+- [ ] **Alex Gauthier** : Recruter et onboarder 5 SDR (premier bloc) avec profils expérimentés (Madrid/Dubaï) (échéance 2026-09-30)
+- [ ] **Alex Gauthier** : Revérifier les créneaux calendrier et confirmer les incohérences observées (échéance 2026-09-16)
+- [ ] **Alex Gauthier** : Documenter les bugs iClosed avec captures/vidéos pour accélérer le traitement (échéance 2026-09-16)
+- [ ] **Lea** : Créer immédiatement les adresses e-mail pour les 4 SDR Momentum en attente (échéance 2026-09-16)
+- [ ] **Lea** : Finaliser les détails d'onboarding des SDR Momentum (échéance 2026-09-18)
+- [ ] **RH** : Proposer un package de rémunération test pour SDR expérimentés (échéance 2026-09-20)
+- [ ] **Finance** : Modéliser coût par SDR versus revenu attendu avec délais de break-even et ramp-up (échéance 2026-09-22)
+- [ ] **Finance** : Proposer structure de rémunération variable pour lead SDR (0,5-1,5% du revenu encaissé) (échéance 2026-09-20)
+- [ ] **Raph** : Augmenter les budgets Evergreen convenus et surveiller qualité/fraîcheur des leads (échéance 2026-09-20)
+- [ ] **Marketing** : Auditer le lot des 5000 leads pour détecter doublons et leads déjà appelés (échéance 2026-09-22)
+- [ ] **Sales Ops** : Vérifier synchronisation calendrier et liens pour confirmer créneaux disponibles (échéance 2026-09-18)
+- [ ] **People Ops** : Formaliser les trajectoires d'évolution pour le pôle SDR (échéance 2026-09-30)
+- [ ] **People Ops** : Concevoir logique d'incitation pour nouvelles recrues Sales sur leads SDR (échéance 2026-09-25)
+
+**Risques & vigilances**
+- Turnover SDR imminent si les bugs outils et problèmes data ne sont pas résolus rapidement
+- Baisse de motivation et démotivation des SDR due aux irritants opérationnels répétés
+- Risque de perte de revenus si les créneaux calendrier restent incohérents et bloquent les bookings
+- Capacité commerciale limitée pour absorber le volume de rendez-vous générés par le scale SDR
+- Qualité insuffisante des leads (40% d'appels productifs seulement) impacte le moral et la performance
+- Attribution inégale des leads et comportements 'mercenaires' pendant les challenges nuisent à l'équité
+- Rémunération actuelle du lead SDR insoutenable (2k€ vs 6-8k€ avant), risque de départ
+- Délai de ramp-up des nouveaux SDR versus objectifs ambitieux (1M€/mois janvier 2027)
+- Dépendance forte à la résolution des bugs techniques pour tenir les délais de scale
+
+**Projets liés** : [[Kelly Launch — infra commerciale & Sales Bis]] · [[Refonte verticale Data-IA-Tech-Ops]]
+
+Tags : #pole-sdr #recrutement #bugs-techniques #remuneration #scale-commercial
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

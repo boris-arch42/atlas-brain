@@ -2,14 +2,47 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 15:53).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel sur plusieurs chantiers : finalisation du non-boarding payant, mise en vente des chambres d'immersion et réactivation de l'upsell Privilège. Discussion approfondie sur les écarts de chiffres de fidélisation (15k€ vs 48k€ vs 61k€) et préparation d'une renégociation jeudi avec Alec sur la contribution de l'équipe Tech.
+
+**Décisions**
+- Réactiver l'upsell Essentiel vers Privilège avec limite de 48 places
+- Utiliser le processus fidélisation existant dans HubSpot plutôt que créer un nouvel outil
+- Privilégier l'utilisation des outils et données déjà en place avant d'ajouter de la complexité
+
+**Actions**
+- [ ] **Quentin** : Finaliser la dernière vérification du non-boarding payant pour permettre à Jordan de lancer les ventes
+- [ ] **Quentin** : Créer les pages web pour la mise en vente des chambres d'immersion
+- [ ] **Quentin** : Réactiver l'option d'upsell Privilège dans l'administration
+- [ ] **Quentin** : Préparer un récapitulatif des réalisations et de l'avancement de l'équipe pour la discussion de jeudi avec Alec (échéance 2026-11-20)
+- [ ] **Quentin** : Corriger les deux erreurs du dossier avatars clients et le relayer avec Léonard
+- [ ] **Boris** : Préparer la présentation jeudi sur la possibilité de faire des appels clients pour recueillir des retours (échéance 2026-11-20)
+- [ ] **Quentin** : Examiner les messages de Léa concernant les alertes Sauron
+
+**Risques & vigilances**
+- Écart important entre les chiffres de fidélisation annoncés (61k€ vs 48k€ vs 15k€ réels selon Quentin) - risque de confusion dans le pilotage
+- Attribution contestable de ventes à la fidélisation (immersions, places Scale, parcours publicitaire) alors qu'elles ne reflètent pas les actions de fidélisation
+- Manque de coordination et de retours sur le processus de fidélisation malgré les relances de Quentin
+- Volume élevé d'alertes Sauron (une dizaine depuis la veille) qui pourrait surcharger le suivi
+- Équipe Tech en position de devoir régulièrement justifier son travail et défendre des données potentiellement inexactes
+- Cas Jamel Chouch : paiement de 1000€ effectué mais contrat non signé et deal indiqué comme engagé
+
+Tags : #ops #fidélisation #upsell #chiffres #avatars-clients
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

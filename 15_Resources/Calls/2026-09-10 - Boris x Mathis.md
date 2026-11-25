@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-10
 source: sembly
-participants: ["boris@entrepreneurs.com", "mathisfaivre.pro@gmail.com"]
+participants: ["[[Boris Arduy]]", "mathisfaivre.pro@gmail.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Boris x Mathis
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/09/2026 22:08).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Échange stratégique sur la refonte de l'outillage opérationnel : abandon progressif de Notion au profit d'une plateforme custom développée offshore pour mieux intégrer CRM, delivery et portails clients. Discussion approfondie sur les modèles de staffing (créatifs vs PM en frontal client) et l'automatisation des signaux commerciaux depuis les appels.
+
+**Décisions**
+- Construire une plateforme custom plutôt que continuer à adapter Notion
+- Recourir à une équipe dev offshore (Inde/Pakistan) pour développer et maintenir l'outil
+- Prototyper rapidement une V1 à partir des données Notion actuelles avant un build complet
+- Automatiser la détection des signaux commerciaux dans les transcriptions d'appels
+- Imposer l'usage des numéros Aircall et API WhatsApp Business pour centraliser l'historique client
+- Mettre en place un scoring client pour répartir l'effort sales/PM selon la valeur
+- Établir une bibliothèque de processus ouverte avec propriétaire unique et revues à 30 puis 90 jours
+
+**Actions**
+- [ ] **Mathis** : Préparer un document de spécification consolidant les besoins de chaque pôle (sales, delivery, portail client)
+- [ ] **Mathis** : Prototyper via Claude/Cloud Code une UX à partir des données Notion existantes
+- [ ] **Nathan** : Retravailler le schéma de base de données pour clarifier handoffs, briefs et tâches par rôle
+- [ ] **Boris** : Partager l'outil ICO pour automatiser le screening des candidats dev offshore
+- [ ] **Mathis** : Coordonner participation à l'événement d'immersion (sept/oct ou jan/fév)
+
+**Risques & vigilances**
+- Baisse temporaire de productivité pendant la migration des outils
+- Complexité d'adoption du nouvel outil si l'accompagnement terrain est insuffisant
+- Risques de delivery et de sécurité avec des devs offshore si les comptes critiques ne restent pas propriété de l'entreprise
+- Friction opérationnelle persistante entre sales, PM et créatifs tant que les workflows ne sont pas automatisés
+- Perte d'opportunités commerciales si les relances ne sont pas systématisées rapidement
+- Modèle de staffing (créatifs vs PM en frontal) non encore arbitré selon les segments clients
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]] · [[Refonte verticale Data-IA-Tech-Ops]]
+
+Tags : #plateforme-custom #automatisation-commerciale #offshore-dev #crm-delivery #notion-limits
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

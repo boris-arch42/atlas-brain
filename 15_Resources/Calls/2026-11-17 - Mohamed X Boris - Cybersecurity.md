@@ -2,14 +2,52 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "mohamed@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Mohamed]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Mohamed X Boris - Cybersecurity
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 13:52).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point cybersécurité complet couvrant l'audit des plateformes, l'inventaire de 66 SaaS (250k€), les résultats de la campagne de phishing d'octobre (10 personnes ont saisi leur mot de passe, niveau record) et la planification d'une sensibilisation collective.
+
+**Décisions**
+- Organiser une masterclass de sensibilisation au phishing pour tous les coachs (non ciblée pour ne stigmatiser personne)
+- Limiter les droits de superadministrateur, notamment pour les développeurs
+- Vérifier et attribuer les propriétaires des 66 SaaS identifiés
+- Paramétrer les futures réunions pour que seul l'organisateur autorise les participants
+
+**Actions**
+- [ ] **Mohamed** : Réauditer le dépôt GitHub plateforme V2 (échéance 2026-11-17)
+- [ ] **Mohamed** : Transmettre le fichier Excel des SaaS complet à Wassim pour vérification des propriétaires
+- [ ] **Mohamed** : Envoyer le rapport PDF de la campagne phishing d'octobre à Alec sur Slack
+- [ ] **Mohamed** : Envoyer à Boris 2-3 créneaux pour la masterclass phishing semaine suivante (échéance 2026-11-24)
+- [ ] **Mohamed** : Préparer le contenu de la masterclass phishing (30 min) (échéance 2026-11-24)
+- [ ] **Boris** : Vérifier et attribuer les propriétaires des 66 SaaS identifiés
+- [ ] **Boris** : Coordonner avec Claire l'organisation de la masterclass phishing pour tous les coachs
+- [ ] **Boris** : Relancer Jordan sur la plateforme financière lors du prochain échange
+- [ ] **Wassim** : Réaliser l'audit de sécurité de Work
+
+**Risques & vigilances**
+- Paramètres de réunions permettant à des participants non autorisés de rejoindre
+- Failles de sécurité V1 non corrigées lors du passage V2
+- 10 personnes ont saisi leur mot de passe lors du test phishing (niveau record)
+- Plusieurs outils SaaS sans propriétaires clairement identifiés (250k€ de dépenses jan-oct)
+- Accès superadministrateur trop largement distribués
+- Mots de passe LinkedIn à risque pour certains collaborateurs
+
+**Projets liés** : [[Sprint Cybersec & phishing]] · [[Audit SaaS-IT — économies]]
+
+Tags : #cybersécurité #phishing #audit-saas #sensibilisation #gestion-accès
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

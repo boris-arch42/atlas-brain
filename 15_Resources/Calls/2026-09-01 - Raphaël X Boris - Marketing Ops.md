@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-01
 source: sembly
-participants: ["boris@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Raphaël X Boris - Marketing Ops
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (01/09/2026 11:13).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue des écarts de conversion entre les outils marketing et alignement de l'attribution. Démonstration du SDR Hub V2 avec scoring en temps réel et préremplissage automatique des calendriers.
+
+**Décisions**
+- Créer un événement de conversion dédié 'Quiz Final' avec UTMs propres pour éviter la contamination des données
+- Standardiser les filtres de date sur 7 jours glissants pour aligner les reportings entre tous les outils
+- Désactiver les lead magnets sans UTMs traçables (leads 'mystère')
+- Déployer le SDR Hub V2 avec scorecard guidé et notifications temps réel
+
+**Actions**
+- [ ] **Boris** : Créer l'événement dédié 'Meeting with an expert' avec emoji distinct et UTM score-up (échéance 2026-09-02)
+- [ ] **Boris** : Aligner les filtres de date sur 7 jours glissants dans tous les dashboards (échéance 2026-09-02)
+- [ ] **Boris** : Activer l'intégration de l'attribution Google dans le tracking
+- [ ] **Boris** : Créer les comptes d'accès individuels pour Raphaël sur le tableau de bord
+- [ ] **Boris** : Définir un processus clair de capture des no-shows avec Lucas
+- [ ] **Boris** : Finaliser les connexions des appels SDR et EROS collecté dans le data tool V2
+- [ ] **Boris** : Investiguer avec Uber et WOP les écarts de conversion restants si l'alignement des dates ne suffit pas
+- [ ] **Raphaël** : Implémenter le nouvel événement dédié dans le funnel Quiz Final (échéance 2026-09-03)
+- [ ] **Raphaël** : Appliquer les nouveaux UTMs sur tous les funnels concernés
+- [ ] **Raphaël** : Partager les liens d'embed et cheat-charts pour remplacer les anciens embeds
+
+**Risques & vigilances**
+- Écarts de conversion entre outils non expliqués malgré l'alignement des dépenses globales (12 vs 32 vs 39 sur 7 jours)
+- Attribution Google non encore intégrée, vision incomplète de la performance cross-canal
+- No-shows non trackés de manière fiable par manque de processus formalisé côté closers
+- Réutilisation de noms d'événements qui pollue les comptes de conversion
+- Leads 'mystère' sans UTMs dont l'origine ne peut être retracée
+- Lancement potentiel sur LinkedIn nécessitera configuration tracking supplémentaire
+
+Tags : #marketing-ops #attribution #tracking #sdr-hub #conversion
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

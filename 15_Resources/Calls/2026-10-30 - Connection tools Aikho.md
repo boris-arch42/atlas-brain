@@ -2,14 +2,48 @@
 type: call
 date: 2026-10-30
 source: sembly
-participants: ["boris@entrepreneurs.com", "julien@aikho.ai", "arnaud@aikho.ai"]
+participants: ["[[Boris Arduy]]", "julien@aikho.ai", "arnaud@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Connection tools Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (30/10/2026 22:55).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement produit Aikho avec migration du moteur d'entretien vers DeepSync V2 (réduction coûts de 0,85€ à 0,25€ par candidat) et définition de la stratégie CRM/workflow commercial : iClose pour centraliser les leads pré-inscription, plugin cloud pour exposer l'intelligence Aikho aux commerciaux, et approche manuelle progressive pour les premiers appels CSM avant automatisation.
+
+**Décisions**
+- Migration vers DeepSync V2 validée avec calibration en cours jusqu'au week-end
+- iClose centralisera les leads pré-inscription, ICO gère les clients inscrits
+- Développement d'un plugin cloud prioritaire pour intégrer l'intelligence Aikho dans les workflows commerciaux
+- Approche manuelle pour les 20-30 premiers appels avec enregistrement via Google Meet/Gemini
+- Privilégier téléphone et WhatsApp pour premiers contacts, limiter l'emailing pour protéger la réputation du domaine
+- Attendre début de semaine prochaine pour relancer les 5 prospects Marrakech s'ils n'ont pas ouvert de poste
+
+**Actions**
+- [ ] **Julien** : Terminer calibration DeepSync V2 et simulations (échéance 2026-11-02)
+- [ ] **Julien** : Envoyer récapitulatif hebdomadaire avancement produit et roadmap
+- [ ] **Arnaud** : Envoyer récapitulatif hebdomadaire sujets commerciaux et gouvernance
+- [ ] **Julien** : Développer plugin cloud MCP/Claude pour intelligence commerciale (échéance 2026-11-02)
+- [ ] **Arnaud** : Importer leads Entrepreneur dans iClose via CSV et configurer transferts landing pages
+- [ ] **Arnaud** : Recontacter prospects Marrakech si pas d'ouverture de poste début semaine (échéance 2026-11-03)
+
+**Risques & vigilances**
+- Coût des abonnements iClose si montée en charge de l'équipe commerciale
+- Risque de spam et dégradation réputation domaine si emailing mal calibré
+- Complexité d'intégration entre iClose et ICO/Aikho à clarifier progressivement
+- Perception investisseurs US potentiellement négative sur usage DeepSeek (atténué par hébergement CoreWeave US)
+- Vide de gestion des leads pré-inscription tant que le workflow iClose/ICO n'est pas rodé
+
+Tags : #aikho #crm #deepsync-v2 #plugin-cloud #workflow-commercial
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

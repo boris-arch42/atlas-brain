@@ -2,14 +2,68 @@
 type: call
 date: 2026-11-02
 source: sembly
-participants: ["42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "abderrahim@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Abdel El Mahi]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/11/2026 13:35).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion Core Meeting couvrant octobre (816 k€, quasi équilibre) et préparant le plan agressif de novembre avec objectif 1,2-1,3 M€ cash. Focus sur récupération trésorerie, réduction no-shows, restructuration SDR (pivot Liban, migration CloudTalk), arbitrage budget Ads (~250 k€), segmentation leads débutants/scaling et automatisation tracking.
+
+**Décisions**
+- Budget Ads novembre réduit à ~250 k€ (vs 400 k€ initial) avec surveillance des 3-5 premiers jours
+- Externalisation partielle des leads débutants/Incubator, maintien interne des leads scaling premium
+- Migration SDR vers CloudTalk et recrutement massif au Liban (objectif 10 SDR)
+- Automatisation alertes no-show via Google Meet logs vers Super Joe et Slack
+- Lancement Evergreen Suisse ciblé le 15 novembre avec contenu adapté débutants
+- Réunion mensuelle du 16 novembre positionnée comme boost motivation (pas turnaround)
+- Plan 75 jours reste confidentiel, non communiqué à l'ensemble de l'entreprise
+
+**Actions**
+- [ ] **Jordan** : Auditer les paiements et factures fournisseurs décalés d'octobre vers novembre (échéance 2026-11-03)
+- [ ] **Jordan** : Envoyer les appels de facturation aux commerciaux le lendemain (automatisation) (échéance 2026-11-03)
+- [ ] **Sabrina** : Finaliser squad technique Evergreen SDR dans HubSpot (échéance 2026-11-08)
+- [ ] **Sabrina** : Collecter preuves confirmations clients sur commerciale avec absences répétées (échéance 2026-11-05)
+- [ ] **Rachid** : Conduire 15 entretiens SDR Liban et embaucher 5 nouvelles recrues (échéance 2026-11-09)
+- [ ] **Rachid** : Nettoyer HubSpot Sales avec Sabrina (échéance 2026-11-10)
+- [ ] **Océane** : Prendre la responsabilité formelle du process masterclass après formation (échéance 2026-11-15)
+- [ ] **Océane** : Créer canal Slack unique pour validation masterclasses (échéance 2026-11-04)
+- [ ] **Océane** : Publier calendrier centralisé des événements actifs (échéance 2026-11-05)
+- [ ] **Fabrice** : Ajuster ciblages publicitaires après audit analytics (cible 150-250 k€ CA) (échéance 2026-11-08)
+- [ ] **Fabrice** : Renforcer investissement VSL incluant Swiss VSL (échéance 2026-11-10)
+- [ ] **Fabrice** : Préparer webinar 17 novembre ciblant entrepreneurs 250k€+ (échéance 2026-11-17)
+- [ ] **Cédric** : Implémenter automatisation alertes Google Meet (3min Slack, 5min manager, 15min fallback SDR) (échéance 2026-11-10)
+- [ ] **Cédric** : Centraliser logs présence dans Hotspot avec dashboards couleur (échéance 2026-11-08)
+- [ ] **Alec** : Préparer pitch et créas lancement Evergreen Suisse pour le 15 novembre (échéance 2026-11-14)
+- [ ] **Alec** : Organiser coaching ciblé mindset et objections pour commerciaux (échéance 2026-11-10)
+- [ ] **Claire** : Organiser brainstorming automatisation facturation fournisseurs (échéance 2026-11-06)
+- [ ] **Claire** : Déplacer masterclass recrutement au 17 ou 18 novembre (échéance 2026-11-05)
+
+**Risques & vigilances**
+- Décalages de paiements fournisseurs d'octobre créent pression novembre-décembre non quantifiée
+- Moral commercial bas et désengagement de plusieurs closers impactent taux de closing (baisse de 8% à 3-6%)
+- Délai médian R1-signature à 21 jours immobilise cash et crée dette de conversion
+- Calendriers de closer fermés créent goulots d'étranglement de réservation
+- No-shows élevés suite à bug routage homepage, correction récente à surveiller
+- Leads historiques sans traces d'appels ni notes empêchent vérification activité réelle
+- Manque de boucle feedback entre dashboards et SDR masque problèmes de ciblage publicitaire
+- Risque dilution marque premium si confusion Builder/Incubator dans communication externe
+- Plan 75 jours perçu comme plan de sauvetage si mal communiqué, risque démobilisation
+- Montée en charge SDR conditionnée à finalisation technique (HubSpot, CloudTalk) sous 15 jours
+
+**Projets liés** : [[Trésorerie & Finance]] · [[Clover SaaS — Conciergerie]] · [[MTS — Made To Scale]] · [[Communauté gratuite ENT — lead magnet & réactivation base]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #tresorerie #plan-75-jours #restructuration-sdr #conversion-commerciale #evergreen #budget-ads #tracking-automatisation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

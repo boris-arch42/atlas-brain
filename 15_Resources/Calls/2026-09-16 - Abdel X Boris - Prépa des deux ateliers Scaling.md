@@ -2,14 +2,48 @@
 type: call
 date: 2026-09-16
 source: sembly
-participants: ["abderrahim@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Abdel El Mahi]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Abdel X Boris - Prépa des deux ateliers Scaling 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/09/2026 11:27).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Préparation des supports d'ateliers Scaling pour Alec, couvrant la structuration opérationnelle/data chez entrepreneurs.com et le process de recrutement automatisé via ICO/Aïko. Identification des économies réalisées (consolidation outils, optimisation dashboards, recrutement international) et des livrables attendus (captures écran, prompts, templates).
+
+**Décisions**
+- Production d'un workbook/cockpit KPI manuel pour la prise de décision en atelier (coûts humains, outils, spend pub, marges)
+- Adoption d'une approche dashboard bottom-up partant des besoins funnel de chaque équipe plutôt que macro d'abord
+- Fourniture d'un prompt réutilisable pour générer un artefact dashboard et un brief de poste IA
+- Transmission à ICO des templates de scorecard et process de recrutement pour déploiement client
+- Boris produit 4 captures d'écran clés (onboarding ICO, dashboard anonymisé) pour intégration slides
+
+**Actions**
+- [ ] **Boris** : Fournir 4 captures d'écran anonymisées : étapes ICO et dashboard avec chiffres modifiés
+- [ ] **Boris** : Partager modèle PDF et prompt de génération de brief de poste + scorecard
+- [ ] **Abdel El Mahi** : Définir avec Jordan le résultat final du workbook KPI
+- [ ] **Abdel El Mahi** : Relancer Alec, Anisse et parties prenantes pour collecte éléments manquants et validations
+- [ ] **Boris** : Vérifier la stack technologique d'ICO/Aïko (OpenAI, Anthropic ou propriétaire)
+
+**Risques & vigilances**
+- Risque de représentation inexacte des idées d'Anisse si coordination insuffisante
+- Incertitude sur présence physique de Boris à l'immersion complète (seulement noyau dur confirmé)
+- Taux d'abandon candidats élevé après découverte des étapes de qualification IA (trade-off acceptable)
+- Erreurs d'évaluation IA rares mais possibles, nécessitant validation humaine finale
+- Coût exact du plan ICO à confirmer (estimation ~200$ mais non validée)
+
+**Projets liés** : [[Immersion]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #scaling #dashboard #recrutement-ia #ico-aiko #optimisation-couts
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,48 @@
 type: call
 date: 2026-09-07
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/09/2026 10:26).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire IA couvrant le déploiement complet de Superbob, Sales Pilot et autres outils internes, ainsi que la gestion de crise suite au conflit Alec-Aziz nécessitant une transition Head of Sales intérimaire avec Karim jusqu'au 30 septembre.
+
+**Décisions**
+- Superbob est en production à 100% avec analyse automatique des sessions de coaching
+- Nouveau standard de livraison : doc besoins + réunion cadrage + vidéo Loom pour l'adoption
+- Aziz part au 30 septembre (ou avant), Karim assure l'intérim Head of Sales
+- Refonte complète UI/UX de Super Joe avec gamification et To-Do automatisé
+- Mohamed est la personne unique pour provisionner tous les accès (principe 'accès = Mohamed')
+- Itérations hebdomadaires rapides pour Super Joe au lieu de roadmap longue
+
+**Actions**
+- [ ] **Anisse** : Session de coaching communication avec Boris (échéance 2026-09-10)
+- [ ] **Anisse** : Envoyer quiz 10 questions à Julien pour évaluer compréhension Sales Blueprint
+- [ ] **Anisse** : Tenir Boris informé des retours Sales Blueprint et transfert ownership
+- [ ] **Wassim** : Démarrer refonte Super Joe et livrer version fonctionnelle pour revue (échéance 2026-09-09)
+- [ ] **Boris** : Prendre en charge sujets humains entre Alec et équipe (insultes, facture Clap)
+- [ ] **Anisse** : Communiquer plan intérim Head of Sales aux parties prenantes
+
+**Risques & vigilances**
+- Instabilité du leadership d'Alec avec cycles entre vision élevée et doutes extrêmes impactant l'équipe
+- Aucun successeur long terme identifié pour remplacer Aziz comme Head of Sales
+- Duplication fonctionnalités entre Odoo et Worx pour RH/congés nécessite arbitrage
+- Départ d'Aziz peut impacter organisation commerciale et déploiement SDR/closing
+- Processus développement actuel inversé (propositions tech vs besoins business) ralentit évolution produit
+
+Tags : #ia #superbob #sales-pilot #crise-leadership #transition-sales
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

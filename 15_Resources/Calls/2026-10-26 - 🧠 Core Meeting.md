@@ -2,14 +2,64 @@
 type: call
 date: 2026-10-26
 source: sembly
-participants: ["42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "abderrahim@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Abdel El Mahi]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (26/10/2026 12:01).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète du plan 75 jours face à la dégradation de performance depuis juin : backlog de facturation en chute de 4M€ à 2,3M€, objectif urgent de 800k€ de cash encaissé ce mois. Activation de tous les leviers de croissance (SDR, Evergreen, FIDÉ, upsells) avec responsables assignés et consolidation des outils de pilotage.
+
+**Décisions**
+- Validation du devis d'aménagement des nouveaux bureaux, démarrage des travaux
+- Abandon du Hub dédié SDR, consolidation complète dans HubSpot avec création de 4 pipelines distincts (SDR, commercial, cycle de vie, recouvrement)
+- Réattribution des leads aux closers les plus engagés et renforcement du suivi avec conséquences sur la paie
+- Échéance butoir : finalisation Opspot/Hotspot mercredi, prise en main jeudi, Rachid responsable de la cohérence des données
+- Lancement du recrutement actif par headhunting (4 entretiens SDR planifiés, 1 closer validé pour début décembre)
+- Répartition des tâches d'Abdel entre 2-3 personnes pour éviter un point unique de défaillance
+- Nomination d'un référent dédié Trustpilot, idéalement le futur CSM
+
+**Actions**
+- [ ] **Jordan** : Combler l'écart de ~30 cas de recouvrement pour atteindre la cible 250-300 cas (échéance 2026-10-31)
+- [ ] **Jordan** : Encaisser les ~178k€ restants pour atteindre l'objectif de 800k€ de cash (échéance 2026-10-31)
+- [ ] **Rachid** : Finaliser le projet Opspot/Hotspot et dashboards (échéance 2026-10-29)
+- [ ] **Rachid** : Négocier avec HubSpot la réduction de licences et l'échéancier de paiement vers janvier (échéance 2026-11-15)
+- [ ] **Sabrina** : Vérifier le deal signé manquant signalé par Raphael et Boris (échéance 2026-10-27)
+- [ ] **Cédric** : Finaliser les spécifications Works (base témoignages) avec Océane via Slack (échéance 2026-10-28)
+- [ ] **Océane** : Créer le groupe WhatsApp du dîner Suisse 4-5 jours avant l'événement (échéance 2026-11-05)
+- [ ] **Océane** : Relancer Karim et Aziz pour confirmer les prospects suisses à inviter au dîner (échéance 2026-10-28)
+- [ ] **Alexandre** : Récupérer toutes les listes coachs avant midi France pour lancement des préventes Scale et Immersion (échéance 2026-10-26)
+- [ ] **Fabrice** : Organiser les appels avec Alec pour les 3 contacts prometteurs Private Board (Dubaï) (échéance 2026-10-31)
+- [ ] **Boris** : Valider la répartition des tâches d'Abdel et arrêter les conditions avec les remplaçants (échéance 2026-10-31)
+- [ ] **Anis** : Spécifier l'application RH (onboarding, offboarding, absences) en coordination avec Jordan (échéance 2026-10-30)
+- [ ] **Wassim** : Intégrer le scoring d'appels dans Super Joe SDR (échéance 2026-10-28)
+- [ ] **Claire** : Identifier le propriétaire du compte Trustpilot (échéance 2026-10-28)
+
+**Risques & vigilances**
+- Risque de runway 3-4 mois si la performance ne s'améliore pas, perte potentielle 100-300k€/mois
+- Backlog de facturation en chute libre depuis juin, passé de 4M€ à 2,3M€
+- Sous-performance commerciale cumulée : taux d'annulation élevé (15%), ambiguïtés entre annulations clients et closers
+- Canaux Evergreen en baisse marquée : funnel book -50%, quiz -17%, taux d'annulation quiz passé de 8,8% à 31,7%
+- 30 cas manquants sur la cible de recouvrement (250-300 cas)
+- Plusieurs closers peu engagés : peu de retours, activités inexactes, dégradation du pipeline
+- Problèmes de qualité de données et de réconciliation entre systèmes (plateforme, LeanPay, HubSpot)
+- Volume de bugs post-release élevé (~30 erreurs sur 5 applications/semaine)
+- NPS nul et clients sans séances à traiter d'urgence
+- Propriétaire Trustpilot non identifié avec 500+ avis à gérer
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]] · [[Trésorerie & Finance]]
+
+Tags : #plan-75-jours #tresorerie-urgente #recouvrement #sdr-scaling #consolidation-hubspot
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

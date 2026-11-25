@@ -2,14 +2,47 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "cedric@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Cédric De Saint Jean]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Cédric & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 16:53).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue post-mortem du webinaire avec un taux de conversion à 10% (vs 20% habituellement) et plan d'action pour les campagnes Scale. Discussion sur les optimisations des outils de reporting, formulaires et automatisations.
+
+**Décisions**
+- Tous les leads d'événements sont désormais envoyés directement dans HubSpot dès inscription pour permettre le contact immédiat par les équipes
+- Migration progressive des automatisations importantes de Make vers n8n avec serveurs à Dubaï
+- Privilégier une solution simple pour le formulaire de qualification plutôt qu'un montage complexe Typeform/Calendly
+
+**Actions**
+- [ ] **Cédric** : Mobiliser Adil sur les campagnes e-mail Scale et préparer l'envoi avec le lien landing page de Jordan (échéance 2026-11-18)
+- [ ] **Cédric** : Partager les propositions de créations publicitaires pour validation
+- [ ] **Boris** : Examiner le brief de Cédric pour les lundis de novembre
+- [ ] **Cédric** : Attendre le retour d'Anis sur la responsabilité de l'optimisation du webinaire
+- [ ] **Cédric** : Récupérer dans Customer.io le volume de leads inscrits lors des anciens challenges (délai 1 semaine) (échéance 2026-11-24)
+- [ ] **Boris** : Développer la fonction de comparaison de deux webinaires dans les tableaux de bord (échéance 2026-11-18)
+- [ ] **Cédric** : Modifier la page de remerciement et les liens de redirection iClose
+- [ ] **Boris** : Recharger les crédits avant l'événement
+- [ ] **Cédric** : Faire en sorte que les envois Twilio partent dans un délai de 30 minutes
+
+**Risques & vigilances**
+- Taux de conversion en baisse (10% vs 20%) - offre présentée trop tôt ou valeur inadaptée, nécessite analyse des retours SDR
+- Campagne publicitaire avec seulement une semaine de diffusion et créations non optimales
+- Fiabilité limitée de l'autofill entre sessions distinctes pour les formulaires
+- Dépendance aux automatisations Make avant migration complète vers n8n
+
+Tags : #webinaire #conversion #campagne-email #hubspot #automatisation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

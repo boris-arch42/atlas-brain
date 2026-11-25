@@ -2,14 +2,62 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Fabrice Jaeger]]", "[[Alec Henry]]", "[[Aziz Sfaihi]]", "[[Sabrina Dahel]]", "[[Anisse Rbibe]]", "[[Quentin]]", "[[Jordan Leroux]]", "[[Océane De Queiros]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly Fabrice X Alec X Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (21/09/2026 13:10).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire couvrant passations commerciales (Aziz → Sabrina), audit annuaire partenaires, réactivation ambassadeurs, stratégie marketplace et matchmaking, et alignement produit/segmentation client. Plusieurs chantiers à finaliser avant fin octobre avec session stratégique prévue avant le 1er octobre.
+
+**Décisions**
+- Sabrina prend le rôle intérimaire de head of sales pour la passation commerciale
+- Boris devient le point de référence principal pour les arbitrages commerciaux
+- Produire un one-pager process partenaires pour les coachs à garder sur leur bureau
+- Prioriser le matchmaking comme levier principal de génération de business vs recommandations passives
+- Implémenter un processus standardisé de suivi des mises en relation ambassadeurs
+- Organiser une session dédiée avatar client / offre / produit avant le 1er octobre avec Sabrina
+
+**Actions**
+- [ ] **Alec** : Partager le replay de la réunion passation avec Aziz
+- [ ] **Aziz** : Finaliser les tâches de process et passation dans la fenêtre de 9 jours (échéance 2026-09-30)
+- [ ] **Sabrina** : Prendre en charge le relais commercial intérimaire
+- [ ] **Boris** : Rassembler tous les contrats et liste prestataires pour inventaire complet
+- [ ] **Anisse** : Créer le one-pager process partenaires pour les coachs
+- [ ] **Boris** : Intégrer Scalab dans l'annuaire partenaires avec ticket moyen et estimation revenus
+- [ ] **Quentin** : Confirmer disponibilité des transcriptions coaching pour analyse besoins clients
+- [ ] **Alec** : Coordonner analyse IA de corrélation besoins clients vs partenaires existants
+- [ ] **Boris** : Sourcer proactivement les partenaires manquants identifiés (échéance 2026-10-31)
+- [ ] **Anisse** : Réactiver les ambassadeurs inactifs via WhatsApp cette semaine (échéance 2026-09-28)
+- [ ] **Anisse** : Nettoyer et injecter 200 leads ambassadeurs dans workflow SDR
+- [ ] **Quentin** : Mettre en place fondations tracking avant extraction données
+- [ ] **Boris** : Finaliser signature contrat DIM (affiliation assurance) (échéance 2026-09-28)
+- [ ] **Alec** : Placer partenariats affiliés (LegalPlace, Udo) dans webinaires octobre-novembre (échéance 2026-11-30)
+- [ ] **Jordan** : Partager replay et Gantt migration Aries → Horizon
+- [ ] **Alec** : Organiser session alignement avatar/produit/offre avec Sabrina avant le 1er octobre (échéance 2026-10-01)
+- [ ] **Océane** : Prioriser mise en ligne site web plutôt que prolonger délai
+
+**Risques & vigilances**
+- Les passations précédentes n'étaient pas complètes avec connaissance tacite non documentée
+- Manque historique de suivi après mise en relation provoque délais longs ou perte de deals
+- Décalage potentiel entre niveau de revenus et capacité d'achat réelle (trésorerie/coûts fixes)
+- Tracking identifié comme sujet critique non résolu dans l'ensemble de l'entreprise
+- Travaux site web qui durent depuis un an risquent de prolonger encore sans priorisation
+- Fenêtre de 9 jours serrée pour Aziz sur tâches critiques de passation
+
+**Projets liés** : [[Plateforme Partenaires Dubaï — tracking & dashboards]] · [[Cartographie contrats prestataires]] · [[Soirée Ambassadeur invitation]]
+
+Tags : #passation-commerciale #annuaire-partenaires #marketplace #matchmaking #ambassadeurs #tracking #segmentation-client
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,64 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "boris@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Sabrina Dahel]]", "[[Alec Henry]]", "[[Boris Arduy]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Sabrina x Alec | Pôle Sales
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 12:42).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète de la performance commerciale et préparation du lancement de novembre (25-50K inscrits attendus). Décision de mettre fin à la collaboration avec Léa fin novembre et refonte des offres Builder/Incubateur pour améliorer la conversion.
+
+**Décisions**
+- Fin de collaboration avec Léa à la fin du mois (préavis d'un mois)
+- Lancement de nouvelle offre Scale en test entre fin novembre et fin décembre, déploiement janvier
+- Sessions de coaching quotidiennes pour l'équipe commerciale à partir du lundi suivant
+- Objectif 2027 : modèle evergreen avec 1M€ de ventes signées/mois (5 commerciaux à 250K€)
+- Repositionnement : cibler moins les +200K€ CA, réduire à 1-2 offres
+
+**Actions**
+- [ ] **Sabrina** : Vérifier si passage trompeur sur expert implémentant solution a été coupé de la vidéo tunnel
+- [ ] **Sabrina** : Rencontrer Boris pour examiner qualité des données et filtres tableau de bord
+- [ ] **Sabrina** : Préparer document preuves sociales et éléments de pitch Builder/Incubateur (échéance 2026-11-16)
+- [ ] **Sabrina** : Proposer amélioration offres Builder/Incubateur (meilleure vente, coûts constants) (échéance 2026-11-16)
+- [ ] **Sabrina** : Extraire méthode débutants depuis appels coaching de Quentin
+- [ ] **Sabrina** : Obtenir chiffres actualisés auprès de Cédric et revenir vers Kevin sur besoins commerciaux
+- [ ] **Sabrina** : Demander à Kevin d'ajouter des commerciaux pour le lancement (Gabay, Gauthier, etc.)
+- [ ] **Sabrina** : Retirer Diane de l'équipe commerciale (absente plusieurs mois)
+- [ ] **Sabrina** : Transmettre vidéos de vente et FAQ Evergreen à Alec pour correction
+- [ ] **Sabrina** : Point avec Rachid sur remplacement ou non de Léa et reprise de ses missions (échéance 2026-11-18)
+- [ ] **Sabrina** : Évaluer avec Rachid si coût 3 333€/mois de Léa est justifié (échéance 2026-11-16)
+- [ ] **Alec** : Envoyer nouvelle offre Scale à Sabrina pour avis délivrance (échéance 2026-11-16)
+- [ ] **Alec** : Organiser point synchro ou asynchrone sur changements offres Incubateur/Builder (échéance 2026-11-14)
+- [ ] **Rachid** : Continuer nettoyage HubSpot avec Léa (pipelines obsolètes, produits, UTM)
+- [ ] **Léa** : Vérifier contrats et produits HubSpot (correction erreurs tarification)
+- [ ] **Fabrice** : Appeler Denis Morel pour relance prospect suisse
+
+**Risques & vigilances**
+- 50% de perte entre rendez-vous premier et second échange
+- Qualité des données et dédoublonnage problématiques entre tableaux de bord et HubSpot
+- Volume de 2000-2500 appels attendus nécessite renfort équipe commerciale rapidement
+- Pratiques de vente de certains commerciaux inadaptées (Shams: promesses excessives, Malango: 100 leads sans vente)
+- Tunnel livre génère contacts mais peu de revenus
+- Opération suisse n'a pas produit les résultats attendus malgré efforts
+- Dépendance excessive aux lancements vs evergreen pas assez performant
+- HubSpot mal configuré (427 UTM, 15 produits vs 5 utilisés, erreurs tarification)
+- Documents formation Aziz non adaptés au CRM utilisé
+- Certains coachs pourraient ne pas correspondre à nouvelle approche opérationnelle
+
+**Projets liés** : [[Manager Playbook — Core V1 & certification]]
+
+Tags : #performance-commerciale #refonte-offres #lancement-novembre #structuration-équipe #hubspot-data-quality
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

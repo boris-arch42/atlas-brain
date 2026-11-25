@@ -2,14 +2,59 @@
 type: call
 date: 2026-09-15
 source: sembly
-participants: ["oceane@entrepreneurs.com", "jordan@entrepreneurs.com", "boris@entrepreneurs.com", "aziz.sfaihi@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "cedric@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Jordan Leroux]]", "[[Boris Arduy]]", "[[Aziz Sfaihi]]", "[[Sabrina Dahel]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]", "raphael.dalleau@entrepreneurs.com", "[[Cédric De Saint Jean]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # CRO Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (15/09/2026 14:51).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue commerciale critique révélant une forte baisse de performance (CA divisé par deux vs août), des problèmes de tracking HubSpot, une sous-utilisation des outils CRM, et des tensions sur le pricing et le positionnement de Builder. Consensus sur un focus urgent conversion commerciale + monétisation avant marketing, avec test immédiat d'un modèle setter SDR et révision du prix Builder.
+
+**Décisions**
+- Mise en place immédiate de 2 SDR setters pour qualifier les appels en amont des closers
+- Réduction du prix Builder de 5700€ à 3500-4000€ après analyse marge par Sabrina
+- Attribution prioritaire de tous les leads Evergreen à l'équipe commerciale interne
+- Challenge d'octobre (20-23 oct) servira de test de segmentation des messages par niveau d'audience
+- Focus prioritaire sur conversion commerciale et monétisation plutôt que volume marketing
+- Création d'une bibliothèque complète de processus écrits couvrant tout le funnel commercial
+
+**Actions**
+- [ ] **Alec** : Point avec Alex sur performance pôle SDR et diagnostic des blocages (échéance 2026-09-16)
+- [ ] **Alec** : Coordonner avec Alex le démarrage des 2 nouveaux SDR setters (échéance 2026-09-16)
+- [ ] **Sabrina** : Analyser connaissance produit Builder et recommander prix exact (3500-4000€) avec modèle de marge (échéance 2026-09-20)
+- [ ] **Fabrice** : Relancer leads ambassadeurs UCAN ayant différé leur décision pour timing (échéance 2026-09-25)
+- [ ] **Aziz** : Produire rapport feedback Builder : quels leads pitchés, comment présenté, résultats obtenus (échéance 2026-09-22)
+- [ ] **Cédric** : Définir référentiel commun nomenclature sources de leads et conventions UTM avant automatisations (échéance 2026-09-25)
+- [ ] **Cédric** : Créer bibliothèque processus écrits opt-in jusqu'à relance finale, accessible au comité (échéance 2026-09-30)
+- [ ] **Océane** : Produire données sur leads inactifs par segment et buckets par CA pour ciblage relances (échéance 2026-09-22)
+- [ ] **Alec** : Décider date prochaine immersion (fin janvier ou février) (échéance 2026-09-20)
+- [ ] **Alec** : Réunion UX/UI billetterie Scale (échéance 2026-09-29)
+
+**Risques & vigilances**
+- Tensions de trésorerie critiques : fenêtre de 6 mois avant scénario vente ou downsizing
+- Revenu par lead (16,27€) inférieur au CPL (25-30€), acquisition non rentable actuellement
+- CPL doublé sur un an, dégradation forte de l'économie d'acquisition
+- Taux d'annulation précoce à 13% + forte fuite dans l'entonnoir
+- Sous-performance commerciale : conversion 2 à 4 fois inférieure aux concurrents
+- Commerciaux évitent de pitcher Builder par manque de confiance produit
+- Poaching commercial agressif par concurrents, rotation élevée et problèmes de rétention
+- Tensions d'équipe et échanges conflictuels (Aziz/Raph) perturbant l'efficacité collective
+- Qualité données HubSpot très dégradée (doublons, motifs closed-lost manquants, tracking sources défaillant)
+- Goulot d'étranglement SDR limite toute la chaîne commerciale aval
+
+**Projets liés** : [[Cadence transverse & top 10 process]]
+
+Tags : #conversion-commerciale #hubspot-crm #pricing-builder #sdr-setters #tension-trésorerie
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,49 @@
 type: call
 date: 2026-11-05
 source: sembly
-participants: ["boris@entrepreneurs.com", "aman.verma@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "aman.verma@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly catchup with Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (05/11/2026 12:01).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire sur la gestion des données et automatisations : nettoyage des emails invalides, désactivation des automatisations obsolètes (Monday.com, Airtable), audit sécurité du tableau de bord de données et intégration Customer.io vers HubSpot pour l'historique emails.
+
+**Décisions**
+- Désactivation et suppression des automatisations Monday.com et Airtable non utilisées
+- Création d'un canal Slack dédié aux erreurs d'automatisation pour faciliter le suivi
+- Lancement de l'audit complet sécurité et API du tableau de bord de données
+- Automatisation Customer.io → HubSpot pour historique emails, sous réserve validation technique Wassim
+
+**Actions**
+- [ ] **Aman** : Corriger les emails invalides et transmettre tableau (email incorrect / email corrigé) à Boris pour partage avec Marketing
+- [ ] **Aman** : Désactiver les automatisations Monday.com et Airtable inutilisées
+- [ ] **Aman** : Créer canal Slack pour notifications d'erreur des automatisations avec liens
+- [ ] **Mohamed** : Obtenir accès GitHub entreprise pour audit tableau de bord de données
+- [ ] **Mohamed** : Réaliser audit sécurité complet et API du tableau de bord
+- [ ] **Boris** : Collecter API et documentation pour partage avec VidiGoPilot pour construction dashboard (échéance 2026-11-13)
+- [ ] **Boris** : Créer formule mathématique pour métrique Data Live Board et partager avec Venigopal
+- [ ] **Wassim** : Fournir recommandations techniques sur automatisation Customer.io → HubSpot
+- [ ] **Aman** : Vérifier accès clip funnel Snop Dog sur Skill Invite
+
+**Risques & vigilances**
+- Plus de 100 automatisations obsolètes continuent de tourner et génèrent des erreurs, risque de confusion et surcharge
+- Dépendance du tableau de bord de données sur accès GitHub personnel de Venigopal, risque de continuité
+- Failles de sécurité potentielles liées aux nombreuses API et composants IA de la plateforme
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #data-ops #automatisation #audit-securite #nettoyage-outils #hubspot-customerio
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

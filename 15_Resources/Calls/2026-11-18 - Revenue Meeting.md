@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-18
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Revenue Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/11/2026 15:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point commercial mi-novembre avec 176 k€ signés sur un objectif de 700 k€ et un panier moyen en baisse à 6,8 k€. L'équipe priorise le renforcement de FIDE, l'optimisation de l'Evergreen et la préparation du challenge avec 20 000+ inscrits.
+
+**Décisions**
+- Rachid alloue temporairement une ressource SDR à FIDE en attendant le recrutement
+- Envoi de la communication Scale aux anciens clients validé après confirmation de la page par Océane
+- Test de la nouvelle offre prévu avant fin décembre avec sélection des coachs et commerciaux après retours de Sabrina et Cédric
+
+**Actions**
+- [ ] **Rachid** : Vérifier avec Océane que le dispositif Closemate concerne uniquement les leadcoms pour éviter doublons/pertes de leads
+- [ ] **Sabrina** : Vérifier les événements filtrés par calendrier et rapprocher les chiffres VSL Suisse avec Raphaël
+- [ ] **Rachid** : Fournir la liste des adresses email SDR externes à ajouter sur Hotspot (vérifier avec Mohamed)
+- [ ] **Boris** : Partager un point d'avancement sur le problème KU dans le groupe
+- [ ] **Alec** : Tourner les nouvelles publicités demandées (échéance 2026-11-19)
+- [ ] **Alec** : Tourner nouvelles créations publicitaires (échéance 2026-11-22)
+- [ ] **Cédric** : Envoyer la communication Scale aux anciens clients
+- [ ] **Sabrina** : Fournir retour complet et qualitatif sur la nouvelle offre à Alec
+- [ ] **Cédric** : Fournir retour complet et qualitatif sur la nouvelle offre à Alec
+- [ ] **Alec** : Organiser échange avec Sabrina et Claire pour identifier coachs et commerciaux pour tester nouvelle offre (échéance 2026-12-31)
+- [ ] **Rachid** : Automatiser les rappels aux no-shows après le Sommet IA
+- [ ] **Sabrina** : Réaliser bilan quotidien Evergreen Suisse et comparer avec Raphaël
+
+**Risques & vigilances**
+- Panier moyen en chute (6,8 k€ vs 13 k€ début année) freine fortement l'atteinte des objectifs
+- Volume d'appels FIDE insuffisant alors que le potentiel est estimé à 500 k€/mois
+- Taux de no-show VSL à 34% menace la rentabilité du canal
+- Écarts de données entre iClosed, HubSpot et tableaux de bord créent de la confusion et des pertes de leads
+- Commerciaux menacent de partir si volume reste à 5-6 appels/semaine pendant 2 mois
+- Leads qualifiés abandonnent la réservation sans dispositif de récupération systématique
+- Dépendance excessive aux lancements et publicités faute de socle récurrent suffisant
+
+Tags : #revenue #commercial #fide #evergreen #vsl #panier-moyen #challenge
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

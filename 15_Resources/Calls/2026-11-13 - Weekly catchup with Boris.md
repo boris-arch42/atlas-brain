@@ -2,14 +2,48 @@
 type: call
 date: 2026-11-13
 source: sembly
-participants: ["boris@entrepreneurs.com", "aman.verma@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "aman.verma@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly catchup with Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (13/11/2026 09:44).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire avec Aman sur les priorités techniques : finalisation de la campagne QuizFunnels, audit des automatisations (Make, iClosed, HubSpot), développement d'une fonctionnalité de comparaison d'événements pour le tableau de bord, et recrutement d'un designer UX pour améliorer l'expérience du dashboard.
+
+**Décisions**
+- Pas d'automatisation pour les paiements dans HubSpot, le suivi se fait manuellement après signature du contrat
+- Réduction massive des workflows HubSpot (de 150+ à 10-15) pour limiter les frictions
+- Recrutement d'un designer senior (5+ ans) en contrat à prix fixe (400-1000€) pour refonte du tableau de bord
+- Nouveau contrat d'Aman comme gestionnaire de projet démarre le 1er janvier 2027
+
+**Actions**
+- [ ] **Boris** : Ajouter le lien de la campagne QuizFunnels correcte (échéance 2026-11-13)
+- [ ] **Boris** : Donner accès à Aman sur HubSpot, Customer.io et vérifier l'accès admin Claude (échéance 2026-11-15)
+- [ ] **Boris** : Vérifier l'URL du serveur Customer.io (échéance 2026-11-15)
+- [ ] **Aman** : Finaliser la campagne QuizFunnels avant de démarrer les nouveaux travaux (échéance 2026-11-13)
+- [ ] **Aman** : Poursuivre l'audit de Make, iClosed et HubSpot pour identifier les automatisations à archiver (échéance 2026-12-13)
+- [ ] **Aman** : Examiner avec Venugopal la fonctionnalité de comparaison d'événements côte à côte (échéance 2026-11-20)
+- [ ] **Aman** : Préparer description de poste pour designer UX et transmettre à Boris (échéance 2026-11-20)
+- [ ] **Boris** : Recevoir 3 à 5 profils de designers avant fin d'année (échéance 2026-12-31)
+- [ ] **Boris** : Publier l'annonce designer sur LinkedIn (échéance 2026-11-25)
+- [ ] **Boris** : Préparer le nouveau contrat d'Aman avec date de début au 1er janvier 2027 (échéance 2026-12-31)
+
+**Risques & vigilances**
+- Complexité de mapping des catégories entre outils et événements qui complique l'analyse ROI
+- Volume important d'automatisations historiques à auditer (150+ workflows initialement)
+- Délai serré pour recruter un designer de qualité avant janvier 2027
+
+Tags : #audit-outils #automatisation #dashboard #recrutement-designer #hubspot
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

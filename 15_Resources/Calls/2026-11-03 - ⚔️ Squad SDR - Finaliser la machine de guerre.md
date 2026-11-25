@@ -2,14 +2,70 @@
 type: call
 date: 2026-11-03
 source: sembly
-participants: ["boris@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # ⚔️ Squad SDR - Finaliser la machine de guerre
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (03/11/2026 11:49).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Finalisation de l'architecture de tracking HubSpot pour la squad SDR : normalisation du tracking leads/deals, verrouillage des champs via listes déroulantes, ajout de la phase transactionnelle 'signed', automatisation des liens iClose par funnel, et nettoyage massif des propriétés/segments/workflows.
+
+**Décisions**
+- Chaque nouvelle réservation crée automatiquement un lead sans propriétaire, à assigner manuellement par l'équipe SDR
+- Nouveau système de tracking adopté pour tous les nouveaux leads, fusion des données historiques UTM dans le nouveau système par l'équipe Inde
+- Double tracking obligatoire : un pour l'opt-in du contact, un pour la réservation d'appel (deux attributions distinctes)
+- Tous les champs de tracking (Funnel Marketing, UTM Source, Medium, Campaign) convertis en listes déroulantes verrouillées
+- Ajout d'une phase transactionnelle 'signed' avant 'closed-won', automatisation du passage en closed-won au paiement détecté dans Udoo
+- Création de liens iClose automatisés par événement avec propriété calculée concatenant UTM + owner, au lieu de liens manuels par SDR
+- Nettoyage massif programmé : archivage des propriétés, segments, dossiers et automatisations inutilisés après export complet
+- Évaluation de Sales Workspace pour centraliser les workflows SDR, sinon retour à deux licences standard avec pipelines segmentés
+- Consolidation des licences téléphonie vers CloudTalk pour économiser ~1 500 €/mois
+
+**Actions**
+- [ ] **Boris** : Créer le workflow de création automatique de leads sans propriétaire pour chaque réservation
+- [ ] **équipe Inde** : Importer les données historiques UTM/leads dans le nouveau système de tracking
+- [ ] **Boris** : Définir avec Rachid le workflow de déduplication automatique des doublons
+- [ ] **Boris** : Convertir tous les champs de tracking en listes déroulantes verrouillées
+- [ ] **Rachid** : Fournir la liste définitive des phases/statuts de leads alignée avec CloudTalk
+- [ ] **Boris** : Produire la liste des 58 dépendances du champ 'lead step' avant modification
+- [ ] **Boris** : Renommer le tracking contact en 'tracking initial du contact' et séparer visuellement du tracking lead
+- [ ] **Boris** : Créer les dashboards pour analyser les tests publicitaires lancés (échéance 2026-11-03)
+- [ ] **Boris** : Cartographier toutes les sources de données et confirmer les intégrations iClose/HubSpot
+- [ ] **Rachid** : Créer un fichier partagé centralisant tous les nouveaux funnels, pages et mises à jour
+- [ ] **Boris** : Aligner les vues contact/lead/transaction pour affichage cohérent entre utilisateurs
+- [ ] **Boris** : Ajouter la phase 'signed' et automatiser le passage en closed-won au paiement Udoo
+- [ ] **Boris** : Réaliser export complet avant nettoyage massif des propriétés, segments et automatisations
+- [ ] **Rachid** : Tester Sales Workspace et valider si déploiement pour les SDR
+- [ ] **Boris** : Créer la propriété calculée pour liens iClose avec mapping IF des IDs owners vers noms
+- [ ] **Rachid** : Fournir la liste complète des 5 SDR avec IDs HubSpot pour le mapping
+- [ ] **Boris** : Créer un schéma complet de l'architecture de tracking et des funnels
+- [ ] **Boris** : Ajouter Rachid à l'équipe Claude pour le traitement de données
+- [ ] **Rachid** : Vérifier le paiement et les livrables fournis par CGM, cadrer le périmètre restant
+- [ ] **Boris** : Coordonner avec Raphaël pour donner accès SDR aux réponses quiz et revenu avant appel
+
+**Risques & vigilances**
+- 58 workflows/rapports dépendent du champ 'lead step', risque de casse lors des modifications
+- Doublons de leads créés par quiz partiellement complété vs quiz terminé, nécessite workflow de fusion automatique
+- CloudTalk crée automatiquement des contacts placeholder (numéro seul) qui polluent la base CRM
+- VSL génère des réservations incomplètes sans opt-in préalable, perte d'opportunité de retargeting
+- Noms de leads dupliqués dans iClose (même personne sous 4 variantes) gonfle artificiellement les dashboards
+- Plusieurs SDR peuvent prospecter le même contact en parallèle si règles de propriété floues
+- Lien cliquable cassé à cause de séparateurs manquants dans la construction d'URL
+- Gouvernance des données fragile si équipes marketing ajoutent des valeurs sans process formalisé
+- Risque d'erreur humaine si dropdown owner mal sélectionné lors de génération du lien
+- Coût et valeur perçue du prestataire CGM remis en question, nécessite cadrage clair
+
+Tags : #squad-sdr #hubspot #tracking-utm #automation #nettoyage-crm
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,58 @@
 type: call
 date: 2026-10-27
 source: sembly
-participants: ["boris@entrepreneurs.com", "mohamed@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Mohamed]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Mohamed X Boris - Cybersecurity
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (27/10/2026 13:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue de sécurité et infrastructure IT avec Mohamed : audit de vulnérabilités, mise en place urgente de sauvegardes externes, audit de délivrabilité email, et gestion des accès (délégations mail, MFA, offboarding Abdel).
+
+**Décisions**
+- Aucun accès par mot de passe brut à la boîte mail principale entrepreneurs.com : uniquement des délégations traçables
+- Mise en place urgente de sauvegardes externes hors Vercel pour éliminer le point de défaillance unique
+- Audit de délivrabilité du domaine entrepreneurs.com avec possibilité de provisionner un domaine marketing séparé si nécessaire
+- Mohamed obtient les accès GitHub et VPS pour auditer le Data Dashboard et déployer le dashboard de Jordan
+- Désactivation des accès d'Abdel programmée pour le 30 octobre
+- Aman nommé project lead Ops, autonome sur les décisions opérationnelles
+
+**Actions**
+- [ ] **Mohamed** : Relancer Shade avec email ferme sur le support contractuel et la date de formation
+- [ ] **Mohamed** : Rechercher et proposer une solution de sauvegarde externe (Hostinger, Allemagne/France) et créer projet Work
+- [ ] **Mohamed** : Configurer les délégations de boîte mail et retirer tous les accès par mot de passe brut
+- [ ] **Mohamed** : Provisionner l'accès de Boris (Elvi) au dashboard Jordan sur VPS (échéance 2026-11-03)
+- [ ] **Mohamed** : Produire un rapport d'audit de délivrabilité du domaine entrepreneurs.com
+- [ ] **Mohamed** : Réaliser l'audit de sécurité des projets Data Dashboard et Data Dashboard Redesign
+- [ ] **Mohamed** : Collecter la liste complète des outils utilisés par Abdel pour l'offboarding (échéance 2026-10-30)
+- [ ] **Mohamed** : Supprimer les accès d'Abdel sur tous les outils (échéance 2026-10-30)
+- [ ] **Quentin** : Revoir avec Océane les options de stockage alternatives à Shade et faire un retour comparatif
+- [ ] **Quassim** : Fournir les listes complètes d'accès GitHub et Vercel et activer la MFA manquante
+- [ ] **Boris** : Vérifier et consolider les accès GitHub/Vercel pour Mohamed avec Aman
+- [ ] **Sabrina** : Prendre en charge les demandes de désactivation des 9 licences provisionnées (échéance 2026-11-10)
+
+**Risques & vigilances**
+- Shade ne répond plus depuis une semaine, blocage formation et risque contractuel sur le support
+- Aucune sauvegarde externe hors Vercel : risque majeur de perte de données en cas de sinistre
+- Plusieurs comptes Vercel sans MFA : risque de sécurité sur l'infrastructure
+- Bugs récurrents 'headshot' dans les campagnes Riot nécessitent analyse de la logique
+- Réputation du domaine entrepreneurs.com potentiellement dégradée, impact possible sur les campagnes marketing
+- Accès GitHub et Vercel manquants ou incohérents pour Mohamed, ralentit les audits de sécurité
+- Documentation incomplète des outils utilisés par Abdel, risque d'accès orphelins après offboarding
+
+**Projets liés** : [[Sprint Cybersec & phishing]] · [[Pôle Tech & Ops interne — structuration]] · [[Riot]]
+
+Tags : #cybersécurité #infrastructure #audit-sécurité #sauvegarde #délivrabilité-email
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

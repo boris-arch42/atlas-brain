@@ -2,14 +2,50 @@
 type: call
 date: 2026-09-18
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "boris@entrepreneurs.com", "ilarbi@ouinex.com", "fleto@ouinex.com"]
+participants: ["[[Alec Henry]]", "[[Boris Arduy]]", "ilarbi@ouinex.com", "fleto@ouinex.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Ilies x Alec x Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/09/2026 18:25).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Cadrage d'une stratégie KOL performance pour Winnex : génération massive de leads micro-KOLs par scraping, approche Telegram, modèle master-affiliate avec revenue share, support clipping. Winnex doit fournir l'ICP précis, valider l'offre en interne avant scaling commercial.
+
+**Décisions**
+- Modèle exclusivement basé sur la performance, sans paiement upfront
+- Priorisation des micro-KOLs (1000-2000 abonnés) avec approche de masse
+- Revenue share élevé (60-70%) pour inciter les affiliés
+- Programme master affiliate avec tracking transparent et NDA
+- Validation initiale des deals en interne (Ilies) avant recrutement commercial
+- Approche directe via Telegram pour petits streamers, appels structurés pour gros profils
+- Budget clipping pour amplifier la portée des micro-KOLs
+
+**Actions**
+- [ ] **Ilies** : Fournir le profil cible très précis des KOLs recherchés (ICP, géographies, persona) (échéance 2026-09-22)
+- [ ] **Ilies** : Préparer et envoyer Master Affiliate Agreement et NDA pour revue (échéance 2026-09-20)
+- [ ] **Florian** : Transmettre draft de l'avatar cible influenceurs et zones géographiques (échéance 2026-09-20)
+- [ ] **Boris** : Ajuster le profil cible reçu de Florian (échéance 2026-09-21)
+- [ ] **Boris** : Créer groupe WhatsApp pour centraliser les échanges (échéance 2026-09-20)
+- [ ] **Boris** : Générer rendez-vous qualifiés en volume une fois ICP transmis
+
+**Risques & vigilances**
+- Winnex n'a pas encore d'équipe commerciale complète pour absorber le volume de leads généré
+- Résistance des KOLs aux modèles revenue share sur plateforme nouvelle/peu connue
+- Friction autour des demandes de retainer fees fixes par les KOLs
+- Risque de fraude avec modèles fixe+commission sans historique vérifiable
+- Nécessité de construire crédibilité et confiance avant scaling massif
+- Tactiques agressives à équilibrer avec préservation image de marque et conformité réglementaire
+
+Tags : #kol #affiliation #winnex #scraping #micro-influenceurs
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

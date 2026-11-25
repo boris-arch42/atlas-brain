@@ -2,14 +2,69 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["aziz.sfaihi@entrepreneurs.com", "42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "abderrahim@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com"]
+participants: ["[[Aziz Sfaihi]]", "[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Abdel El Mahi]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-22
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (21/09/2026 12:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 22/11/2026 15:09 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion Core Team couvrant la préparation des immersions Marrakech et Dubaï, le lancement d'octobre, l'amélioration du funnel Evergreen, les économies de licences (61K$ annuels), les nouveaux standards CRO et data, et la gouvernance projet via PureWorks.
+
+**Décisions**
+- Ouverture inscriptions clients au plus tard le 10 octobre pour le lancement d'octobre
+- Consolidation licences Google et Clap : économies de 61K$ annuels réallouées vers ROI
+- Diffusion premier niveau dashboards avant le 30 septembre avec retours attendus
+- À partir du 30/09, les CRO se concentrent sur 1-3 métriques concrètes, sans débat sur la véracité des données
+- Tous les projets et tâches centralisés dans PureWorks : source unique de pilotage
+- Aucun projet sans tâche définie, date limite et propriétaire nommé
+- Fabrice responsable commercial du remplissage et pricing des slots épisodes podcast
+- Anne-Lise reprend le rôle de conciergerie CSM proactif avec Sabrina
+- Lorraine rejoint la delivery pour conciergerie et support
+- Besoin urgent de recruter successeur de Nicole pour événements avant le 1er octobre
+- Format Q&A immersion devient session live avec micros sur scène au lieu de Typeform post-session
+- Équipe dispose de 9 jours pour confirmer date et lieu de l'immersion Dubaï (janvier ou février 2027)
+- Promouvoir applications mobiles Android/iOS dès l'ouverture de l'immersion pour augmenter l'adoption (objectif 30-40% actuellement)
+
+**Actions**
+- [ ] **Boris** : Partager brief clair pour que Quentin puisse réserver capacité UX et parcours plateforme (échéance 2026-09-25)
+- [ ] **Sabrina** : Relancer tous les clients pour garantir présence à Marrakech et communiquer dress code soirée Black & Red (échéance 2026-09-28)
+- [ ] **Océane** : Présenter revue data du dernier run pour les enseignements funnel Evergreen (échéance 2026-09-30)
+- [ ] **Quentin** : Remplacer Clap par nouveau système cette semaine avec démos si nécessaire (échéance 2026-09-27)
+- [ ] **Jordan** : Récupérer toutes les cartes magnétiques et clés du bureau avant samedi pour déménagement (échéance 2026-09-26)
+- [ ] **Aziz** : Relancer et confirmer contrat et onboarding de Julien Malango pour Evergreen d'ici vendredi (échéance 2026-09-25)
+- [ ] **Alexandre** : Coordonner avec Alec pour avancer dossiers ouverts dans les 9 prochains jours et mettre à jour wikis avant Core Team (échéance 2026-09-30)
+- [ ] **Abdel** : Finaliser audits avec Océane et Cédric puis préparer slides finales avec QR codes définitifs pour workbook (échéance 2026-09-27)
+- [ ] **Abdel** : Mettre à jour horaires live du 28 septembre avec nouveau fuseau horaire Marrakech (-2h) (échéance 2026-09-27)
+- [ ] **Adil** : Produire Loom pour améliorer séquence invitation email + SMS événements (échéance 2026-09-28)
+- [ ] **Alec** : Décider date et lieu immersion Dubaï dans les 9 jours pour permettre création plateforme et invitations speakers (échéance 2026-09-30)
+- [ ] **Quentin** : S'assurer que l'application mobile est prête et UX améliorée avant immersion Marrakech (échéance 2026-10-03)
+- [ ] **Fabrice** : Synchroniser calendriers avec Sabrina et Océane pour connaître créneaux disponibles épisodes podcast et optimiser pricing (échéance 2026-09-30)
+
+**Risques & vigilances**
+- 20% de chambres risquent de rester vides à Marrakech si relances clients insuffisantes
+- Problèmes de fiabilité récurrents lors des lives communautaires suite aux fuites récentes
+- Bug data du 18 septembre génère une semaine de chiffres peu fiables nécessitant validation
+- Abderrahim seul sur mise en place live du 28 septembre sans renfort technique suffisant
+- Pas de successeur identifié pour Nicole avant le 1er octobre alors que Scale est dans 7 mois
+- Capacité de tracking et monétisation des épisodes Declic vers clients Entrepreneurs.com insuffisante
+- Coach Sylvain Waro a reçu plusieurs retours faibles nécessitant audit
+- Écart entre outils IA développés par équipe Anis et usage réel impose session ciblée pour accélération adoption
+- Laurent Tapie interviendra hors thème avec risque sur cohérence perçue
+- Délais serrés pour workbook Marrakech avec livraison vendredi uniquement
+
+**Projets liés** : [[Immersion]] · [[Cadence transverse & top 10 process]] · [[Audit SaaS-IT — économies]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #core-meeting #immersion-marrakech #lancement-octobre #funnel-evergreen #economies-licences #gouvernance-data #cro-standards
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

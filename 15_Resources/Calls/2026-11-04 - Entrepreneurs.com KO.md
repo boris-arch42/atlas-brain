@@ -2,14 +2,51 @@
 type: call
 date: 2026-11-04
 source: sembly
-participants: ["ebru.cengiz@cloudtalk.io", "louis.lebegue@cloudtalk.io", "boris@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["ebru.cengiz@cloudtalk.io", "louis.lebegue@cloudtalk.io", "[[Boris Arduy]]", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Entrepreneurs.com KO
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (04/11/2026 16:36).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kick-off d'implémentation CloudTalk avec setup initial, intégration HubSpot et configuration du composeur parallèle. Points bloquants identifiés : impossibilité de segmenter les numéros en smart rotation et mapping leads HubSpot vers CloudTalk à clarifier.
+
+**Décisions**
+- Restriction des destinations d'appel à la France et Belgique uniquement pour éviter les coûts internationaux accidentels
+- Enregistrement des numéros initiaux via Haya sans frais pour protection anti-spam
+- Retrait immédiat de l'add-on composeur parallèle du siège admin de Rachid
+- Désactivation globale de l'auto-pickup pour éviter les réponses involontaires
+- Réduction du délai de wrap-up post-appel au minimum (15 secondes ou moins)
+- Workflow HubSpot à mettre en place : un seul lead actif par contact pour éviter les doublons d'appel
+
+**Actions**
+- [ ] **Ebru** : Envoyer le plan d'implémentation avec droits d'édition à l'équipe (échéance 2026-11-05)
+- [ ] **Ebru** : Configurer le délai de wrap-up au minimum (15s) et confirmer la valeur (échéance 2026-11-05)
+- [ ] **Ebru** : Organiser la formation agents en français avec Théo pour la semaine suivante (échéance 2026-11-11)
+- [ ] **Ebru** : Envoyer enregistrement et email récapitulatif sur les onglets analytics (échéance 2026-11-05)
+- [ ] **Rachid** : Envoyer à Louis la liste des numéros problématiques à remplacer (spam flag) (échéance 2026-11-06)
+- [ ] **Rachid** : Confirmer les nouveaux numéros belges à ajouter après validation interne (échéance 2026-11-06)
+- [ ] **Rachid** : Créer workflow HubSpot pour fermer automatiquement les anciens leads et ne garder qu'un lead actif par contact (échéance 2026-11-15)
+- [ ] **Louis** : Après provisionnement des nouveaux numéros, les sélectionner dans les paramètres d'intégration HubSpot (échéance 2026-11-10)
+- [ ] **Louis** : Escalader auprès du support CloudTalk la limitation de sélection des numéros en smart rotation (échéance 2026-11-06)
+
+**Risques & vigilances**
+- Impossibilité technique actuelle de segmenter les numéros en smart rotation par campagne/BU - risque de spam flag et confusion opérationnelle si plusieurs équipes partagent le même pool
+- Mapping leads HubSpot vers CloudTalk non clarifiée - risque de perte d'attribution de campagne et de doublons d'appel
+- Numéros non frais pouvant être signalés spam - impact potentiel sur la délivrabilité des appels sortants
+- Montée en charge rapide prévue (5 users semaine prochaine, 15-30 en janvier) - nécessite une implémentation solide sous 14 jours
+- Complexité du modèle HubSpot (contact avec multiples leads) peut créer des incohérences dans le tracking et reporting si les workflows ne sont pas bien calibrés
+
+Tags : #cloudtalk #hubspot #implementation #power-dialer #telephonie #sales-ops
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

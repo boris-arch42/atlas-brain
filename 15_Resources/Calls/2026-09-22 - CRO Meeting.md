@@ -2,14 +2,59 @@
 type: call
 date: 2026-09-22
 source: sembly
-participants: ["oceane@entrepreneurs.com", "jordan@entrepreneurs.com", "boris@entrepreneurs.com", "aziz.sfaihi@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "cedric@entrepreneurs.com", "julien.bouissonnade@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Jordan Leroux]]", "[[Boris Arduy]]", "[[Aziz Sfaihi]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]", "raphael.dalleau@entrepreneurs.com", "[[Cédric De Saint Jean]]", "julien.bouissonnade@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # CRO Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/09/2026 14:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — CRO meeting focalisé sur la fiabilisation du CRM et la réduction des no-shows, avec 850 dossiers signés mais un taux d'encaissement de 36% et un pipeline hot à 49%. Lancement d'une task force Q4 pilotée par Boris pour refondre HubSpot, structurer le follow-up et améliorer les prévisions court terme.
+
+**Décisions**
+- Création d'une task force Q4 no-shows/no-calls pilotée par Boris, démarrage semaine du 1er octobre, réunions bimensuelles
+- Création d'une task force CRM et forecasting pour restructurer HubSpot et les processus de leads
+- Mise en place obligatoire du protocole 'live waiting' avec sanctions pour non-respect
+- Implémentation immédiate du script 'sell the call' dans SDR Hub V3 pour valoriser l'appel en amont
+- Export et segmentation des deals perdus sur 6 mois pour plan de réactivation
+- Automatisation des rappels 24h et 1 semaine avant RDV
+- Création de vues CRM dédiées au follow-up avec protocole de réactivation standardisé
+
+**Actions**
+- [ ] **Boris** : Implémenter script 'sell the call' dans SDR Hub V3 (échéance 2026-09-22)
+- [ ] **Boris** : Lancer task force no-shows avec Alec, Raphaël, Head of Sales et Alex (échéance 2026-10-01)
+- [ ] **Boris** : Lancer task force CRM/forecasting et réactiver consultant CRM HubSpot (échéance 2026-10-01)
+- [ ] **Boris** : Exporter deals perdus 6 derniers mois avec revenu, date acquisition, derniers contacts et closers (échéance 2026-09-29)
+- [ ] **Boris** : Calculer taux conversion engaged → closed-won et temps moyen dans engaged pour projections court terme (échéance 2026-09-29)
+- [ ] **Boris** : Créer vue CRM dédiée follow-up avec prochaines actions et protocole de réactivation (échéance 2026-10-08)
+- [ ] **Boris** : Définir règles segmentation granulaire des no-shows et annulations (avant R1 / entre R1-R2) (échéance 2026-10-08)
+- [ ] **Boris** : Mettre en place automatisation de réaffectation leads si relances non effectuées sous 72-96h (échéance 2026-10-15)
+- [ ] **Alec** : Obtenir accès canal Slack Alert Delivery pour suivi frictions onboarding (échéance 2026-09-23)
+- [ ] **Sabrina** : Confirmer présence de Martin pour prochain core team building (échéance 2026-09-25)
+- [ ] **Raphaël** : Mettre en place Task Force Teams (TFT) follow-up avec cadence annonce → première réunion → actions Works (échéance 2026-10-01)
+- [ ] **Océane** : Créer campagnes email segmentées pour partenariats affiliés Horus et LegalPlace sur 1000-1500 clients actifs (échéance 2026-10-15)
+
+**Risques & vigilances**
+- Taux no-shows actuel détruit la fiabilité des prévisions court terme et impacte la trésorerie
+- Passage massif de leads en 'lost' sans qualification fine risque d'écarter des prospects réellement qualifiés
+- Variabilité importante de la qualité du follow-up selon les commerciaux sans processus standardisé imposé
+- CRM utilisé comme simple liste sans exploiter les fonctionnalités avancées : gaspillage de licence et angles morts
+- Données CRM non fiables empêchent forecasting précis et monétisation des leads historiques
+- Intégrations manquantes dans HubSpot (WhatsApp) limitent efficacité des suivis multicanaux
+- Frictions onboarding récurrentes signalées mais visibilité insuffisante sur leur résolution
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #crm-hubspot #no-shows #forecasting #task-force-q4 #follow-up-standardisation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,41 @@
 type: call
 date: 2026-09-10
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "lidja.gasti@gmail.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]", "lidja.gasti@gmail.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Boris / Sabrina/CSM
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/09/2026 16:16).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Entretien de screening pour Lydia Rezzoug (candidate CSM) : validation de l'adéquation culturelle, expérience client, usage IA, rigueur documentaire, attente salariale 4000€/mois et disponibilité pour Dubaï début octobre.
+
+**Décisions**
+- Lydia Rezzoug candidate retenue pour validation finale par le trio Boris/Sabrina/Alec
+- Attente salariale fixée à 4000€/mois
+- Prise de poste envisagée début octobre à Dubaï
+- Horaires prévisionnels : 8h-16h CET pour alignement avec Dubaï
+
+**Actions**
+- [ ] **Sabrina** : Organiser réunion de décision finale avec Boris et Alec sur candidature Lydia (échéance 2026-09-17)
+- [ ] **Sabrina** : Communiquer offre complète et date de début à Lydia si validation (échéance 2026-09-17)
+
+**Risques & vigilances**
+- Problèmes de connexion technique récurrents durant l'entretien (qualité réseau candidate)
+- Onboarding serré prévu sur 1 mois pour autonomie complète
+- Nouvel outil en déploiement nécessitera remontées terrain et adaptation produit
+- Hébergement temporaire chez cousine à Dubaï (stabilité logement à moyen terme)
+
+Tags : #recrutement #customer-success #dubai #screening #support-client
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

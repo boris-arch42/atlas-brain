@@ -2,14 +2,62 @@
 type: call
 date: 2026-11-05
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "42lab@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Quentin]]", "[[Sabrina Dahel]]", "[[Alec Henry]]", "raphael.dalleau@entrepreneurs.com", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Plan de communication - Scale 2027
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (06/11/2026 08:44).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Alignement de l'équipe sur le plan de communication multicanal pour l'événement Scale 2027, avec 379 confirmations sur ~1000 invitations. Activation d'une campagne intensive sur 10 jours (SMS compte à rebours, relances coachs, upsell checkout, micro-rappels masterclass) pour atteindre l'objectif de 1800-2000 participants.
+
+**Décisions**
+- Lancement d'une campagne SMS en 3 temps (10, 13, 15 nov) vers les non-répondants avec compte à rebours
+- Ajout d'un upsell à ~400€ sur la page de paiement pour convertir vers billet essential
+- Mise en place de micro-rappels Scale (2-5 min) au début/fin de toutes les masterclasses
+- Date butoir de réservation fixée au 15 novembre pour forcer les confirmations
+- Structure en 4 phases : clients existants, anciens participants (SDR), audience large (paid), derniers jours (virtuel + retargeting)
+- Suivi mensuel avec seuils d'alerte pour déclencher plans de contingence (objectif 1000 fin novembre)
+- Réactivation de 2559 deals closed-lost à fort score via SDR
+- Cadence email FOMO intensive : quotidien dernière semaine, plusieurs par jour J-2/J-3
+
+**Actions**
+- [ ] **Quentin** : Fournir segmentation détaillée des utilisateurs bloqués par onboarding/pop-up (échéance 2026-11-07)
+- [ ] **Quentin** : Intégrer Twilio pour envoi SMS multicanal via plateforme (échéance 2026-11-09)
+- [ ] **Quentin** : Implémenter bump d'upsell ~400€ sur page de paiement avec compte à rebours (échéance 2026-11-10)
+- [ ] **Boris** : Fournir accès/identifiants Twilio à Quentin (échéance 2026-11-06)
+- [ ] **Boris** : Produire plan d'action global avec tâches, responsables et échéances pour Scale (échéance 2026-11-08)
+- [ ] **Boris** : Confirmer domaine d'envoi dédié Scale pour préserver délivrabilité (échéance 2026-11-07)
+- [ ] **Alec** : Planifier campagne SMS compte à rebours 10/13/15 nov et confirmer coût fournisseur (échéance 2026-11-09)
+- [ ] **Alec** : Coordonner outreach SDR sur 2559 closed-lost à fort score (échéance 2026-11-15)
+- [ ] **Sabrina** : Produire consigne + Loom pour coachs sur vérification éligibilité et statut places (échéance 2026-11-07)
+- [ ] **Sabrina** : Communiquer à tous animateurs masterclass la consigne micro-rappel Scale 2-5 min (échéance 2026-11-08)
+- [ ] **Sabrina** : Coordonner calendrier d'envoi et segmentation séquence FOMO avec Quentin/Alec (échéance 2026-11-10)
+- [ ] **Raphaël** : Finaliser copy checkout upsell et produire séquence email FOMO complète (échéance 2026-11-09)
+- [ ] **Fabrice** : Suivre collecte 100% réponses clients alloués avant le 15 novembre (échéance 2026-11-15)
+- [ ] **Rachid** : Confirmer effectif commerciaux actifs et répartir capacité SDR/sales pour relances (échéance 2026-11-06)
+- [ ] **Océane** : Amplifier production contenu organique (reels/stories) pour Scale (échéance 2026-11-15)
+
+**Risques & vigilances**
+- ~300 utilisateurs potentiellement bloqués par pop-ups onboarding obligatoires pour confirmer leur place
+- Délivrabilité email compromise si envois massifs depuis domaine principal sans isolation
+- Risque de cannibalisation des renouvellements autres programmes par promotion Scale
+- Capacité commerciale limitée (4 commerciaux actifs) pour absorber volumes de relance qualifiée
+- Absence de clause contractuelle imposant date limite de réservation, limitant l'application ferme
+- Baisse attendue de 30% sur réponses en attente ramènerait remplissage à ~700 au lieu de 1000
+- Dépendance aux 5 nouveaux SDR qui démarrent lundi et nécessitent onboarding rapide
+- Incertitude sur remplissage janvier-février entre lancements novembre et mars
+
+Tags : #scale-2027 #plan-communication #campagne-sms #upsell-checkout #reactivation-sdr
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,57 @@
 type: call
 date: 2026-11-09
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Fabrice & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (09/11/2026 13:20).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète des sujets commerciaux et partenariats : amélioration du suivi des appels via CloudTalk, nettoyage des données Hotspot, clarification des partenariats (LegalPlace, ICO, Penny Lane, OMD), préparation du lancement Immersion Scaling et recrutement Head of Sales.
+
+**Décisions**
+- Activation de CloudTalk pour Alexandre et Caro pour centraliser le suivi des appels
+- Lancement officiel Immersion Scaling le 15 novembre avec landing page et billetterie à 40 places
+- Objectif minimum pour Walid : 4 R1 >254€ par jour du 16 au 30 novembre
+- Engagement minimum de 9 mois pour le partenariat Penny Lane avec discussion sur l'exclusivité
+- Kick-off du plan de communication Scale le 10 novembre à 09h00
+
+**Actions**
+- [ ] **Fabrice** : Mettre à disposition CloudTalk pour Alexandre et Caro
+- [ ] **Rachid** : Contacter CloudTalk pour provisionner les licences et négocier l'intégration
+- [ ] **Sabrina** : Coordonner avec Rachid et Ops le nettoyage automatisé des données Hotspot (2800 appels réservés)
+- [ ] **Alec** : Revoir la proposition de Romain Astruc sur Tank et prendre une décision
+- [ ] **Fabrice** : Définir les objectifs d'activation ICO pour mercredi (échéance 2026-11-13)
+- [ ] **Fabrice** : Clarifier les spécifications du clipping avec OMD
+- [ ] **Fabrice** : Call de lancement avec Beyond Media demain à 15h (échéance 2026-11-10)
+- [ ] **Fabrice** : Mettre en ligne la landing page et billetterie Immersion Scaling cet après-midi (échéance 2026-11-09)
+- [ ] **Adil** : Finaliser la landing page Immersion Scaling (échéance 2026-11-09)
+- [ ] **Sabrina** : Préparer la formation commerciale de la semaine prochaine avec cas clients et outils
+- [ ] **Sabrina** : Suivre la performance de Walid et assurer 4 R1 >254€/jour dans son agenda (échéance 2026-11-16)
+- [ ] **Boris** : Poursuivre le sourcing Head of Sales (réseau + chasse + annonces)
+
+**Risques & vigilances**
+- 80% des 2800 appels réservés Hotspot concernent des personnes inactives, créant inefficacité et bruit
+- Process manuel et fragmenté pour les listes (Sabrina→Rachid→Sega) non tenable à long terme
+- ICO pourrait être inadapté car Entrepreneurs.com n'a pas d'ATS complet avec multiposting ni site carrières
+- Walid a moins d'appels à forte valeur que ses pairs et évite les leads froids VSL/funnels
+- Disponibilité de Walid incertaine cette semaine (indiqué off), risque sur engagement
+- Agence média extrêmement stricte sur clipping et exigence 6M de vues, nécessite réponse définitive
+- Confusion dans les messages publicitaires événementiels excluant ceux ayant déjà fait des ventes alors que cible = débutants
+
+**Projets liés** : [[Immersion]] · [[Partenariat Odoo]]
+
+Tags : #partenariats #cloudtalk #immersion-scaling #recrutement-head-sales #nettoyage-data
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

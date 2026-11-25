@@ -2,14 +2,49 @@
 type: call
 date: 2026-11-18
 source: sembly
-participants: ["boris@entrepreneurs.com", "ed@arbalett.com", "jules.dussart@arbalett.com"]
+participants: ["[[Boris Arduy]]", "ed@arbalett.com", "jules.dussart@arbalett.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Erion & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/11/2026 15:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Recrutement critique d'un Head of Sales pour diriger un pôle de 30 personnes, basé impérativement à Dubaï. Priorité au leadership et à l'agilité plutôt qu'à l'expérience secteur, avec une cible de doublement du CA vers 50-60M€.
+
+**Décisions**
+- Recours à la chasse de tête pour recruter le Head of Sales
+- Localisation à Dubaï non négociable, contrat avec société émiratie
+- Ordre de priorité des critères : installation Dubaï > état d'esprit agile > compétences commerciales > connaissance secteur
+- Fourchette de rémunération 8-10K€ fixe mensuel, variable négociable (ex: 120K fixe + 30K variable annuels)
+- Prolonger la recherche d'1-2 semaines plutôt que recruter par défaut
+- Période d'essai payée d'environ 2 semaines envisageable
+
+**Actions**
+- [ ] **Jules** : Conduire la chasse de tête pour identifier candidats Head of Sales avec expérience croissance rapide et leadership
+- [ ] **Boris** : Conduire les premiers entretiens avec Jules
+- [ ] **Alec Henry** : Participer au processus d'évaluation des candidats finalistes
+- [ ] **Anisse Rbibe** : Évaluer l'adéquation humaine des candidats finalistes
+- [ ] **Boris** : Recruter le nouveau Head of Sales idéalement début 2027 (échéance 2027-01-31)
+
+**Risques & vigilances**
+- Pipeline actuel vide de candidats qualifiés pour ce poste critique
+- Recrutement précédent échoué (profil trop corporate, manque de fit humain avec managers)
+- Personne en intérim ne souhaite pas porter le développement du pôle à long terme
+- Contraintes d'expatriation à Dubaï (frais scolarité élevés) peuvent freiner candidats avec famille
+- Erreur de recrutement sur poste directement lié aux revenus pourrait coûter cher
+- Pénurie de profils combinant leadership, expérience croissance rapide et disponibilité pour Dubaï
+- Ambition de doublement du CA (50-60M€) très exigeante, nécessite réinvention des méthodes
+
+Tags : #recrutement #head-of-sales #dubai #leadership-commercial #croissance
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

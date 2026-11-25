@@ -2,14 +2,50 @@
 type: call
 date: 2026-11-06
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Jordan Leroux]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Magellan call
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (06/11/2026 11:25).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Call de crise sur les performances commerciales catastrophiques de novembre : pipeline très faible, leads peu qualifiés (70-80% de mauvaise qualité), risque de départ des meilleurs closers dont Walid. Décisions prises pour stabiliser : prioriser les leads qualifiés vers Walid et Sabrina, renforcer le suivi managérial quotidien, et préparer des réductions d'effectifs importantes si pas d'amélioration mi-novembre.
+
+**Décisions**
+- Prioriser l'affectation des meilleurs leads qualifiés vers Walid et Sabrina (top closers)
+- Surveiller de très près les performances de novembre et préparer des décisions de staffing à mi-novembre
+- Instaurer un suivi quotidien renforcé avec points du matin et monitoring des agendas
+- Réductions d'effectifs possibles jusqu'à 80% si pas d'amélioration (Fabrice, Anis, possiblement Wassim identifiés)
+
+**Actions**
+- [ ] **Boris** : Vérifier le tableau de bord après correction du bug d'automatisation et faire un retour (échéance 2026-11-07)
+- [ ] **Boris** : Vérifier et corriger les marqueurs 'funnel origin' manquants dans le pipeline de novembre (échéance 2026-11-08)
+- [ ] **Boris** : Partager les données de qualification post-opt-in montrant la faible qualité des leads avec l'équipe (échéance 2026-11-07)
+- [ ] **Boris** : Mobiliser Lucas davantage pour améliorer les performances marketing et funnel (échéance 2026-11-10)
+- [ ] **Alec** : Travailler de près avec l'équipe lundi pour retenir et motiver les contributeurs clés (échéance 2026-11-10)
+- [ ] **Jordan** : Mettre en place le suivi quotidien de la cadence R1-R3 et du volume de rendez-vous (échéance 2026-11-09)
+- [ ] **Alec** : Vérifier l'application effective de l'ordre de priorité pour la distribution des leads (échéance 2026-11-09)
+
+**Risques & vigilances**
+- Départ imminent de Walid (meilleur commercial) si la situation ne s'améliore pas rapidement
+- Lucas menace de se désengager si le marketing de novembre ne performe pas
+- Surcharge de Sabrina sur le closing risque de créer une dette opérationnelle sur ses tâches stratégiques
+- Pipeline extrêmement faible au-delà des prochains jours (7 RDV demain, 17 lundi, puis presque rien)
+- 70-80% des leads sont de faible qualité avec seulement 2-3% de profils premium
+- Absence de suivis R2/R3 planifiés cette semaine compromet la continuité de conversion
+- Moral de l'équipe commerciale très affecté par les performances 'abominables'
+- Manque de leadership et de management actif identifié comme cause racine
+
+Tags : #crise-commerciale #pipeline #performance-sales #restructuration #retention-talents
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

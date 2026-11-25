@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-02
 source: sembly
-participants: ["adil.ziane@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "hubert@papel.media", "stivel@consulting-sd.com"]
+participants: ["[[Adil]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Hubert Smolen]]", "stivel@consulting-sd.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Kickoff Mediabuy - Sommet IA des E 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/11/2026 10:35).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kickoff du mediabuy pour le Sommet IA des entrepreneurs : refonte complète du tracking des leads qualifiés (>15K) suite aux problèmes de qualité Google/Meta, mise en place d'une stratégie de test créatif par lots avec séparation des comptes publicitaires, et lancement d'un webinar hebdomadaire evergreen pour Anis à partir du 9 novembre.
+
+**Décisions**
+- Page de remerciement dédiée et conversion unique pour isoler les leads >15K qualifiés
+- Stratégie de test par lots créatifs avec campagnes ABO séparées pour éviter la dilution budgétaire
+- Séparation des comptes Meta (USD4/5 pour événement vs USD3 pour evergreen) pour éviter la contamination de données
+- Nettoyage des pixels : conservation de seulement 2 pixels (Join événement et LM)
+- Lancement webinar hebdomadaire Anis le 17 novembre avec publicités dès le 9 novembre, budget test 10K€/semaine
+- Priorisation des créatifs témoignages qui performent mieux (34€/appel vs 59€ moyenne)
+
+**Actions**
+- [ ] **Cédric** : Vérifier l'implémentation de la conversion leads >15K et partager le calendrier de livraison des lots créatifs dans le Google Sheet (échéance 2026-11-03)
+- [ ] **Hubert** : Suivre le CPMQL en continu et partager les projections sur le cycle complet de l'événement
+- [ ] **Hubert** : Tenter de joindre Arthur Pertigos comme intervenant potentiel avec Océane (échéance 2026-11-05)
+- [ ] **Cédric** : Ajouter les consignes selfie et brief retargeting GoLive aux briefs des intervenants (Zach, Nani, Rassem, Kelly) (échéance 2026-11-04)
+- [ ] **Stivel** : Extraire et partager les métriques de clics et présence live du retargeting (échéance 2026-11-06)
+- [ ] **Hubert** : Fournir la performance détaillée par créatif et vérifier la capacité de dépense sur USD4/USD5 (échéance 2026-11-05)
+- [ ] **Cédric** : Confirmer avec Jordan la devise de facturation (EUR/CHF/USD) pour le nouveau compte Google Ads (échéance 2026-11-08)
+- [ ] **Adil** : Coordonner la mise en place technique du timing retargeting pour les interventions (messages J-7) (échéance 2026-11-10)
+- [ ] **Cédric** : Préparer les briefs créatifs pour le webinar hebdomadaire Anis avec premiers assets de qualité (échéance 2026-11-08)
+- [ ] **Hubert** : Piloter le pacing et les A/B tests du webinar evergreen Anis sur compte USD3 ou USD4 (échéance 2026-11-09)
+
+**Risques & vigilances**
+- Le CPMQL pourrait continuer à grimper si les nouveaux créatifs ne corrigent pas les problèmes de qualité
+- Risque de saturation si les 1000 assets créatifs sont déployés trop rapidement sans budget test suffisant
+- Les sessions du soir montrent un taux de présence faible (22,5%) qui impacte la qualité perçue de l'événement
+- Arrêter les dépenses sur USD3 pourrait réduire les plafonds futurs alors qu'objectif 100K€ evergreen en novembre
+- Calendrier serré : livraison lots créatifs cette semaine + lancement webinar Anis dans 7 jours
+- Contamination des données si la séparation des comptes n'est pas bien exécutée
+
+Tags : #mediabuy #sommet-ia #lead-qualification #meta-ads #google-ads #webinar-evergreen
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

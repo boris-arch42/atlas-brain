@@ -2,14 +2,47 @@
 type: call
 date: 2026-09-16
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Trustpilot
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/09/2026 18:11).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue du processus manuel actuel de collecte d'avis Trustpilot et validation d'une stratégie d'automatisation via le nouveau module de scoring (M0-M12). Test d'incitation prévu : offrir une ressource aux clients notant 9-10 pour obtenir un avis Trustpilot en retour.
+
+**Décisions**
+- Utiliser le score de succès interne (70-80) ou le NPS comme déclencheur automatique pour les demandes d'avis Trustpilot
+- Lancer un test d'incitation ciblé : ressource offerte aux clients donnant une note 9-10 contre publication d'un avis Trustpilot
+- Adopter une montée en charge progressive (20 puis 40-50 avis/semaine) plutôt qu'un volume immédiat élevé
+- Explorer des options juridiques avec Alec et les avocats pour faire retirer les avis Trustpilot illégitimes
+
+**Actions**
+- [ ] **Boris** : Relire le PRD et les résultats de test du module de scoring pour confirmer les données et le calibrage (échéance 2026-09-17)
+- [ ] **Océane** : Contacter Cédric et Adil pour identifier la ressource à offrir (cockpit ou lead magnet) et préparer le texte du message Trustpilot (échéance 2026-09-17)
+- [ ] **Boris** : Coordonner avec Quentin la faisabilité technique du flux automatisé (détection score 9-10 → message + lien ressource) et escalader si nécessaire (échéance 2026-09-17)
+- [ ] **Sabrina** : Tester manuellement le parcours utilisateur actuel (débloquer coaching / laisser avis) et identifier les bugs éventuels (échéance 2026-09-18)
+- [ ] **Océane** : Explorer avec Alec et les avocats les options juridiques pour faire supprimer les avis Trustpilot négatifs illégitimes
+
+**Risques & vigilances**
+- Capacité CSM saturée (168 messages en attente) et absence du CSM jusqu'au 1er octobre limite la bande passante pour gérer volume d'avis et modération
+- Messages automatisés du concierge IA perçus comme humains génèrent des questions et augmentent la charge support avec risque de dégradation de la réputation
+- Trustpilot avait déjà bloqué/exclu des avis positifs lors de sollicitations précédentes, risque de récidive si l'approche n'est pas calibrée
+- Écart entre notes publiques élevées des coachs et faibles scores NPS internes : les évaluations publiques peuvent être biaisées
+- Volume d'avis visé irréaliste au vu de la base clients actuelle et de la capacité opérationnelle si on ne procède pas par paliers
+
+**Projets liés** : [[Automatiser Trustpilot collecte]]
+
+Tags : #trustpilot #avis-clients #automatisation #nps #reputation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

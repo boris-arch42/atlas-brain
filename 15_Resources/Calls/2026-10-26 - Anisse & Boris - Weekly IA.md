@@ -2,14 +2,52 @@
 type: call
 date: 2026-10-26
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (26/10/2026 15:31).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire IA couvrant la transition Lucas/SDR Hub, le déménagement de Boris à Dubaï, la transmission du poste d'Abdel vers Nassim et Élodie, et l'opportunité de monétiser les capacités IA/automatisation avec un cadrage strict.
+
+**Décisions**
+- Transfert des responsabilités d'Abdel à Nassim avec validation financière sous 48-72h
+- Proposition d'un deal à commission pour Élodie sur la communauté gratuite, sinon abandon du projet
+- Lancement très contrôlé d'une offre IA/automatisation avec nombre limité de créneaux mensuels
+- Nécessité d'un rôle technico-commercial pour cadrer les projets IA avant livraison
+- Tarification modulaire (3/5/7 options) avec setup + maintenance mensuelle + clients gérant leurs propres API
+
+**Actions**
+- [ ] **Boris** : Récupérer avec Jordan le deal historique Alec-Abdel (variable + 6k fixes) (échéance 2026-10-28)
+- [ ] **Boris** : Préparer proposition financière pour Élodie sur animation communauté et valider avec Alec/Jordan (échéance 2026-10-29)
+- [ ] **Lucas** : Accompagner la migration du SDR Hub vers HubSpot avec regard process SDR
+- [ ] **Boris** : Finaliser démarches administratives et arbitrage fermeture SASU avant départ Dubaï (21 nov) (échéance 2026-11-20)
+- [ ] **Nassim** : Poursuivre formation avec Abdel pour devenir autonome sur responsabilités transmises
+- [ ] **Anisse** : Définir packages, pricing et modèle d'affiliation pour offre IA/automatisation
+- [ ] **Boris** : Trancher entre modèle agence (10 devs + 2 leads + 2 commerciaux) ou périmètre limité pour IA
+
+**Risques & vigilances**
+- Exit tax potentiel si fermeture SASU mal timée avant établissement résidence fiscale Dubaï
+- Carnet de commandes tendu, mois en cours juste à l'équilibre avec tension trésorerie court terme
+- Risque de sous-estimation des projets IA clients avec multitude de demandes additionnelles
+- Risque réputationnel si commercialisation publique services agence IA perçue comme opportuniste
+- Projets IA nécessitent 2-3 mois minimum, risque d'engorgement sans capacité développement suffisante
+- Frais de conversion inter-devises (~0,7% sur dirhams) impactant marges et trésorerie
+- Pression pour construire offre avec engagement sur revenus rapides alors que delivery contraint
+
+**Projets liés** : [[Communauté gratuite ENT — lead magnet & réactivation base]] · [[Refonte verticale Data-IA-Tech-Ops]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #ia-automatisation #transition-abdel #demenagement-dubai #monetisation-ia #strategie-communaute
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

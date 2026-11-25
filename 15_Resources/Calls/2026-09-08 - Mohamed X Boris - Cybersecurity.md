@@ -2,14 +2,55 @@
 type: call
 date: 2026-09-08
 source: sembly
-participants: ["boris@entrepreneurs.com", "mohamed@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Mohamed]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Mohamed X Boris - Cybersecurity
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (08/09/2026 12:02).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement sur le nettoyage des stockages cloud, la désactivation des comptes inactifs et le renforcement de la sécurité. Lancement d'un chantier de visibilité sur les coûts SaaS par utilisateur et intégration des paiements bancaires dans la plateforme Jordan.
+
+**Décisions**
+- Application le 15 septembre d'une limite de 5 Go pour les utilisateurs dépassant 500 Go (hors responsables d'équipe)
+- Suppression immédiate des comptes closers Alchimie inactifs
+- Lancement de l'intégration des paiements bancaires dans la plateforme Jordan via agrégateur UAE
+- Nettoyage des partages de fichiers avec comptes personnels (notamment les 48k et 33k fichiers partagés)
+- Audit et blocage des applications tierces à permissions excessives
+- Centralisation de la documentation Riot dans le wiki Works
+
+**Actions**
+- [ ] **Mohamed** : Appliquer la restriction de stockage à 5 Go pour les utilisateurs au-dessus de 500 Go (échéance 2026-09-15)
+- [ ] **Mohamed** : Supprimer les comptes closers Alchimie (Asma, Asad, Ada, Sou, Emma, Pedro, etc.) (échéance 2026-09-20)
+- [ ] **Mohamed** : Relancer Imane, Sylvain, Cédric et Fiona avant archivage de leurs comptes (échéance 2026-09-20)
+- [ ] **Mohamed** : Finaliser l'intégration de l'agrégateur de paiements avec Jordan (échéance 2026-09-30)
+- [ ] **Mohamed** : Construire la vue plateforme MSP avec calcul du coût SaaS par utilisateur (échéance 2026-09-30)
+- [ ] **Boris** : Coordonner avec Anis pour héberger l'organigramme sur Work avec photos et responsabilités
+- [ ] **Mohamed** : Exporter et analyser les partages de fichiers à risque puis supprimer les accès inappropriés (échéance 2026-09-30)
+- [ ] **Mohamed** : Créer la page Riot dans le Wiki Works et y centraliser la documentation (échéance 2026-09-08)
+- [ ] **Boris** : Vérifier avec le juridique que la charte numérique couvre bien tous les actifs
+- [ ] **Boris** : Promouvoir les modules de formation cybersécurité auprès des managers
+
+**Risques & vigilances**
+- Exposition massive de données via 48k+ fichiers partagés avec des comptes personnels potentiellement compromis
+- 228 licences facturées alors que l'effectif actif est bien inférieur (comptes doublons et inactifs)
+- Faible adoption des formations cybersécurité malgré les campagnes de phishing actives
+- Applications tierces avec permissions excessives (consultation, modification, création Drive)
+- Absence de cartographie SaaS et d'organigramme à jour pour identifier les responsabilités
+- Risque de blocage utilisateurs lors de l'application des restrictions de stockage le 15 septembre
+
+**Projets liés** : [[Sprint Cybersec & phishing]] · [[Audit SaaS-IT — économies]] · [[Pôle Tech & Ops interne — structuration]] · [[Riot]]
+
+Tags : #cybersécurité #audit-saas #optimisation-coûts #dlp #phishing #nettoyage-stockage
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

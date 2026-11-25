@@ -2,14 +2,46 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Océane & Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 14:22).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel sur la performance marketing, le recrutement RH, le suivi des leads et la stratégie de collecte d'avis. Plusieurs axes d'optimisation identifiés sur la mobilisation des SDR, la relance automatique et la répartition Trustpilot/Google.
+
+**Décisions**
+- Recruter un profil RH/recruteur expérimenté capable de faire de la chasse de tête et de qualifier les candidatures post-Aïko
+- Alterner les demandes d'avis entre Trustpilot et Google My Business (une sur deux)
+- Mobiliser les SDR sur les leads du funnel qui ne réservent pas d'appel, notamment autour de la sortie du documentaire et du challenge
+
+**Actions**
+- [ ] **Océane** : Signaler le problème du calendrier de relance CloseMate dans le groupe et vérifier avec l'API le nombre de messages envoyés
+- [ ] **Océane** : Échanger avec Rachid sur l'affectation des SDR aux leads non-convertis du funnel et la capacité disponible
+- [ ] **Océane** : Demander validation à Alec sur la stratégie d'alternance Trustpilot/Google pour les avis
+- [ ] **Océane** : Créer la page de destination pour les avis Google My Business
+- [ ] **Boris** : Faire le suivi avec Quentin pour le changement de lien/bouton une fois validation d'Alec obtenue
+- [ ] **Boris** : Modifier la date du contrat de Dorian et le signer pour débloquer ses accès
+- [ ] **Océane** : Prévenir Dorian une fois ses accès Google, Slack et Work créés
+
+**Risques & vigilances**
+- Le calendrier de relance automatique CloseMate ne semble pas fonctionner correctement (seulement 3 réservations depuis la mise en place)
+- Perte potentielle de leads qualifiés du funnel qui ne réservent pas d'appel sans process de suivi
+- Manque d'expérience et de structuration RH freine la qualité des recrutements
+
+**Projets liés** : [[Automatiser Trustpilot collecte]]
+
+Tags : #marketing #recrutement #avis-clients #sdr #relance-leads
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,46 @@
 type: call
 date: 2026-10-27
 source: sembly
-participants: ["ilarbi@ouinex.com", "boris@entrepreneurs.com", "fleto@ouinex.com"]
+participants: ["ilarbi@ouinex.com", "[[Boris Arduy]]", "fleto@ouinex.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Illies & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (27/10/2026 14:07).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Call stratégique sur le lancement du token WinEx avec Ilies et Florian : validation de la traction initiale de la plateforme (Brésil notamment), définition d'une stratégie de lancement token intégrée (narration, prévente, cotation mi-décembre) et modèle de monétisation multi-couches (rev-share, trade-fee, PropFirm).
+
+**Décisions**
+- Privilégier les petits et moyens créateurs plutôt que les gros influenceurs dans un premier temps pour construire l'authenticité
+- Maintenir la cotation du token à mi-décembre sauf momentum organique exceptionnel
+- Éviter les gros retainers agences (15-20k€) au profit d'une approche performance avec incitations token
+- Rapprocher manuellement les commissions d'affiliation chaque trimestre en attendant une éventuelle automatisation
+- Utiliser les fonds de prévente pour alimenter trésorerie et budget marketing long terme
+
+**Actions**
+- [ ] **Boris** : Discuter avec Alec de la faisabilité d'un support au lancement token (narration + technique blockchain) (échéance 2026-10-28)
+- [ ] **Boris** : Faire un retour franc sur la capacité de l'équipe à soutenir le plan token proposé (échéance 2026-10-28)
+- [ ] **Ilies** : S'aligner avec Alec pour rédiger les jalons roadmap token et mettre à jour le white paper
+- [ ] **Florian** : Attribuer les packs d'offres et établir le mapping des paliers de commission par partenaire (30/40/50)
+- [ ] **Ilies** : Préparer le Drive avec assets prêts à publier pour les influenceurs (vidéos, tutoriels, animations)
+
+**Risques & vigilances**
+- Reports répétés de cotation nuisent à la crédibilité et au momentum
+- Ventes token mal calibrées peuvent auto-supprimer le marché
+- Agences externes avec gros retainers ont historiquement sous-performé
+- Coordination trésorerie/trading essentielle pour gérer les cycles de pump sans casser le prix
+- Transparence nécessaire sur capacités internes réelles pour éviter promesses excessives
+
+Tags : #token-launch #winex #propfirm #affiliation #web3
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

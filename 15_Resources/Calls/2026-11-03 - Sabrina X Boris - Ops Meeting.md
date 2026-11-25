@@ -2,14 +2,60 @@
 type: call
 date: 2026-11-03
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Sabrina X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (03/11/2026 14:49).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Alignement opérationnel sur la montée en charge du VSL et des lancements avec décisions critiques sur le seuil de qualification (250k€+), la refonte du flux CRM (lead/contact/deal), et corrections urgentes sur le placement des formulaires et le routage. Post-mortem de l'événement 3 jours prévu et session de nettoyage HubSpot à planifier.
+
+**Décisions**
+- Cibler uniquement les leads au-dessus de 250k€ de CA pour préserver la qualité
+- Augmenter l'objectif d'appels de 300-320 à 500 par mois si qualification respectée
+- Nouveau flux CRM lead/contact/deal déployé sur tous les funnels Evergreen et lancements (site web en cours)
+- Génération automatique des liens iClosed trackés basée sur le propriétaire du lead
+- Ajout obligatoire du nom de société dans les formulaires pour automatiser la validation des transactions
+- Placement du formulaire de qualification AVANT la réservation d'appel (correction urgente)
+- Création d'équipes structurées dans iClosed (Team A/B/C) pour simplifier le routage
+- Nettoyage des calendriers iClosed et suppression des équipes obsolètes
+
+**Actions**
+- [ ] **Sabrina** : Mener le post-mortem de l'événement 3 jours avec l'équipe externe et partager les enseignements et le pipe (échéance 2026-11-04)
+- [ ] **Boris** : Finaliser la configuration du site web pour le brancher sur le nouveau flux CRM lead/contact/deal
+- [ ] **Boris** : Ajouter la lead card VSL dans le CRM affichant les réponses du quiz
+- [ ] **Boris** : Corriger le placement des formulaires pour collecter les données AVANT la réservation d'appel (avec Raphaël)
+- [ ] **Sabrina** : Corriger les règles de routage manquantes pour les leads <250k€ dans iClosed
+- [ ] **Boris** : Supprimer les équipes inutilisées et recréer Team A/B/C dans iClosed
+- [ ] **Sabrina** : Créer le dossier Teams dans le Wiki et donner accès à Boris et Alec
+- [ ] **Boris** : Remplir tous les calendriers en priorité pour la préparation opérationnelle
+- [ ] **Boris** : Terminer la configuration DSL et les corrections du site web
+- [ ] **Boris** : Récupérer les données historiques janvier-octobre pour analyse comparative
+- [ ] **Boris** : Examiner les premières statistiques de qualité leads et performances de l'événement (échéance 2026-11-07)
+- [ ] **Boris** : Planifier une session de travail de 2h avec Sabrina pour nettoyage HubSpot et optimisation processus (échéance 2026-11-10)
+- [ ] **Sabrina** : Revoir les champs obligatoires du quiz avec Raphaël pour optimiser le routage
+- [ ] **Boris** : Évaluer et implémenter l'ajout automatique du nom de société dans les formulaires
+
+**Risques & vigilances**
+- Cannibalisation du programme 5 jours sur la performance VSL et surcharge des SDR si staffing insuffisant
+- Qualité des leads B2B trop faible démotive les partenaires sites (pool Kelly) et complique le recrutement
+- Formulaires placés après réservation empêchent la qualification et provoquent du mauvais routage
+- Baisse importante des taux de conversion observée (28% mars → 13% septembre sur ICP 500k-3M€)
+- Turnover et événement Kelly de mai ont perturbé les flux et déstabilisé l'équipe
+- Mauvaise répartition des leads lors des événements précédents a impacté le moral des commerciaux
+- Prévision conservatrice de ~1000 appels et 10% conversion réduit fortement les objectifs CA
+
+Tags : #crm #vsl #qualification-leads #routing #hubspot #iclosed #scaling
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

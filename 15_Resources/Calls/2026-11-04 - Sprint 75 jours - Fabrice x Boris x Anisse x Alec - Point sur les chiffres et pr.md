@@ -2,14 +2,61 @@
 type: call
 date: 2026-11-04
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Sprint 75 jours | Fabrice x Boris x Anisse x Alec | Point sur les chiffres et projections
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (04/11/2026 09:29).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue de crise sur les résultats octobre (350 cases vs 700 cibles) et lancement d'un plan 75 jours concentré sur 3 piliers (webinar, fidélisation, SDR/Evergreen) pour sécuriser 2,5 M€ d'ici fin décembre. Décisions structurantes : centralisation CRM dans HubSpot, recrutement SDR/CSM hybride Dubaï, protection de Sabrina (4 jours off), cadence hebdomadaire stricte.
+
+**Décisions**
+- Plan à 2,5 M€ concentré sur 3 piliers : webinar fin novembre, fidélisation/upsell, SDR/Evergreen
+- Centraliser les processus de fidélisation dans Hotspot/HubSpot et abandonner les artefacts Google Sheet/Cloud
+- Recruter un profil hybride SDR/CSM à Dubaï (4,5-6 k€/mois) pour préqualification et conciergerie client
+- Sabrina doit prendre 4 jours de repos immédiatement pour protéger sa santé
+- Cadence hebdo : objectifs lundi, revue mercredi, rétro vendredi
+- Atelier 2-3h avec Caro, Alex et équipe retention pour specs Hotspot
+- Masterclass déplacée au 20 novembre, event live le 17 novembre à 11h30
+- Budget pub événement 10 k€ + campagne d'appels pour augmenter taux de présence
+
+**Actions**
+- [ ] **Cédric** : Valider hypothèse CPL à 18 € et volume leads atteignable avec LegalPlace (échéance 2026-11-08)
+- [ ] **Cédric** : Mettre en place intégration affiliation/tracking avec LegalPlace et coordonner avec Guillaume Océ (échéance 2026-11-11)
+- [ ] **Quentin** : Auditer logs usage BI retention et produire liste specs pour consolidation Hotspot (échéance 2026-11-08)
+- [ ] **Alec** : Planifier atelier 2-3h avec Caro, Alex et équipe retention pour specs Hotspot (échéance 2026-11-11)
+- [ ] **Sabrina** : Prendre 4 jours de repos obligatoires (échéance 2026-11-08)
+- [ ] **Sabrina** : Mettre en œuvre tactiques réduction no-shows avec Lucas et suivi quotidien KPI (CPL, appels réservés)
+- [ ] **Jordan** : Intégrer dépenses court terme (immersion scaling, frais Scale) dans burn mensuel et communiquer impact runway (échéance 2026-11-08)
+- [ ] **Alec** : Préparer slide CRO avec 6 lignes de revenu (objectifs nov-déc, scénarios, actions, ressources) (échéance 2026-11-06)
+- [ ] **Alec** : Kick-off Suisse le 9 et session elvetisation le 16 avec Raphael et Valentin (échéance 2026-11-09)
+- [ ] **Anisse** : Préparer kick-off événement live 17 nov et revue slides 3 jours avant avec Alec, Cédric, Adil (échéance 2026-11-14)
+- [ ] **Alex** : Recruter SDR dédié FIDE avec Rachid et Fabrice
+- [ ] **Alec** : Définir profil hybride SDR/CSM Dubaï et lancer recrutement (échéance 2026-11-11)
+
+**Risques & vigilances**
+- Sous-performance commerciale octobre (350 vs 700 cases) met en péril objectif 2,5 M€
+- Surcharge critique de Sabrina risque burn-out et impact sur delivery
+- Alex très motivé mais manque structure et réactivité sur tâches simples (ex: liste non traitée)
+- Éclatement des processus retention sur 5 plateformes génère pertes de données et friction opérationnelle
+- Taux de contact SDR à 34% sous l'hypothèse 40%, nécessite ajustements canaux
+- Hypothèse CPL à 18 € non validée, variable critique de faisabilité du plan
+- Moral d'équipe faible et manque d'initiative/ownership généralisé
+- Tension de trésorerie accentuée par paiement juridique imprévu 5 k€
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]] · [[Trésorerie & Finance]]
+
+Tags : #sprint-75-jours #plan-25m #crise-performance-commerciale #centralisation-crm #recrutement-sdr-csm
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

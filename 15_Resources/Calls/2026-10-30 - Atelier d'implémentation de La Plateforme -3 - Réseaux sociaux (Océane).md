@@ -2,14 +2,47 @@
 type: call
 date: 2026-10-30
 source: sembly
-participants: ["abderrahim@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "42lab@entrepreneurs.com", "leonard.mangallon@entrepreneurs.com", "alec.henry@entrepreneurs.com", "alec@entrepreneurs.com", "claire@entrepreneurs.com", "christel.elfakhoury@entrepreneurs.com", "oceane@entrepreneurs.com", "l_sales-team@entrepreneurs.com", "coachs@entrepreneurs.com"]
+participants: ["[[Abdel El Mahi]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Quentin]]", "leonard.mangallon@entrepreneurs.com", "[[Alec Henry]]", "[[Alec Henry]]", "[[Claire]]", "[[Christele]]", "[[Océane De Queiros]]", "l_sales-team@entrepreneurs.com", "coachs@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Atelier d'implémentation de La Plateforme #3 - Réseaux sociaux (Océane)
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (30/10/2026 12:10).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Atelier d'implémentation du module CMO Social (Noa) pour structurer la stratégie LinkedIn : onboarding complet, clonage de voix, génération de contenu à partir des coachings, planification et analytics. Insistance sur la régularité de publication et le mix contenu de valeur/promotion sur le long terme.
+
+**Décisions**
+- Finaliser l'onboarding (avatar, offre, profil) pour débloquer toutes les fonctionnalités du module CMO Social
+- Utiliser les transcriptions plutôt que l'ingestion complète de vidéos pour l'entraînement de Noa (trop coûteux)
+- Installer l'extension Cloud Chrome pour permettre le scraping et l'analyse de profils LinkedIn concurrents
+- S'engager sur une période minimale de 6 mois de publication régulière pour obtenir des résultats mesurables
+- Éviter les posts trop promotionnels quotidiens ; mixer valeur, personnalité et prises de position
+
+**Actions**
+- [ ] **Océane** : Partager le replay, le document d'accompagnement avec les prompts exacts et les fichiers de voix
+- [ ] **tous** : Compléter l'onboarding plateforme (avatar, offre, profil) pour débloquer le module CMO Social
+- [ ] **tous** : Définir les piliers de contenu et objectifs à 30 jours (visibilité, conversion, autorité)
+- [ ] **tous** : Installer l'extension Cloud Chrome pour l'analyse de profils concurrents
+- [ ] **tous** : Tester le clonage de voix et ajuster le ton de Noa de manière itérative
+- [ ] **tous** : Exporter hebdomadairement les conversations WhatsApp/Slack pour extraction d'idées de contenu
+
+**Risques & vigilances**
+- Risque de détection anti-bot LinkedIn si trop de scraping en parallèle (limiter les analyses ciblées)
+- Clonage de voix insuffisant si l'onboarding est incomplet ou si l'utilisateur n'a pas assez de publications LinkedIn
+- Désengagement de l'audience si contenu trop promotionnel ou irrégulier
+- Lacunes de compétences IA dans l'équipe qui peuvent ralentir l'adoption et l'efficacité
+- Résultats visibles uniquement après au moins un mois d'activité soutenue (gérer les attentes court terme)
+
+Tags : #cmo-social #linkedin #noa #clonage-voix #strategie-contenu
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

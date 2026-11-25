@@ -2,14 +2,56 @@
 type: call
 date: 2026-10-27
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Jordan X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (27/10/2026 15:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point ops couvrant l'installation de Boris à Dubaï (arrivée 21 nov), urgences trésorerie (Comrade, créances douteuses ~500k€), automatisation facturation Scale via HubSpot/Odoo, et transfert communauté d'Abdel à Elodie avec commission 5%.
+
+**Décisions**
+- Boris arrive à Dubaï le 21 novembre 2026, installation chez Cédric
+- Commission d'Elodie sur la communauté fixée à 5% du cash encaissé (fallback: 5% + 500€ fixe si refus)
+- Création automatique de transactions HubSpot pour toutes les offres Scale nécessitant budget additionnel
+- Intégration PDF contrats OneFlow dans la base client pour accès centralisé
+- Remise en service du tableau opérationnel avec automatisation par Prakar/Vijayat
+- Maintien de Léa sous réserve validation Sabrina (besoin ~10h/semaine)
+- Métriques delivery à définir avec Anis lors d'un call de 15 min
+
+**Actions**
+- [ ] **Boris** : Finaliser fermeture sociétés et changement résidence fiscale (échéance 2027-01-02)
+- [ ] **Jordan** : Vérifier possibilité paiement mensuel licences Tomorrow (13k€)
+- [ ] **Boris** : Intégrer PDF OneFlow dans base client (dev 1-2h)
+- [ ] **Prakar** : Automatiser colonnes tableau opérationnel
+- [ ] **Jordan** : Automatiser colonnes grises avec Léa
+- [ ] **Jordan** : Consulter Sabrina sur maintien ou départ de Léa
+- [ ] **Boris** : Proposer deal commission 5% à Elodie pour reprise communauté
+- [ ] **Jordan** : Planifier call 15 min avec Anis pour définir métriques delivery
+- [ ] **Mohamed** : Finaliser dashboards financiers sur VPS sécurisé et partager cette semaine (échéance 2026-11-01)
+- [ ] **Jordan** : Revoir CGU avec appui juridique
+- [ ] **Jordan** : Lancer crash test fiabilité données base client pour calcul commissions (échéance 2026-11-02)
+
+**Risques & vigilances**
+- Tensions trésorerie : paiements bloqués (Comrade 5,5k€, Rad) et créances douteuses ~500k€
+- Friction Alec/équipe crée imprévisibilité et risque de démotivation malgré bonnes performances
+- Créances douteuses majeures (Amine 100k€) nécessitent provisionnement ~50%
+- Coupes d'effectifs trop profondes risquent de sacrifier capacité delivery et projets stratégiques
+- Statut fiscal Boris pas immédiat, résidence effective seulement à partir 2 janvier 2027
+
+**Projets liés** : [[Trésorerie & Finance]] · [[Communauté gratuite ENT — lead magnet & réactivation base]]
+
+Tags : #ops #tresorerie #installation-dubai #automatisation-facturation #communaute
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,50 @@
 type: call
 date: 2026-09-23
 source: sembly
-participants: ["boris@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Raphaël X Boris - Marketing Ops
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (23/09/2026 14:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue du dashboard marketing ops avec Raphaël : corrections des écarts de tracking, définition d'un algorithme de scoring des publicités, et amélioration de la granularité du funnel pour permettre des décisions fiables. Plusieurs bugs identifiés (tracking SDR, calcul ROAS, incohérences no-show) nécessitent des corrections avant d'envisager l'automatisation via IA.
+
+**Décisions**
+- Le ROAS actuel (3,46) ne sera pas utilisé comme métrique principale de décision opérationnelle en raison d'incohérences de calcul
+- Les nouveaux closers Walid et Martin devront visionner le replay de formation de Lucas avant d'être ajoutés aux calendriers Evergreen
+- Le classement des publicités utilisera un scoring par tranches de métriques (buckets de CTR/CPA) avec des seuils configurables
+- Création d'une visualisation de funnel étendue avec ownership par étape pour identifier précisément les goulots d'étranglement
+
+**Actions**
+- [ ] **Alec** : Produire une maquette simple de la page dashboard avec structure et classement des publicités
+- [ ] **Boris** : Rédiger la formule de scoring des annonces par tranches de métriques avec barèmes et plages
+- [ ] **Boris** : Investiguer le bug de la clôture Walid Melal (apparaît en vue 30j mais pas all-time)
+- [ ] **Alex** : Fournir les détails de tracking manquants pour les leads/ventes SDR sans paramètres UTM
+- [ ] **Boris** : Ajouter les ventes manquantes du funnel book une fois les informations reçues (passage de 67k à 100-120k)
+- [ ] **Boris** : Standardiser la métrique de no-show avec l'équipe closers pour résoudre les incohérences entre funnels
+- [ ] **Thomas** : Réconcilier les méthodes de calcul de no-show entre Looker (48%) et le dashboard (34-30%)
+- [ ] **Alec** : Concevoir une visualisation de funnel élargie type Lucidchart avec drop-off par étape et ownership
+- [ ] **Lucas** : Fournir le replay de la formation pour Walid et Martin avant leur ajout aux calendriers
+- [ ] **Boris** : Ajouter Walid et Martin à la liste des closers après validation de leur formation
+
+**Risques & vigilances**
+- Le volume de ventes non trackées (leads sans UTM) compromet la fiabilité du reporting d'attribution et du ROAS
+- Les incohérences entre sources de données (closers vs Looker) pour les no-show empêchent l'identification précise des problèmes de conversion
+- La granularité actuelle des données ne permet pas encore le déploiement de systèmes de décision automatisés ou pilotés par IA
+- L'ajout de nouveaux closers sans concertation préalable soulève des préoccupations d'alignement culturel et d'équipe
+- Si le trafic warm est surévalué, le taux de conversion réel post-présence serait plus bas que prévu, nécessitant des corrections upstream
+
+Tags : #marketing-ops #dashboard #tracking #scoring-ads #funnel-analysis
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

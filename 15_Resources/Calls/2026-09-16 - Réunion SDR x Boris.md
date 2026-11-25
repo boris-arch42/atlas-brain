@@ -2,14 +2,60 @@
 type: call
 date: 2026-09-16
 source: sembly
-participants: ["achilleaime.fouman@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "boris@entrepreneurs.com", "claude-marc.nogha@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com", "raphael.wautier@entrepreneurs.com", "roman.tebenikhinbonamy@entrepreneurs.com", "valentin.lhoste@entrepreneurs.com"]
+participants: ["achilleaime.fouman@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "[[Boris Arduy]]", "claude-marc.nogha@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com", "raphael.wautier@entrepreneurs.com", "[[Roman Tebenikhin Bonamy]]", "valentin.lhoste@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Réunion SDR x Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/09/2026 09:57).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète des dysfonctionnements du FDR Hub SDR avec l'équipe : vues incohérentes entre utilisateurs, historique peu fiable, absence de recherche, problèmes de droits d'accès et bugs de handoff vers les closers. Boris s'engage à corriger le backend/frontend et à créer un canal Slack dédié aux updates.
+
+**Décisions**
+- Ouvrir les droits d'accès backend pour que tous les SDR voient et manipulent les leads de manière cohérente
+- Pousser automatiquement les scorecards validés vers HubSpot plutôt que par email pour garantir le handoff aux closers
+- Créer un canal Slack update-SDR pour centraliser bugs, demandes et annonces avec vidéos Loom
+- Rendre le disqualify robuste pour empêcher la réapparition des leads marqués 'do not contact'
+- Ajouter une fonction de réouverture de scorecard pour reprendre la saisie sans doublon
+
+**Actions**
+- [ ] **Boris** : Corriger le bug des alertes et callbacks incohérents entre utilisateurs
+- [ ] **Boris** : Investiguer pourquoi une même URL produit des vues différentes et ajuster les droits d'accès
+- [ ] **Boris** : Permettre la navigation arrière dans le scorecard sans perte de données
+- [ ] **Boris** : Ajouter une barre de recherche globale sur les leads (nom, email, téléphone)
+- [ ] **Boris** : Élargir l'accès backend pour que les leads visibles soient manipulables par tous les SDR
+- [ ] **Boris** : Ajouter un bouton de réouverture de scorecard après 'not answered'
+- [ ] **Boris** : Remplir automatiquement la page de résumé avec objectifs, enjeux et notes d'écart saisis pendant l'appel
+- [ ] **Boris** : Mettre en place l'intégration CRM pour push automatique des scorecards validés vers HubSpot
+- [ ] **Boris** : Investiguer le timing de distribution des leads et corriger les notifications sonores
+- [ ] **Boris** : Corriger le bug des alertes sonores incohérentes
+- [ ] **Boris** : Ajouter une fonctionnalité de création de tâches de relance liée aux leads avec vue calendrier quotidienne
+- [ ] **Boris** : Ajouter des filtres anti-spam et visibilité des rappels actifs pour éviter les doublons d'appels
+- [ ] **Boris** : Rendre le disqualify robuste pour empêcher la réapparition des leads marqués
+- [ ] **Boris** : Étudier l'automatisation entre champ de disqualification et listes de suppression marketing
+- [ ] **Boris** : Optimiser la synchronisation de l'historique entre funnels automatisés et imports CSV manuels
+- [ ] **Boris** : Ajouter un indicateur ou drapeau client clair pour identifier les clients déjà signés
+- [ ] **Boris** : Créer le canal Slack update-SDR et y publier les mises à jour vidéo Loom
+- [ ] **Marketing** : Recevoir et traiter la liste des emails à retirer suite aux désinscriptions collectées par les SDR
+
+**Risques & vigilances**
+- Contacter des clients déjà signés crée confusion et perte de temps
+- Doublons d'appels répétés nuisent à l'expérience lead et au taux de conversion
+- Perception de favoritisme entre SDR due aux bugs techniques d'alertes
+- Historique de contact peu fiable à cause de la séparation entre sources d'import
+- Leads disqualifiés réapparaissent, provoquant des recontacts indésirables
+- Handoff vers closers défaillant bloque la finalisation des deals
+
+Tags : #fdr-hub #sdr #bugs-produit #crm #handoff-closers
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

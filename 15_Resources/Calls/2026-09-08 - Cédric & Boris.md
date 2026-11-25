@@ -2,14 +2,56 @@
 type: call
 date: 2026-09-08
 source: sembly
-participants: ["boris@entrepreneurs.com", "cedric@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Cédric De Saint Jean]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Cédric & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (08/09/2026 17:03).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel transverse entre Boris (CTO/COO) et Cédric (CEO) sur les dashboards, tracking, conversion Evergreen catastrophique (3,5-3,7%) et structuration de la communication COO/CEO. Plusieurs chantiers critiques identifiés : bugs d'affichage, adoption SDR, intégrations publicitaires et calcul ROAS enrichi.
+
+**Décisions**
+- Limiter l'analyse conversion Evergreen aux dépenses et appels jusqu'au 20 août pour lecture plus propre
+- Basculer les gros lives vers Ouelia plutôt que WebinarJam ou Webby Close pour tracking et stabilité
+- Ajouter les coûts marketing variables externes (SMS, WhatsApp, speakers, studio) au calcul du ROAS
+- Mettre en place une réunion structurée COO/CEO bimensuelle distincte du point hebdomadaire
+
+**Actions**
+- [ ] **Boris** : Corriger les bugs d'affichage dashboards (ventilation calls bookés par source)
+- [ ] **Boris** : Renvoyer invitations expirées à Cédric pour accès outil (échéance 2026-09-09)
+- [ ] **Boris** : Finaliser connexion Google Ads avec Stivel
+- [ ] **Boris** : Réconcilier écart métriques call booked (460) vs iClosed (440-450) et documenter règles déduplication
+- [ ] **Boris** : Aligner dashboards avec données Looker et rapports précédents
+- [ ] **Boris** : Définir méthode cohérente conversion devise (EUR vs USD) pour intégrations publicitaires
+- [ ] **Cédric** : Déployer plateforme Ouelia pour webinaires et prévoir intégrations temps réel
+- [ ] **Cédric** : Finaliser reporting et analyses sur base nouveaux dashboards (échéance 2026-09-08)
+- [ ] **Raphaël** : Recalculer analyse cohort Evergreen sur fenêtre jusqu'au 20 août
+- [ ] **Raphaël** : Deep-dive conversion avec responsables sales pour identifier causes racines variabilité performances
+- [ ] **Lucas** : Échanger sur staffing et formation closing Evergreen
+- [ ] **Aziz** : Utiliser régulièrement listes de leads attribuées et appeler sans excuses
+- [ ] **Alex** : Utiliser régulièrement listes de leads attribuées et appeler sans excuses
+- [ ] **Adil** : Renforcer suivi et discipline opérationnelle listes leads atelier mise en œuvre
+
+**Risques & vigilances**
+- Conversion Evergreen catastrophique (3,5-3,7%) fragilise viabilité pipeline et rentabilité funnel
+- Pipeline très mince (32 deals en cours, 12 calls réservés) = faible volume conversion court terme
+- 110 deals closed-not-won sur book funnel indiquent volume important opportunités perdues
+- Variabilité performances closers (0-3% vs 10-11%) révèle gaps formation ou process
+- Adoption SDR insuffisante des nouvelles listes et process crée trous manuels prise contact
+- Écart 10% dans métriques historiques si déduplication appliquée affectera benchmarks
+- Rentabilité funnel evergreen borderline, dépend compensation ventes livres
+
+Tags : #dashboards #conversion-evergreen #tracking #roas #coo-ceo
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

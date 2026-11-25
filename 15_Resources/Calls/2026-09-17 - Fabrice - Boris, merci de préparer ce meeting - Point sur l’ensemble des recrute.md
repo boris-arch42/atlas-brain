@@ -2,14 +2,58 @@
 type: call
 date: 2026-09-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Fabrice - Boris, merci de préparer ce meeting : Point sur l’ensemble des recrutements ouverts poste poste 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/09/2026 17:11).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réorganisation des équipes commerciales et delivery avec plusieurs recrutements clés : Rachid en coordinateur commercial hybride, Anne-Lise en CSM, Sabrina en Head of Sales intérimaire. Exploration d'une externalisation commerciale partielle avec CGM et mutualisation HubSpot.
+
+**Décisions**
+- Rachid recruté pour un poste hybride coordination commerciale + CRM/HubSpot + SDR, arrivée prévue 5-15 octobre à Dubaï
+- Anne-Lise recrutée en CSM avec télétravail le vendredi, démarrage immédiat
+- Sabrina prend le rôle de Head of Sales intérimaire 3-6 mois, objectif réduit à 7 dossiers/mois avec compensation commission
+- Christelle intègre le core team avec charge accrue sans baisse de salaire
+- Fermeture du recrutement assistant commercial (repris par Rachid)
+- Alex repositionné sur rétention et fidélisation client, retrait des tâches SDR
+- Lydia écartée du poste CSM
+- Maintien ouvert des recrutements : chargé de prospection, directeur commercial, office & culture manager, event manager
+- Arrêt des recrutements : assistante commerciale, CSM, head of coach
+- Poursuite des discussions avec Beyond pour sponsoring et Horus pour affiliation assurance
+
+**Actions**
+- [ ] **Boris** : Relire l'enregistrement de l'appel avec Léa pour identifier pistes d'optimisation et délégation à assistant virtuel
+- [ ] **Boris** : Préparer le contrat et le support à la relocation de Rachid (échéance 2026-10-05)
+- [ ] **Sabrina** : Valider le package d'Anne-Lise et son vendredi télétravail
+- [ ] **Fabrice** : Calculer le volume d'appels et modéliser la répartition SDR/setters/closers pour quantifier les gains de temps
+- [ ] **Boris** : Explorer avec Lucas/CGM un accord de partage de licence HubSpot et gouvernance des données
+- [ ] **Boris** : Rafraîchir l'annonce LinkedIn pour office & culture manager et mobiliser Lola et Océane pour sourcing
+- [ ] **Léa** : Réaffectation à la revue des candidats entrants du pipeline ICO
+- [ ] **Fabrice** : Finaliser les échanges avec Beyond pour sponsoring
+- [ ] **Fabrice** : Finaliser test d'affiliation et branding avec Horus via Jeremy Diaz
+- [ ] **Alec** : Suivre les résultats de l'épisode Jimmy pour alimenter discussions sponsoring
+- [ ] **Boris** : Évaluer avec Océane le besoin de recrutement monteur vidéo
+
+**Risques & vigilances**
+- Perte de contrôle sur les données du pipeline si l'externalisation CGM n'est pas bien cadrée juridiquement et techniquement
+- Coût net du recrutement Rachid (1 500€/mois) conditionné à la réallocation du budget Léa
+- Positionnement long terme de Sabrina en Head of Sales incertain, rôle intérimaire seulement
+- Délais de recrutement allongés pour office/culture manager et event manager malgré forte demande interne
+- Dépendance à la performance de Rachid sur 3-6 mois pour validation évolution Head of Sales
+- Complexité du recrutement à Dubaï avec exigences francophones élevées et sourcing inbound uniquement
+
+Tags : #recrutement #reorganisation-commerciale #externalisation #hubspot #delivery
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

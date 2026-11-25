@@ -2,14 +2,52 @@
 type: call
 date: 2026-09-01
 source: sembly
-participants: ["boris@entrepreneurs.com", "aman.verma@entrepreneurs.com", "venugopal.venkatesan@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "aman.verma@entrepreneurs.com", "venugopal.venkatesan@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly Catch Up with Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (01/09/2026 10:43).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Mise en place d'un Data Dashboard centralisé pour l'entreprise avec processus documenté d'ingestion des données de Thomas. Échéance fin septembre pour couvrir tous les funnels Evergreen, événements marketing et opérations.
+
+**Décisions**
+- Création d'un Data Dashboard centralisé avec deadline fin septembre
+- Mise en place d'un processus documenté pour stocker les flux de données de Thomas dans BigQuery/Looker Studio
+- Création d'un groupe WhatsApp avec Thomas pour coordination
+- Utilisation de l'ID de deal HubSpot comme identifiant de référence pour relier tous les événements
+- Priorisation immédiate sur suivi visiteurs book funnel et leads UTM Week of Scale
+- Construction d'un template de dashboard validé sur book et quiz funnel cette semaine, puis duplication
+
+**Actions**
+- [ ] **Aman** : Implémenter le processus documenté de stockage des données à partir des feuilles de Thomas (échéance 2026-09-05)
+- [ ] **Boris** : Créer un groupe WhatsApp avec Thomas, Aman et l'équipe data (échéance 2026-09-02)
+- [ ] **Boris** : Vérifier avec l'équipe IA la visibilité du compte cloud et créer organisation séparée si nécessaire (échéance 2026-09-03)
+- [ ] **Venugopal** : Fournir comptage visiteurs book funnel et suivi leads UTM (échéance 2026-09-01)
+- [ ] **Venugopal** : Partager accès aux pages du book funnel (unlimited clients/customers) (échéance 2026-09-01)
+- [ ] **Venugopal** : Extraire réservations calendrier et recouper avec deals Closed-Won HubSpot (échéance 2026-09-05)
+- [ ] **Aman** : Implémenter filtres de dates calendaires précis et pop-ups de détails deals dans le dashboard (échéance 2026-09-08)
+- [ ] **Venugopal** : Construire et valider template dashboard pour funnels book et quiz (échéance 2026-09-08)
+- [ ] **Boris** : Finaliser Data Dashboard complet à l'échelle entreprise (échéance 2026-09-30)
+
+**Risques & vigilances**
+- Risque de confidentialité avec preneurs de notes automatiques non autorisés sur événements calendrier
+- Écarts potentiels entre données calendrier et pipeline HubSpot à vérifier
+- Deadline fin septembre serrée pour dashboard complet multi-funnels
+- Besoin de clarifier accès et organisation cloud sans interférer avec équipe IA
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #data-dashboard #hubspot #tracking #bigquery #funnels
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

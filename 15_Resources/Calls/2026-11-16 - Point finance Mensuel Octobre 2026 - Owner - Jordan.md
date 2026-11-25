@@ -2,14 +2,52 @@
 type: call
 date: 2026-11-16
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Point finance Mensuel Octobre 2026 | Owner : Jordan
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/11/2026 19:05).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point mensuel sur la trésorerie d'octobre 2026 : 1M€ de cash généré YTD mais résultat quasi neutre en octobre après retraitements. Novembre prévisionnel à -90k€ en raison des investissements pub et bureaux, décembre pourrait compenser (+400k€) selon la réussite du challenge.
+
+**Décisions**
+- Mise en pause du recrutement office manager jusqu'à fin décembre
+- Priorisation du recrutement commercial (Head of Sales)
+- Tous les nouveaux contrats à partir du 1er janvier 2027 seront établis sous Horizon
+- Demande de passage d'Emmanuel Rieslinger à une rémunération par session ou fin de collaboration
+- Contractualisation directe avec Géraud en remplacement d'Upwork
+
+**Actions**
+- [ ] **Jordan** : Apporter des éléments complémentaires sur la conception du module finance masterclass (échéance 2026-11-23)
+- [ ] **Boris** : Ajouter Alec aux canaux Evergreen (Evergreen Suisse et Evergreen To The Moon) et fournir accès aux tableaux de bord avec tutoriel (échéance 2026-11-20)
+- [ ] **Jordan** : Communiquer à l'équipe sur la migration Horizon début décembre (échéance 2026-12-05)
+- [ ] **Jordan** : Modifier l'en-tête des modèles de contrats pour basculer sur Horizon (échéance 2026-12-31)
+- [ ] **Claire et Sabrina** : Finaliser avec Emmanuel Rieslinger le passage à rémunération par session ou fin de collaboration
+- [ ] **Jordan** : Formaliser la contractualisation directe avec Géraud hors Upwork (échéance 2026-12-07)
+
+**Risques & vigilances**
+- Novembre déficitaire prévu à -90k€ avec forte dépendance aux signatures du challenge
+- Carnet de commandes en baisse continue (2,76M€ à 2,25M€), nécessite reconstitution sur plusieurs mois
+- Un tiers des encaissements provient du recouvrement, signe de fragilité sur les nouveaux flux
+- Performance du challenge critique : un résultat limité à 500-600k€ remettrait les prévisions en question
+- Incertitudes sur les revenus des lancements (Anis, VSL, Scale) et des événements
+- Restructuration potentiellement importante des équipes et du positionnement envisagée pour 2027
+- Fragilité structurelle identifiée : le système dépend trop des personnes et manque de pérennité
+- Grille tarifaire unifiée pour coachs risque de réduire l'attractivité du recrutement
+
+**Projets liés** : [[Trésorerie & Finance]]
+
+Tags : #trésorerie #prévisionnel-novembre-décembre #carnet-commandes #migration-horizon #recrutement
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

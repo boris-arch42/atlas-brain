@@ -2,14 +2,59 @@
 type: call
 date: 2026-09-10
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Core team building - Programme
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/09/2026 17:46).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Préparation du core team building du 1er au 3 septembre visant à traiter les problèmes structurels d'entrepreneurs.com plutôt que de faire une session superficielle. Format validé avec Masterclass Management obligatoire animée par Anis le matin J2, et ateliers de résolution de problèmes concrets débouchant sur 3-5 actions prioritaires avec responsables et échéances.
+
+**Décisions**
+- Bloc Masterclass Management obligatoire le matin du jour 2, animé par Anis
+- Sabrina prépare une présentation de 30-60 min sur la vision delivery pour le team building
+- Création d'un canal Slack unique pour centraliser tous les supports et décisions du programme
+- Sortie de maximum 3 à 5 actions clés du team building avec responsables et échéances
+- Présence obligatoire au team building pour tous les membres du core team
+- Format : soirée J1, journée complète J2, demi-journée J3 (7-9h de travail effectif total)
+
+**Actions**
+- [ ] **Sabrina** : Préparer présentation vision delivery (30-60 min) couvrant projets clés et objectifs oct-nov-déc (échéance 2026-09-30)
+- [ ] **Alec** : Valider la stratégie globale de la présentation delivery de Sabrina avant diffusion (échéance 2026-09-30)
+- [ ] **Boris** : Produire structure complète et plan détaillé du team building et partager pendant le week-end (échéance 2026-09-13)
+- [ ] **Océane** : Finaliser et communiquer horaire de fin exact du jour 3 (échéance 2026-09-11)
+- [ ] **Alec** : Finaliser les contraintes immédiates pour alimenter l'agenda du team building (échéance 2026-09-11)
+- [ ] **Océane** : Créer canal Slack unique de centralisation pour le programme team building (échéance 2026-09-15)
+- [ ] **Sabrina** : Clarifier qui finalisera le travail Landing Page (Léonard/Charlotte) et date de livraison (échéance 2026-09-15)
+- [ ] **Boris** : Superviser la mise en œuvre des actions post-team building en tant que garant
+
+**Risques & vigilances**
+- Manque de données et d'outils pour mesurer correctement le pôle delivery et piloter à l'aveugle
+- Risque de rétention : profils seniors envisagent de réduire leur temps ou périmètre faute de visibilité
+- Flou sur responsabilité Landing Page et lien e-mails fermés non vérifié avant l'événement
+- Absence de KPI Success empêche de mesurer performance produit delivery et risque de rémunérer sans production utile
+- Moral bas et épuisement des équipes affaiblissent toutes les initiatives
+- Problèmes systémiques liés au travail à distance fragmentant décisions et information
+- Décisions prises sans données réelles mènent à conclusions subjectives et visions divergentes
+- Inadéquation entre personnes et rôles créant décalages de compétences
+- Absence de périmètres individuels clairs générant charges inégales et problèmes de responsabilisation
+- Excès de multi-projets et prolifération produits/canaux source d'inefficacité
+- Investissements data ops et marketing jugés peu rentables sans résultats mesurables
+- Communication trop brute de certains sujets pourrait être contre-productive
+
+**Projets liés** : [[Manager Playbook — Core V1 & certification]]
+
+Tags : #team-building #delivery #management #problemes-structurels #vision-strategie
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

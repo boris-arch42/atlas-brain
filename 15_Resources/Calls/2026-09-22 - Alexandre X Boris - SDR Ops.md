@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-22
 source: sembly
-participants: ["boris@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "lea@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "alexandre.gauthier@entrepreneurs.com", "lea@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Alexandre X Boris - SDR Ops
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/09/2026 11:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel SDR avec Alexandre sur les no-shows, la qualité des leads, le tracking HubSpot et les outils de transcription. L'équipe a presque doublé le revenu mensuel (99k€ → 179k€) mais rencontre des problèmes de qualité liés aux incitations volume.
+
+**Décisions**
+- Les leads no-shows doivent être recontactés et remis en position le jour même par les SDR
+- Mise en place d'un outil interne de transcription automatique et de résumés standardisés pour remplacer le copier-coller manuel
+- Attribution manuelle des deals à corriger pour Nawel et DJ Rousseau (doublon)
+- Réévaluation des KPI et incitations SDR pour privilégier la qualité (3-5 RDV qualifiés) plutôt que le volume (5 RDV/jour)
+
+**Actions**
+- [ ] **Alexandre** : Vérifier les pratiques de recherche de leads dans la base et remonter les cas introuvables persistants
+- [ ] **Léa** : Investiguer et corriger le problème d'enregistrement Aircall de Valentin
+- [ ] **Alexandre** : Onboarding de Victor Logier (2h en présentiel) (échéance 2026-09-23)
+- [ ] **Alexandre** : Fournir export standardisé des leads (prénom, nom, ID deal, spot/lien, source) pour alignement dashboard
+- [ ] **Alexandre** : Partager le nom du compte et chiffres du deal de scaling signé
+- [ ] **Alexandre** : Prendre en charge l'affectation du propriétaire de transaction pour Nawel (closed-won)
+- [ ] **Boris** : Importer les données propres dans le dashboard SDR une fois le fichier partagé
+- [ ] **Boris** : Faire le suivi avec Annie sur l'implémentation technique de l'outil de transcription automatique (échéance 2026-09-23)
+- [ ] **Alexandre** : Préparer slides avec chiffres mis à jour et envoyer la seconde vidéo de formation SDR
+- [ ] **Boris** : Auditer avec Alexandre les sources de leads pour identifier les leviers de croissance
+- [ ] **Alexandre** : Proposer avec Boris des ajustements de KPI pour privilégier la qualité des RDV
+
+**Risques & vigilances**
+- Problème d'enregistrement Aircall persistant empêche les transcriptions et casse le process de suivi vers les sales
+- Incitations volume (5 RDV/jour + bonus 200€) génèrent des leads de faible qualité et dégradent la conversion
+- Certains SDR ne cherchent pas correctement dans toute la base par habitude, faisant passer à côté de leads existants
+- Données d'attribution SDR incohérentes (UTM manquants, doublons, modifications manuelles) rendent le reporting peu fiable
+- Résumés d'appels générés manuellement avec Cloud sont flous et ne reflètent pas bien la qualification réelle
+
+Tags : #sdr-ops #hubspot-tracking #qualification-leads #transcription-appels #kpi-commerciaux
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

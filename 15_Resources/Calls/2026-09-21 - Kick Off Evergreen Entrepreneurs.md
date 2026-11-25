@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["nawel.hamdi@entrepreneurs.com", "boris@entrepreneurs.com", "julien.bouissonnade@entrepreneurs.com", "alec.henry@entrepreneurs.com", "stephane.gabet@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "lccr.pro@gmail.com"]
+participants: ["nawel.hamdi@entrepreneurs.com", "[[Boris Arduy]]", "julien.bouissonnade@entrepreneurs.com", "[[Alec Henry]]", "stephane.gabet@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "lccr.pro@gmail.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Kick Off Evergreen Entrepreneurs 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (21/09/2026 17:25).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kick-off du projet de tunnels evergreen avec l'équipe commerciale : définition d'un modèle de qualification à 100 points partagé entre marketing et SDR, mise en place d'une boucle de feedback serrée et engagement à itérer rapidement sur les assets marketing pour optimiser la qualité des leads et scaler l'acquisition.
+
+**Décisions**
+- Commission fixée à 10% temporairement pendant la phase d'optimisation des funnels evergreen
+- Modèle de qualification à 100 points mis en place avec checklist SDR obligatoire (problème, urgence, finances, engagement)
+- Funnels actifs : quiz funnel, funnel classeur et funnel VSL en retargeting
+- Formulaire de feedback court post-appel obligatoire pour tous les closers
+- Pas de règle rigide R1/R2 : closer dès que les croyances sont validées
+- Groupe WhatsApp dédié commerciaux pour partager retours et impressions
+
+**Actions**
+- [ ] **Raphaël** : Implémenter les modifications marketing (pub, VSL, emails, pages) sous 24h selon retours commerciaux
+- [ ] **Lucas** : Créer le groupe WhatsApp dédié commerciaux (échéance 2026-09-22)
+- [ ] **Raphaël** : Fournir le processus de feedback et choisir l'outil de formulaire court post-appel (échéance 2026-09-23)
+- [ ] **Lucas** : Envoyer les consignes expliquant les types de rendez-vous entrants par funnel (échéance 2026-09-23)
+- [ ] **Boris** : Envoyer les consignes sur les types de rendez-vous entrants (échéance 2026-09-23)
+- [ ] **Alec** : Coordonner l'envoi de 3-4 copies physiques du classeur depuis Marrakech vers la France (échéance 2026-10-05)
+- [ ] **Lucas** : Corriger les erreurs et libellés obsolètes dans l'outil SDR (échéance 2026-09-24)
+- [ ] **Lucas** : Traiter les problèmes contractuels signalés dans le cadre du programme d'amélioration global
+
+**Risques & vigilances**
+- Les synthèses IA des SDR sont peu fiables et surestiment l'engagement des leads, créant un décalage avec la réalité terrain
+- L'outil SDR contient des erreurs d'implémentation et libellés obsolètes qui peuvent induire en erreur les SDR
+- Risque de perte de ventes si les contrats sont revus par des juristes et contiennent des clauses perçues comme défavorables
+- Coût élevé par appel qualifié (environ 500€) nécessite une rigueur maximale pour éviter le gaspillage
+- Leads du funnel VSL peuvent avoir déjà été pitchés auparavant, nécessitant une approche de réactivation
+- Confusion possible sur le funnel classeur : certains leads pensent que l'appel commercial est inclus dans l'achat
+
+Tags : #tunnel-evergreen #qualification-leads #sdr #closing #marketing-sales-alignment
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

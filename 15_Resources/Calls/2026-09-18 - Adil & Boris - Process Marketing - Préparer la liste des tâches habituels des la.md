@@ -2,14 +2,58 @@
 type: call
 date: 2026-09-18
 source: sembly
-participants: ["adil.ziane@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Adil]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Adil & Boris - Process Marketing - Préparer la liste des tâches habituels des lancements Adil
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/09/2026 14:24).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Adil et Boris ont défini le plan pour standardiser les checklists de lancement marketing et unifier les sources de données. Les dashboards centralisés deviennent la source de vérité unique et le SDR Hub devient obligatoire pour tous les SDR.
+
+**Décisions**
+- Les dashboards centralisés construits par Boris deviennent la source de vérité unique pour toutes les métriques (leads, calls bookés, revenue)
+- Le SDR Hub devient l'outil obligatoire pour tous les SDR, avec détection automatique du contexte et redirection vers les bons liens trackés
+- Migration progressive des landing pages en interne avec tests sur petits événements avant déploiement à grande échelle
+- Nomenclature UTM unique définie par Adil et utilisée de manière cohérente dans tous les outils (Customer.io, iClosed, SDR Hub)
+- Les leads VIP/500K sont marqués prioritaires avec alertes en tête de file SDR
+
+**Actions**
+- [ ] **Boris** : Livrer les dashboards centralisés qui normalisent les données de toutes les plateformes (échéance 2026-09-28)
+- [ ] **Boris** : Importer et valider la Google Sheet envoyée par Adil via Slack et faire un retour sur le mapping (échéance 2026-09-19)
+- [ ] **Boris** : Documenter les mappings de champs (revenue band, maturity level, angles d'appel) avec notes explicatives (échéance 2026-09-25)
+- [ ] **Boris** : Vérifier les intégrations Customer.io / iClosed et créer le segment 'call booked' pour éviter les emails de rappel inutiles (échéance 2026-09-25)
+- [ ] **Boris** : Revoir les webhooks Twilio et la configuration STOP pour assurer un opt-out global multi-canal (échéance 2026-09-25)
+- [ ] **Boris** : Créer l'automatisation robuste de désinscription avec filtres pour conformité RGPD (échéance 2026-10-02)
+- [ ] **Adil** : Fournir les Google Sheets en respectant la structure de base et confirmer les mappings de champs nécessaires
+- [ ] **Adil** : Définir la nomenclature UTM canonique pour les événements et campagnes (échéance 2026-09-23)
+- [ ] **Adil** : Planifier une session de test de 15 minutes avec Alex et Boris avant le lancement d'octobre (échéance 2026-09-30)
+- [ ] **Quentin** : Implémenter la détection automatique des bookings live pour retirer les contacts des listes SDR (échéance 2026-10-01)
+- [ ] **Quentin** : Configurer les APIs et connecteurs pour la migration des landing pages internes (échéance 2026-10-05)
+- [ ] **Quentin** : Exécuter les tests de charge sur la nouvelle infrastructure landing avant les lancements d'octobre/novembre (échéance 2026-10-10)
+
+**Risques & vigilances**
+- Plusieurs systèmes remontent des métriques incohérentes (SDR Hub, iClose, HubSpot, Customer.io, Meta Pixel), risque de décisions faussées pendant les lancements
+- Les SDR qui continuent à utiliser des systèmes externes casseront le tracking et provoqueront des pertes de données
+- Problèmes de délivrabilité et conformité RGPD : les désinscriptions ne retirent actuellement que d'une seule liste, avec avis Trustpilot négatifs déjà constatés
+- Gestion STOP multi-canal (SMS, Twilio, WhatsApp) défaillante : des contacts reçoivent de nombreux messages sans opt-out efficace
+- Risque de capacité/charge sur la nouvelle infrastructure landing : certains événements génèrent des milliers d'opt-ins simultanés
+- Absence de segment fiable dans Customer.io pour les personnes ayant déjà booké, provoquant des emails de rappel inutiles
+- Les métriques de performance SDR actuelles ne sont pas totalement exactes et nécessitent un affinage
+- Pas d'attribution ni de commission pour les SDR qui amènent des participants aux ateliers (vs bookings), risque d'équité
+
+**Projets liés** : [[Cadence transverse & top 10 process]]
+
+Tags : #process-marketing #source-verite #sdr-hub #dashboards #tracking-utm #rgpd-unsubscribe
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

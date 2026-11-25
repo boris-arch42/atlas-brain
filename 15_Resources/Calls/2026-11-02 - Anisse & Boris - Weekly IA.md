@@ -2,14 +2,55 @@
 type: call
 date: 2026-11-02
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/11/2026 15:35).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire sur le risque de départ de Sabrina et la nécessité de recruter un Head of Sales technique orienté process/data/IA, ainsi qu'une refonte des formats de réunion et de l'organisation interne pour améliorer la rentabilité des pôles.
+
+**Décisions**
+- Lancer la recherche d'un Head of Sales technique avec compétences IA, process et data (Rachid envisagé en intérim)
+- Anisse lance un webinar hebdomadaire haut de gamme (3h) sur stratégie, mindset et management
+- Suspendre la réunion du lundi core team tant qu'un format plus efficace n'est pas défini
+- Augmenter le billing du pôle link/opérations de 1000€/mois (passage à 4700€) pour viser un ROI x5
+- Les projets événements doivent être gérés dans Events plutôt que Roadmap
+
+**Actions**
+- [ ] **Fabrice** : Accélérer la recherche d'un nouveau Head of Sales avec profil technique/data/IA
+- [ ] **Boris** : Surveiller l'intention réelle de départ de Sabrina et préparer un plan de transition
+- [ ] **Anisse** : Organiser et lancer les premiers webinars hebdomadaires avec coordination de Cédric et Océane
+- [ ] **Boris** : Préparer des alternatives de formats de réunion centrés sur cash et priorités
+- [ ] **Boris** : Finaliser le premier plan de monétisation de l'équipe IA (échéance 2026-11-03)
+- [ ] **Claire** : Retirer les métriques trompeuses et associer les coachs à la définition de leurs critères d'évaluation
+- [ ] **Farah** : Créer des fiches Event supplémentaires et documenter les process événements
+- [ ] **Anisse** : Recalculer les budgets du pôle link/ops et proposer nouveaux objectifs de billing pour ROI x5
+- [ ] **Boris** : Revoir les contrats et processus de commissions pour éviter les litiges RH
+- [ ] **Boris** : Prévoir un accompagnement linguistique anglais pour Wassim ou un binômage de rôle
+
+**Risques & vigilances**
+- Départ imminent de Sabrina sous un mois créant une urgence de transition commerciale
+- Changement d'un responsable de pôle entraîne des effets domino sur marketing, produit et opérations
+- Tensions interpersonnelles et communications perçues comme condescendantes nuisent à la cohésion d'équipe
+- Réunions du lundi coûteuses (1000€/semaine) et génératrices d'énergie négative
+- Stagnation si l'entreprise reste sur les approches marketing héritées inadaptées à la nouvelle maturité
+- Niveau d'anglais de Wassim limite sa capacité à porter seul des négociations internationales
+- Surcharge de travail événements suite au départ d'Abdel
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]] · [[Transition top management]] · [[Mithril — SaaS recrutement IA]]
+
+Tags : #head-of-sales #restructuration #rentabilite-poles #ia-process #formats-reunion
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

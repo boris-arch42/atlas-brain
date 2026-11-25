@@ -2,14 +2,52 @@
 type: call
 date: 2026-11-10
 source: sembly
-participants: ["adil.ziane@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "hubert@papel.media", "boris@entrepreneurs.com"]
+participants: ["[[Adil]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Hubert Smolen]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Kick off Mediabuy - Webi Anisse
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/11/2026 10:44).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kick-off de la campagne mediabuy pour le Webby d'Anisse : lancement progressif avec statiques ce soir, vidéos demain, et premier live le 17. Alignement technique sur tracking, dashboards, DNS, attribution et production créative pour garantir une mesure claire des performances.
+
+**Décisions**
+- Séparer le pixel evergreen et le pixel événement pour éviter la contamination croisée des données
+- Créer un événement dédié à cette campagne pour une attribution claire des leads
+- Budget prudent pour le premier Webby (4-5K€), augmentation progressive selon le ROAS
+- Cadence Webby récurrente toutes les deux semaines à partir du 17
+- Lancement des publicités statiques ce soir si possible, vidéos demain
+- Dashboard WebGalix avec remise à zéro toutes les deux semaines et conservation de l'historique
+
+**Actions**
+- [ ] **Cédric** : Produire les créas statiques pour lancement ce soir (échéance 2026-11-10)
+- [ ] **Cédric** : Livrer les vidéos publicitaires en post-production (échéance 2026-11-11)
+- [ ] **Adil** : Vérifier et créer un alias email pour que les réponses arrivent dans une boîte partagée plutôt que la boîte personnelle d'Anisse
+- [ ] **Cédric** : Prévenir Boris dès que la landing page est prête pour l'intégration des données
+- [ ] **Boris** : Mettre en place le mapping entre événements et attribution dans le CRM
+- [ ] **Boris** : Accorder un accès en lecture au dashboard événement pour l'équipe
+- [ ] **Cédric** : Ajouter la nouvelle URL aux exceptions evergreen et mettre en place le DNS/sous-domaine du projet
+- [ ] **Cédric** : Demander les disponibilités de tournage à Océane et coordonner le calendrier des shoots avec Samuel
+- [ ] **Cédric** : Fournir l'accès au funnel et au dashboard publicitaire avec conversions et CPL
+- [ ] **Cédric** : Fournir le lien live et le texte CTA pour la bio Instagram d'Anisse
+- [ ] **Anisse** : Publier sur Instagram 1-2 fois par jour avec cohérence créative par rapport aux ads
+
+**Risques & vigilances**
+- Manque de rushs du sommet bloque le montage et entraîne une perte de dépense créative
+- Disponibilité limitée de Samuel pour les tournages peut ralentir la production
+- Risque de confusion d'attribution si plusieurs webinaires se déroulent simultanément
+- Nécessité d'aligner les séquences email de relance avec le message des publicités et landing page
+
+Tags : #mediabuy #webby #tracking #attribution #production-créative
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

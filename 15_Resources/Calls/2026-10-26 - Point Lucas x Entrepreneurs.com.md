@@ -2,14 +2,57 @@
 type: call
 date: 2026-10-26
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "lccr.pro@gmail.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "lccr.pro@gmail.com", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Point Lucas x Entrepreneurs.com
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (26/10/2026 10:01).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point stratégique sur la refonte du process commercial et SDR : migration vers HubSpot, amélioration des dashboards, mise en place d'une routine de feedback sales/marketing, et planification des objectifs novembre (700-780k€). Plusieurs décisions structurantes actées sur les outils, le management commercial et les formats partenaires.
+
+**Décisions**
+- Migration des opérations SDR du SDR Hub vers HubSpot pour centraliser les données
+- Création d'un groupe de travail avec Sabrina et Rachid pour l'alignement SDR
+- Mise en place d'un bonus mensuel (300-500€) pour les closer qui fournissent un feedback structuré sur les leads Evergreen
+- Réactivation obligatoire du formulaire de scoring lead entre SDR et closer
+- Augmentation de la granularité des dashboards avec croisements closer/produit/avatar/CA
+- Lancement d'un format masterclass partenaire monétisé avec commission à 25% minimum
+- Objectif novembre : 700-780k€ de revenus signés avec montée en charge SDR à 100-200 appels/jour
+- Deadline fin de semaine pour clarifier la situation de Nawel
+
+**Actions**
+- [ ] **Boris** : Livrer dashboards améliorés avec conversions/no-shows/annulations par closer, produit, avatar et tranche CA (échéance 2026-10-26)
+- [ ] **Sabrina** : Avancer sur l'intégration SDR/HubSpot avec Rachid et le groupe de travail créé (échéance 2026-11-02)
+- [ ] **Lucas** : Envoyer à Alec un message vocal 2-3 min avec retours sales corner et commerciaux du séminaire Scale (échéance 2026-10-28)
+- [ ] **Lucas** : Coacher Rachid sur le management sectoriel et l'onboarding SDR
+- [ ] **Sabrina** : Organiser un échange honnête avec Nawel avant fin de semaine sur sa disponibilité et transparence (échéance 2026-10-31)
+- [ ] **Alec** : Coordonner avec Jordan le suivi objectifs immersions février (30-35 places) et démontrer passage centre coûts à centre profit (échéance 2027-02-28)
+- [ ] **Alex et Caroline** : Structurer la prospection FIDE avec cadence différenciée leads actifs/sortants et évaluer troisième recrue (échéance 2026-11-02)
+- [ ] **Équipe sales** : Transmettre feedback détaillé à Raph sur leads Evergreen/VSL toutes les 48-72h en asynchrone
+
+**Risques & vigilances**
+- Échec de rentabilité du séminaire Scale dû à un CTA tardif et mal exécuté
+- Blocage du recrutement SDR tant que le process HubSpot n'est pas finalisé
+- Risque de départ des meilleurs closer si les exigences CRM deviennent trop contraignantes
+- Situation de trésorerie octobre tendue, nécessitant 37k€/jour cette semaine pour éviter perte mensuelle
+- Adoption faible de la méthode commerciale Sage Blueprint (2 commerciaux sur toute l'équipe ont terminé les modules)
+- Manque de données granulaires pour comparer équitablement les performances des closer
+- Problème d'accountability et de présence irrégulière de Nawel impactant la performance
+- Multiplication des lives gratuits dilue l'attention et génère des coûts sans ROI clair
+
+**Projets liés** : [[Cadence transverse & top 10 process]]
+
+Tags : #process-commercial #migration-hubspot #performance-sdr #objectifs-novembre #feedback-sales-marketing
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

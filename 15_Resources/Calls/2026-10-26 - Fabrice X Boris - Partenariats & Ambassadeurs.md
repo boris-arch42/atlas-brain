@@ -2,14 +2,58 @@
 type: call
 date: 2026-10-26
 source: sembly
-participants: ["boris@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Fabrice X Boris - Partenariats & Ambassadeurs
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (26/10/2026 16:32).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Call stratégique sur la campagne commerciale Scale (manque ~400 places à vendre), la fiabilisation des données plateforme, l'automatisation CRM et un pivot majeur vers l'arrêt des gros développements pour se concentrer sur la donnée et les programmes immersifs.
+
+**Décisions**
+- Lancement immédiat d'une campagne early-bird (Essential à 300€) auprès de la base incubateur (~2500 contacts) pour combler le gap de 400 places
+- Séquence email puis WhatsApp pour maximiser l'engagement
+- Nettoyage immédiat de la plateforme : retirer les sièges non contractuels et corriger les filtres de statut
+- Pivot stratégique : arrêt des gros développements plateforme, consolidation de l'existant, focus sur la donnée et la compréhension client
+- Retrait d'environ 40% des initiatives actuelles pour simplifier l'organisation
+- Automatisation du pipeline de fidélisation dans Hotspot avec basculement automatique des contrats à l'échéance
+- Standardisation de la téléphonie et du tracking des appels via Aircall
+
+**Actions**
+- [ ] **Quentin** : Produire un reporting propre et définitif des places réellement allouées avec jauges par catégorie (Essential, Privilege, Elite)
+- [ ] **Quentin** : Nettoyer la plateforme : retirer les sièges non contractuels et corriger les filtres de statut programme
+- [ ] **Boris** : Coordonner avec Sabrina le lancement de la campagne email/WhatsApp auprès de la base incubateur (échéance 2026-10-28)
+- [ ] **Fabrice** : Modéliser les chiffres de remplissage vs rentabilité et définir le point mort avec la finance
+- [ ] **Boris** : Construire une landing page de qualité pour l'offre early-bird Scale avec le Marketing
+- [ ] **Boris** : Discuter avec Caro de son rôle potentiel sur l'upsell Elite et Privilege
+- [ ] **Fabrice** : Vérifier avec Rachid les recommandations d'automatisation Hotspot pour les renouvellements
+- [ ] **Boris** : Partager le pré-board CRO pour revue
+- [ ] **Fabrice** : Produire une revue CRO complète avec recommandations après corrections d'interface
+- [ ] **Fabrice** : Préparer les éléments presse pour la discussion DET Dubai (échéance 2026-11-11)
+- [ ] **Boris** : Aligner la nouvelle stratégie avec Fabrice et annoncer le changement de roadmap (pause développements, focus donnée)
+
+**Risques & vigilances**
+- Programme speakers Scale non finalisé, risque sur l'attractivité marketing de la campagne
+- Données plateforme non fiables (statuts impayés, filtres incorrects) risquent de fausser les ventes et l'inventaire réel
+- Faible taux de réponse aux appels (5/50) et absence de tracking homogène limitent l'efficacité commerciale
+- Scoring coach incohérent et non prédictif du comportement de continuation des clients
+- Outils internes peu adoptés fragilisent la valorisation de l'entreprise
+- Partenariats et sponsoring à faible ROI détournent l'attention des priorités core business
+- Services IA nécessiteraient 10-12 personnes et 3 mois par projet, non soutenable à court terme
+
+**Projets liés** : [[Soirée Ambassadeur invitation]] · [[Partenariats Papa In Shape]] · [[Automatiser Trustpilot collecte]] · [[Refonte verticale Data-IA-Tech-Ops]]
+
+Tags : #scale-event #campagne-commerciale #fiabilisation-data #pivot-strategique #automatisation-crm
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

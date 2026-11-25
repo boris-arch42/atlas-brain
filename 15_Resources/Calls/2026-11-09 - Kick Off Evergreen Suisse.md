@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-09
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Alec Henry]]", "raphael.dalleau@entrepreneurs.com", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Kick Off Evergreen Suisse
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (09/11/2026 11:19).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Lancement de l'initiative Evergreen Suisse avec un objectif de CHF 300-500k/mois sous 3-4 mois. Stratégie basée sur une VSL documentaire sans opt-in, ciblant des entrepreneurs suisses établis, avec un funnel et process commercial entièrement localisés.
+
+**Décisions**
+- VSL documentaire longue (1h10-1h40) avec témoignages clients suisses, sans opt-in avant la vidéo pour optimiser les coûts d'acquisition
+- Tranches de CA simplifiées (0-250k, 250-500k, 500k-1M, >1M) pour le routage des leads avec assignation différenciée des commerciaux
+- Walid doit avoir minimum 4 R1 qualifiés par jour dans son agenda dès son retour le 16 novembre
+- Coût par appel qualifié estimé entre CHF 350-500, impliquant une gestion très rigoureuse des leads
+- Lancement publicitaire prévu entre le 14-15 novembre avec premiers appels clients le 16-17 novembre
+- Prix de l'accélérateur fixé à CHF 13'000
+- SDR doivent limiter la découverte sur les leads ayant déjà réservé (setting) mais mener une qualification complète sur les leads froids
+- Tous les appels SDR doivent être enregistrés, transcrits et enrichis dans HubSpot pour préparer les commerciaux
+
+**Actions**
+- [ ] **Raphaël** : Livrer les assets du funnel et brouillons de landing pages (échéance 2026-11-10)
+- [ ] **Océane** : Mettre en place le tracking, splits et routage spécifique Suisse dans le CRM avec scoring adapté (échéance 2026-11-14)
+- [ ] **Sabrina** : Former les SDR aux numéros suisses (+41) et au pitch adapté avec slides et cas pratiques (échéance 2026-11-14)
+- [ ] **Raphaël** : Coordonner la campagne de clips et diffusion publicitaire documentaire du 22 au 30 novembre (échéance 2026-11-22)
+- [ ] **Rachid** : Produire une photo d'Alec avec fond drapeau suisse pour les assets promotionnels
+- [ ] **Alec** : Appeler Mariana pour traiter ses objections et débloquer son inscription à l'accélérateur
+- [ ] **Fabrice** : Développer un résumé IA enrichi des transcriptions CloudTalk pour préparer les commerciaux
+- [ ] **tous** : Ajouter leurs tâches dans le projet Works et signaler tout drapeau rouge avant le 14 novembre (échéance 2026-11-14)
+
+**Risques & vigilances**
+- Coût élevé par lead qualifié (CHF 350-500) nécessite une conversion commerciale excellente pour atteindre la rentabilité
+- Volume de leads SDR extrêmement faible sans opt-in, risque de sous-activité ou de frustration d'équipe
+- Sensibilité culturelle suisse aux techniques de vente agressives ou à la sur-sollicitation peut détruire des deals
+- Délais serrés entre livraison des assets (10 nov) et lancement publicitaire (14-15 nov) laissent peu de marge
+- Incohérence actuelle dans l'utilisation des notes SDR par les commerciaux risque de dupliquer la découverte et frustrer les prospects
+- Coordination commerciale complexe avec routage par tranche de CA et staffing de 2-3 closers + SDR à calibrer rapidement
+
+Tags : #evergreen-suisse #vsl-documentaire #funnel-high-ticket #localisation-marché #stratégie-commerciale
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

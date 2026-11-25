@@ -2,14 +2,53 @@
 type: call
 date: 2026-09-22
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/09/2026 15:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement ops couvrant la sécurité, le déploiement bêta de Clap, Trustpilot, la communauté gratuite et l'application mobile. Alignement sur la centralisation des données de welcome calls via Zoom/n8n et le périmètre produit entre app mobile et plateforme.
+
+**Décisions**
+- Poursuivre le déploiement bêta de Clap avec deux commerciaux testeurs avant activation générale
+- Livrer automatiquement le bonus Trustpilot après 48h si la vérification échoue
+- Fournir un jeton Zoom pour reproduire les flows n8n existants dans la plateforme
+- La plateforme doit rester la source de vérité unique pour toutes les données de coaching
+- Décision finale sur la consolidation app/plateforme à trancher d'ici lundi
+- Prioriser les automatisations coachs à fort impact plutôt que les gains ponctuels
+
+**Actions**
+- [ ] **Quentin** : Vérifier et confirmer que tous les correctifs de sécurité sont bien appliqués
+- [ ] **Quentin** : Ajouter trois correctifs supplémentaires Clap d'ici demain (échéance 2026-09-23)
+- [ ] **Quentin** : Lister les jetons nécessaires pour partage sécurisé via OneTimeSecret
+- [ ] **Boris** : Partager les jetons Zoom et identifiants via OneTimeSecret une fois listés
+- [ ] **Boris** : Gérer manuellement les ajustements de licences avant le 25 pour éviter facturation indésirable (échéance 2026-09-25)
+- [ ] **Quentin** : Reproduire les workflows n8n (W1, W2, W3) dans la plateforme pour centraliser les données welcome calls
+- [ ] **Quentin** : Fournir estimation de durée pour le flux welcome call et l'ajouter au suivi projet
+- [ ] **Quentin** : Échanger avec Jordan sur l'intégration Apple Pay
+- [ ] **équipe** : Retravailler et représenter les propositions app/plateforme et décider de l'approche d'ici lundi (échéance 2026-09-28)
+
+**Risques & vigilances**
+- Les mécanismes anti-bot de Trustpilot bloquent les vérifications automatiques
+- Validation Google/Apple pour l'application peut prendre du temps
+- Consolidation de toutes les fonctionnalités dans la plateforme principale créerait des risques de sécurité et de friction utilisateur
+- Risque de projets IA "shiny object" sans valeur mesurable
+- Nécessité d'améliorer la communication et l'adoption des automatisations par les coachs
+
+**Projets liés** : [[Automatiser Trustpilot collecte]] · [[Communauté gratuite ENT — lead magnet & réactivation base]] · [[Sprint Cybersec & phishing]]
+
+Tags : #ops #clap-integration #trustpilot #communaute-gratuite #centralisation-donnees #n8n #zoom-welcome-calls
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

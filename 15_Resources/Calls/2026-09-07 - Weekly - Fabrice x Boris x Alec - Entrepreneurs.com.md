@@ -2,14 +2,51 @@
 type: call
 date: 2026-09-07
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly | Fabrice x Boris x Alec | Entrepreneurs.com
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/09/2026 10:26).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue opérationnelle hebdomadaire portant sur le ciblage des leads Aldis (trop de non-scalables), la contractualisation des partenariats (Whoop, clauses sensibles), le pipeline de prospection et la formalisation du programme ambassadeur avec système de récompenses tokens/cash.
+
+**Décisions**
+- Corriger immédiatement le ciblage des rendez-vous avec Aldis pour obtenir 60-70% de profils scalables
+- Autoriser l'usage de l'image d'Alec pour Whoop uniquement avec contrat cadré (durée, exclusion des périodes de lancement, valorisation)
+- Demander clarifications contractuelles sur pénalités, interdiction de sollicitation financière, traitement des refunds et attribution des leads post-résiliation
+- Structurer le programme ambassadeur : tokens + cash, réunion mensuelle le 2e jeudi, badge visible, reporting trimestriel top 5
+- Intégrer l'Annexe B (qualification avancée 13 pages) dans Vercel pour améliorer la qualification commerciale
+
+**Actions**
+- [ ] **Alec** : Corriger le ciblage avec Aldis et confirmer la priorisation des profils scalables (échéance 2026-09-09)
+- [ ] **Fabrice** : Obtenir retour de Whoop sur proposition d'usage image Alec et définir bundle/prix (échéance 2026-09-08)
+- [ ] **Fabrice** : Demander clarifications contractuelles sur pénalités 15k€, sollicitation financière, commissions refunds et attribution leads (échéance 2026-09-12)
+- [ ] **Fabrice** : Coordonner prospection Shine/LegalPlace/Delos/Whoop/cabinets comptables avec Omar et Océane
+- [ ] **Fabrice** : Vérifier données CRM ambassadeurs disponibles avec Ossé
+- [ ] **Fabrice** : Valider taux 5% YouCan avec Sabrina pour récompenses ambassadeurs (échéance 2026-09-11)
+- [ ] **Fabrice** : Intégrer Annexe B dans Vercel avec Anis pour qualification commerciale
+- [ ] **Fabrice** : Produire document récapitulatif des incidents synchronisation HotSpot/iClose
+- [ ] **Boris** : Rendre décision sur candidate Lola (échéance 2026-09-11)
+
+**Risques & vigilances**
+- Mauvais ciblage Aldis génère charge de travail excessive et risque de renchérir fortement le lancement
+- Clause pénalité 15k€ floue sans définition claire du déclencheur ni du périmètre
+- Interdiction contractuelle de sollicitation financière proactive pourrait bloquer légalement la proposition de services d'investissement
+- Absence de console de suivi des leads partenaires risque perte de commission après résiliation
+- Décalages de synchronisation HotSpot/iClose entraînent perte de leads et marquage erroné comme perdus
+- Désengagement ambassadeurs de forte valeur faute de réactivation proactive
+
+Tags : #partenariats #qualification-leads #ambassadeurs #prospection #clauses-contractuelles
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

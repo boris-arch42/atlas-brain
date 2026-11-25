@@ -2,14 +2,56 @@
 type: call
 date: 2026-10-29
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "cedric@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Cédric De Saint Jean]]", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Revenue Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (29/10/2026 16:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète de la performance commerciale d'octobre avec 322 signés mais des problèmes majeurs de qualité des leads, décalage avatar/offre high-ticket, et nécessité de nettoyer le pipeline suite au départ de closers. Lancement de nouvelles tactiques de monétisation : JV newsletters, micro-masterclasses payantes, et refonte du nurturing email.
+
+**Décisions**
+- Redistribuer immédiatement les leads de Nowell à DotSales et nettoyer le pipeline
+- Tester des micro-masterclasses payantes (47-50€) en remplacement des calls gratuits du mardi
+- Lancer des partenariats JV avec newsletters externes sur modèle de partage de revenus
+- Segmenter rigoureusement la base email (240k) avant toute campagne massive
+- Maintenir la date d'immersion février (20-22) et valider en urgence les dates Borde
+- Ouvrir la commercialisation Scale en organique prioritaire, publicité payante en second temps
+
+**Actions**
+- [ ] **Sabrina** : Coordonner avec Rachid le call de nettoyage pipeline Nowell avec Walid et les closers, reprendre contact avec leads récents puis élargir à 1,5 mois (échéance 2026-11-05)
+- [ ] **Fabrice** : Valider avec Jordan et Legal/Finance le cadre juridique et financier avant tout pivot vers leads B2C bas de gamme (risques remboursements, TVA, rétractations) (échéance 2026-11-08)
+- [ ] **Sabrina** : Analyser les conversions par funnel et produire un rapport qualité leads vs performance commerciale (échéance 2026-11-12)
+- [ ] **Rachid** : Identifier les 10 newsletters pertinentes à approcher pour JV et préparer le pitch avec metrics d'audience (échéance 2026-11-15)
+- [ ] **Cédric** : Designer et valider le concept des micro-masterclasses payantes avec worksheets et assignation SDRs huggers (échéance 2026-11-15)
+- [ ] **Fabrice** : Organiser une réunion dédiée planification communication Scale avec plan par canal, timeline assets et confirmation intervenants (échéance 2026-11-10)
+- [ ] **Boris** : Valider et nommer un responsable unique pour la stratégie de marque et nurturing long-terme (échéance 2026-11-20)
+- [ ] **Sabrina** : Confirmer en urgence les dates et lieu de l'immersion Borde pour activer le pipeline commercial (échéance 2026-11-05)
+- [ ] **Fabrice** : Finaliser la landing page Scale et clarifier la deadline développeur selon la date de lancement public (échéance 2026-11-15)
+
+**Risques & vigilances**
+- Décalage majeur entre avatar visé (high-ticket 250k+) et leads entrants (B2C/particuliers <50k CA) risquant de dégrader delivery, confiance marque et rétention
+- Risques juridiques et financiers élevés (remboursements, rétractations, TVA) si pivot vers clients inadaptés sans validation Legal/Finance
+- Taux de no-show à 29% (194/667) impactant fortement la récupération de revenu
+- Perception incohérente de la valeur si masterclasses à 49€ précèdent des offres à 8-15k€
+- Qualité CRM dégradée (80k leads à nettoyer, doublons, clients classés prospects) risquant de nuire aux campagnes email
+- Absence d'owner unique sur la stratégie brand/nurturing créant des actions fragmentées et du court-termisme
+- Départs/changements de closers (Stéphane, Caroline, Jérôme, Nowell) fragilisant la couverture commerciale
+- Risque de sur-sollicitation email et dégradation de la délivrabilité sans stratégie segmentée
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #revenue-meeting #performance-commerciale #nettoyage-pipeline #strategie-nurturing #monetisation-base
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

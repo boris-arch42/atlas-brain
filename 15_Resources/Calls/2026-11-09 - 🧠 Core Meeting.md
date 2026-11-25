@@ -2,14 +2,63 @@
 type: call
 date: 2026-11-09
 source: sembly
-participants: ["42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (09/11/2026 12:50).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue Core couvrant l'audit HubSpot révélant 2 493 transactions orphelines et environ 2,1 M€ de CA non traités, nécessitant une attaque SDR urgente. Mise en ligne immédiate des landing pages immersions, alignement tracking UTM entre outils, et amélioration délivrabilité email pour Outlook/Hotmail.
+
+**Décisions**
+- Lancer une attaque SDR immédiate pour nettoyer et recontacter les 2 493 reserved calls orphelines, priorisées par CA déclaré décroissant
+- Mettre en ligne ce soir les landing pages et liens de paiement pour les immersions Scaling (30 places) et Scale + Board (12 places)
+- Suspendre le recrutement de nouveaux SDR jusqu'au nettoyage complet des listes HubSpot
+- Déclencher les upsells aux moments de victoires clients (signaux CS) plutôt qu'uniquement à l'échéance contrat
+- Intégrer les offres d'affiliation (iFile, Base44, LegalPlace) dans les canaux secondaires sans polluer les CTA live
+- Standardiser le tracking UTM et aligner les champs revenus entre iClose, HubSpot et dashboards
+- Ajouter au reporting SDR : nombre d'appels répondus et durée totale des appels par SDR
+- Ralentir la diffusion d'informations vers les coachs et améliorer communication lors de la réunion mensuelle
+
+**Actions**
+- [ ] **Sabrina** : Transmettre les listes R1, R2, R3 et engagés classées par CA et objection à Rachid pour calibrage SDR (échéance 2026-11-09)
+- [ ] **Fabrice** : Vérifier les enregistrements d'appels (Engram, Fatome) pour confirmer l'activité réelle sur les reserved calls (échéance 2026-11-13)
+- [ ] **Rachid** : Calibrer la cadence de rappel et priorisation SDR sur les 2 493 reserved calls (échéance 2026-11-13)
+- [ ] **Sabrina** : Organiser une session dédiée pour aligner la logique dashboards et visibilité UTM (échéance 2026-11-15)
+- [ ] **Rachid** : Ajouter durée des communications et comptage appels répondus aux rapports SDR hebdomadaires (échéance 2026-11-15)
+- [ ] **Fabrice** : Évaluer programmes affiliation et intégrer liens dans supports appropriés (échéance 2026-11-15)
+- [ ] **Cédric** : Évaluer programmes affiliation et intégrer liens dans supports appropriés (échéance 2026-11-15)
+- [ ] **Alec** : Fournir liens et introductions pour Base44 et LegalPlace (échéance 2026-11-15)
+- [ ] **Sabrina** : Coordonner avec Lucas et Kevin pour finaliser créneaux de formation commerciale quotidienne (échéance 2026-11-15)
+- [ ] **Cédric** : Finaliser produit Weeby destiné dirigeants TPE/PME (échéance 2026-11-15)
+- [ ] **Anisse** : Finaliser produit Weeby destiné dirigeants TPE/PME (échéance 2026-11-15)
+- [ ] **Sabrina** : Vérifier et reconnecter Instagram IA settings et liens calendrier (échéance 2026-11-13)
+- [ ] **Sabrina** : Vérifier tous flux email automatisés pour identifier bounces Outlook/Hotmail et problèmes délivrabilité (échéance 2026-11-13)
+- [ ] **Alec** : Fournir précisions sur lieu, angle et script podcast IA avec Cédric, Jordan, Anisse (échéance 2026-11-15)
+
+**Risques & vigilances**
+- 832 k€ de créances impayées constituent un risque majeur pour la trésorerie
+- Baisse nette du moral des coachs et disparité de complétion sessions (100 % pour certains, retard pour d'autres)
+- Bug de duplication deals entre iClose et HubSpot gonfle artificiellement volumes et fausse attribution revenu
+- Problème délivrabilité email Outlook/Hotmail peut impacter campagnes (notamment sommet IA) et rappels automatiques
+- Environ 67 % des reserved calls n'ont pas de commercial assigné suite aux départs
+- Tracking UTM incomplet masque sources réelles (regroupement 'Other sources', leads 'undefined')
+- Risque d'appels à froid mal calibrés sur clients récents si approche SDR au lieu de CS
+- Recrutement SDR en attente mais besoin de montée en capacité vers 150 RDV/semaine
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #audit-hubspot #reserved-calls-orphelines #attaque-sdr #immersions #tracking-utm #delivrabilite-email
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

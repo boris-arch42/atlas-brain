@@ -2,14 +2,51 @@
 type: call
 date: 2026-10-20
 source: sembly
-participants: ["boris@entrepreneurs.com", "julien@aikho.ai"]
+participants: ["[[Boris Arduy]]", "julien@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Julien & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (20/10/2026 19:43).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Alignement sur la stratégie d'activation et de rétention pour le produit SaaS recrutement : mise en place d'alertes d'onboarding à J+14 et à 25 candidats, distinction entre appels CSM (aide) et Sales (upgrade), et tests de sourcing payant de candidats avec suivi ROI.
+
+**Décisions**
+- Créer deux typologies d'appels distinctes : CSM non-commercial pour déblocage et Sales pour upgrade
+- Mettre en place des alertes automatiques à 14 jours d'essai et à 25 candidats
+- Passer le plan Starter à 100 candidats et viser 50-75k envois pour collecte de données
+- Lancer une prospection CSM proactive par téléphone pour les inactifs à J+3
+- Tester le sourcing payant de candidats (tokens) de manière contrôlée avant scale
+- Rendre la connexion email entreprise obligatoire ou fortement encouragée pendant l'onboarding
+
+**Actions**
+- [ ] **Julien** : Créer le dashboard CSM avec typologies d'utilisateurs et écarts aux jalons (échéance 2026-10-21)
+- [ ] **Julien** : Créer la page CSF pour identification clients et échange avec Gauss
+- [ ] **Boris** : Briefer Farno sur l'intention des appels CSM vs Sales avec scripts adaptés
+- [ ] **Boris** : Configurer iClose pour 5 utilisateurs et préparer accès pour Arnaud
+- [ ] **Boris** : Rédiger et envoyer note aux coachs sur connexion boîtes mail et relancer inscriptions
+- [ ] **Boris** : Remonter numéros de téléphone prospects Echo dans le CRM
+- [ ] **Julien** : Prototyper widget conversationnel feedback in-app avec Claude
+- [ ] **Arnaud** : Appeler quotidiennement les prospects inactifs depuis 3+ jours via dashboard CSM
+
+**Risques & vigilances**
+- Coût du sourcing payant de candidats (tokens) peut consommer significativement la trésorerie sans ROI garanti
+- Volume d'inscriptions attendu jeudi/vendredi pourrait ne pas se matérialiser
+- Friction potentielle si connexion email devient obligatoire pendant onboarding
+- Ressources limitées obligent à prioriser fortement et reporter certaines initiatives
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #saas-recrutement #onboarding #csm #activation #sourcing-candidats
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

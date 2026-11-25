@@ -2,14 +2,50 @@
 type: call
 date: 2026-11-02
 source: sembly
-participants: ["boris@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Fabrice X Boris - Partenariats & Ambassadeurs
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/11/2026 16:05).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point partenariats et ambassadeurs : la prospection partenariale ne génère pas de résultats, test envisagé d'une offre sponsoring à 15k€. Structuration urgente du pôle rétention/Hotspot et recrutement Head of Sales en cours avec contraintes budgétaires importantes.
+
+**Décisions**
+- Lucas prendra le lead du lancement de novembre sur 5 jours
+- Cadence SDR recommandée : appeler les prospects 6 semaines avant l'échéance plutôt que 3 mois
+- Automatisation de la génération de leads via Hotspot pour remplacer les Google Sheets
+- Standardisation obligatoire des liens de tracking et des conventions de mesure entre équipes
+
+**Actions**
+- [ ] **Boris** : Clarifier les responsabilités de leadership du prochain lancement et communiquer les transitions de rôle à l'équipe
+- [ ] **Boris** : Définir précisément le brief de recrutement et le budget Head of Sales avant screening des candidats
+- [ ] **Boris** : Vérifier le statut de l'abonnement Aiko et résilier ou demander remboursement si charge erronée (460-500€/mois)
+- [ ] **Fabrice** : Préparer un document de scénarios actualisé (pessimiste/optimiste) avec données nettoyées sur pipeline immersions (échéance 2026-11-05)
+- [ ] **Fabrice** : Partager le plan du masterclass d'Alec (11 nov) pour revue avant validation finale (échéance 2026-11-10)
+- [ ] **Fabrice** : Aider Alex à rédiger les spécifications d'intégration Hotspot pour automatisation leads
+- [ ] **Fabrice** : Rédiger avec Alex un document de specs propre pour le plan de rétention
+- [ ] **Caroline** : Finaliser les définitions et conventions de tracking standardisés pour démarrage mesure entre 15 et 30 novembre (échéance 2026-11-15)
+
+**Risques & vigilances**
+- La continuité du rythme actuel fait courir le risque de perdre l'élan commercial et certains rôles clés d'ici un mois
+- Les limites budgétaires pour le Head of Sales imposent d'être réaliste sur le niveau de candidat (risque de sous-payer un poste critique)
+- Conversion historique inférieure à 10% sur alumni contactés, beaucoup répondent 'pas maintenant'
+- Difficulté à vendre la plateforme alors que les utilisateurs exécutent leurs workflows IA directement dans leur cloud (outils DIY)
+- Le module RH de la plateforme est daté (1 an) et décevant par rapport aux outils tiers actuels
+- Tracking incohérent dû à l'utilisation de liens et intégrations différents selon les équipes, empêchant un comptage exact
+- Alex pourrait manquer de compétences en gestion de projet pour produire seul des spécifications claires sur la rétention
+
+Tags : #partenariats #ambassadeurs #recrutement #head-of-sales #retention #hotspot #tracking #plateforme-ia
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

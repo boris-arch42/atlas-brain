@@ -2,14 +2,59 @@
 type: call
 date: 2026-11-04
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Revenue Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (04/11/2026 15:36).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue de la trajectoire de revenus novembre-décembre avec objectif de 2,3M€ encaissé, basée sur un plan webinaire à 250k€ de budget média et multiples campagnes (Evergreen, Suisse, Anis, Immersion). Discussions sur la capacité commerciale, le routage des leads high-ticket, le recrutement SDR/closers et le risque de départ de Walid.
+
+**Décisions**
+- Ciblage prioritaire des leads à plus de 250k€ de CA pour l'équipe high-ticket, redirection des plus petits vers CGM
+- Lancement marché Suisse prévu le 16 novembre avec routage automatique par seuil de CA
+- Retour à des appels de qualification d'une heure pour les profils à forte valeur
+- Création de dashboards quotidiens consolidés pour piloter la génération d'appels et la performance commerciale
+- Webinaires Anis planifiés les 17/11, 01/12 et 15/12 avec staffing dédié de closers seniors
+- Objectif Immersion de 40 places à 4600€ via relance du portefeuille existant
+
+**Actions**
+- [ ] **Cédric** : Suivi des CPL campagnes webinaire et validation des performances sous une semaine (échéance 2026-11-11)
+- [ ] **Fabrice** : Suivi des réactivations base email LegalPlace et activations vidéo partenaires (échéance 2026-11-11)
+- [ ] **Boris** : Synchronisation technique Hotspot/funnels pour tous les lancements campagnes (Suisse, Anis, Evergreen) (échéance 2026-11-15)
+- [ ] **Rachid** : Messages de statut quotidiens sur volume d'appels et résultats dans canal 7FS dédié (échéance 2026-12-31)
+- [ ] **Sabrina** : Surveillance du routage des leads et publication des mises à jour quotidiennes (échéance 2026-12-31)
+- [ ] **Rachid** : Coordination staffing webinaires Anis avec closers seniors (Walid ou équivalent) (échéance 2026-11-17)
+- [ ] **Cédric** : Synchronisation ownership technique webinaires Anis avec Adil (échéance 2026-11-15)
+- [ ] **Rachid** : Transmission données de lancement corrigées et listes de leads supplémentaires (échéance 2026-11-08)
+- [ ] **Cédric** : Finalisation chiffrage offres personnalisées pour débloquer les closings (échéance 2026-11-08)
+- [ ] **Alec** : Échange avec Walid pour aligner lignes de revenus et anticiper volume de leads (échéance 2026-11-08)
+- [ ] **Fabrice** : Construction dashboards quotidiens robustes et consolidés pour vision claire de l'activité (échéance 2026-11-15)
+- [ ] **Cédric** : Session enregistrement vidéo avec Alec (échéance 2026-11-05)
+
+**Risques & vigilances**
+- Départ potentiel de Walid (top closer avec 139k€ encaissés sur 90j) suite à volatilité des commissions (600€ en octobre)
+- Capacité SDR réduite par le départ de Raphaël, recrutements en cours avec visibilité sous 6 semaines seulement
+- Dépendance critique à quelques top sellers : écart de performance massif entre Walid (140k€) et les autres (40-60k€)
+- Taux de prise d'appels actuels à 34% vs cible de 47%, impactant la génération de rendez-vous qualifiés
+- Sensibilité forte du revenu au ticket moyen : chaque variation de 1k€ modifie significativement le CA
+- Qualité hétérogène des leads avec beaucoup sans activité, risque de démotivation des closers seniors
+- Bugs d'ingestion Supabase et problèmes de formulaires Facebook créant des trous de données
+- Délais de chiffrage personnalisé bloquant la planification des closing calls
+
+**Projets liés** : [[Immersion]]
+
+Tags : #revenue-meeting #webinaire #recrutement-commercial #routage-leads #retention-closers
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

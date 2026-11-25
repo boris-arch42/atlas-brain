@@ -2,14 +2,58 @@
 type: call
 date: 2026-09-11
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Alec et Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (13/09/2026 18:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Session de cadrage stratégique couvrant le lancement commercial TPE/PME via landing page et trial, l'organisation complète du team building noyau dur (3 modules sur 2,5 jours), et la structuration du cadre de bonus 2027 lié au CA et à la marge.
+
+**Décisions**
+- Landing page simple TPE/PME avec parcours onboarding/trial à créer, pilotée par Boris
+- Arnaud affecté aux premiers appels commerciaux
+- Team building structuré en 3 modules : management (3h), vision/delivery Sabrina (4h), sales playbook avec Anis/Fabrice/Paul
+- Prochaine immersion provisoire 8-11 avril, à valider lundi en core team
+- Package individuel fixé à 12k fixes avec visa et assurance, sans split 70/30
+- Solution d'avance personnelle de loyer par Boris avec remboursement progressif
+- Cadre de bonus 2027 : cagnotte basée sur paliers de CA, ajustée par % marge EBITDA, étendu au noyau dur
+
+**Actions**
+- [ ] **Boris** : Confirmer disponibilité Arnaud pour premiers appels commerciaux
+- [ ] **Boris** : Confirmer suite après go/no-go Hugues attendu vendredi 18 (échéance 2026-09-18)
+- [ ] **Boris** : Diffuser programme final team building
+- [ ] **Boris** : Finaliser grandes lignes des 3 modules team building
+- [ ] **Boris** : Préparer visuels 3D bureaux et événements futurs pour projection équipe
+- [ ] **Boris** : Vérifier allocation packages séminaires et notification participants
+- [ ] **Boris** : Modéliser paliers CA/marge pour bonus et partager avec Jordan
+- [ ] **Boris** : Fournir avance loyer et documenter modalités remboursement si validé
+- [ ] **Boris** : Diffuser CR et actions assignées post-réunion
+- [ ] **Julien** : Implémenter techniquement la landing page et parcours trial
+- [ ] **Fabrice** : Relancer Nicole pour confirmer et faire signer immersion avril d'ici lundi (échéance 2026-09-15)
+- [ ] **Fabrice** : Préparer supports module sales playbook avec Anis et Paul
+- [ ] **Sabrina** : Préparer présentation vision et processus delivery (module 4h)
+- [ ] **Jordan** : Préparer présentation 10-15 min aspects admin/RH/ops/célébrations
+- [ ] **Leonard** : Confirmer intervenant et préparer démo data (20 min) avec Boris
+
+**Risques & vigilances**
+- Go/no-go Hugues attendu vendredi 18 conditionne le déploiement commercial complet vs mode générateur d'affaires
+- Places gratuites séminaires non suivies ni communiquées, risque d'oubli et confusion clients
+- Manque de visibilité sur portail core team des éligibilités et répartition places
+- Nombre de clients informés sur événement avril non confirmé, risque réputation et delivery
+- Demandes spéciales logement doivent être plafonnées pour préserver équité équipe
+
+Tags : #team-building #lancement-commercial #bonus-2027 #package-remuneration #immersion-avril
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

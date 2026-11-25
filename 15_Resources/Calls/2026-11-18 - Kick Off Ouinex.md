@@ -2,14 +2,50 @@
 type: call
 date: 2026-11-18
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Kick Off Ouinex
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (18/11/2026 11:37).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kick-off du projet WinEx (affiliés crypto/casino) : validation du retour contractuel, création d'une structure juridique commune début janvier, et préparation du cadrage client avant transmission de la roadmap.
+
+**Décisions**
+- Ne pas inclure de responsabilité personnelle dans le contrat WinEx
+- Ajouter une clause permettant de transférer le contrat à une entité commune à créer
+- Sécuriser signature et paiement du contrat avant transmission de la feuille de route
+- Proposer l'offre complémentaire d'optimisation (30-34k€) uniquement après démarrage du contrat principal
+- Création de la structure juridique commune envisagée début janvier (2-4 janvier)
+
+**Actions**
+- [ ] **Boris** : Remettre en forme et transmettre le retour contractuel WinEx dans la journée (échéance 2026-11-18)
+- [ ] **Boris** : Préparer la liste des sujets à trancher au kick-off client (priorités mai 2027, budget, master affiliate, TGE, listing) (échéance 2026-11-18)
+- [ ] **Boris** : Vérifier les options de juridiction américaine pour la structure commune (échéance 2026-12-18)
+- [ ] **Alec** : Solliciter le cabinet Paris/Dubaï/US pour avis comparatif sur la juridiction (call ~500€) (échéance 2026-12-18)
+- [ ] **Boris** : Créer le tableau de bord intégrant API WinEx, CRM affilié et parcours d'onboarding (échéance 2026-12-17)
+- [ ] **Boris** : Préparer la démonstration technologique (API WinX, dashboard, CRM, moteur affiliation) pour le premier jour
+- [ ] **Boris** : Demander au client pourquoi le processus d'affiliation est manuel et négocier un lien de suivi dédié
+- [ ] **Boris** : Demander les détails de l'accord avec Rodolphe Stéphan après finalisation contractuelle
+- [ ] **Alec** : Présenter l'offre complémentaire d'optimisation au client après le kick-off
+
+**Risques & vigilances**
+- Risque d'exécution opérationnelle si le volume d'affiliés atteint ~1000/mois avec le processus manuel actuel
+- Capacité du client à absorber et réagir au volume généré
+- Incertitude sur le niveau de structuration interne de WinEx
+- Conformité réglementaire selon les pays ciblés (Inde interdit casinos, restrictions variables)
+- Dépendance forte au réseau de Rodolphe Stéphan comme relais de confiance principal
+
+Tags : #winex #affiliation-crypto #master-affiliate #structure-juridique #dashboard
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

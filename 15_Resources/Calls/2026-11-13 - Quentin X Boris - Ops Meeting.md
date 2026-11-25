@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-13
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (13/11/2026 10:44).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel sur l'onboarding payant, la gestion des chambres immersion et le suivi HubSpot. Quentin alerte sur les graves problèmes d'exécution du pôle fidélisation malgré la satisfaction client, et recommande une due diligence technique indépendante avant tout investissement dans Aïko.
+
+**Décisions**
+- Privilégier une stratégie de mise à jour légère du code pour éviter 300k lignes de conflits
+- Lancer l'onboarding payant en début de semaine après tests finaux
+- Créer un canal privé pour les alertes de suivi des ventes
+- Alexandre Gauthier doit retravailler son document de fidélisation après analyse insuffisante de la plateforme
+
+**Actions**
+- [ ] **Quentin** : Vérifier que le produit onboarding payant existe dans HubSpot et que l'automatisation fonctionne (échéance 2026-11-15)
+- [ ] **Quentin** : Tester le parcours complet onboarding payant avec le compte test (échéance 2026-12-05)
+- [ ] **Jordan** : Préparer les contrats pour les ventes par téléphone de l'onboarding payant
+- [ ] **Boris** : Transmettre les paramètres pour la gestion des chambres (dates limites, nombre max)
+- [ ] **Quentin** : Vérifier que les achats d'immersion remontent correctement dans HubSpot
+- [ ] **Boris** : Examiner avec les équipes le rapport des automatisations Make qui écrasent des données HubSpot
+- [ ] **Boris** : Créer le canal privé pour les alertes de suivi des ventes et y ajouter Quentin (échéance 2026-11-14)
+- [ ] **Quentin** : Intégrer le bot plateforme au canal privé une fois créé pour publier les infos ventes (échéance 2026-11-15)
+- [ ] **Quentin** : Envoyer à Boris le document d'Alexandre Gauthier sur la fidélisation (échéance 2026-11-13)
+
+**Risques & vigilances**
+- Écrasement de données contacts dans HubSpot par des automatisations Make non maîtrisées
+- Pôle fidélisation : taux d'upsell historiquement très faible malgré la satisfaction client
+- Alexandre Gauthier : manque de rigueur dans l'étude préalable (quelques connexions seulement entre fin septembre et 23 octobre) et absence de réponse depuis mercredi
+- Projet fidélisation : aucun projet créé dans Worx malgré la demande de Boris
+- Validation Caroline attendue depuis plusieurs semaines sur automatisation HubSpot clients sortants
+- Aïko : collaboration difficile (retards clés API, tensions initiales, accusation de copie produit)
+- Aïko : différenciation technique jugée faible face à la concurrence, nécessité d'une due diligence indépendante avant investissement si l'argument principal est technologique
+
+**Projets liés** : [[Immersion]] · [[Cadence transverse & top 10 process]]
+
+Tags : #ops #onboarding-payant #hubspot #fidelisation #aiko-due-diligence
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

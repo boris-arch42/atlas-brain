@@ -2,14 +2,51 @@
 type: call
 date: 2026-10-30
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse x Boris Ai priorités
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (30/10/2026 11:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Session de travail sur l'adoption des applications internes, le ROI des outils développés et les priorités de développement. Accord sur la production d'un rapport de 3 pages pour Alec, incluant une matrice coût/adoption et des métriques de valeur économique.
+
+**Décisions**
+- Anisse produira un rapport de 3 pages sur adoption, ROI et priorités pour Alec
+- Création d'une matrice croisant coût de développement et taux d'adoption pour prioriser les applications
+- Les systèmes finance seront hébergés sur un VPS séparé (Hostinger) pour des raisons de sécurité
+- Mise en place d'une métrique 'Héroïe' pour calculer le ROI des applications internes via le temps économisé
+- Concentration du portefeuille produit sur 2-3 offres à forte valeur, abandon du programme Fall Cut
+
+**Actions**
+- [ ] **Anisse** : Préparer le rapport de 3 pages sur adoption, ROI et priorités pour Alec
+- [ ] **Anisse** : Demander à Jordan un coût horaire chargé médian/moyen de référence pour les calculs ROI
+- [ ] **Anisse** : Nettoyer les données d'utilisateurs actifs et créer le tableau de bord coût vs adoption
+- [ ] **Anisse** : Créer un prompt Agentique pour le calcul automatisé du ROI des applications
+- [ ] **Anisse** : Documenter la roadmap de Wassim pour les 6-12 prochains mois et la présenter à Alec
+- [ ] **Anisse** : Rencontrer Farah lundi pour aligner documents, routines et communication d'équipe
+- [ ] **Boris** : Ajouter Anisse au groupe Slack avec Flora pour coordination board
+- [ ] **Anisse** : Finaliser centralisation témoignages et intégration Super Joe SDR avec HubSpot (échéance 2026-11-30)
+
+**Risques & vigilances**
+- Départ possible de Fabrice à gérer proprement pour éviter ressentiment et perte d'information
+- Faible adoption de certains outils (Launchpad, reporting fin de semaine) révèle des lacunes culturelles et managériales
+- Risque de réduction d'équipe autour de Wassim si la roadmap et la valeur ne sont pas clarifiées rapidement
+- Instabilité des OKR et absence de vision 1-3 ans nuisent à l'adoption et à l'alignement des équipes
+- Programme Fall Cut mal conçu et peu générateur de valeur avec seulement 12 personnes en cohorte
+
+**Projets liés** : [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #adoption-outils #roi-applications #priorisation-produit #gouvernance-tech #metrics
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

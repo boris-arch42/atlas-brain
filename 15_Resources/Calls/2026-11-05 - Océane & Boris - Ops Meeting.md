@@ -2,14 +2,52 @@
 type: call
 date: 2026-11-05
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Océane & Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (05/11/2026 16:31).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel couvrant la logistique du déménagement de Boris, les priorités marketing (contenus sociaux, recrutement, X), le tracking UTM et l'optimisation du widget. Revue technique de l'intégration AMCP aux dashboards, clarification des écarts entre deals engagés et signés, et amélioration de la préparation des kick-offs.
+
+**Décisions**
+- Créer des landing pages dédiées par canal pour améliorer l'attribution et la conversion
+- Développer une solution technique (via Louis) pour transmettre automatiquement les UTM des articles vers le tunnel de réservation
+- Ne comptabiliser en closed-won que les deals réellement signés, pas les engagés
+- Limiter les participants aux kick-offs aux seuls owners concernés avec envoi des questions en amont
+- Créer un canal hebdomadaire de suivi des métriques organiques incluant Alec, Boris et Fabrice
+- Arbitrer entre performance SEO mobile et conversion en testant différents délais d'apparition du pop-up lift
+
+**Actions**
+- [ ] **Boris** : Tester différents réglages de timing du pop-up lift (délai ~4 secondes, limitation par session) et mesurer l'impact sur conversion et PageSpeed
+- [ ] **Boris** : Ajuster la logique du dashboard pour distinguer clairement deals engagés vs deals signés
+- [ ] **Boris** : Coordonner avec Louis la solution technique pour propagation automatique des UTM article vers CTA
+- [ ] **Océane** : Connecter le connecteur MCP/AMCP aux dashboards et prévenir Boris une fois effectif
+- [ ] **Océane** : Créer le canal hebdomadaire de suivi des métriques organiques avec Alec, Boris et Fabrice
+- [ ] **Océane** : Prioriser la création de landing pages par canal (notamment Le Déclic)
+- [ ] **Océane** : Continuer le sourcing recrutement et ajuster le processus de candidature
+- [ ] **Océane** : Ajouter Claire au canal kick-off
+- [ ] **Jordan** : Coordonner les papiers administratifs de Boris une fois sur place à Dubaï (échéance 2026-11-21)
+
+**Risques & vigilances**
+- Goulot d'étranglement opérationnel sur Océane qui gère seule contenus et montage, retardant d'autres priorités comme le recrutement
+- Pop-up lift génère 90% des réservations mais dégrade le score PageSpeed mobile - arbitrage conversion vs SEO nécessaire
+- Faible taux de complétion des candidatures par hésitation à saisir informations personnelles
+- Confusion entre deals engagés et signés peut surestimer le revenu réel encaissable
+- Kick-offs inefficaces par manque de préparation et participation trop diffuse
+- Complexité administrative du déménagement de Boris liée au PACS et fiscalité française
+
+Tags : #ops-meeting #tracking-utm #recrutement #widget-conversion #dashboards-amcp #kick-off-process
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

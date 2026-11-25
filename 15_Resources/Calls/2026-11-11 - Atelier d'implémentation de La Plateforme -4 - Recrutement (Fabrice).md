@@ -2,14 +2,37 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["abderrahim@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "42lab@entrepreneurs.com", "leonard.mangallon@entrepreneurs.com", "alec.henry@entrepreneurs.com", "alec@entrepreneurs.com", "claire@entrepreneurs.com", "christel.elfakhoury@entrepreneurs.com", "fabrice@entrepreneurs.com", "l_sales-team@entrepreneurs.com", "coachs@entrepreneurs.com"]
+participants: ["[[Abdel El Mahi]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Quentin]]", "leonard.mangallon@entrepreneurs.com", "[[Alec Henry]]", "[[Alec Henry]]", "[[Claire]]", "[[Christele]]", "[[Fabrice Jaeger]]", "l_sales-team@entrepreneurs.com", "coachs@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Atelier d'implémentation de La Plateforme #4 - Recrutement (Fabrice)
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 12:12).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Atelier de démonstration du module RH de la plateforme, présentant l'agent IA Héloïse pour créer des offres, analyser des CV, utiliser des scorecards structurées et l'intégration Aiko pour mener des entretiens IA automatisés. Les échanges ont porté sur les bonnes pratiques de recrutement, l'importance d'un processus rapide et structuré, et les possibilités d'intégration.
+
+**Décisions**
+- Une landing page de candidature reliée directement à la plateforme sera ajoutée au cahier des charges pour l'équipe de développement
+
+**Actions**
+- [ ] **Fabrice** : Ajouter la fonctionnalité de landing page candidature au cahier des charges des développeurs
+- [ ] **Fabrice** : Vérifier le problème de réservation de Sophie pour Scale
+
+**Risques & vigilances**
+- L'intégration Aiko vient d'être déployée en production et peut nécessiter un ou deux jours de stabilisation
+- Les profils LinkedIn ne peuvent pas être analysés directement via leur URL, nécessitent un copier-coller du texte ou un export PDF
+- Risque de perdre les meilleurs candidats si le processus de recrutement est trop lent ou peu structuré
+
+Tags : #recrutement #ia #plateforme #heloise #aiko #scorecard #rh
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,62 @@
 type: call
 date: 2026-09-15
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "fabrice@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]", "[[Alec Henry]]", "[[Fabrice Jaeger]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Point finance Mensuel Août 2026 (point avancé à preparé avec toutes KPI évoquées + rentabilisé par pôles / offres). Owner : Jordan en collab avec Fabrice 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (15/09/2026 16:21).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point finance mensuel d'août 2026 : trésorerie à +765 K depuis janvier mais -919 K sous budget sur le signé. Focus sur le recouvrement (33% des encaissements d'août proviennent de factures >60j), les impayés (15,3% des factures), les lancements octobre et l'optimisation des contrats/coûts internes.
+
+**Décisions**
+- Intégrer un onglet finance par événement dans les dashboards (CA, annulations, encaissements, impayés)
+- Réviser le contrat de Jade vers un modèle 100% variable aligné sur les benchmarks externes (12-15% des recouvrements)
+- Réduire le nombre d'échéances sur les produits d'entrée de gamme pour limiter les impayés
+- Lancer un audit complet des contrats internes (hors sales/coachs) pour identifier surpaiements et KPI manquants
+- Suspendre les paiements au prestataire Brian Lamberti en attente de justification des livrables
+- Finaliser l'accord LegalPlace cette semaine pour financement d'environ 150 K de dépenses publicitaires
+- Recruter des profils plus polyvalents en communication et réduire le volume de publication à 70% du niveau actuel
+
+**Actions**
+- [ ] **Boris** : Intégrer l'onglet finance par événement dans les dashboards (transactions, annulations, encaissements, impayés)
+- [ ] **Boris** : Confirmer avec Alec les champs de données nécessaires pour les dashboards événementiels (échéance 2026-09-20)
+- [ ] **Boris** : Standardiser les sources de données de référence (client, marketing, finance) avec Mohamed et les owners outils
+- [ ] **Jordan** : Préparer le point finance mensuel avancé avec KPI détaillés par pôles/offres en collaboration avec Fabrice
+- [ ] **Alec** : Finaliser l'accord de partenariat LegalPlace pour financement publicitaire (~150K) (échéance 2026-09-20)
+- [ ] **Fabrice** : Réactiver le pipeline partenariats et déployer prospection outbound (Apollo) sur cibles type Delos
+- [ ] **Fabrice** : Réévaluer l'approche commerciale partenariats avec propositions adaptées CPA/direct response
+- [ ] **Sabrina** : Justifier les livrables du prestataire Brian Lamberti avant prochains paiements (échéance 2026-09-22)
+- [ ] **Océane** : Proposer nouveau plan éditorial à 70% du volume actuel avec métriques actualisées
+- [ ] **Océane** : Recruter ou former des profils plus polyvalents dans l'équipe communication
+- [ ] **Quentin** : Étendre les workflows plateforme pour faciliter ré-encaissement (bannière impayés, Apple Pay)
+- [ ] **Mohamed** : Supprimer l'adresse email obsolète 'recouvrement 3' et coordonner avec Conterco (échéance 2026-09-18)
+- [ ] **Boris** : Superviser activement les team leads sur respect des budgets et usage des ressources
+- [ ] **Jordan** : Mettre en place dashboards et alertes sur lignes de coûts micro (outils, dépenses suspectes)
+
+**Risques & vigilances**
+- Runway réduit à 4-5 mois sans nouvelles ventes, nécessitant contrôle strict des coûts
+- Trou de trésorerie anticipé en octobre dû aux investissements marketing et lancements produits
+- 15,3% des factures depuis janvier impayées, aggravé par perte des mandats SEPA récurrents (Whoop)
+- Plusieurs collaborateurs surpayés vs marché et performance (notamment Tessie identifiée comme sous-performante)
+- Friction interpersonnelle Raph/Aziz nécessitant arbitrage managérial
+- Heads of pool manquent d'expérience pour gérer contrats/budgets, créant failles de gouvernance
+- Contrats initiaux mal conçus sans KPI de performance (rétention client/coach)
+- Déficit de -919 K sur revenu signé vs budget impactera négativement 2027 si non corrigé
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]] · [[Trésorerie & Finance]]
+
+Tags : #finance #trésorerie #recouvrement #impayés #rentabilité #audit-contrats #dashboards #partenariats
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

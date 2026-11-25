@@ -2,14 +2,58 @@
 type: call
 date: 2026-09-14
 source: sembly
-participants: ["aziz.sfaihi@entrepreneurs.com", "42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "abderrahim@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Aziz Sfaihi]]", "[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Abdel El Mahi]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (14/09/2026 13:14).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue complète des performances commerciales et marketing du challenge en cours (222 signatures, 93k€ encaissés, fort pipeline). Présentation de SuperDuo (plateforme closers), débat sur l'analyse non-verbale des appels, optimisation du funnel evergreen et décisions opérationnelles pour l'immersion à venir.
+
+**Décisions**
+- Poursuivre l'itération de SuperDuo sans analyse non-verbale sauf ROI démontré
+- Implémenter des règles d'alerte pour détecter les appels atypiques à revue humaine
+- Coordonner tous les déploiements de funnels pour éviter la cannibalisation d'audiences
+- Maintenir Angèle en finance sur l'ensemble du cycle client
+- Définir deux plafonds de tarification voyage pour Marrakech avec possibilité de dérogation
+
+**Actions**
+- [ ] **Anisse** : Ajuster la logique de scoring des appels avec exemples concrets sous 24h (échéance 2026-09-15)
+- [ ] **Anisse** : Explorer l'automatisation du suivi des no-shows avec Aziz
+- [ ] **Aziz** : Fournir KPI et benchmarks précis justifiant l'évaluation positive du challenge
+- [ ] **Aziz** : Analyser cas par cas les no-shows pour identifier les causes
+- [ ] **Cédric** : Finaliser le dashboard complet reliant publicités au CA et aux appels
+- [ ] **Raphaël** : Coordonner les tests evergreen avec les autres canaux pour éviter le chevauchement
+- [ ] **Océane** : Transmettre la shortlist clients témoignages à Abderrahim (échéance 2026-09-15)
+- [ ] **Abderrahim** : Optimiser le planning de tournages immersion pour éviter chevauchements cohorte 5 sept
+- [ ] **Sabrina** : Aligner tout le pôle avant tout lancement d'upsell produit
+- [ ] **Jordan** : Diffuser les consignes finales de remboursement voyage Marrakech via Slack Core Team
+- [ ] **Jordan** : Relancer Avenar pour retour sur rushes et recouvrement facture impayée
+
+**Risques & vigilances**
+- Taux élevé de no-shows menace le CA (350-600€ perdus par no-show non récupéré)
+- Écarts entre outils internes (Looker/Offspot) créent des incohérences de reporting
+- Prolifération produits et funnels risque de diluer la marque et créer confusion client
+- Intégration LeanPay/Odoo en-deçà de la qualité PennyLane, friction opérationnelle finance
+- Volume important de rushes non montés bloqués sur SD/disques durs
+- NPS plateforme négatif (-1,2) nécessite analyse approfondie
+- Saturation audience chaude sur funnel evergreen, CPA en hausse
+- Manque de mid-funnel robuste pour qualifier prospects avant closing
+- Assets marketing plus premium que delivery, risque de frustration client
+
+**Projets liés** : [[Manager Playbook — Core V1 & certification]] · [[Conformité TPE-PME (Oscar)]] · [[Immersion]] · [[Cadence transverse & top 10 process]]
+
+Tags : #core-meeting #performance-commerciale #superduo #funnel-evergreen #immersion-marrakech
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

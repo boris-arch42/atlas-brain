@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-16
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "alec.henry@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "walid.hourri@entrepreneurs.com", "valentin.lhoste@entrepreneurs.com", "julien.bouissonnade@entrepreneurs.com", "achilleaime.fouman@entrepreneurs.com", "benoit.latour@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com", "maxime.leger@entrepreneurs.com", "melyssa.decharme@entrepreneurs.com", "zina.hadji@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Alec Henry]]", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "walid.hourri@entrepreneurs.com", "valentin.lhoste@entrepreneurs.com", "julien.bouissonnade@entrepreneurs.com", "achilleaime.fouman@entrepreneurs.com", "benoit.latour@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com", "maxime.leger@entrepreneurs.com", "melyssa.decharme@entrepreneurs.com", "zina.hadji@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Montée en compétences - Helvetisation
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/11/2026 11:18).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Masterclass de préparation des équipes sales et SDR au lancement du funnel Suisse romande, couvrant les codes culturels, références clients suisses, adaptation du discours commercial et processus de qualification. Formation centrée sur la réduction de l'incertitude, la posture factuelle et l'usage de preuves concrètes adaptées au marché suisse.
+
+**Décisions**
+- Routage des prospects selon le CA : <100k CHF vers CGM, >100k CHF en interne, cible prioritaire >250k CHF
+- Prix communiqués en CHF hors taxes, sans facturation de TVA suisse
+- Vouvoiement par défaut sauf invitation du prospect au tutoiement
+- Envoi systématique d'un récapitulatif écrit le jour même après chaque appel
+- Utilisation obligatoire de numéros suisses (+41) pour tous les appels commerciaux
+
+**Actions**
+- [ ] **Rachid** : Attribuer numéros suisses CloudTalk à Alexandre, Julien et Walid avec consignes de configuration
+- [ ] **Alec** : Partager à Sabrina et Rachid le PDF avec études de cas suisses dont Stéphane Blati
+- [ ] **Alec** : Publier progressivement les 10 nouvelles études de cas vidéo suisses tournées sur place
+- [ ] **Alec** : Diffuser le documentaire suisse d'une heure et l'intégrer au nurturing (échéance 2026-11-23)
+- [ ] **Alec** : Créer version suisse du cas fictif Arthur Dent pour démonstration des outils
+- [ ] **Équipes sales et SDR** : Parcourir le funnel suisse complet (publicités, emails, inscription test, nurturing)
+- [ ] **Équipes sales et SDR** : Prendre connaissance des slides, études de cas et témoignages suisses partagés
+- [ ] **Équipes sales et SDR** : Remonter retours détaillés sur les premiers leads suisses pour ajuster l'acquisition (échéance 2026-11-26)
+- [ ] **Équipes sales et SDR** : Vérifier profils LinkedIn et affiliation au site pour crédibilité auprès prospects suisses
+- [ ] **SDR** : Interroger prospects entre RDV1 et RDV2 sur visionnage du documentaire suisse
+
+**Risques & vigilances**
+- Qualité variable des leads VSL : si prospects ne prennent pas l'appel au sérieux, nécessité d'ajuster VSL/nurturing
+- Données clients incomplètes : seuls 22/173 clients suisses ont renseigné leur CA, limitant l'analyse
+- Risque réputationnel élevé en Suisse : réseaux resserrés où les manquements se propagent rapidement
+- Solution numéros suisses pour sales non finalisée au moment du call
+- Utilisation de références clients sans autorisation formelle : processus de validation en cours
+- Complexité fiscale et juridique suisse (niveaux communal, cantonal, fédéral) : équipes ne doivent pas improviser conseil
+- Délai de maîtrise de l'acquisition : objectif de 10 jours nécessite retours rapides et itérations
+
+Tags : #helvetisation #suisse-romande #formation-commerciale #adaptation-culturelle #funnel-vsl
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

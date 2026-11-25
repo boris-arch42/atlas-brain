@@ -2,14 +2,39 @@
 type: call
 date: 2026-10-29
 source: sembly
-participants: ["boris@entrepreneurs.com", "contact@piloterousubir.com"]
+participants: ["[[Boris Arduy]]", "contact@piloterousubir.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Audrey & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (29/10/2026 15:03).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Échange avec Audrey (AA), consultante opérationnelle et tech, retour du séminaire et Liberty Webby. Forte convergence sur les besoins d'Entrepreneurs (structuration, ops, données, IA, personnalisation). Audrey exprime un intérêt pour un rôle opérationnel, déménage à Dubaï sous 20 jours, utilise déjà un 'second cerveau' IA personnel (Obsidian, automatisation complète). Alec à impliquer pour évaluer vision et adéquation culturelle.
+
+**Décisions**
+- Organiser un suivi avec Alec pour approfondir la vision d'entreprise et l'adéquation culturelle avec Audrey
+
+**Actions**
+- [ ] **Boris** : Coordonner avec Alec et proposer des dates de suivi avec Audrey (échéance 2026-10-30)
+
+**Risques & vigilances**
+- Calendrier contraint par l'expatriation d'Audrey à Dubaï (départ sous 20 jours)
+- Vérifier l'adéquation culturelle et la cohérence avec l'équipe existante (expérience négative passée mentionnée)
+- Sécurité et qualité des connecteurs IA / données à valider avant intégration complète
+- Profil senior et opérationnel : s'assurer de l'alignement avec la culture d'exécution rapide de l'équipe actuelle
+
+**Projets liés** : [[Refonte verticale Data-IA-Tech-Ops]] · [[Pôle Tech & Ops interne — structuration]] · [[Cadence transverse & top 10 process]]
+
+Tags : #recrutement #ops #ia-automatisation #data #dubai #profil-senior
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

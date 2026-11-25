@@ -2,14 +2,46 @@
 type: call
 date: 2026-11-02
 source: sembly
-participants: ["ilarbi@ouinex.com", "boris@entrepreneurs.com"]
+participants: ["ilarbi@ouinex.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Ilies & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/11/2026 20:19).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Call de cadrage commercial pour un package marketing/lancement de token crypto. Discussions sur le modèle économique (retainer + 70% revenue share jugé lourd), proposition d'une phase initiale de 90 jours, arbitrages budget/KOLs, et coordination entre agences.
+
+**Décisions**
+- Phase initiale de structuration de 90 jours avant renégociation des conditions commerciales
+- Boris coordonnera l'ensemble des agences sur la roadmap projet
+- Alec pilote la stratégie et apporte ses connexions bancaires/trading suisses
+- Exploration d'un mix cash/tokens dans la rémunération (ex: 30k€ cash + tokens vs 45k€ cash)
+
+**Actions**
+- [ ] **Boris** : Fournir un budget marketing granulaire détaillé pour les 90 jours avec mapping poste par poste (échéance 2026-11-03)
+- [ ] **Boris** : Produire une proposition révisée clarifiant les deux packages (conseil/stratégie vs exécution) et les modalités retainer/revenue share (échéance 2026-11-03)
+- [ ] **Boris** : Clarifier la répartition des responsabilités avec l'autre agence marketing (tokenomics/technique) (échéance 2026-11-03)
+- [ ] **Ilies** : Fixer une date réaliste de listing du token pour aligner communication et lancement
+- [ ] **Boris** : Étudier en interne avec Alec la faisabilité d'un mix tokens/cash dans la rémunération (échéance 2026-11-03)
+
+**Risques & vigilances**
+- Modèle commercial (45k€ retainer + 70% revenue share) perçu comme trop lourd par le client
+- Manque de transparence dans l'attribution des revenus entre budget marketing client et apports agence
+- Coordination insuffisante entre agences comme vécu précédemment par le client
+- Risque de tactiques artificielles (KOLs payés pour acheter des tokens) si mauvais arbitrage qualité/coût
+- Report de la date de listing pourrait nuire à la crédibilité auprès de la communauté
+- Budget marketing élevé (200-400k€) non soutenable pour le client sans génération rapide de revenus
+
+Tags : #crypto #token-launch #kols #revenue-share #cadrage-commercial
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

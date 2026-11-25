@@ -2,14 +2,44 @@
 type: call
 date: 2026-11-12
 source: sembly
-participants: ["ebru.cengiz@cloudtalk.io", "louis.lebegue@cloudtalk.io", "boris@entrepreneurs.com", "theo.zuchowicki@cloudtalk.io", "rachid.oubih@entrepreneurs.com", "zina.hadji@entrepreneurs.com", "melyssa.decharme@entrepreneurs.com", "valentin.lhoste@entrepreneurs.com", "achilleaime.fouman@entrepreneurs.com", "benoit.latour@entrepreneurs.com", "maxime.leger@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com"]
+participants: ["ebru.cengiz@cloudtalk.io", "louis.lebegue@cloudtalk.io", "[[Boris Arduy]]", "theo.zuchowicki@cloudtalk.io", "rachid.oubih@entrepreneurs.com", "zina.hadji@entrepreneurs.com", "melyssa.decharme@entrepreneurs.com", "valentin.lhoste@entrepreneurs.com", "achilleaime.fouman@entrepreneurs.com", "benoit.latour@entrepreneurs.com", "maxime.leger@entrepreneurs.com", "lysaaicha.danpoulobaba@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # CloudTalk & Entrepreneurs Agent Training
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (13/11/2026 09:14).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Session de formation CloudTalk couvrant les réglages essentiels, la gestion d'appels et le diagnostic de problèmes. Les flux d'appels entrants ne sont pas configurés, bloquant la réception des appels pour l'équipe.
+
+**Décisions**
+- Rachid configure les flux d'appels entrants avant le transfert du compte à Théo
+- Déploiement progressif de CloudTalk aux autres équipes à partir de lundi
+- Inscription des numéros au service anti-spam après nettoyage des numéros signalés
+
+**Actions**
+- [ ] **Rachid** : Configurer les flux d'appels entrants pour tous les numéros (échéance 2026-11-12)
+- [ ] **Rachid** : Nettoyer les numéros CloudTalk et supprimer ceux marqués spam (échéance 2026-11-17)
+- [ ] **Rachid** : Inscrire les numéros conservés au service de prévention spam (échéance 2026-11-17)
+- [ ] **Théo** : Vérifier la responsabilité pour l'accompagnement appels parallèles et envoyer lien de réservation (échéance 2026-11-14)
+- [ ] **Rachid** : Démarrer l'utilisation des appels parallèles après nettoyage HubSpot (échéance 2026-11-18)
+- [ ] **Rachid** : Intégrer Alexandre et Caroline (équipe fidélisation) sur CloudTalk (échéance 2026-11-17)
+
+**Risques & vigilances**
+- Plusieurs numéros reçus sont déjà signalés comme spam, nécessitant un nettoyage avant inscription
+- Les agents peuvent rester en statut occupé s'ils ne cliquent pas sur Terminé, causant des appels manqués
+- Le forfait actuel ne couvre pas les appels vers les États-Unis, limitant les tests
+- L'intégration HubSpot doit être nettoyée avant d'activer les appels parallèles
+
+Tags : #cloudtalk #formation #telephonie #configuration #integration-hubspot
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

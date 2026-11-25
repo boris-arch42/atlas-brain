@@ -2,14 +2,56 @@
 type: call
 date: 2026-10-29
 source: sembly
-participants: ["boris@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Rachid & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (29/10/2026 15:33).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion de cadrage sur la fiabilité des données SDR et le tracking des bookings. Rachid et Boris ont acté un plan de standardisation des liens de prise de rendez-vous, l'assignation obligatoire des leads, et l'automatisation HubSpot/Hotspot pour restaurer la confiance dans les métriques SDR.
+
+**Décisions**
+- Bloquer les bookings tant que le SDR n'est pas assigné comme owner du lead
+- Générer automatiquement les liens de booking via règles HubSpot selon le funnel et l'owner du lead
+- Interdire l'utilisation de liens calendrier personnels (Calendly, etc.) non tracés
+- Implémenter un système d'alertes lorsque le lien de booking n'est pas renseigné
+- Utiliser un sandbox/tenant dupliqué pour tester les changements OpSpot avant production
+- Nettoyage du CRM : clôturer/archiver ~80 000 anciens leads de l'année précédente
+- Modèle standard validé : 1 contact = 1 personne, 1 lead par inscription, 1 deal par booking
+- Intégration directe des outils événementiels au CRM (fin des exports Excel manuels)
+
+**Actions**
+- [ ] **Rachid** : Préparer les métriques SDR vérifiées et recoupées pour la réunion de revue
+- [ ] **Rachid** : Consolider toutes les données SDR dans les dashboards Hotspot
+- [ ] **Rachid** : Fournir les chiffres vérifiés sur les appels et bookings pour la revue
+- [ ] **Boris** : Examiner les détails d'implémentation des dashboards OpsPod/Hotspot
+- [ ] **Boris** : Discuter la logique d'assignation owner SDR avec les équipes pour ne pas casser les dashboards existants
+- [ ] **Boris** : Créer une vidéo Loom expliquant où et comment définir les champs verrouillés/conditionnels
+- [ ] **Boris** : Poursuivre le nettoyage CRM progressif avec indicateurs visuels
+- [ ] **Wassim** : Continuer le travail avec le contact OpsSpot pour automatiser les flux et remplacer OneFlow
+- [ ] **Rachid** : Planifier une réunion avec Sabrina et Fabrice pour décider des données à conserver avant migration sandbox
+- [ ] **Marketing** : Connecter les outils d'événements directement au CRM pour création automatique des leads
+
+**Risques & vigilances**
+- Les données SDR actuelles sont peu fiables et compromettent la prise de décision
+- Rendez-vous créés en dehors du système (liens personnels) créent des trous d'attribution
+- Événements live génèrent des attributions SDR erronées via UTM
+- 80 000 anciens leads polluent la base active et créent de la confusion
+- Excès de champs dupliqués et propriétés dans le CRM
+- Coût élevé des automatisations pour mise à jour temps réel des présences événementielles
+- Risque de casser les dashboards existants lors de l'implémentation des nouveaux owner links
+
+Tags : #crm #tracking-sdr #hubspot #data-quality #booking-process
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

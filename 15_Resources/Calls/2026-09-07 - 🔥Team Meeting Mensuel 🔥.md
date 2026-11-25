@@ -2,14 +2,55 @@
 type: call
 date: 2026-09-07
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🔥Team Meeting Mensuel 🔥
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/09/2026 15:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Team meeting mensuel couvrant les lancements majeurs de septembre (application mobile, MCP, SDR Hub V3, communauté gratuite) et les changements organisationnels avec Fabrice nommé Directeur Revenue/Partenariats et Boris Directeur des Opérations. Préparation des immersions Marrakech et Abu Dhabi ainsi que du Core Team Building.
+
+**Décisions**
+- Fabrice nommé Directeur Revenue, Partenariats et Développement
+- Boris nommé Directeur des Opérations avec centralisation des sujets transverses
+- Lancement officiel de la communauté gratuite le 28 septembre avec live
+- Objectif de données SDR propres au 30 septembre pour analyse de performance
+- Déploiement du SDR Hub V3 avec scoring leads et flux first-come-first-serve
+- Validation de l'offre plateforme fidée avec contractualisation via OneFlow
+- Arrêt progressif des événements OP présentiel non rentables au profit de l'evergreen
+
+**Actions**
+- [ ] **Boris** : Centraliser les remontées de bugs application mobile depuis Slack et transmettre à Quentin
+- [ ] **Boris** : Finaliser les éléments contractuels OneFlow pour l'offre plateforme fidée
+- [ ] **Boris** : Coordonner l'audit et la correction du dashboard plateforme avec sources documentées (échéance 2026-10-01)
+- [ ] **Équipes** : Télécharger l'app mobile et laisser 5 étoiles sur l'App Store
+- [ ] **Équipes** : S'inscrire au MCP mcp.entrepreneurs.com et donner feedback
+- [ ] **SDR** : Fournir retours terrain structurés sur SDR Hub V3 pour affiner automatisation (échéance 2026-09-30)
+- [ ] **Tous** : Nettoyer les Google Drives personnels pour réduire les coûts de stockage (échéance 2026-09-14)
+- [ ] **Équipes** : Promouvoir activement l'épisode Secret d'entreprise avec invité de prestige
+- [ ] **Caroline** : Diffuser les supports offre fidée aux coachs dans la semaine (échéance 2026-09-14)
+- [ ] **Océane** : Organiser la captation live Marrakech veille Immersion pour lancement communauté (échéance 2026-09-27)
+
+**Risques & vigilances**
+- Dashboard plateforme affiche des données incohérentes (777 vs 769 clients, 807 vs 983 sessions) nécessitant audit urgent
+- Clap sous-utilisé avec ROI questionné et risque de perte de données CRM
+- Dépendance aux événements live encore forte malgré effort evergreen
+- Qualité moyenne des leads à 72% indique marge de progression méthodologique commerciale
+- Double report du lancement communauté à cause de complexité technique Zoom et IA
+
+**Projets liés** : [[Communauté gratuite ENT — lead magnet & réactivation base]] · [[Immersion]] · [[Soirée Ambassadeur invitation]] · [[Transition top management]]
+
+Tags : #team-meeting #reorganisation #lancement-produit #communaute-gratuite #sdr-hub #immersion
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

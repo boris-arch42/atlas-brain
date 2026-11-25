@@ -2,14 +2,39 @@
 type: call
 date: 2026-09-07
 source: sembly
-participants: ["boris@entrepreneurs.com", "stivel@consulting-sd.com"]
+participants: ["[[Boris Arduy]]", "stivel@consulting-sd.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Stivel & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/09/2026 17:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Call de débogage sur le tracking du quiz diagnostique : l'URL de la page résultats n'est pas correctement suivie. Solution court terme retenue : utiliser la page de réservation comme objectif de conversion ; à long terme, séparer quiz/résultats/réservation en pages distinctes.
+
+**Décisions**
+- Court terme : définir la page de réservation (rendez-vous) comme objectif de conversion pour le suivi des leads qualifiés
+- Long terme : standardiser l'architecture en séparant quiz, page de résultats et page de réservation en pages distinctes
+
+**Actions**
+- [ ] **Stivel** : Configurer le tracking avec la page de réservation comme conversion et mettre à jour les paramètres
+- [ ] **Stivel** : Publier une mise à jour dans le groupe équipe pour informer Charlotte ou Océane des changements de tracking
+- [ ] **Boris** : Revoir la structure du tunnel lors des prochains lancements pour implémenter la séparation des pages
+
+**Risques & vigilances**
+- Bug probable de la plateforme qui ne reflète pas les changements de pages dans l'URL/slug
+- L'ajout de pages supplémentaires dans le tunnel pourrait impacter négativement les taux de conversion en prise de rendez-vous
+- Le tracking actuel ne permet pas de distinguer les leads ayant complété le diagnostic de ceux ayant simplement opté-in
+
+Tags : #tracking #quiz-diagnostique #conversion #gtm #debugging
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

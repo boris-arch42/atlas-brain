@@ -2,14 +2,52 @@
 type: call
 date: 2026-11-03
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (03/11/2026 15:49).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue opérationnelle des chantiers de monétisation, rétention et automatisations plateforme. Focus sur le déploiement rapide de l'audit payant avant mi-novembre pour soutenir le lancement 5 jours du 22-26 novembre.
+
+**Décisions**
+- Lancement de l'invitation multi-licences collaborateurs via organigramme IA détecté (300 clients ciblés)
+- Finalisation audit payant pour commercialisation mi-novembre avant lancement 5 jours
+- Déploiement du scoring IA d'upsell basé sur les 90 derniers jours de coaching pour prioriser les renouvellements
+- Lancement test programme Moonshot beta en interne avant déploiement élargi
+
+**Actions**
+- [ ] **Quentin** : Vérifier les API pour finaliser les saisies financières et tableaux de bord (échéance 2026-11-05)
+- [ ] **Quentin** : Publier le contenu email monétisation multi-licences dans le board et lancer l'envoi (échéance 2026-11-08)
+- [ ] **Quentin** : Finaliser la maquette audit payant avec documents complémentaires de Sabrina (échéance 2026-11-15)
+- [ ] **Quentin** : Vérifier automatisations HubSpot/Make pour création transactions ventes de sièges (échéance 2026-11-06)
+- [ ] **Quentin** : Corriger problème clients manquants et emails non envoyés avec Léonard (échéance 2026-11-05)
+- [ ] **Boris** : Obtenir brief rétention/renouvellement d'Alexandre pour débloquer industrialisation flux (échéance 2026-11-06)
+- [ ] **Quentin** : Corriger éléments UI cassés sur interface renouvellements avant déploiement complet (échéance 2026-11-10)
+- [ ] **Quentin** : Préparer document ROI plateforme récapitulant l'année pour discussion avec Alec (échéance 2026-11-08)
+- [ ] **Quentin** : Recruter bêta-testeurs internes pour programme Moonshot agent (échéance 2026-11-10)
+- [ ] **Boris** : Relire document de Quentin et fournir retour pour décision (échéance 2026-11-07)
+
+**Risques & vigilances**
+- Brief rétention/renouvellement bloqué malgré plusieurs sollicitations, ralentit l'industrialisation du flux
+- Éléments UI cassés sur interface renouvellements limitent le déploiement opérationnel
+- Adoption faible de NotTaker/n-grams chez Heads et commerciaux limite la collecte de données et construction base de connaissances
+- ROI plateforme difficile à quantifier en raison de contributions indirectes (écosystème, gain temps, positionnement)
+- Incohérences transcription/tags détectées nécessitent investigation avec Alexandre
+- Sensibilité accès données : gestion rôles incomplète et incidents passés de routage/fuite
+- Tensions sur coûts développement et conditions équipe nécessitent décision stratégique rapide
+
+Tags : #monétisation #multi-licences #audit-payant #rétention #automatisation #moonshot-beta #plateforme
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

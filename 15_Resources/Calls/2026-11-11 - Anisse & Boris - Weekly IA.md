@@ -2,14 +2,43 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 14:12).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point hebdomadaire IA abordant les difficultés de collaboration avec Cédric sur les publicités et le tunnel de vente, le suivi opérationnel et les préoccupations sur la charge d'Élodie, ainsi que l'instabilité de plusieurs pôles (delivery, ventes, marketing) et les questions de rémunération.
+
+**Décisions**
+- Envisager une mission ponctuelle de 2-3 mois avec la consultante (800-1000€) plutôt qu'un engagement récurrent
+- Impliquer Jordan dans la réflexion sur la collaboration avec la consultante
+
+**Actions**
+- [ ] **Boris** : Remonter l'écart entre le rôle de Head of Coach reconnu pour Christelle et les missions réellement exercées
+- [ ] **Boris** : Transmettre la demande de Claire concernant les primes pour obtenir l'avis d'Anisse
+- [ ] **Boris** : Suivre l'avancement du recrutement commercial avec le chasseur de têtes
+
+**Risques & vigilances**
+- Perte de confiance d'Anisse dans la collaboration avec Cédric suite aux retards et désaccords sur le brief publicitaire
+- Frustration des collaboratrices face à la lenteur d'avancement du développement et aux comportements de collègues
+- Questionnement d'Alec sur l'engagement temps plein d'Anisse et doutes sur le code/conception de la base de données
+- Claire ne répond plus aux sollicitations, l'équipe se tourne vers Élodie qui absorbe une charge croissante sans rémunération dédiée
+- Instabilité importante sur les pôles delivery, ventes et marketing avec des affectations par défaut et manque de cohésion
+- Claire n'est pas au niveau attendu pour son poste selon Anisse, mais demande des primes
+- Recrutement commercial limité par les exigences sectorielles et les packages proposés
+
+Tags : #weekly-ia #coordination #recrutement #governance #remuneration
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

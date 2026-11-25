@@ -2,14 +2,40 @@
 type: call
 date: 2026-11-16
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "[[Jordan Leroux]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Projet Magellan
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/11/2026 19:05).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Alec présente le projet Magellan, une holding destinée à structurer les participations du groupe et intéresser l'équipe. Le recrutement d'un responsable juridique interne est envisagé pour réduire les coûts externes et accompagner la structuration.
+
+**Décisions**
+- Kick-off Magellan planifié autour du 30 novembre avec Boris
+- Lancement anticipé de la recherche d'un responsable juridique aux Émirats
+
+**Actions**
+- [ ] **Boris** : Préparer la fiche de poste du responsable juridique et la transmettre aux participants
+- [ ] **Alec** : Préparer la cartographie détaillée des sociétés et participations avec détails juridiques (échéance 2026-11-30)
+- [ ] **Boris** : Organiser le kick-off Magellan (échéance 2026-11-30)
+
+**Risques & vigilances**
+- Coût élevé des prestations juridiques externes (250-500K AED/an) sans internalisation
+- Choix de juridiction entre DIFC et ADGM à sécuriser avec conseils experts
+- Harmonisation complexe des promesses d'intéressement déjà faites sur différents projets
+- Dépendance aux experts externes pour certaines opérations certifiées malgré le recrutement interne
+
+Tags : #magellan #holding #structuration #recrutement-juridique #participations
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

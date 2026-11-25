@@ -2,14 +2,47 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["fabrice@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Fabrice Jaeger]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Point Ambassadeurs
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (21/09/2026 11:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point sur le programme ambassadeurs et la gestion des leads : nécessité de centraliser les données, segmenter par canal d'acquisition, connecter la plateforme ambassadeurs à HubSpot et nettoyer l'historique des leads. Objectif de livraison d'un dashboard global au 30 septembre.
+
+**Décisions**
+- Segmentation obligatoire des leads par canal (marketing, ambassadeurs, recommandations directes) avec scripts SDR dédiés
+- Remise à plat complète des accès plateforme ambassadeurs et connexion à HubSpot
+- Nettoyage de l'historique des 200+ leads avec catégorisation en buckets de relance
+- Livraison d'un tableau de bord leads global pour le 30 septembre
+
+**Actions**
+- [ ] **Fabrice** : Contacter les ambassadeurs historiques et créer les accès plateforme
+- [ ] **Fabrice** : Définir les segments de leads et rédiger les scripts SDR par canal
+- [ ] **Fabrice** : Nettoyer le fichier historique de 200+ leads et créer les buckets de relance
+- [ ] **Fabrice** : Définir les séquences de réengagement pour chaque bucket de leads
+- [ ] **Boris** : Coordonner avec Quentin l'intégration plateforme ambassadeurs vers HubSpot avec tag 'ambassador referral'
+- [ ] **Boris** : Auditer avec Quentin le tracking actuel et créer le signal 'ambassador event'
+- [ ] **Boris** : Relancer l'équipe data pour livraison du dashboard leads au 30 septembre (échéance 2026-09-30)
+- [ ] **Boris** : Informer Alec de l'avancement et de la deadline du 30 septembre
+
+**Risques & vigilances**
+- Perte d'attribution des leads ambassadeurs dans le tracking actuel (incomplet)
+- Nombreux ambassadeurs historiques sans accès à la nouvelle plateforme suite à la migration YouCan
+- Données de leads non centralisées empêchant des projections fiables
+- Volumes ambassadeurs faibles mais stratégiquement importants pour valider l'hypothèse du programme
+
+Tags : #ambassadeurs #leads #segmentation #hubspot #tracking #dashboard
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

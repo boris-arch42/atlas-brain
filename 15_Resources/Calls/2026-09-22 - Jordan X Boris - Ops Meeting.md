@@ -2,14 +2,50 @@
 type: call
 date: 2026-09-22
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Jordan X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/09/2026 16:26).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue opérationnelle couvrant la réduction des coûts marketing (outils, staffing, KPI), la résolution de blocages clients liés à Linpay/Odoo, et la préparation de la migration d'activité d'Ariès vers Horizon avec séparation comptable des coachs.
+
+**Décisions**
+- Mise en place d'un workflow de validation SaaS dans Works avec approbation manager obligatoire
+- Migration des activités vers Horizon en isolant les coachs et la facturation managériale chez Ariès pour réduction du risque fiscal
+- CGM aura accès HubSpot avec prise en charge des licences par CGM ou déduction sur commissions
+- Passage d'un indicateur ROAS à un ROS intégrant coûts humains et outils
+- Retrait de la règle d'intégration Whoop qui bloquait incorrectement les clients ayant payé par virement
+
+**Actions**
+- [ ] **Jordan** : Envoyer le détail complet des dépenses marketing (personnes, outils, responsabilités) avant lundi (échéance 2026-09-29)
+- [ ] **Jordan** : Partager le Gantt et le plan détaillé de migration Ariès → Horizon
+- [ ] **Jordan** : Revoir Mohamed pour présentation des maquettes dashboards (échéance 2026-09-23)
+- [ ] **Jordan** : Produire la liste des clients bloqués à tort pour déblocage
+- [ ] **Boris** : Reprogrammer les sujets en conflit suite à l'indisponibilité de Jordan lundi (échéance 2026-09-29)
+- [ ] **Boris** : Analyser le détail des dépenses marketing et identifier les optimisations (automatisation, internalisation)
+- [ ] **Anis** : Mettre en place le processus d'approbation SaaS dans Works
+
+**Risques & vigilances**
+- Coûts marketing très élevés (staffing + outils) avec performance insuffisante, nécessitant une restructuration profonde
+- Support InPay/Linpay très faible avec blocages clients et duplication des écritures Odoo/Pennylane
+- Migration Ariès → Horizon complexe : double comptabilité/paie en transition, nombreux connecteurs à rebrancher simultanément
+- Prolifération d'outils SaaS peu tracés créant une perte de visibilité et des coûts cachés
+- Réduction du temps de Cédric créant une pression sur l'organisation marketing
+
+**Projets liés** : [[Audit SaaS-IT — économies]] · [[Pôle Tech Ops - Modèle de coûts (juin-sept 2026)]]
+
+Tags : #reduction-couts #marketing #migration-horizon #saas-governance #linpay-odoo
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

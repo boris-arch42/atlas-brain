@@ -2,14 +2,48 @@
 type: call
 date: 2026-09-09
 source: sembly
-participants: ["rbibe.anisse@gmail.com", "anisse@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Anisse Rbibe]]", "[[Anisse Rbibe]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse et Boris : Coaching Mindset et Com
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (09/09/2026 10:03).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Session de coaching entre Anisse et Boris sur les dysfonctionnements de communication et de suivi opérationnel, notamment l'échec des relances SDR post-événement. Décision de mettre en place un système de checklists co-construites, de points de contrôle J-3/J-2/J-1, et de centraliser la visibilité dans un outil unique avec support PMO.
+
+**Décisions**
+- Mise en place de points de vérification obligatoires J-3/J-2/J-1 en direct avec partage d'écran pour chaque événement
+- Centralisation de tous les projets en cours dans une source de vérité unique
+- Co-construction systématique des checklists avec les contributeurs concernés
+- Recrutement d'un support PMO/VA (budget 400-2000$) pour le suivi quotidien
+- Adoption d'une cadence de contrôle : 1 session mensuelle d'1h + contrôles de 15-20min avant chaque événement
+- Collecte immédiate de tous les projets en cours auprès d'Alec et des responsables de pôles
+
+**Actions**
+- [ ] **Boris** : Collecter la liste complète des projets en cours auprès d'Alec et des responsables de pôles
+- [ ] **Boris** : Mettre en place le calendrier des points de contrôle courts (15min) avec les responsables
+- [ ] **Boris** : Identifier et contacter des pairs externes occupant des rôles opérations similaires pour sparring régulier
+- [ ] **Boris** : Lancer le recrutement d'un support PMO/VA avec budget 400-2000$ mensuel
+- [ ] **Boris** : Co-construire les checklists de vérification pour les prochains événements avec Sabrina et Fabrice
+- [ ] **Boris** : Planifier point de suivi avec Anisse dans quelques semaines pour mesurer les progrès
+- [ ] **Alec** : Lister tous les projets considérés comme en cours avec niveau de détail suffisant
+
+**Risques & vigilances**
+- Risque de relégation des améliorations structurelles lorsque l'urgence prend toute la place
+- Manque de référentiel opérationnel externe chez Entrepreneurs.com limite les modèles disponibles
+- Les checklists peuvent échouer si les parties prenantes ne les suivent pas effectivement
+- Volume de projets potentiellement trop élevé pour un suivi direct sans support PMO
+
+Tags : #coaching #processus-operationnels #leadership #communication #checklist #suivi-projets
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

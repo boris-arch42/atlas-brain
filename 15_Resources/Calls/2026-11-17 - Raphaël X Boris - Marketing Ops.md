@@ -2,14 +2,42 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Raphaël X Boris - Marketing Ops
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 16:23).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point sur la campagne Evergreen classique et Suisse : amélioration des KPIs (hausse de 50% des appels, baisse des no-shows), budget à passer de 1800 à 2000€/jour. Corrections apportées sur les formulaires suisses (CA obligatoire). Questionnements sur la capacité de montée en charge en Suisse vu la taille limitée de l'audience.
+
+**Décisions**
+- Le budget publicitaire Evergreen classique passe de 1 800 à 2 000€/jour avec nouvelles créations
+- Le champ chiffre d'affaires rendu obligatoire sur les formulaires de réservation suisses (en CHF)
+- Poursuite de la montée en charge suisse conditionnée à la rentabilité et capacité à convertir
+
+**Actions**
+- [ ] **Boris** : Vérifier auprès des équipes si la séquence de pré-appel pour la VSL a été intégrée
+- [ ] **Boris** : Vérifier le filtre sur la colonne CA pour repérer rapidement les réponses manquantes
+- [ ] **Raphaël** : Aborder les tensions Slack sur la VSL lors d'un échange prévu le lendemain (échéance 2026-11-18)
+
+**Risques & vigilances**
+- Environ 30% des prospects sous le seuil de CA visé sur les 7 derniers jours
+- Volume d'appels encore juste (50 sur 7 jours, projection 200/mois) pour atteindre la masse critique
+- Taille limitée de l'audience suisse : questionnement sur la durée de scalabilité de la campagne
+- Tensions dans les équipes dues à la pression continue et certains échanges Slack jugés hors sujet
+- Coûts potentiellement plus élevés en élargissant au-delà de l'audience immédiate suisse
+
+Tags : #evergreen #marketing-ops #vsl-suisse #campagne-publicitaire #montée-en-charge
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

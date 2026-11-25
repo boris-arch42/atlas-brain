@@ -2,14 +2,64 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["oceane@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "farah.rouassi@entrepreneurs.com", "claire@entrepreneurs.com", "mariehelene.tommasino@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "farah.rouassi@entrepreneurs.com", "[[Claire]]", "mariehelene.tommasino@entrepreneurs.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # KICKOFF IMMERSION SCALE / BOARD
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 11:11).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kickoff de préparation pour Scale 2027 (9-11 avril, objectif 1800-2000 participants) et immersion Board à Dubaï. Cadrage du format événementiel autour du thème SOS, création d'une offre commerciale dédiée, organisation logistique et budget à valider en priorité.
+
+**Décisions**
+- Scale 2027 aura lieu du 9 au 11 avril à Châteauform' Paris avec 3 niveaux de billets (Essentiel, Privilège, Élite)
+- Le thème retenu est 'SOS - Scale Operating System' avec fil rouge émotionnel
+- Une seule offre commerciale sera vendue pendant Scale (done for you, 15k€/6 mois ou 30k€/18 mois)
+- Pas d'alcool lors de la soirée de networking du vendredi
+- Pas de pauses café matin/après-midi, une longue pause déjeuner de 2h
+- Alec sera le seul de l'équipe à monter sur scène
+- Immersion Bordes : 3 jours complets, max 15 participants, dans les bureaux plutôt qu'en salle d'hôtel
+- Format soirée networking debout avec buffet copieux et scène centrale carrée
+
+**Actions**
+- [ ] **Boris** : Vérifier avec Jordan et Fabrice l'emplacement des documents budgétaires Scale 2025
+- [ ] **Jordan** : Finaliser le budget Scale 2027 en priorité avant signature contrat lieu
+- [ ] **Océane** : Coordonner avec Farah les dates de visite Châteauform' début janvier (échéance 2027-01-15)
+- [ ] **Farah** : Contacter Châteauform' avant la visite pour clarifier contraintes du lieu (échéance 2027-01-15)
+- [ ] **Océane** : Partager calendrier provisoire avec Marie-Hélène pour retravailler ensemble
+- [ ] **Boris** : Organiser un appel dédié avec équipes delivery/marketing/sales pour préciser et valider l'offre Scale
+- [ ] **Océane** : Développer le système de billetterie et contrôle des entrées sur la plateforme avec Quentin
+- [ ] **Océane** : Préparer un livret opérationnel complet pour équipes et bénévoles en amont
+- [ ] **Océane** : Étudier le coût de bracelets lumineux personnalisés pilotables
+- [ ] **Farah** : Étudier offre de restauration du lieu et possibilité food trucks avec précommande
+- [ ] **Claire** : Transmettre informations sur Finote (cocktails sans alcool) et chercher partenaires potentiels
+- [ ] **Sabrina** : Vérifier conflits avec fêtes juives pour Mathieu et Enzo concernant dates immersion Bordes
+- [ ] **Sabrina** : Contacter clients Board concernés pour bloquer dates immersion Bordes
+- [ ] **Boris** : Recontacter l'animateur de l'activité sportive précédente pour immersion
+
+**Risques & vigilances**
+- Budget Scale 2027 non encore disponible bloque les arbitrages techniques et animations
+- Risque de ne pas atteindre l'objectif de remplissage (21% actuel pour places incluses)
+- Taux de présence des inscrits gratuits incertain
+- Visibilité partenaires réduite par suppression des pauses café
+- Offre commerciale Scale pas encore formalisée ni validée en faisabilité
+- Supports de présentation : risque de répéter l'erreur 2025 (3000 slides refaites à J-7)
+- État des locaux Dubaï incertain pour accueillir immersion fin janvier
+- Service café et restauration insuffisants si non anticipés (file d'attente, machine cassée)
+- Brief équipes et bénévoles à faire très en amont pour éviter désorganisation 2025
+
+**Projets liés** : [[Immersion]]
+
+Tags : #scale-2027 #événementiel #immersion-board #offre-commerciale #logistique
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

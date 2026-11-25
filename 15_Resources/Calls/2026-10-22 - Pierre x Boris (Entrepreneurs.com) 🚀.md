@@ -2,14 +2,45 @@
 type: call
 date: 2026-10-22
 source: sembly
-participants: ["boris@entrepreneurs.com", "pierrenauts@gmail.com"]
+participants: ["[[Boris Arduy]]", "pierrenauts@gmail.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Pierre x Boris (Entrepreneurs.com) 🚀
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (22/10/2026 16:53).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue technique des automatisations marketing (email, WhatsApp, calendrier) avec Pierre pour corriger les connecteurs Instagram/YouTube défaillants et aligner les événements calendrier avec les bons modèles de messages. Mise en place d'une campagne de récupération des prospects perdus sur l'épisode 2 YouTube.
+
+**Décisions**
+- Chaque épisode YouTube nécessite sa propre landing page et son webhook Zapier dédié avec un tag spécifique (youtube_secret_X)
+- Tous les CTA du site (réservation/plan d'action) pointent vers le même calendrier pour éviter la fragmentation
+- Lancement d'une campagne de récupération pour les prospects manqués de l'épisode 2
+
+**Actions**
+- [ ] **Boris** : Reconnecter Instagram à ClosedMap en urgence (échéance 2026-10-23)
+- [ ] **Boris** : Vérifier et corriger les connexions Zapier/webhook pour les événements calendrier (échéance 2026-10-25)
+- [ ] **Boris** : Exporter la liste des prospects manqués (épisode 2) avec prénom et téléphone (échéance 2026-10-24)
+- [ ] **Boris** : Définir le message d'ouverture et le rythme d'envoi pour la campagne de récupération (échéance 2026-10-24)
+- [ ] **Boris** : Dupliquer/mettre à jour les Zaps pour les prochains épisodes YouTube (échéance 2026-10-28)
+- [ ] **Sun** : Créer une nouvelle landing page par épisode YouTube avec webhook fonctionnel
+- [ ] **Pierre** : Lancer la campagne de récupération dès réception de la liste exportée
+
+**Risques & vigilances**
+- Noms d'événements dupliqués ou similaires créent un risque de confusion et de déclenchement incorrect des modèles
+- Instagram déconnecté = perte continue de prospects tant que non reconnecté
+- Chaque nouvel épisode YouTube risque de perdre des prospects si le workflow webhook n'est pas préparé en amont
+- La campagne de récupération peut saturer les prospects si le rythme d'envoi n'est pas calibré
+
+Tags : #automatisation #marketing-automation #zapier #youtube #instagram #recuperation-prospects
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

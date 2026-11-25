@@ -2,14 +2,48 @@
 type: call
 date: 2026-09-02
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Jordan X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (02/09/2026 14:24).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue opérationnelle recouvrement et finance : onboarding de 2 agents offshore, structuration du monitoring des appels et des scripts, lancement d'un projet de dashboard trésorerie automatisé avec agrégation bancaire, et conception d'un tableau de bord commissions en temps réel basé sur les ID DealUpSpot.
+
+**Décisions**
+- Jordan passe superviseur Aircall pour accéder aux enregistrements et coacher l'équipe recouvrement
+- Mohamed pilotera la recherche d'une solution d'agrégation bancaire multi-comptes
+- Le DealUpSpot ID devient l'identifiant persistant de référence pour toutes les questions commissions et facturation
+- Modèle de compte partagé Claude Team pour centraliser les coûts IA et réduire la dépendance individuelle
+
+**Actions**
+- [ ] **Jordan** : Produire un histogramme mensuel des encaissements (ventes du mois / mois antérieurs / recouvrement) pour septembre (échéance 2026-09-30)
+- [ ] **Jordan** : Rédiger le cahier des charges et maquette visuelle du dashboard commissions temps réel
+- [ ] **Mohamed** : Chercher une solution d'agrégation bancaire compatible avec IBANFirst, Wayo, ADCB et catégorisation automatique
+- [ ] **Boris** : Rechercher dans son réseau des experts ou mentors recouvrement pour audit et transfert de compétences
+- [ ] **Jordan** : Cartographier les raisons d'impayés et identifier la part liée au produit vs processus paiement
+- [ ] **Jordan** : Débloquer la reconnexion Inpay comme priorité immédiate (échéance 2026-09-15)
+
+**Risques & vigilances**
+- Concentration de la connaissance des automatisations IA chez Jordan, risque de perte si départ ou indisponibilité
+- Manque de données fiables (DSO, rapports Inpay) empêche d'évaluer l'efficacité réelle du recouvrement
+- Coûts cachés importants (remboursements, reprises, temps support) liés aux promesses commerciales excessives
+- Jordan isolé opérationnellement, sans relais de confiance pour déléguer les tâches de bout en bout
+- Certaines banques (Émirats) non couvertes par les connecteurs standards, risque de solution hybride complexe
+
+**Projets liés** : [[Trésorerie & Finance]]
+
+Tags : #recouvrement #dashboard-commissions #agrégation-bancaire #onboarding-agents #dealupspot-id
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

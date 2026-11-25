@@ -2,14 +2,48 @@
 type: call
 date: 2026-10-30
 source: sembly
-participants: ["boris@entrepreneurs.com", "aman.verma@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "aman.verma@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Weekly catchup with Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (30/10/2026 11:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement sur la refonte HubSpot, l'automatisation des leads et le Data Dashboard. Décision de recruter un designer UX/UI contractuel et de clarifier les priorités avec les parties prenantes.
+
+**Décisions**
+- Éviter l'export manuel en masse des rapports HubSpot pour l'instant et réévaluer le périmètre
+- Recruter un designer UX/UI contractuel (Inde) pour le dashboard au forfait (400-500$)
+- Nouveau processus de facturation : toutes les factures passent par Aman avant validation finance
+- Création d'un nouveau contrat pour Aman en tant qu'Ops Project Manager
+- Utilisation de Confluence autorisée pour la documentation interne
+
+**Actions**
+- [ ] **Boris** : Organiser un appel avec Sabrina, Rachid et Aman pour clarifier le périmètre et les priorités HubSpot
+- [ ] **Boris** : Créer un nouveau contrat pour Aman en tant qu'Ops Project Manager
+- [ ] **Aman** : Recruter un designer UX/UI contractuel pour la refonte du Data Dashboard (échéance 2026-12-31)
+- [ ] **Aman** : Documenter le nouveau processus de facturation sur le wiki
+- [ ] **Prakhar** : Finaliser les tâches restantes sur l'automatisation des leads et regrouper les fichiers SDR
+- [ ] **Pearly** : Produire les rapports du dashboard après restructuration des données d'automatisation (échéance 2026-11-15)
+- [ ] **Boris** : Partager l'explication Loom sur l'utilisation de Confluence
+- [ ] **Jordan** : Valider le connecteur MCP pour requêtes base de données via Claude/ChatGPT
+
+**Risques & vigilances**
+- Périmètre de la refonte HubSpot trop vaste sans alignement clair sur les priorités réelles
+- Risque d'effort manuel important si export en masse des rapports HubSpot nécessaire
+- Dépendance à la restructuration des données d'automatisation pour le reporting (délai 10-15 jours)
+- Jalon Data Dashboard fin d'année ambitieux et dépendant du recrutement rapide du designer contractuel
+
+Tags : #hubspot #data-dashboard #automatisation-leads #recrutement-designer #facturation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

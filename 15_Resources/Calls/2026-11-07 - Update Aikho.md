@@ -2,14 +2,58 @@
 type: call
 date: 2026-11-07
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "arnaud@aikho.ai", "julien@aikho.ai"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "arnaud@aikho.ai", "julien@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Update Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/11/2026 14:48).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement produit Aikho couvrant le nouvel onboarding, la stratégie go-to-market (landing pages, cold mailing, qualification), la migration du site public, l'Agentic CSM, et la préparation de la masterclass mercredi avec démonstration séparée du module recrutement Entrepreneur puis Aikho.
+
+**Décisions**
+- Privilégier landing pages orientées réservation de démo plutôt qu'inscription brute, avec tests A/B
+- Migrer le site Nova vers Aiko V2 pour consolider le branding, en conservant l'intégration Google Jobs
+- Boris hébergera les landing pages sur un sous-domaine, avec redirection vers ICO pour préserver le tracking UTM
+- Toutes les nouvelles offres d'emploi sont routées vers la plateforme B2
+- Format masterclass mercredi : d'abord module Entrepreneur actuel, puis Aikho avec call-to-action final
+- Prioriser X plutôt que LinkedIn pour le feedback produit et la construction de communauté tech
+- Lancer l'Agentic CSM uniquement après validation de la version stable par Julien
+
+**Actions**
+- [ ] **Boris** : Créer variantes de landing pages pour tests A/B (réserver démo vs s'inscrire)
+- [ ] **Boris** : Migrer les offres d'emploi vers la plateforme B2 et informer les équipes
+- [ ] **Boris** : Préparer les écrans de démo séparés pour la masterclass mercredi et informer Alec du format (échéance 2026-11-12)
+- [ ] **Boris** : Extraire et partager les contacts iClose pour relance (5 inscrits prioritaires)
+- [ ] **Boris** : Revoir les statistiques détaillées du post LinkedIn avec le responsable communication
+- [ ] **Julien** : Remplacer le site Nova par le site Aiko V2 sur getnova.aiko.ai
+- [ ] **Julien** : Ajuster l'instruction multi-sélection dans le questionnaire d'onboarding pour plus de visibilité
+- [ ] **Julien** : Corriger l'animation d'écoute de la mascotte jugée étrange
+- [ ] **Julien** : Finaliser et valider l'Agentic CSM avant activation à grande échelle
+- [ ] **Arnaud** : Appeler les contacts iClose (deux tentatives), puis relancer par WhatsApp si nécessaire
+- [ ] **Arnaud** : Contacter les clients ayant scanné le QR code pour expliquer Aiko et onboarder
+
+**Risques & vigilances**
+- Risque de goulot d'étranglement si le volume de démos augmente au-delà de la capacité actuelle d'Arnaud
+- Questions de qualification floues (ex: 'quelques-uns') peuvent mal segmenter les prospects selon les paliers tarifaires
+- Dépendance excessive à l'audience d'Alec pour l'amplification crée un risque de valorisation et de continuité
+- Intégration native Aikho dans module Entrepreneur nécessite un travail technique important et une réflexion stratégique approfondie
+- Migration du site risque de perdre le trafic organique Google Jobs si mal exécutée
+- Activation de l'Agentic CSM sans validation préalable pourrait générer de mauvais résultats à grande échelle
+- Numéro de téléphone optionnel/obligatoire à l'inscription : équilibrer friction vs efficacité de relance
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #aikho #onboarding #go-to-market #agentic-csm #masterclass
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

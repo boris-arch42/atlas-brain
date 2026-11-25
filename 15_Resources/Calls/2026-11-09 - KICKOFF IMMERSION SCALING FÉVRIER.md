@@ -2,14 +2,61 @@
 type: call
 date: 2026-11-09
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "farah.rouassi@entrepreneurs.com", "claire@entrepreneurs.com", "anisse@entrepreneurs.com", "mariehelene.tommasino@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "farah.rouassi@entrepreneurs.com", "[[Claire]]", "[[Anisse Rbibe]]", "mariehelene.tommasino@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # KICKOFF IMMERSION SCALING FÉVRIER 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (09/11/2026 10:49).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Kickoff opérationnel de l'immersion Scaling de février à Dubaï : répartition des rôles (Océane=communication, Marie-Hélène=pédagogie, Sabrina=vente/plateforme, Farah=hôtel), lancement immédiat des campagnes d'inscription et création des landing pages avec liens de paiement automatisés. Urgence sur la négociation d'un bloc hôtelier flexible et le nettoyage des listes de participants.
+
+**Décisions**
+- Lancement ce soir de l'événement Immersion Scaling sur la plateforme et activation des campagnes dès demain
+- Modèle hôtelier privilégié : bloc de 20-30 chambres avec libération progressive et paiement à l'avance
+- Marie-Hélène pilote la pédagogie avec validation précoce par Alex pour éviter les retouches tardives
+- Délais fermes imposés pour la création de contenu afin de limiter les allers-retours
+- Soirée networking dès J1 avec invités externes gratuits et présence commerciale, sans facturation d'entrée
+- Jordan intégré à tous les groupes pour budgéter et calculer le coût par client
+- Quota de 30-40 places à paramétrer au niveau ticketing pour éviter la survente
+
+**Actions**
+- [ ] **Sabrina** : Lancer l'événement Immersion Scaling sur la plateforme ce soir et activer les campagnes email/SMS/push demain (échéance 2026-11-10)
+- [ ] **Sabrina** : Nettoyer la liste des participants (retirer clients inactifs) et clarifier les besoins en chambres pour les duos (échéance 2026-11-13)
+- [ ] **Sabrina** : Recréer les liens de paiement avec les bons tarifs après les kick-offs (échéance 2026-11-09)
+- [ ] **Farah** : Négocier avec l'hôtel un bloc flexible de 20-30 chambres avec libération progressive (échéance 2026-11-15)
+- [ ] **Boris** : Restaurer le template Monday.com et l'importer dans Works (échéance 2026-11-11)
+- [ ] **Boris** : Vérifier avec Quentin la possibilité d'ajouter un parcours d'achat de chambre sur la plateforme (échéance 2026-11-12)
+- [ ] **Boris** : Vérifier avec Fabrice/Anis/Nicole si les anciens devis fournisseurs et lignes de coût ont été partagés (échéance 2026-11-11)
+- [ ] **Boris** : Mettre en place l'automatisation Hotspot pour génération des contacts/transactions depuis les landing pages (échéance 2026-11-15)
+- [ ] **Boris** : Préparer et envoyer les invitations à partir des visuels (échéance 2026-11-10)
+- [ ] **Océane** : Partager le PDF et le dossier photo à Raphaël pour création de la landing page (échéance 2026-11-09)
+- [ ] **Marie-Hélène** : Revoir les anciennes slides d'immersion et proposer les thèmes liés aux enjeux actuels du marché (échéance 2026-11-18)
+- [ ] **Fabrice** : Prospection commerciale rapide auprès des anciens clients avec la landing page (échéance 2026-11-15)
+- [ ] **Quentin** : Ajouter ou configurer un parcours d'achat de chambre ou lien de réservation sur la plateforme (échéance 2026-11-15)
+
+**Risques & vigilances**
+- Taux de confirmation historiquement faible (10% sans relances téléphoniques) nécessite des campagnes d'appels intensives
+- Marché Dubaï plus risqué que Marrakech : coût de déplacement élevé et demande incertaine
+- Confusion répétée sur les tarifs et liens de paiement suite à écrasement de produits existants
+- Capacité de la plateforme limitée pour l'ajout de chambres supplémentaires
+- Risque de surcapacité si le quota n'est pas paramétré correctement au niveau ticketing
+- Délais de création de contenu pédagogique serrés avec risque de retouches tardives si validation Alex trop tardive
+- Segment board immersion petit avec prise de contact urgente nécessaire
+- Visibilité Farah sur la plateforme client pas encore établie
+
+**Projets liés** : [[Immersion]]
+
+Tags : #immersion-scaling #dubai #kickoff-operationnel #landing-page #bloc-hotelier
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

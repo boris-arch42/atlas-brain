@@ -2,14 +2,46 @@
 type: call
 date: 2026-09-10
 source: sembly
-participants: ["pierrenauts@gmail.com", "boris@entrepreneurs.com"]
+participants: ["pierrenauts@gmail.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Zapier CloseMate x Entrepreneurs
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/09/2026 11:51).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Mise en place d'une intégration Zapier entre la landing page YouTube et CloseMate pour automatiser la création et mise à jour des contacts avec tags appropriés. Configuration des webhooks, mapping des champs (téléphone, nom, tag 'youtube') et tests à réaliser avant déploiement.
+
+**Décisions**
+- Utiliser Zapier pour connecter la landing page 'Secrets d'entreprise' à CloseMate
+- Mapper systématiquement les champs téléphone, nom et tag 'youtube' pour les leads YouTube
+- Pas d'intégration prévue pour Instagram à ce stade
+
+**Actions**
+- [ ] **Pierre** : Envoyer le lien Zapier/CloseMate pour activer l'intégration
+- [ ] **Pierre** : Générer et partager la clé API CloseMate pour l'authentification Zapier
+- [ ] **Pierre** : Envoyer l'invitation d'accès CloseMate à Boris (user ID 252)
+- [ ] **Pierre** : Confirmer les champs personnalisés obligatoires à transférer vers CloseMate
+- [ ] **Boris** : Configurer le webhook de la landing page YouTube comme déclencheur Zapier
+- [ ] **Boris** : Configurer l'action 'create/update contact' dans Zapier avec connexion CloseMate
+- [ ] **Boris** : Mapper les champs contacts (téléphone, nom) et appliquer le tag 'youtube'
+- [ ] **Boris** : Réaliser les tests de remontée des données dans CloseMate
+- [ ] **Boris** : Donner accès à Pierre aux applications CloseMate pour vérification des mappages
+
+**Risques & vigilances**
+- La génération de la clé API CloseMate peut prendre du temps ou se bloquer
+- Variabilité possible dans l'identifiant utilisé par l'outil (email vs autre clé)
+- Des champs personnalisés peuvent apparaître et nécessiter une décision d'intégration
+
+Tags : #zapier #closemate #automatisation #integration #landing-page-youtube
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

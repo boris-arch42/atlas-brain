@@ -2,14 +2,53 @@
 type: call
 date: 2026-09-01
 source: sembly
-participants: ["boris@entrepreneurs.com", "mohamed@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Mohamed]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Mohamed X Boris - Cybersecurity
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (01/09/2026 12:13).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel sur la gestion du stockage Google Drive (dépassements massifs, nettoyage avant migration licences), la cybersécurité (email suspect Riot, sensibilisation équipe) et le suivi prioritaire du projet Shade avec points quotidiens.
+
+**Décisions**
+- Migration vers licences Google de base prévue pour le 20 septembre après nettoyage Drive obligatoire
+- Quota de 5 Go sera appliqué avec blocage email pour les comptes non conformes
+- Points quotidiens obligatoires sur Shade jusqu'à clôture du projet
+- Demande de devis Google pour optimiser les licences (base + quelques Business pour sites distants)
+- Publication de l'email suspect et procédure cybersécurité sur Slack général
+
+**Actions**
+- [ ] **Mohamed** : Publier l'email Riot suspect et présentation CyberCQ sur Slack général avec même texte et image (échéance 2026-09-01)
+- [ ] **Mohamed** : Envoyer points quotidiens sur Shade chaque soir (récapitulatif réponses et prochaines actions)
+- [ ] **Boris** : Vérifier que la publication cybersécurité a été faite sur Slack (échéance 2026-09-01)
+- [ ] **Boris** : Escalader auprès des utilisateurs non réactifs (Grégoire, Samuel) si pas de réponse en fin de journée (échéance 2026-09-01)
+- [ ] **Équipe stockage** : Partager liste complète des comptes au-dessus de 5 Go pour rappels quotidiens (échéance 2026-09-02)
+- [ ] **Équipe stockage** : Demander devis Google pour licences de base et Business par site (échéance 2026-12-15)
+- [ ] **Équipe** : Identifier et réduire les fichiers lourds sur Framer (508 Go dépassés, cible 400 Go) (échéance 2026-09-10)
+- [ ] **Équipe** : Vérifier disponibilité numéros Aircall anciens utilisateurs avant réaffectation
+- [ ] **Équipe** : Contacter nouveaux prospects (Amevi, Maxime Zidol, Geraud) introduits par Léa (échéance 2026-09-05)
+
+**Risques & vigilances**
+- 80 To de stockage concentrés sur 5 comptes (Grégoire 51 To, Samuel 21 To) : risque opérationnel si pas de nettoyage avant le 20/09
+- Certains comptes continuent d'augmenter leur usage au lieu de diminuer malgré les relances
+- Utilisateurs clés (Grégoire, Samuel) non réactifs aux relances répétées : risque de blocage du projet
+- Comptes archivés et personnes parties (Clémentine) avec données non transférées
+- Problème récurrent d'OTP Zoom sur adresse email partagée : besoin de clarifier les accès
+- Hausse brutale du stockage Framer de 1 Go à 508 Go en 2 mois : cause non identifiée (fichiers 3D ?)
+
+**Projets liés** : [[Sprint Cybersec & phishing]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #stockage-google-drive #cybersécurité #optimisation-licences #suivi-shade #framer-dépassement
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

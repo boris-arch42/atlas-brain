@@ -2,14 +2,38 @@
 type: call
 date: 2026-11-10
 source: sembly
-participants: ["oceane@entrepreneurs.com", "boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "farah.rouassi@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Océane De Queiros]]", "[[Boris Arduy]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "farah.rouassi@entrepreneurs.com", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # KICKOFF SCALE 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (10/11/2026 09:44).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion de kick-off SCALE reportée en raison de l'absence d'urgence d'Océane qui détient les informations clés du briefing avec Alec. Le groupe convient de scinder la réunion du lendemain en deux sessions courtes pour traiter séparément les points essentiels et les sujets nécessitant les retours d'Océane.
+
+**Décisions**
+- Reporter les points détaillés du board jusqu'à disponibilité des retours d'Océane
+- Diviser la réunion du 11/11 en deux sessions : 30 min de board pour points essentiels + session ultérieure pour le reste
+
+**Actions**
+- [ ] **Océane** : Partager les informations du briefing détaillé avec Alec nécessaires au kick-off
+- [ ] **Farah** : Participer davantage aux événements clients et rencontres organisées à Dubaï
+- [ ] **Farah** : Assister à l'événement politique avec David Linnard à Dubaï (échéance 2026-11-11)
+
+**Risques & vigilances**
+- Dépendance critique aux informations détenues par Océane pour avancer sur le kick-off SCALE
+- Perte d'efficacité si les réunions ne sont pas correctement séquencées en l'absence d'informations complètes
+
+Tags : #kickoff #scale #dubai #reseautage #board
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

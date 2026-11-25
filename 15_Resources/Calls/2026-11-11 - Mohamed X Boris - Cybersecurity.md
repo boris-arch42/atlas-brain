@@ -2,14 +2,46 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["boris@entrepreneurs.com", "mohamed@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Mohamed]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Mohamed X Boris - Cybersecurity
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 16:42).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point cybersécurité et gestion des accès : suivi de l'audit 42 Labs révélant des failles importantes, inventaire des outils et licences en cours, bugs plateforme à corriger en priorité.
+
+**Décisions**
+- Vérifier avec Sabrina les comptes Google à supprimer avant d'acheter de nouvelles licences pour le challenge novembre
+- La plateforme de Boris reste prioritaire malgré les corrections validées
+- Création d'un onglet dédié dans l'application RH pour tracer les demandes d'outils et faciliter la révocation des accès
+
+**Actions**
+- [ ] **Mohamed** : Contacter Google pour demander une formule de paiement à l'usage des licences sur 1-2 mois
+- [ ] **Mohamed** : Préparer premier inventaire des outils avec responsables et personnes ayant accès
+- [ ] **Boris** : Voir avec Tonton pour correction des bugs restants sur la plateforme
+- [ ] **Boris** : Vérifier avec Sabrina quels comptes Google existants peuvent être supprimés
+- [ ] **Mohamed** : Examiner si Google permet de soumettre création de comptes à autorisation administrative et notification
+- [ ] **Mohamed** : Attendre retour de Jordan sur plateforme Finance
+
+**Risques & vigilances**
+- Audit 42 Labs révèle des failles exploitables facilement sur la plateforme, usage excessif de code IA sans compréhension suffisante
+- Demandes de comptes hors processus (Rachid via WhatsApp) contournent les contrôles
+- Reprise politique complexe de la plateforme de Boris par l'équipe
+- Bugs plateforme non corrigés malgré la priorité
+
+**Projets liés** : [[Sprint Cybersec & phishing]]
+
+Tags : #cybersécurité #gestion-accès #audit-sécurité #licences-google #inventaire-outils
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,55 @@
 type: call
 date: 2026-09-07
 source: sembly
-participants: ["boris@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "lccr.pro@gmail.com", "lucas.cureau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "alexandre.gauthier@entrepreneurs.com", "lccr.pro@gmail.com", "lucas.cureau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Ressources SDR
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (07/09/2026 18:56).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue de la distribution inégale des leads pendant le challenge et lancement d'un projet de refonte complète : reconstruction des dashboards avec KPIs fiables, création d'un parcours d'onboarding SDR automatisé dans le LMS (modules, vidéos Loom, quiz, validation pratique), et correction de multiples bugs opérationnels bloquants dans le SDR Hub.
+
+**Décisions**
+- Reconstruire les dashboards avec une shortlist d'environ 10 KPIs essentiels de closing
+- Créer un onboarding SDR automatisé sur 10 jours avec modules, quiz de validation (seuil 80-90%), vidéos Loom et roleplay final
+- Filtrer les candidats par quiz avant coaching live pour économiser le temps senior
+- Fournir 30 leads froids réels pendant la période d'évaluation pour mesurer les performances concrètes
+- Viser un démarrage de l'onboarding mercredi avec les premiers candidats
+- En cas d'agenda plein, le setter confirme un créneau provisoire et notifie le head of sales pour libération proactive
+
+**Actions**
+- [ ] **Lucas** : Envoyer à Boris la liste des KPIs de closing recommandés (revenu par closer, R1/R2, métriques par type d'événement) (échéance 2026-09-08)
+- [ ] **Boris** : Reconstruire les dashboards de closing avec les KPIs reçus de Lucas (échéance 2026-09-09)
+- [ ] **Alexandre** : Produire les vidéos Loom, contenus écrits (ICP, culture, posture, qualification), quiz et workflow de roleplay pour l'onboarding SDR (échéance 2026-09-09)
+- [ ] **Alexandre** : Envoyer les plaquettes Incubateur, Accelerator et Scaling ainsi que les documents écrits à Boris (échéance 2026-09-08)
+- [ ] **Boris** : Créer les modules LMS avec quiz de validation (seuil 80-90%) et déblocage séquentiel (échéance 2026-09-09)
+- [ ] **Boris** : Intégrer deux leads froids dans le module final pratique du LMS (échéance 2026-09-09)
+- [ ] **Boris** : Corriger en priorité le bug de synchronisation du SDR Hub (listes de leads incohérentes entre utilisateurs) (échéance 2026-09-08)
+- [ ] **Boris** : Ajouter le bouton override manuel '10K' dans le SDR Hub (échéance 2026-09-09)
+- [ ] **Boris** : Corriger la perte de données du formulaire quand le prospect quitte l'appel (échéance 2026-09-09)
+- [ ] **Boris** : Corriger le linking des notes aux adresses e-mail des closers (échéance 2026-09-09)
+- [ ] **Lucas** : Prévenir les candidats déjà dans le pipe pour démarrage onboarding mercredi (échéance 2026-09-09)
+- [ ] **Alexandre** : Fournir le rapport complet avec tous les éléments d'onboarding (échéance 2026-09-08)
+
+**Risques & vigilances**
+- Absence de données fiables et de KPIs a entraîné des décisions sans fondement et une distribution inégale des leads
+- Multiples bugs opérationnels bloquants dans le SDR Hub (synchronisation, perte de données formulaire, conflits de planning, notes closers)
+- Friction et difficulté d'adaptation des SDR au nouveau hub
+- Créneau de test de 15 minutes jugé trop court pour une qualification correcte
+- Risque de ne pas tenir le démarrage mercredi si les bugs ne sont pas corrigés à temps
+- Pas de process de secours quand aucun créneau commercial n'est disponible malgré l'intérêt du prospect
+
+Tags : #sdr-hub #onboarding-automatise #dashboards-kpi #bugs-operationnels #challenge-leads
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,63 @@
 type: call
 date: 2026-10-31
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "arnaud@aikho.ai", "julien@aikho.ai"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "arnaud@aikho.ai", "julien@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Update Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (31/10/2026 18:32).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement Aikho : validation de la stratégie de génération de leads agressive avec landing pages dédiées par avatar, structuration du programme d'affiliation avec dashboard et tracking, préparation du masterclass Entrepreneurs (11-12 jours), production d'assets marketing (vidéos démo courtes, walkthroughs), et cadrage de la levée de fonds 200-500k€ prévue du 15 novembre au 20 décembre.
+
+**Décisions**
+- Lancer une génération de leads à haut volume (50-100 retours) avec landing pages dédiées par avatar pour identifier les segments à forte conversion
+- Prioriser le développement du dashboard affiliés avec suivi conversions, commissions et paiements pour réduire la charge administrative
+- Produire deux lignes d'assets distinctes : kit corporate long pour chasseurs de têtes et kit social court pour viralité
+- Positionner le masterclass Entrepreneurs comme pédagogique (non vente directe) pour montrer comment Aikho complète les processus de recrutement
+- Fixer le call de préparation levée de fonds au lundi 9 novembre à 14h CET avec liste cibles et montants
+- Recontacter plus tard les 75 inscrits sans besoin immédiat et prioriser ceux ayant un poste à pourvoir
+
+**Actions**
+- [ ] **Boris** : Faire le suivi avec Fabrice sur le message du 28 octobre pour finaliser structure masterclass et besoins techniques (échéance 2026-10-31)
+- [ ] **Boris** : Organiser cette semaine l'appel technique et créatif avec Julien, Quentin, Fabrice pour aligner les flux Eventia et masterclass (échéance 2026-11-07)
+- [ ] **Boris** : Créer le dossier partagé d'assets (brand guide, images, vidéos, posts) pour affiliés et partenaires
+- [ ] **Boris** : Demander le dossier complet par lead des 75 inscriptions Marrakech avec blocages et raisons de non-conversion
+- [ ] **Alec** : Publier le post LinkedIn viral à partir de l'étude avec vidéo démo courte d'entretien IA (échéance 2026-11-08)
+- [ ] **Alec** : Envoyer à Julien la liste des intitulés de poste et contextes entreprise pour structurer les entretiens de démo (échéance 2026-11-01)
+- [ ] **Alec** : Fournir la vidéo complète d'entretien et pistes audio sélectionnées pour montage clips courts (échéance 2026-11-08)
+- [ ] **Alec** : Coordonner avec Océane le timing de publication des clips sociaux
+- [ ] **Alec** : Consolider les engagements investisseurs (Oussama, Armin, David Gurley, Eric Hafner, Sacha Murray) et préparer liste cibles priorisée pour le call du 9/11 (échéance 2026-11-09)
+- [ ] **Julien** : Créer le lien affilié dédié pour Alec (Alec Henry ou Alec-LKN) pour tracking LinkedIn (échéance 2026-11-01)
+- [ ] **Julien** : Créer la landing page LinkedIn dédiée à Alec avec UTM tracking et interface en français (échéance 2026-11-01)
+- [ ] **Julien** : Développer le dashboard affilié avec conversions, commissions et paiements (quelques heures) (échéance 2026-11-08)
+- [ ] **Julien** : Produire les vidéos Loom walkthroughs onboarding pour chasseurs et clients (échéance 2026-11-08)
+- [ ] **Julien** : Produire une courte vidéo démo montrant un entretien humain-IA avec effet temps réel (échéance 2026-11-08)
+- [ ] **Julien** : Partager le lien de production du nouvel avatar 3D pour feedback de l'équipe (échéance 2026-11-01)
+- [ ] **Julien** : Fournir l'artefact expliquant la structure d'entretien IA pour les démos métiers techniques (échéance 2026-11-02)
+- [ ] **Julien** : Fermer les écarts de conformité DeepSeek pour posture propre (release prévue demain) (échéance 2026-11-01)
+- [ ] **Julien** : Faire le suivi avec le prestataire de paiement WOP sur les frais de transaction et réductions possibles
+- [ ] **Arnaud** : Envoyer l'invitation pour le call de préparation levée de fonds lundi 9 novembre à 14h CET (échéance 2026-11-09)
+
+**Risques & vigilances**
+- Risque de surcharge d'Arnaud si le volume d'appels augmente sans automatisation ni qualification
+- Risque technique : l'intégration masterclass Entrepreneurs peut prendre plus de temps que prévu (11-12 jours), nécessite confirmation immédiate et plan de repli
+- Conversion modeste attendue malgré le gros volume d'inscriptions Eventia (35k-50k), l'équipe doit calibrer les attentes
+- Migration Dubai Holdings (1M€ ARR) délicate en raison des contraintes de conformité enterprise et POC, risque de perte du client
+- Attrition élevée observée sur les 75 inscriptions précédentes : débat non tranché entre mauvaise qualification leads vs frictions produit/onboarding
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #aikho #levee-de-fonds #affiliation #masterclass-entrepreneurs #generation-leads
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

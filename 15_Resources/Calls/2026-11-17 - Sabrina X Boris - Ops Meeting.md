@@ -2,14 +2,53 @@
 type: call
 date: 2026-11-17
 source: sembly
-participants: ["boris@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Sabrina X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (17/11/2026 14:52).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel sur la fidélisation client et les ventes Scale 2027. Constat d'absence totale d'appels via CloudTalk par Caroline et Alexandre malgré les licences, manque de suivi des actions de relance, et nécessité d'activer massivement la base de 2400+ clients sortis/sortants.
+
+**Décisions**
+- Renommer le calendrier en 'Fidélisation' et le relier au tableau de bord pour suivre les rendez-vous
+- Lancer immédiatement la campagne email aux anciens clients Scale avec landing page
+- Créer un lien HubSpot pour upsell Essentiel vers Privilège à 1000€ (plafonné à 48 upgrades)
+- Offboarding de Sami Wardi de l'équipe commerciale
+- Arrivée de deux nouveaux commerciaux : Adrien et Erwan avec gestion autonome de leur pipeline
+
+**Actions**
+- [ ] **Sabrina** : Demander dans le canal fidélisation la stratégie suivie et comment les clients sont contactés sans appels CloudTalk (échéance 2026-11-18)
+- [ ] **Sabrina** : Demander à Rachid le nombre d'appels quotidiens de Caroline et Alexandre (échéance 2026-11-18)
+- [ ] **Sabrina** : Envoyer à Quentin un Loom sur les éléments manquants dans HubSpot (échéance 2026-11-19)
+- [ ] **Sabrina** : Extraire les listes de clients sortis (1798) et sortants (600) et les transmettre à l'équipe (échéance 2026-11-19)
+- [ ] **Sabrina** : Demander à Alex le détail de son processus commercial et indicateurs (appels/jour) (échéance 2026-11-18)
+- [ ] **Sabrina** : Envoyer le courriel de relance aux anciens clients Scale le soir même (échéance 2026-11-17)
+- [ ] **Sabrina** : Vérifier avec Quentin que l'audit payant est prêt et parler du contrat à Jordan (échéance 2026-11-20)
+- [ ] **Boris** : Renommer le calendrier en 'Fidélisation' et le connecter au tableau de bord (échéance 2026-11-18)
+- [ ] **Boris** : Demander la création d'une automatisation HubSpot pour upsell Essentiel→Privilège avec plafond 48 (échéance 2026-11-19)
+- [ ] **Boris** : Écrire à Mohamed pour réaliser l'offboarding de Sami Wardi dans Word (échéance 2026-11-18)
+- [ ] **Boris** : Supprimer l'ancien projet Scale 2027 dans Works pour éviter la confusion (échéance 2026-11-18)
+
+**Risques & vigilances**
+- Caroline et Alexandre n'utilisent pas CloudTalk malgré les licences, aucun appel tracé depuis leur attribution
+- Absence totale de suivi fiable des actions de fidélisation (appels, invitations, RDV)
+- Équipe commerciale loin de l'objectif de 700 appels/semaine nécessaire pour atteindre 150k€ de CA
+- 75% des places Scale 2027 restent à vendre (taux de remplissage 24%) avec financement de la salle à prévoir
+- Pipeline commercial non tenu à jour par les vendeurs, annulations et absences aux RDV
+- 2400+ clients (sortis + sortants + non traités) inexploités faute de stratégie de relance claire
+
+Tags : #fidelisation #scale-2027 #suivi-commercial #cloudtalk #upsell
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

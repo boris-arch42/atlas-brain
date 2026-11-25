@@ -2,14 +2,50 @@
 type: call
 date: 2026-09-23
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "alexandre.gauthier@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Review Datas SDR
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (23/09/2026 15:10).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Review de la performance SDR de septembre : découverte que la métrique de no-show était surestimée (agrégait plusieurs statuts), le taux réel est de 18-30% vs 50% annoncés. Les vrais enjeux restent le closing rate (7% vs objectif 15%) et le cash encaissé (14,7% vs >20%). Décision de restructurer le suivi par silos dédiés et d'ajouter des métriques speed-to-lead et call-to-sale.
+
+**Décisions**
+- Séparer les statuts no-show, ghost, not-qualified et annulations dans les dashboards
+- Structurer l'activité SDR en silos dédiés (Evergreen, callbacks Challenge, réengagement, pipeline général)
+- Ajouter les métriques lead-to-call et call-to-sale par funnel pour guider les décisions de scale
+- Power Dialer opérationnel dès maintenant, formation des SDR à prévoir
+- Onboarding du nouveau SDR Victor le 1er octobre, objectif d'une squad de 10-12 personnes
+
+**Actions**
+- [ ] **Boris** : Extraire le volume de leads par funnel pour calculer les taux de conversion normalisés
+- [ ] **Boris** : Produire la répartition des deals signés vs encaissés par commercial
+- [ ] **Boris** : Mesurer le speed-to-lead en heures ouvrées par funnel
+- [ ] **Boris** : Intégrer la vidéo d'onboarding manquante envoyée par Alexandre dans le LMS
+- [ ] **Alexandre** : Vérifier le tagging des funnels pour les 11 signatures de septembre
+- [ ] **Alexandre** : Analyser les différences de scripts et processus entre Evergreen et Challenge/5D
+- [ ] **Alexandre** : Finaliser la vidéo d'onboarding manquante et l'envoyer à Boris (échéance 2026-09-30)
+- [ ] **Alexandre** : Préparer l'onboarding de Victor pour le 1er octobre avec Mohamed (échéance 2026-10-01)
+- [ ] **Alec** : Rejoindre le travail squad SDR dès disponibilité
+
+**Risques & vigilances**
+- Anciennes données du hub SDR faussent les moyennes et les analyses (backlog historique)
+- Risque de double comptage des annulations dans les dashboards
+- Délai call-to-sale long pourrait dégrader la trésorerie si scale trop rapide
+- Perte de candidats SDR pendant les retards d'onboarding (acceptent d'autres missions)
+- Données historiques insuffisantes pour conclure sur les différences Evergreen vs Challenge
+
+Tags : #sdr #conversion #metrics #power-dialer #onboarding #speed-to-lead
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

@@ -2,14 +2,58 @@
 type: call
 date: 2026-11-11
 source: sembly
-participants: ["alec.henry@entrepreneurs.com", "boris@entrepreneurs.com", "cedric@entrepreneurs.com", "fabrice@entrepreneurs.com", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com"]
+participants: ["[[Alec Henry]]", "[[Boris Arduy]]", "[[Cédric De Saint Jean]]", "[[Fabrice Jaeger]]", "rachid.oubih@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "[[Sabrina Dahel]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Revenue Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (11/11/2026 15:42).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Revue des performances commerciales de novembre montrant un retard important (104 ventes pour 15% du plan au 11/11) avec baisse du panier moyen et des leads evergreen. Priorisation de l'accélération VSL, préparation du lancement prévu dans 10 jours avec ~25k inscrits attendus, et fiabilisation urgente des données HubSpot/iClose.
+
+**Décisions**
+- Concentration des budgets publicitaires sur la VSL, réduction du quiz, maintien du funnel book en complément
+- Objectif de 300-350 RDV dans le mois avec cible de 4 R1 qualifiés/jour pour Walid dès son retour le 16/11
+- Budget publicitaire augmenté progressivement de 700€/jour à 1000€/jour, objectif 2000€/jour semaine suivante
+- Tournage de créations publicitaires ciblant entrepreneurs investis prévu le 19 novembre (1h-1h30, matin)
+- Lancement des appels SDR automatisés avec OpsSpot prévu lundi ou mardi prochain, test initial sur 2-3 appels simultanés
+- État des lieux de l'immersion Board avec Fabrice d'ici fin novembre pour décider du maintien
+- Délai maximum de 3-4 jours entre réservation et R1 pour le lancement
+- Offre d'onboarding payant (900-1500€) validée mais réservée aux profils scaling/Accelerator, pas pour le 5-Day
+
+**Actions**
+- [ ] **Sabrina** : Organiser point dédié avec Boris et Rachid sur harmonisation données iClose/HubSpot (échéance 2026-11-12)
+- [ ] **Raphaël** : Vérifier créneau tournage créations publicitaires avec Samuel pour le 19 novembre matin (échéance 2026-11-14)
+- [ ] **Rachid** : Finaliser OpsSpot avec Boris pour lancement appels automatisés lundi/mardi (échéance 2026-11-14)
+- [ ] **Sabrina** : Envoyer email de validation inscription lancement puis SMS après vérification listes sans doublons (échéance 2026-11-12)
+- [ ] **Sabrina** : Envoyer à Alec les liens de vente immersions Scaling Dubai et Board (échéance 2026-11-13)
+- [ ] **Sabrina** : Créer page de vente immersion Board malgré lieu non finalisé (échéance 2026-11-15)
+- [ ] **Sabrina** : Partager liste prospects relancés avec dates de suivi (échéance 2026-11-15)
+- [ ] **Fabrice** : État des lieux ventes immersion Board avec Alec pour décision maintien (échéance 2026-11-30)
+- [ ] **Boris** : Nettoyage workflows et lignes de produits HubSpot avec harmonisation libellés et menus déroulants
+- [ ] **Sabrina** : Organiser 3-3h30 coaching/jour équipes commerciales à partir de la semaine prochaine (échéance 2026-11-18)
+- [ ] **Sabrina** : Finaliser livret d'accueil pour prospects débutants (échéance 2026-11-21)
+
+**Risques & vigilances**
+- Chiffres novembre très en retard (15% du plan à 37% du mois écoulé), objectif 700k€ compromis
+- Dépendance excessive au recouvrement et mensualités (>70% des encaissements) signalant production de valeur insuffisante
+- Incohérences de données entre iClose, HubSpot et cockpit créant confusion et mauvais pilotage
+- Délai de conversion VSL de 21 jours : RDV pris après le 10 décembre convertiront en janvier
+- Base clients Board limitée et certains préfèrent acheter plusieurs places Scaling Dubai, risque d'annulation immersion
+- Révision inscrits lancement de 30k à 25k suite découverte compte publicitaire non connecté
+- CPL réel à 7,50€ vs 4,50€ prévu impacte rentabilité acquisition
+- Écart entre enthousiasme clients en personne et faible engagement lors de sollicitations commerciales
+
+Tags : #revenue-meeting #performance-commerciale #vsl #lancement-novembre #fiabilisation-données
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

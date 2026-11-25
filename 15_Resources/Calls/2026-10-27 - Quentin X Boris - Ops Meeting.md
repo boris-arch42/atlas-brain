@@ -2,14 +2,54 @@
 type: call
 date: 2026-10-27
 source: sembly
-participants: ["boris@entrepreneurs.com", "42lab@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Quentin]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Quentin X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (27/10/2026 16:07).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point d'avancement ops centré sur le lancement public du produit WAP/Scale (multilicence, flux HubSpot-factures, onboarding) avec un objectif de 10k€ CA. Alerte prioritaire sur la dégradation du traitement Zendesk (~100 tickets non traités depuis 2-3 semaines) nécessitant une réattribution immédiate.
+
+**Décisions**
+- Objectif de chiffre d'affaires initial fixé à 10 k€ pour valider la viabilité du produit WAP
+- Mise en place d'un flux automatisé Scale → HubSpot pour création transaction et génération facture
+- Migration infrastructure coaching terminée : assets cloud désormais sur Cloudflare R2/Ngram
+- Repousser le chantier MCP après le roadmap actuel, cible janvier-février, avec validation budgétaire Jordan
+- Lancement bêta Moonshot en interne puis clients sélectionnés avant version publique
+
+**Actions**
+- [ ] **Quentin** : Envoyer document multilicence avec captures d'écran (30-40 vues) pour relecture (échéance 2026-10-29)
+- [ ] **Quentin** : Mettre en production la fonctionnalité multilicence (échéance 2026-10-31)
+- [ ] **Quentin** : Implémenter le flux HubSpot transaction/facture avec Boris et Jordan
+- [ ] **Boris** : Vérifier domaine, pixels et CGV/CGU avant le lancement public
+- [ ] **Boris** : Clarifier responsabilités et niveaux d'engagement support/Zendesk avec Caroline et équipe (échéance 2026-10-28)
+- [ ] **Boris** : Réattribuer ownership traitement tickets Zendesk et restaurer workflow Zendesk-vers-Slack (échéance 2026-10-28)
+- [ ] **Boris** : Coordonner parties prenantes et publier mises à jour monétisation plateforme
+- [ ] **Boris** : Fournir gabarit d'audit structuré aux commerciaux pour restitution standardisée
+- [ ] **Jordan** : Analyser coût/bénéfice migration Shade vers cold storage Cloudflare R2
+- [ ] **Jordan** : Cadrer budget et coût développement MCP avec Léonard avant validation
+
+**Risques & vigilances**
+- Backlog critique : ~100-110 tickets Zendesk non traités depuis 2-3 semaines, dégradation de l'expérience client
+- Désalignement sur tickets/places inclus dans contrats WAP, risque d'incidents de dernière minute au lancement
+- Confusion sur les attentes de rôle support (ex: Caroline 10h/semaine) contribue à laisser tickets sans réponse
+- Perturbations d'effectif (départs possibles Tessie et Lorraine, recrutements infructueux) impactent ownership support
+- Dépendance à réussite commerciale externe pour revenus indirects (upsell et Copilot)
+- Stratégie de monétisation et positioning Moonshot non encore définis malgré fin R&D proche
+
+**Projets liés** : [[Cadence transverse & top 10 process]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #ops-meeting #lancement-wap #support-zendesk #moonshot-beta #optimisation-couts
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

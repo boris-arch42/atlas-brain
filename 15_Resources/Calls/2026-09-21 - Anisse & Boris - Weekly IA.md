@@ -2,14 +2,31 @@
 type: call
 date: 2026-09-21
 source: sembly
-participants: ["boris@entrepreneurs.com", "anisse@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "[[Anisse Rbibe]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Anisse & Boris - Weekly IA
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (21/09/2026 09:40).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point de suivi hebdomadaire IA entre Boris et Anisse pour organiser une réunion de suivi. Créneau convenu pour demain matin 10:00 heure de Dubaï, avec 10:30 comme alternative.
+
+**Décisions**
+- Réunion de suivi planifiée demain matin à 10:00 heure de Dubaï (alternative 10:30)
+
+**Actions**
+- [ ] **Boris** : Participer à la réunion de suivi (échéance 2026-09-22)
+
+Tags : #weekly #suivi-ia #logistique #dubai
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

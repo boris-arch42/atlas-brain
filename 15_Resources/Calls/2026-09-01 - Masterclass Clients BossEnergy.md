@@ -2,14 +2,44 @@
 type: call
 date: 2026-09-01
 source: sembly
-participants: ["abderrahim@entrepreneurs.com", "alec@entrepreneurs.com", "customer@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Abdel El Mahi]]", "[[Alec Henry]]", "customer@entrepreneurs.com", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Masterclass Clients BossEnergy
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (01/09/2026 17:47).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Masterclass clients BossEnergy animée par Alec et Abdel, centrée sur l'accompagnement opérationnel de plusieurs entrepreneurs : landing pages, lead magnets, tunnels de conversion, automatisation SEO et structuration commerciale. Sessions de Q&R individuelles avec plans d'action concrets (Alicia : test lead magnet + domaine + Brevo ; Véronique : refonte site systeme.io + optimisation tunnel ; Dina : CRM + relances automatisées).
+
+**Décisions**
+- Alicia lance un test publicitaire d'une semaine sur son lead magnet pour mesurer la conversion
+- Véronique simplifie son lien bio Instagram à un seul CTA prioritaire et installe Hotjar/ODJar
+- Dina structure son CRM avec déclencheurs de relance adaptés aux cycles de vente institutionnels (3-6 mois)
+- Stack technique recommandé : domaine OVH/Hostinger, hébergement Netlify pour statique, Supabase pour persistance données
+- Automatisation éditoriale SEO : génération brouillons via Claude + validation humaine avant publication
+- Prix de 2 900 € pour le programme premium 6 mois d'Alicia validé comme cohérent
+
+**Actions**
+- [ ] **Alec** : Partager l'extension Chrome ODJar (Hotjar gratuit) avec les participants pour analyse comportementale
+- [ ] **Abdel** : Fournir contacts intégrateurs systeme.io pour refonte Véronique (HTML vers blocs)
+
+**Risques & vigilances**
+- Génération de trafic régulier vers les lead magnets reste le défi post-lancement
+- Cycles de vente longs (3-6 mois) pour clients institutionnels nécessitent cadences de nurturing excellentes sous peine de perte d'opportunités
+- Sites sur Netlify peuvent compliquer automatisations futures nécessitant API (vs WordPress/systeme.io)
+- Risque de contenu IA détectable si absence de validation humaine dans workflow éditorial automatisé
+- Liens bio multi-étapes (Linktree) créent friction et ralentissement desktop, réduisant conversions
+
+Tags : #masterclass #lead-magnet #tunnel-conversion #automatisation-seo #crm-relance
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

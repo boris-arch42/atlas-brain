@@ -2,14 +2,59 @@
 type: call
 date: 2026-11-16
 source: sembly
-participants: ["42lab@entrepreneurs.com", "alec.henry@entrepreneurs.com", "oceane@entrepreneurs.com", "sabrina.dahel@entrepreneurs.com", "fabrice@entrepreneurs.com", "anisse@entrepreneurs.com", "cedric@entrepreneurs.com", "boris@entrepreneurs.com", "jordan@entrepreneurs.com", "claire@entrepreneurs.com", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
+participants: ["[[Quentin]]", "[[Alec Henry]]", "[[Océane De Queiros]]", "[[Sabrina Dahel]]", "[[Fabrice Jaeger]]", "[[Anisse Rbibe]]", "[[Cédric De Saint Jean]]", "[[Boris Arduy]]", "[[Jordan Leroux]]", "[[Claire]]", "raphael.dalleau@entrepreneurs.com", "alexandre.gauthier@entrepreneurs.com", "rachid.oubih@entrepreneurs.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # 🧠 Core Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (16/11/2026 12:48).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Réunion Core axée sur les leviers de novembre : à mi-mois, 153k€ réalisés sur 700k€ objectif. Priorités sur volume d'appels, lancement Sommet IA (16k inscrits à 8,30€/lead), structuration masterclasses IA, centralisation CRM fidélisation et mobilisation SDR (7 opérationnels).
+
+**Décisions**
+- Planifier 4 masterclasses IA sur 8-12 semaines, alignées sur les promesses du Sommet IA
+- Centraliser les données de fidélisation dans HubSpot pour faciliter l'accès des SDR
+- Prioriser les clients en fin d'accompagnement ou récemment sortis pour la FIDE
+- Produire des vidéos courtes de formation Cloud Code avant lundi
+- Réactiver les leads no-show et mal qualifiés en priorisant les CA élevés
+- Contact personnalisé des inscrits webinaire par 2 SDR avant l'événement
+- Décision TVA challenge reportée à mercredi matin
+
+**Actions**
+- [ ] **Cédric** : Transmettre brief masterclasses IA à Marie-Hélène en collaboration avec Claire, définir 4 sujets et promesses claires
+- [ ] **Alec** : Produire vidéos formation Cloud Code (Loom) pendant le week-end (échéance 2026-11-18)
+- [ ] **Raphaël** : Estimer dépenses publicitaires VSA prochaines semaines avec marge 10-15% et communiquer à Jordan
+- [ ] **Rachid** : Évaluer avec Sabrina capacité SDR à gérer appels Sommet IA avant webinaire (échéance 2026-11-16)
+- [ ] **Océane** : Transmettre nom vente Instagram suspecte à Boris pour vérification suivi UTM
+- [ ] **Boris** : Débloquer avec Quentin le plafond SMS (100$ vers 178$) pour campagne anciens clients
+- [ ] **Boris** : Vérifier immédiatement après l'appel l'envoi email segmenté anciens clients (échéance 2026-11-16)
+- [ ] **Rachid** : Faire rappeler inscrits webinaire par 2 SDR avec historique communications (échéance 2026-11-17)
+- [ ] **Rachid** : Viser 120k€ CA généré par SDR d'ici fin novembre (échéance 2026-11-30)
+- [ ] **Océane** : Optimiser conversion page vidéo (49/80 leads, 1 seul RDV) et publier documentaire Suisse dimanche (échéance 2026-11-23)
+
+**Risques & vigilances**
+- Objectif 700k€ novembre compromis : seulement 153k€ à mi-mois (22%), 550k€ restants avec 105 appels prévus insuffisants
+- Baisse structurelle des revenus récurrents depuis 6 mois non compensée, 500 ventes mensuelles jugées irréalistes
+- Décalage potentiel entre promesse Sommet IA et contenu disponible post-achat risque de décevoir clients
+- Panier moyen FIDE à 4069€ vs objectif 6000€ (hors immersions : 7000€)
+- Qualification leads FIDE manuelle avec pertes de suivi possibles
+- No-shows Sommet IA (16%) et annulations (9%) pourraient refroidir prospects débutants
+- Email segmenté anciens clients VanScale non confirmé envoyé, problème bloquant identifié
+- Incertitude TVA challenge : +20% prix pourrait impacter sensibilité prospects
+- Semaine de retard génération RDV = 250k€ manque à gagner selon Alec
+
+**Projets liés** : [[Cadence transverse & top 10 process]]
+
+Tags : #core-meeting #objectifs-novembre #sommet-ia #masterclasses-ia #fidelisation #sdr #previsions-commerciales
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

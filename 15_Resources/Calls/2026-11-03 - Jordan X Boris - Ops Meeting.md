@@ -2,14 +2,58 @@
 type: call
 date: 2026-11-03
 source: sembly
-participants: ["jordan@entrepreneurs.com", "boris@entrepreneurs.com"]
+participants: ["[[Jordan Leroux]]", "[[Boris Arduy]]"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-20
 ---
 
 # Jordan X Boris - Ops Meeting
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (03/11/2026 15:19).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 20/11/2026 10:48 — corrige librement hors des marqueurs.
+
+**Résumé** — Point opérationnel couvrant l'automatisation des commissions et du dashboard financier, les frictions managériales liées au style d'Alec, le repositionnement potentiel vers un rôle head of sales/revenue, et la préparation administrative du déménagement de Boris à Dubaï (contrat, visa, Emirates ID).
+
+**Décisions**
+- Politique de commission octobre clarifiée : 10% sur CA d'octobre uniquement, sans rétroactivité
+- Crash test du processus de facturation des coach deliveries prévu à 20h30
+- Boris continuera à facturer jusqu'en janvier puis basculera en résidence fiscale Dubaï
+- Contrat de travail UAE à initier en novembre pour permettre visa et Emirates ID avant départ 18 décembre
+
+**Actions**
+- [ ] **Jordan** : Confirmer avec Sabrina les montants de commission à verser pour octobre
+- [ ] **Jordan** : Corriger avec Mohamed la logique de matching des paiements vers les deals actifs
+- [ ] **Jordan** : Documenter les exceptions de deals historiques pré-avril et proposer plan de rapprochement
+- [ ] **Boris** : Relire le dashboard finance et valider le système de commission automatisé
+- [ ] **Boris** : Formaliser les procédures de récupération d'accès aux systèmes critiques
+- [ ] **Jordan** : Tenir à jour la liste détaillée des coûts fixes mensuels (600-650k€)
+- [ ] **Boris** : Définir avec Jordan et Alec les coupes budgétaires possibles en cas de baisse de revenus
+- [ ] **Claire** : Agréger toutes les factures d'octobre et expliquer le processus de contrôle actuel
+- [ ] **Jordan** : Réaliser crash test du rapprochement factures vs sessions à 20h30 et partager résultats (échéance 2026-11-03)
+- [ ] **Quentin** : Évaluer avec Léonard les possibilités d'automatisation du reporting factures après crash test
+- [ ] **Boris** : Soulever la question contractuelle du bonus pour fin d'année le 4 janvier (échéance 2027-01-04)
+- [ ] **Boris** : Consulter Simon Barallon (avocat fiscaliste) pour structurer contrats et changement de résidence
+- [ ] **Boris** : Obtenir contrat de travail UAE, visa et Emirates ID avant départ (échéance 2026-12-18)
+- [ ] **Boris** : Mener discussions de rétention avec membres d'équipe sous tension
+
+**Risques & vigilances**
+- Friction managériale : style d'Alec crée blocages opérationnels et baisse du moral d'équipe
+- Erreurs récurrentes de matching deals/paiements impactent calcul des commissions
+- Fragilité des dépendances opérationnelles (tokens, accès systèmes) mobilise temps leadership
+- Manque de clarté contractuelle sur bonus crée incertitude pour fin d'année
+- Doutes sur capacité opérationnelle réelle pour poste head of sales/revenue
+- Runway de 8 mois sous hypothèse prudente nécessite surveillance active
+- Contrôle des factures coach deliveries (200-220k€/mois) encore manuel et non centralisé
+
+**Projets liés** : [[NAS Dubaï — sortie Google]] · [[Pôle Tech & Ops interne — structuration]]
+
+Tags : #ops #finance #commission #management #dubai #facturation
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
