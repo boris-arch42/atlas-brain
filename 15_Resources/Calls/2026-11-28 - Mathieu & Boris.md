@@ -2,14 +2,42 @@
 type: call
 date: 2026-11-28
 source: sembly
-participants: ["boris@entrepreneurs.com"]
+participants: ["[[Boris Arduy]]", "Mathieu"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-28
 ---
 
 # Mathieu & Boris
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (28/11/2026 12:47).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 28/11/2026 12:52 — corrige librement hors des marqueurs.
+
+**Résumé** — Discussion sur l'intégration technique entre la plateforme de Mathieu et les outils internes (Ngram, HubSpot). Boris valide la faisabilité et convient d'automatiser la remontée des appels gagnés depuis HubSpot vers la plateforme de Mathieu, avec transmission des transcriptions Ngram.
+
+**Décisions**
+- HubSpot reste la source de référence pour les données commerciales et processus contrats
+- Flux de données unidirectionnel HubSpot → plateforme Mathieu pour limiter complexité et erreurs
+- Transmission des transcriptions Ngram vers plateforme Mathieu pour analyses automatisées
+- Automatisation de la remontée des appels gagnés depuis HubSpot
+
+**Actions**
+- [ ] **Mathieu** : Envoyer les spécifications de données, format et destination pour l'intégration API (échéance 2026-11-29)
+- [ ] **Boris** : Mobiliser les équipes pour mettre en place l'automatisation de remontée des appels gagnés après réception des specs (échéance 2026-11-30)
+- [ ] **Boris** : Examiner la possibilité d'accès API iClosed pour récupérer les introductions d'appels si nécessaire
+
+**Risques & vigilances**
+- Perte de données et manque de traçabilité dans les intégrations
+- Enjeux de sécurité dans la circulation des données
+- Complexité potentielle d'une synchronisation bidirectionnelle
+- Erreurs de traduction entre systèmes si mauvaise correspondance des champs
+
+Tags : #integration-api #hubspot #ngram #automatisation #plateforme-sales
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

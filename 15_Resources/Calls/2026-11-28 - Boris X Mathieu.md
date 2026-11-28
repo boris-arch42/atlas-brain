@@ -2,14 +2,40 @@
 type: call
 date: 2026-11-28
 source: sembly
-participants: ["boris@entrepreneurs.com", "lamissionstrategie@gmail.com"]
+participants: ["[[Boris Arduy]]", "lamissionstrategie@gmail.com"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-28
 ---
 
 # Boris X Mathieu 
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (28/11/2026 12:47).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 28/11/2026 12:52 — corrige librement hors des marqueurs.
+
+**Résumé** — Discussion sur l'intégration technique entre la plateforme d'analyse commerciale de Mathieu et les outils internes (Ngram, HubSpot). HubSpot restera la source de référence pour les données commerciales, Ngram enverra les transcriptions vers la plateforme de Mathieu qui effectuera les analyses.
+
+**Décisions**
+- HubSpot reste la source de vérité pour les résultats commerciaux (gagné/perdu)
+- Les transcriptions Ngram seront transmises automatiquement vers la plateforme de Mathieu
+- Le flux de données ira de HubSpot vers la plateforme de Mathieu (et non l'inverse) pour éviter les risques de décalage
+
+**Actions**
+- [ ] **Mathieu** : Transmettre les spécifications de données (format et destination) pour l'intégration
+- [ ] **Boris** : Mobiliser l'équipe technique pour configurer l'envoi des transcriptions Ngram (échéance 2026-11-29)
+- [ ] **Boris** : Mettre en place l'envoi automatique des statuts gagné/perdu depuis HubSpot vers la plateforme de Mathieu (échéance 2026-11-29)
+
+**Risques & vigilances**
+- Risque de décalage et mauvaise traduction des champs si synchronisation bidirectionnelle
+- Dépendance critique à HubSpot qui déclenche les processus opérationnels (contrats, accès plateforme, facturation)
+- Friction ajoutée par la saisie manuelle des résultats commerciaux par les closers
+
+Tags : #integration-technique #hubspot #ngram #analyse-commerciale #automatisation-crm
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)

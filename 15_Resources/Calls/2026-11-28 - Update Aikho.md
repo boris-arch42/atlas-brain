@@ -2,14 +2,46 @@
 type: call
 date: 2026-11-28
 source: sembly
-participants: ["boris@entrepreneurs.com", "alec.henry@entrepreneurs.com", "arnaud@aikho.ai", "julien@aikho.ai"]
+participants: ["[[Boris Arduy]]", "[[Alec Henry]]", "arnaud@aikho.ai", "julien@aikho.ai"]
 sensitivity: confidential
 tags: [call, sembly]
+enrichi: true
+enrichi_le: 2026-11-28
 ---
 
 # Update Aikho
 
 > 📞 Call ingéré automatiquement par Jarvis depuis Sembly (28/11/2026 12:47).
+
+%% synthese:debut %%
+## 🧭 Synthèse Atlas
+> Générée par Jarvis le 28/11/2026 12:52 — corrige librement hors des marqueurs.
+
+**Résumé** — Call stratégique sur Aikho remettant en question l'approche commerciale actuelle : l'offre et le parcours ne sont pas adaptés aux PME, nécessitant deux propositions de valeur distinctes (SMB vs grands comptes). Boris prend en charge la refonte complète du parcours SMB avec une nouvelle proposition de valeur centrée sur l'accompagnement au recrutement.
+
+**Décisions**
+- Créer deux parcours clients distincts : un pour les SMB et un pour les grands comptes
+- Boris pilote la définition du nouveau parcours SMB (produit, valeur, prix, onboarding)
+- Ne pas investir en acquisition SMB tant que la proposition de valeur, le parcours et l'économie unitaire ne sont pas validés
+
+**Actions**
+- [ ] **Boris** : Définir le parcours SMB complet : site web, onboarding, proposition de valeur ICO, et modèle de prix adapté
+- [ ] **Boris** : Récupérer auprès de Jean-Marc l'état des lieux des capacités IA existantes pour construire l'offre SMB
+- [ ] **Boris** : Envoyer le replay de la réunion (échéance 2026-11-29)
+- [ ] **Boris** : Clarifier la stratégie d'exploitation du potentiel de distribution Entrepreneur (100K contacts)
+
+**Risques & vigilances**
+- Risque économique du modèle SMB : coûts de service vs revenus générés (ROI acquisition potentiellement >5-10 ans)
+- Dépendance potentielle à 2-3 grands comptes qui représenteraient l'essentiel du CA (fragilité valorisation)
+- Tensions d'équipe dues au manque d'alignement entre les efforts grands comptes et SMB
+- Le potentiel de distribution via la base Entrepreneur (100K contacts) reste inexploité
+- Délai trop long avant perception de valeur dans le parcours actuel (intégration mail, envoi, ouverture, entretiens)
+- Prix actuel (200-500$) inadapté aux besoins ponctuels des PME (1-2 recrutements/an)
+
+**Projets liés** : [[Mithril — SaaS recrutement IA]]
+
+Tags : #aikho #strategie-commerciale #segmentation-clients #smb-vs-grands-comptes #proposition-valeur
+%% synthese:fin %%
 
 %% notes:debut %%
 ## 📝 Notes (Sembly)
